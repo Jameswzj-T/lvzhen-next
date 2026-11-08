@@ -1,0 +1,122 @@
+.card {
+  margin: 1rem 0 1.5rem;
+  padding: 1.2rem 1.4rem;
+  background: #fff;
+  border: 1px solid #dbe3ef;
+  border-radius: 16px;
+  color: #253650;
+}
+.heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.heading h2 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+.heading > span,
+.summary,
+.next {
+  color: #5c6c84;
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+.summary {
+  margin: 0.65rem 0;
+}
+.questions {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.questions li {
+  border-top: 1px solid #edf0f5;
+}
+.questions li[data-current="true"] {
+  background: #f2f6fd;
+  border-radius: 8px;
+}
+.questions button,
+.questions a,
+.inactive {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  width: 100%;
+  padding: 0.8rem 0.5rem;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  text-decoration: none;
+  font: inherit;
+  box-sizing: border-box;
+}
+.questions button,
+.questions a {
+  cursor: pointer;
+}
+.questions button:disabled,
+.inactive {
+  opacity: 0.65;
+  cursor: default;
+}
+.questions button:focus-visible,
+.questions a:focus-visible {
+  outline: 2px solid #2d5cb1;
+  outline-offset: -2px;
+  border-radius: 8px;
+}
+.number {
+  color: #7a8ba4;
+  font-size: 0.85rem;
+}
+.subject {
+  flex: 1;
+  min-width: 0;
+}
+.subject strong {
+  display: block;
+  font-size: 0.92rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.subject small,
+.status small {
+  display: block;
+  margin-top: 0.2rem;
+  color: #6b7b93;
+  font-size: 0.78rem;
+}
+.status {
+  color: #486687;
+  font-size: 0.82rem;
+  text-align: right;
+}
+.status[data-status="needs_work"] {
+  color: #94631f;
+}
+.next {
+  margin: 0.7rem 0 0;
+}
+@media (max-width: 580px) {
+  .card {
+    padding: 1rem;
+  }
+  .questions button,
+  .questions a,
+  .inactive {
+    flex-wrap: wrap;
+    gap: 0.25rem 0.65rem;
+  }
+  .status {
+    flex-basis: 100%;
+    padding-left: 1.8rem;
+    text-align: left;
+  }
+  .heading > span {
+    font-size: 0.8rem;
+  }
+}

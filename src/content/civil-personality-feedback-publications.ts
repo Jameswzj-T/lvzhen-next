@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilPersonalityTeacherPublications: Record<string, string> = {
+  "civil-personality-name-false-endorsement-written":
+    "f92aa0640c32799e204a95b84b7878c94ed9617458ffaed0e756b517e08a5006",
+  "civil-personality-name-fake-official-company-written":
+    "2b13809a2b62ba502e5ba7f78fb03dda6d67e678a38ab8e2b391c59af680deaa",
+  "civil-personality-alias-known-writer-written":
+    "cd69167ddbc435a3d2b7aaf92f48e766da106612423f140458da0cd6cf408668",
+  "civil-personality-alias-common-nickname-written":
+    "f30e66b2359e72ce41a756d04eed889994dd618df8c98249e21290d97c6c219a",
+  "civil-personality-portrait-id-photo-ad-written":
+    "df7f54539f1af734b6de660e4ca1cb9a33a56522858a4f41d82cdfc75c2ade49",
+  "civil-personality-portrait-free-exhibition-written":
+    "9261a920b073bdde2012e887e2c9a70655b0f2aedf9eae3b4e746ff3d0cdeef7",
+  "civil-personality-portrait-news-drill-written":
+    "4a78efdab5b6997be1a4e771cac193b6a6f89e807eddbe3bc10c8a920562fc5b",
+  "civil-personality-portrait-news-to-ad-written":
+    "812fb780965653077b5e839d780a1ec4bb0dcb782c692ef837a0e8afd0af6339",
+  "civil-personality-reputation-invented-theft-written":
+    "7c3eee47198f4e3a71c1e9fb15169208a489dd4fcbe0d61a1c9ac7dad913ca58",
+  "civil-personality-reputation-accurate-supervision-written":
+    "e58d143f1ebf43566cadd8d151921c33ccd61d56ff9f4c19f5d4f94e90a0e869",
+  "civil-personality-reputation-unchecked-repost-written":
+    "a9053d1943c074676d1f3f5bf1bd693b459a8b58ae6898ced10a6362d59a3e5f",
+  "civil-personality-reputation-wrong-person-correction-written":
+    "ff8d55bedf39b30d5f2458c5601c709a786b59e7c0db119bd9a39ca7248ea294",
+  "civil-personality-privacy-home-camera-written":
+    "b2c34443091b5bdc3a7bdd44f87c1019b8cd7b06f2d4835353f414c778781881",
+  "civil-personality-privacy-report-shared-friend-written":
+    "f451559f541654ead80f103c79958e9a7d8ff4114f9d5dfa3085b2f8e0417dc3",
+  "civil-personality-information-public-phone-refusal-written":
+    "1cd366d0380aca09746e0cdfba2af7add74ebef3e04c30a131db7d65d200bb6d",
+  "civil-personality-information-optional-withdrawal-written":
+    "a46106774b6d0cfb87a832953b09a744fe021c320fd32e489339d52d874c043c",
+};

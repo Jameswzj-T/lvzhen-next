@@ -1,0 +1,20 @@
+{
+  "cases": [
+    "network",
+    "fire",
+    "warehouse",
+    "worksite-v2",
+    "debt",
+    "procurement-v2",
+    "procurement",
+    "contract-v2",
+    "contract",
+    "timeline",
+    "worksite"
+  ],
+  "archived": [
+    "worksite",
+    "contract",
+    "procurement"
+  ]
+}

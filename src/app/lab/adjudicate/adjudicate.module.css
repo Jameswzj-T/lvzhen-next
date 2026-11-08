@@ -1,0 +1,122 @@
+.page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 32px 16px 80px;
+  color: var(--ink, #e8eefc);
+}
+.intro {
+  color: #9fb0d0;
+  font-size: 14px;
+  line-height: 1.7;
+}
+.empty {
+  margin-top: 40px;
+  padding: 28px;
+  border: 1px dashed #33436b;
+  border-radius: 12px;
+  color: #9fb0d0;
+  text-align: center;
+}
+.review {
+  margin-top: 28px;
+  border: 1px solid #26365c;
+  border-radius: 14px;
+  overflow: hidden;
+}
+.reviewHead {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  align-items: baseline;
+  padding: 14px 16px;
+  background: #101a33;
+}
+.reviewHead h2 {
+  margin: 0;
+  font-size: 16px;
+}
+.reviewHead small {
+  color: #8ea0c4;
+}
+.reviewHead .bulk {
+  margin-left: auto;
+}
+.item {
+  padding: 14px 16px;
+  border-top: 1px solid #1d2b4d;
+}
+.itemHead {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.itemHead strong {
+  font-size: 13px;
+  color: #7fd1ff;
+}
+.badge {
+  font-size: 12px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  border: 1px solid #33436b;
+  color: #c6d4ef;
+}
+.badge[data-held="true"] {
+  border-color: #b98a2e;
+  color: #ffd479;
+}
+.badge[data-conflict="true"] {
+  border-color: #b04a3a;
+  color: #ff9d8a;
+}
+.requirement {
+  margin: 6px 0;
+  line-height: 1.65;
+}
+.quote {
+  margin: 4px 0;
+  padding-left: 10px;
+  border-left: 2px solid #33436b;
+  color: #b9c7e4;
+  font-size: 13px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+.reason {
+  margin: 6px 0;
+  color: #93a5c8;
+  font-size: 13px;
+  line-height: 1.6;
+}
+.actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+.actions button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid #33436b;
+  background: #16223f;
+  color: #dbe6fb;
+  font-size: 13px;
+  cursor: pointer;
+}
+.actions button:hover {
+  border-color: #4a5f93;
+}
+.actions button[data-primary="true"] {
+  background: #1f3a68;
+  border-color: #3f6bb0;
+}
+.actions button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.saved {
+  margin-top: 24px;
+  color: #79d6a4;
+  font-size: 13px;
+}

@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+.env*
+!.env.example
+artifacts/
+.playwright-mcp/
+.DS_Store
+model-keys.local.json
+.local-records/
+deploy/*.env

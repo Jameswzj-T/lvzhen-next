@@ -1,0 +1,96 @@
+.workspace {
+  max-width: 1010px;
+  margin: auto;
+  padding: 40px 28px 100px;
+}
+.intro h1 {
+  font-size: 34px;
+  line-height: 1.35;
+  margin: 8px 0 18px;
+}
+.eyebrow {
+  color: var(--muted);
+  font-size: 16px;
+}
+.primary,
+.next {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  border-radius: 8px;
+  padding: 10px 18px;
+  text-decoration: none;
+}
+.primary {
+  color: white;
+  background: var(--blue);
+  margin-top: 8px;
+}
+.next {
+  border: 1px solid var(--line);
+  margin-right: 12px;
+}
+.steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 28px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.steps a {
+  display: flex;
+  gap: 10px;
+  padding: 18px 12px;
+  min-height: 72px;
+  color: var(--ink);
+  text-decoration: none;
+}
+.steps a[aria-current="step"] {
+  background: var(--pale);
+  color: var(--blue);
+}
+.number {
+  font-size: 22px;
+  line-height: 1.55;
+}
+.steps strong,
+.outcome {
+  display: block;
+}
+.outcome {
+  font-size: 16px;
+  color: var(--muted);
+  line-height: 1.65;
+  margin-top: 4px;
+}
+.question {
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+.footer {
+  border-top: 1px solid var(--line);
+  margin-top: 32px;
+  padding-top: 24px;
+}
+@media (max-width: 700px) {
+  .workspace {
+    padding: 26px 20px 110px;
+  }
+  .intro h1 {
+    font-size: 29px;
+  }
+  .steps {
+    grid-template-columns: 1fr;
+  }
+  .steps a {
+    padding: 12px;
+    min-height: 64px;
+  }
+  .outcome {
+    margin-top: 0;
+  }
+  .footer a {
+    margin-bottom: 12px;
+  }
+}

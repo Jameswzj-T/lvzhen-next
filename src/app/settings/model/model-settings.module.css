@@ -1,0 +1,166 @@
+.main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+  color: #243654;
+}
+.back {
+  color: #637894;
+  text-decoration: none;
+  font-size: 14px;
+}
+.main header {
+  margin: 38px 0 28px;
+}
+.eyebrow {
+  color: #57729a;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+}
+.main h1 {
+  font-size: 32px;
+  letter-spacing: -0.02em;
+  margin: 12px 0;
+}
+.main p {
+  font-size: 15px;
+  line-height: 1.85;
+}
+.main h2 {
+  font-size: 18px;
+  margin: 0;
+}
+.card {
+  background: #fff;
+  border: 1px solid #dce4f0;
+  border-radius: 22px;
+  padding: 28px;
+  box-shadow: 0 8px 32px #1b365908;
+}
+.provider {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 26px;
+}
+.provider p {
+  color: #6c7f99;
+  margin: 5px 0 0;
+  font-size: 13px;
+}
+.badge,
+.ready {
+  font-size: 12px;
+  border-radius: 30px;
+  white-space: nowrap;
+  padding: 7px 11px;
+  background: #eef2f8;
+  color: #5c708e;
+}
+.ready {
+  background: #eaf0fb;
+  color: #315a92;
+}
+.main label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.main input {
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid #bdcce1;
+  background: #fafcff;
+  border-radius: 10px;
+  padding: 13px 14px;
+  font: inherit;
+  color: inherit;
+}
+.main input:focus-visible {
+  outline: 2px solid #315e9a;
+  outline-offset: 2px;
+}
+.actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+}
+.actions button {
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+  border: 0;
+  border-radius: 10px;
+  padding: 12px 19px;
+  background: #284e83;
+  color: white;
+}
+.actions button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.actions .secondary {
+  color: #526b8b;
+  background: #eef2f8;
+}
+.help {
+  color: #697d96;
+  font-size: 13px !important;
+  margin: 23px 0 0;
+}
+.main a {
+  color: #315e9a;
+}
+.message {
+  font-size: 14px !important;
+  margin: 20px 0 0;
+}
+.notes {
+  padding: 28px 5px 8px;
+  color: #657892;
+}
+.notes h2 {
+  color: #344e72;
+  font-size: 16px;
+}
+.notes p {
+  font-size: 13px;
+}
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin-top: 18px;
+  font-size: 14px;
+}
+.links a {
+  text-decoration: none;
+}
+@media (max-width: 520px) {
+  .main {
+    padding: 26px 19px 60px;
+  }
+  .main header {
+    margin-top: 29px;
+  }
+  .main h1 {
+    font-size: 28px;
+  }
+  .card {
+    padding: 22px 19px;
+  }
+  .provider {
+    align-items: flex-start;
+  }
+  .provider p {
+    max-width: 195px;
+  }
+  .badge,
+  .ready {
+    padding: 6px 9px;
+    font-size: 11px;
+  }
+}

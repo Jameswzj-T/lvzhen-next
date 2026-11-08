@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilGiftLoanTeacherPublications: Record<string, string> = {
+  "civil-gift-loan-gift-before-delivery-explain":
+    "5b4dea65906a2a212cb4991eb57b23a64d51d1627b4d3c98b999568271815ee3",
+  "civil-gift-loan-gift-after-delivery-explain":
+    "a378c971f75b3fab4e8c06679c4bebc4ff572beecf3fcc16d4768ca2b3f4036c",
+  "civil-gift-loan-gift-notarized-delivery-explain":
+    "01d9a99ce08875945294bdc89cf14be56d1b108be00b6c72e3ab4d6c9180e636",
+  "civil-gift-loan-gift-notarized-destruction-explain":
+    "09c41c65edfff3edcbe310a9c1c33124c14e6fb2ece5db98272009f82267ee15",
+  "civil-gift-loan-gift-duty-refusal-explain":
+    "bda16399476625715135b91d83ffa3d2ed8e9da8e6b050bb9485bfc19eff0555",
+  "civil-gift-loan-gift-social-disappointment-explain":
+    "245e432d1ca7eac8292dc4a12dff1d06c5baf7c1ddb31033a56218faa896a0c2",
+  "civil-gift-loan-gift-family-hardship-explain":
+    "5af1dd1528aca099411146eecde94300a0067f0593fb8ff4773ea4e30b215396",
+  "civil-gift-loan-gift-business-hardship-explain":
+    "256e87314a5f3b4a45d51b137e9ee4dffe0230e7f82508ea72672ec0124447f2",
+  "civil-gift-loan-loan-signed-before-transfer-written":
+    "ab2cc46c50517de99fa68f87867fdcf0ef620992e1661d90fd4420dd26ee6db0",
+  "civil-gift-loan-loan-received-date-written":
+    "48a5abce3abb1841a665ac48d631d3d928a76efe2187e8e4d4cf2c9e59c3e331",
+  "civil-gift-loan-loan-deducted-interest-written":
+    "e51bd8b166bcc78ff062f67e0023c9e446d60079a5254d827985290facff79ce",
+  "civil-gift-loan-loan-spent-after-receipt-written":
+    "c989118cef0082f4d93d8a34b57616b54b359597820ca261f9af9b9c0229be9a",
+  "civil-gift-loan-loan-no-interest-agreement-written":
+    "f65e94deb071779b966d2dcc9ffb5605042aacb24f79d499774fb35d8fb3644f",
+  "civil-gift-loan-loan-vague-interest-written":
+    "c5a154705675eb430bc2aaf1b2b506f87eb80e9db21fa04278a1e90fa9174cd6",
+  "civil-gift-loan-loan-no-term-notice-written":
+    "df57f7de205a862dbc2c38a909fac904729165b32971e5787231dc6d15f06c2b",
+  "civil-gift-loan-loan-early-repayment-written":
+    "fd93a98b963696e37d7d684f5dadfafa74a6076b05469f77375f09213a4cfe9a",
+};

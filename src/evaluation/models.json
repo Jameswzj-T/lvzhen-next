@@ -1,0 +1,45 @@
+{
+  "models": [
+    {
+      "model": "deepseek-flash",
+      "adapter": "deepseek-chat",
+      "priceSources": [
+        "https://api-docs.deepseek.com/quick_start/pricing",
+        "https://api-docs.deepseek.com/zh-cn/quick_start/pricing"
+      ],
+      "contextCeiling": 1048576,
+      "outputMargin": 0
+    },
+    {
+      "model": "deepseek-v4-flash",
+      "adapter": "deepseek-chat",
+      "priceSources": [
+        "https://api-docs.deepseek.com/quick_start/pricing",
+        "https://api-docs.deepseek.com/zh-cn/quick_start/pricing"
+      ],
+      "contextCeiling": 1048576,
+      "outputMargin": 0
+    },
+    {
+      "model": "qwen3.8-flash",
+      "adapter": "qwen-chat",
+      "priceSources": ["https://help.aliyun.com/zh/model-studio/qwen3-8-flash"],
+      "contextCeiling": 1048576,
+      "outputMargin": 10
+    },
+    {
+      "model": "mimo-v2.6-flash",
+      "adapter": "mimo-chat",
+      "priceSources": ["https://mimo.mi.com/docs/zh-CN/price/pay-as-you-go"],
+      "contextCeiling": 1048576,
+      "outputMargin": 0
+    },
+    {
+      "model": "mimo-v2.6-pro",
+      "adapter": "mimo-chat",
+      "priceSources": ["https://mimo.mi.com/docs/zh-CN/price/pay-as-you-go"],
+      "contextCeiling": 1048576,
+      "outputMargin": 0
+    }
+  ]
+}

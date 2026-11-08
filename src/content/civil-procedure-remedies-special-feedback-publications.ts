@@ -1,0 +1,46 @@
+// Fixed publication bindings for the existing teacher voice protocol.
+export const civilProcedureRemediesSpecialTeacherPublications: Record<
+  string,
+  string
+> = {
+  "civpro-remedies-special-appeal-scope-written":
+    "20996af190027ebdd1f27e0aafa864fd2b025315b9b511241e7855064eceec10",
+  "civpro-remedies-special-appeal-new-counterclaim-written":
+    "0ac348bcd8ceef51b4a95fbc3f0284f4325c0d634e63d7cce377b670ebe3f1ee",
+  "civpro-remedies-special-appeal-basic-facts-written":
+    "078eb0d4ed02c04c07f8df9392484ac2747e31346e34ac1b8db2c50b243cd53b",
+  "civpro-remedies-special-appeal-remand-once-written":
+    "162647cdf49354c0f12268a80bdd84ae4996726f7c20efddad0d30e222de16cb",
+  "civpro-remedies-special-retrial-new-evidence-written":
+    "cce31f67f78bad3282626f599ee2d77991fb5134993134434dcc7a69dfd2d546",
+  "civpro-remedies-special-retrial-execution-written":
+    "654030920f1b7c0b5007407a3638bed65fb769e17934fd6456ae5eeba4f54b44",
+  "civpro-remedies-special-supervision-after-rejection-written":
+    "1d752e238a07cfac84c361cf378da38bd616d4395e4831f1d3c42b0aa4b8c7d8",
+  "civpro-remedies-special-supervision-same-level-written":
+    "372ebc79cc0f1d6eaf3af30868c811f5bab8cc72bff740f911b9815e54e69309",
+  "civpro-remedies-special-public-interest-body-written":
+    "a96e2b878d37b56a094b55ec8d62e4b62cca0b341b5ee2030e14c9a7224729be",
+  "civpro-remedies-special-public-interest-private-written":
+    "d1c7cf5b14b558daed2f301c0daff6ce820c85e1b950969a1268365fc20ab980",
+  "civpro-remedies-special-third-party-revocation-written":
+    "50545e8b9794d227cdf1235588360ac64a1877cb500a0cce6318f6990fb009fb",
+  "civpro-remedies-special-third-party-fault-written":
+    "0da7cbe0ec902f8aaa4425ac4e1a2a458ab7b19f2d192673175076d6848ae378",
+  "civpro-remedies-special-missing-return-written":
+    "686d40ebf471d362f1a9744392111bdd0f75e872541fa921e91d556cbcaf5e42",
+  "civpro-remedies-special-capacity-recovery-written":
+    "33e82abe5e6f6cc64e820cbc5394104fb3f998617869b772aca8d34c42150ff8",
+  "civpro-remedies-special-mediation-confirmation-written":
+    "fba4fad5730931c6c24990a958e28c22fd66c8213d82c8a1812c8e7765048767",
+  "civpro-remedies-special-security-disputed-written":
+    "154fe994fcb511c2297ac7116e15677a5ad457aa193a057f7211e465e3167487",
+  "civpro-remedies-special-payment-conditions-written":
+    "8694e5622d230f834c54896b72f6cee3d4efa036ebf34307c3df738ddf854764",
+  "civpro-remedies-special-payment-objection-written":
+    "d451fea9ccb2350def4600be33ad00067d89228f3e02d40d1021c79f74087fd2",
+  "civpro-remedies-special-notice-lost-bill-written":
+    "44dd3bba8ac65d5b59d210a4462e91816d271377821e155d558a801454cd3450",
+  "civpro-remedies-special-notice-right-claim-written":
+    "2e432ba92cb3bd5e30d19bffc1fe9e3fc920a090df94858197bfa6241a0b8dee",
+};

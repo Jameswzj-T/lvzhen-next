@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilTrafficMedicalTeacherPublications: Record<string, string> = {
+  "civil-traffic-medical-borrow-normal-written":
+    "e9f98f29fc2036d4dddc05789473f480fe8019de9e960d83b9f80b725c09ff46",
+  "civil-traffic-medical-borrow-brakes-written":
+    "a975eeded6080b34b916f3788a93897be2c0a5ee8c83361346616d9e59e3afcb",
+  "civil-traffic-medical-transfer-delivered-written":
+    "c0a54a3dee7635e55d54207aad55af02c5d6cb6ad28fb26e2759b4c0d9ec896f",
+  "civil-traffic-medical-transfer-scrapped-written":
+    "42bab1a967cfc6d307d6c3b13aaa3ee3cf6270c526b742f97875968bb920ae26",
+  "civil-traffic-medical-insurance-order-written":
+    "538e3f83c3e6543822778200a1a012e2d573939d89a6d6da6fb5cfc0284fb16d",
+  "civil-traffic-medical-insurance-door-written":
+    "a33d55f82e8ca56c553e871d93ea5623a8a32832f7ae5423499779f2de1b4758",
+  "civil-traffic-medical-free-ride-total-fault-written":
+    "31f21f42c6669a4808558aa0e63b4f30e8bc68ed9df3b88f018bb1f7e7fa2de3",
+  "civil-traffic-medical-free-ride-drunk-written":
+    "4e4baff660027ce424cc767498dbd2496dea9fb456bed52c0eba506b4fe9b5e9",
+  "civil-traffic-medical-medical-allergy-record-written":
+    "d891f55825d9440b2df9066cd50a7e15e87351da7946e723b5e0e144f7d0f063",
+  "civil-traffic-medical-medical-complication-written":
+    "d5e74555a1769f8dd87c4accc9f52b0a5d9bc4a5c89cd2df1c36c174ceb902bf",
+  "civil-traffic-medical-medical-refused-records-written":
+    "c22e6cc65cef855f5cbfb7c914d5d170845b7773df6bb627f448db21304ab08c",
+  "civil-traffic-medical-medical-patient-copy-written":
+    "162e23229cccd63b596d4ff254a783cf410353b41762721c8463912f1eec31fb",
+  "civil-traffic-medical-medical-blank-consent-written":
+    "1ca9633e6192ee47d65198f6efa5e36334feb068ecdbd0aced92a097bd815301",
+  "civil-traffic-medical-medical-relative-signature-written":
+    "68dd29cc37f043cabb903d8f866eb4dc8023acaa4c0adc91faef2fcee6cfc40d",
+  "civil-traffic-medical-medical-emergency-coma-written":
+    "9b7ca30cb446f6df727ec74c90e9517972ca4c5e155c67d3ab5c9cc7458db92d",
+  "civil-traffic-medical-medical-emergency-schedule-written":
+    "f6725cf42a8eb37a159db43ce2ea2aff66b7ccba27d983d2442913eb1014da51",
+};

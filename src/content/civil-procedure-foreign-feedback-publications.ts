@@ -1,0 +1,19 @@
+export const civilProcedureForeignTeacherPublications: Record<string, string> =
+  {
+    "civpro-foreign-agreement-court-written":
+      "8f0abefd4aefee3c34f2643124b1b91bbfc1211fa134b78247cdb3707295f6f6",
+    "civpro-foreign-parallel-stay-written":
+      "e153550c8f7f98853f372dcefd64501b772ae48122dc97606cd5df9161219ff9",
+    "civpro-foreign-electronic-service-written":
+      "0a607a378f8b7e35ce7a389704bbee8d9aa340e0d832aab2e1607b010a2fec1b",
+    "civpro-foreign-answer-appeal-terms-written":
+      "e1e4f15f0a1c8bea2840490a9071e5a62be031f8ea5ffe3fdb2b63f431e4cdde",
+    "civpro-foreign-recognition-first-written":
+      "78125a0cd5692b60a259508e8756614ec0e1616addd4b1382665df9741621153",
+    "civpro-foreign-notice-defense-written":
+      "566271df660af8c2bfbc93a83a5cb9f6f6345820345919ef452d9b4f15a95358",
+    "civpro-foreign-overseas-video-written":
+      "3ec72621cbbf253781622f12d26de4b0e04fb5bf45fcc27ca3725c96bdb489ae",
+    "civpro-foreign-foreign-direct-investigation-written":
+      "9c15fcfa01955c13e31667bfb91f3dd170e2d1af8d2b175347400d43b50c154a",
+  };

@@ -1,0 +1,695 @@
+{
+  "cl18-infection-ordinary-rule": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "43e91f9021ec3d63bafe1a0b9b7bf825f42530e4b48271e4291bb367c1e1c095",
+    "sourceMetadataFingerprint": "7833c3e787620794e9ab78cc70bbeeef15761f5f2c5a6c177d637759cef00335",
+    "questionId": "cl18-infection-ordinary-rule",
+    "questionRevision": "criminal-social-2026-09-15.v1",
+    "contentId": "5ace64276b247d2cd3b2beb803968703da5298f1d1bc059cd8b4612032efa417",
+    "title": "公司自行发布的通知",
+    "facts": "流感季，甲所在公司要求所有咳嗽员工居家。甲经正规诊断为普通季节性流感，之后到办公室取电脑。公司没有受政府或疾控机构委托实施法定防控措施，该疾病在本题时点未依法被确定采取甲类预防控制措施，也没有传播严重危险的证据。",
+    "prompt": "能否只因违反公司通知就按妨害传染病防治罪处理？",
+    "criteria": [
+      {
+        "id": "cl18-infection-ordinary-rule-p1",
+        "label": "疾病范围",
+        "meaning": "本题普通季节性流感未依法采取甲类措施，不满足指定范围。",
+        "acceptable": "意思相当且能联系本案事实即可：本题普通季节性流感未依法采取甲类措施，不满足指定范围。",
+        "boundary": "不把所有传染疾病等同甲类处理。"
+      },
+      {
+        "id": "cl18-infection-ordinary-rule-p2",
+        "label": "措施来源",
+        "meaning": "公司自主通知不等于刑法所要求的法定防控措施。",
+        "acceptable": "意思相当且能联系本案事实即可：公司自主通知不等于刑法所要求的法定防控措施。",
+        "boundary": "不否认真实政府委托或法定措施另须审查。"
+      },
+      {
+        "id": "cl18-infection-ordinary-rule-p3",
+        "label": "危险条件",
+        "meaning": "没有传播严重危险证据，不能凭抽象担心补足。",
+        "acceptable": "意思相当且能联系本案事实即可：没有传播严重危险证据，不能凭抽象担心补足。",
+        "boundary": "不将劳动处分与刑事定罪混用。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》社会管理相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第330条要求违反传染病防治法的相应行为，并引起甲类或依法采取甲类预防、控制措施的传染病传播或者有传播严重危险。第1款第5项的措施须由县级以上人民政府或疾病预防控制机构依法提出，私人企业通知不当然等同该措施。",
+        "checkedAt": "2026-10-05",
+        "scope": "只按题设给定的病种、措施主体和传播危险分析第330条，不自行鉴定病种、不把普通违反内部规则或咳嗽当成法定严重危险。"
+      }
+    ]
+  },
+  "cl18-medical-qualified": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "0d8db9c546a9704d8244d93eb0faaaf290dcf3b3b158308b48a9753e28728d87",
+    "sourceMetadataFingerprint": "7833c3e787620794e9ab78cc70bbeeef15761f5f2c5a6c177d637759cef00335",
+    "questionId": "cl18-medical-qualified",
+    "questionRevision": "criminal-social-2026-09-15.v1",
+    "contentId": "6f4aa8a77ca65030ea43b40b9bf85e24a058e0a3811c1998aa7d427dc1745133",
+    "title": "有执照医生的失职",
+    "facts": "依法执业的外科医生甲在其执业医院值班，面对术后病人连续出现的明确危急征象，收到护士三次报告仍去私人聚餐，未查房、未安排替代医生，也未启动抢救。病人随后死亡。鉴定确认按当时条件及时处理可以避免死亡，甲的失职是死亡的直接原因。",
+    "prompt": "是否应因发生医疗死亡就定非法行医？应说明哪些事实？",
+    "criteria": [
+      {
+        "id": "cl18-medical-qualified-p1",
+        "label": "主体区别",
+        "meaning": "甲合法执业，不以无资格非法行医的主体条件处理。",
+        "acceptable": "意思相当且能联系本案事实即可：甲合法执业，不以无资格非法行医的主体条件处理。",
+        "boundary": "不以患者死亡倒推执业非法。"
+      },
+      {
+        "id": "cl18-medical-qualified-p2",
+        "label": "严重失职",
+        "meaning": "收到连续危急报告仍聚餐且不安排救治，具体说明不负责任。",
+        "acceptable": "意思相当且能联系本案事实即可：收到连续危急报告仍聚餐且不安排救治，具体说明不负责任。",
+        "boundary": "不能只写手术有风险或出现并发症。"
+      },
+      {
+        "id": "cl18-medical-qualified-p3",
+        "label": "结果归责",
+        "meaning": "鉴定证明及时处理可避免死亡及直接因果关系。",
+        "acceptable": "意思相当且能联系本案事实即可：鉴定证明及时处理可避免死亡及直接因果关系。",
+        "boundary": "不把任意医疗过错等同刑事医疗事故。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》社会管理相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第335条针对医务人员严重不负责任，并造成就诊人死亡或严重损害身体健康；第336条第1款针对未取得医生执业资格而非法行医。执业身份、严重失责与危害结果的因果联系分别核查，死亡不能单独替代任何一项。",
+        "checkedAt": "2026-10-05",
+        "scope": "仅区分题给执业身份与诊疗行为路径，不增加全部医疗事故等级、行政责任、行业细则或刑期必答；不能把任何诊疗错误直接认定犯罪。"
+      }
+    ]
+  },
+  "cl18-border-escape-crime-v2": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "5b1c649747284a9de6048931aeb7293d3f99995f09db78a3b962f687d6791558",
+    "sourceMetadataFingerprint": "366ba5aab84946d65551d6b0656518a36ba40ff9c0d3de45b29c2abd3b4dc5d0",
+    "questionId": "cl18-border-escape-crime-v2",
+    "questionRevision": "criminal-border-question-scope-2026-10-03.v1",
+    "contentId": "e3e917cc08d94caabb9bdb71b5786b59368af81fb119fa1f971831e3cb004da7",
+    "title": "离境的原因",
+    "facts": "甲在境内实施抢劫后，从媒体和亲友处得知警方正在寻找自己，随即联系带路人，明确表示要避开检查躲到境外。他未持出境证件，从非开放通道实际越境，之后被抓获。此前甲没有偷越记录，本次也未组织或运送他人。",
+    "prompt": "是否因为只有一次偷越，就只能行政处理？结合题设说明理由，并说明已实施的抢劫与本次偷越的罪数关系。",
+    "criteria": [
+      {
+        "id": "cl18-border-escape-crime-p1",
+        "label": "越境行为",
+        "meaning": "无证绕开开放通道并实际越境，不是普通境内迁移。",
+        "acceptable": "意思相当且能联系本案事实即可：无证绕开开放通道并实际越境，不是普通境内迁移。",
+        "boundary": "不把旅行计划直接算已偷越。"
+      },
+      {
+        "id": "cl18-border-escape-crime-p2",
+        "label": "严重情节",
+        "meaning": "联系抢劫后逃避追究的通讯和行动，说明独立路径。",
+        "acceptable": "意思相当且能联系本案事实即可：联系抢劫后逃避追究的通讯和行动，说明独立路径。",
+        "boundary": "不能把三次偷越当唯一标准。"
+      },
+      {
+        "id": "cl18-border-escape-crime-p3",
+        "label": "前罪关系",
+        "meaning": "偷越与已完成的抢劫分别审查，依法处理罪数。",
+        "acceptable": "意思相当且能联系本案事实即可：偷越与已完成的抢劫分别审查，依法处理罪数。",
+        "boundary": "不因后来逃跑否认前罪。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》第三百二十二条等相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第322条要求违反国（边）境管理法规实际偷越且情节严重；第263条另规定抢劫行为，第69条规定判决前一人犯数罪的处理。以逃避先前犯罪追究为目的的越境与先前独立犯罪需分别核对，不能仅凭一次越境推定只属行政事项。",
+        "checkedAt": "2026-10-05",
+        "scope": "只按新版设问分析既有抢劫与偷越的关系，不计算刑期、不增加组织运送或其他罪名要求。"
+      },
+      {
+        "sourceId": "border2022",
+        "title": "两高一部一局《关于依法惩治妨害国（边）境管理违法犯罪的意见》",
+        "url": "https://www.court.gov.cn/fabu/xiangqing/363931.html",
+        "excerpt": "2022年《关于依法惩治妨害国（边）境管理违法犯罪的意见》第10项第（1）目把犯罪后为逃避刑事追究而偷越列为其他情节严重情形；次数不是该独立情形的唯一条件。",
+        "checkedAt": "2026-10-05",
+        "scope": "本来源为法发〔2022〕18号意见，非新司法解释；仅用于题给逃避追究的限定情形，不扩展未查明目的。"
+      }
+    ]
+  },
+  "cl18-relic-unmovable": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "abb97eb80b0bdd8a6a8959e05abb57a652175eaf4c6bf50c273014d4d796e2c3",
+    "sourceMetadataFingerprint": "5ec78ad3d1a67876f60f26eddd2403617f8bf48b92e216a6467d42dc35137d11",
+    "questionId": "cl18-relic-unmovable",
+    "questionRevision": "criminal-social-2026-09-15.v1",
+    "contentId": "a8d7c74d9f9644cb42b2df728aea07a83e16a335bd016a0f51b5f8b29b939262",
+    "title": "古建筑上的石刻",
+    "facts": "甲夜间用切割工具从一座古建筑上取下石刻运走出售。现场不是古文化遗址或古墓葬，石刻已被认定为三级文物，取走时破坏了固定结构。甲没有发掘地下墓室或遗址，仅为取得该石刻而实施拆取。",
+    "prompt": "应直接按盗掘古墓葬罪处理吗？",
+    "criteria": [
+      {
+        "id": "cl18-relic-unmovable-p1",
+        "label": "对象识别",
+        "meaning": "古建筑石刻并非本题中的古文化遗址或古墓葬。",
+        "acceptable": "意思相当且能联系本案事实即可：古建筑石刻并非本题中的古文化遗址或古墓葬。",
+        "boundary": "不省略对象鉴定。"
+      },
+      {
+        "id": "cl18-relic-unmovable-p2",
+        "label": "行为识别",
+        "meaning": "切割拆走取得石刻，是破坏性盗窃而不是墓葬发掘。",
+        "acceptable": "意思相当且能联系本案事实即可：切割拆走取得石刻，是破坏性盗窃而不是墓葬发掘。",
+        "boundary": "不能以工具相似替代行为性质。"
+      },
+      {
+        "id": "cl18-relic-unmovable-p3",
+        "label": "适用规则",
+        "meaning": "按盗窃罪及文物等级条款评价。",
+        "acceptable": "意思相当且能联系本案事实即可：按盗窃罪及文物等级条款评价。",
+        "boundary": "不把同一拆取的必要破坏机械另行并罪。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》社会管理相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第328条的对象为具有历史、艺术、科学价值的古文化遗址、古墓葬，不能仅凭文物名称就认定盗掘。第264条规定盗窃公私财物；盗取其他不可移动文物构件，应依对象、手段和对应解释审查。",
+        "checkedAt": "2026-10-05",
+        "scope": "只分析题述构件与盗取行为，不将全部古建筑等同遗址墓葬，不添加统一估价、全部文物损毁罪或量刑必答。"
+      },
+      {
+        "sourceId": "relic2015",
+        "title": "两高《关于办理妨害文物管理等刑事案件适用法律若干问题的解释》",
+        "url": "https://www.court.gov.cn/zixun/xiangqing/16405.html",
+        "excerpt": "法释〔2015〕23号第8条第3款规定，破坏性盗窃古文化遗址、古墓葬以外的其他不可移动文物，依第264条追责；第2条将三级文物对应数额巨大。第12条第2款要求建筑构件等按其本身等级或价值认定，所属整体等级作量刑情节考虑。",
+        "checkedAt": "2026-10-05",
+        "scope": "仅用已给构件三级鉴定与破坏性盗窃路径，不猜整体保护等级，不把同一盗窃手段另作重复评价。"
+      }
+    ]
+  },
+  "cl18-review-border-roles": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "1c9a775d9c2c6781f999d68dd4103e79fc5d44d0166fa50b405dd394ec939308",
+    "sourceMetadataFingerprint": "7e7cf9d0b0794a4014b28a704fcf3e6ee7ff5748e13fd776d35bee1400aa86da",
+    "questionId": "cl18-review-border-roles",
+    "questionRevision": "criminal-social-2026-09-15.v1",
+    "contentId": "bd67d28a4975648691ad902e83587f9e2edcd1edc2acad41a9c79e2310fc6dc0",
+    "title": "接送名单上的三个人",
+    "facts": "乙组织多人避开边检非法出境。司机甲事前接到完整偷越安排，分两批接送十名人员到边境交接，收取专门报酬。丙是正规旅馆前台，按通常流程给另一批持有效证件的旅客办理住宿，未收到偷越信息、没有反常线索，也未与乙约定藏匿或接驳。丁事前就答应乙，用自己的封闭仓库藏匿待偷越人员并协助组织调度。",
+    "prompt": "三人的责任能否仅按都提供过住宿或运输统一处理？",
+    "criteria": [
+      {
+        "id": "cl18-review-border-roles-p1",
+        "label": "甲",
+        "meaning": "事前了解偷越并多批接送，境内分段也在运送评价范围。",
+        "acceptable": "意思相当且能联系本案事实即可：事前了解偷越并多批接送，境内分段也在运送评价范围。",
+        "boundary": "不要求甲本人跨境。"
+      },
+      {
+        "id": "cl18-review-border-roles-p2",
+        "label": "丙",
+        "meaning": "正常住宿且无相应认识或配合证据，不直接认罪。",
+        "acceptable": "意思相当且能联系本案事实即可：正常住宿且无相应认识或配合证据，不直接认罪。",
+        "boundary": "不能把所有接待过偷越者的人员都视为帮助者。"
+      },
+      {
+        "id": "cl18-review-border-roles-p3",
+        "label": "丁",
+        "meaning": "事前通谋藏匿并协助组织调度，应审具体组织共犯责任。",
+        "acceptable": "意思相当且能联系本案事实即可：事前通谋藏匿并协助组织调度，应审具体组织共犯责任。",
+        "boundary": "不把事后不知情的借宿与其混同。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》社会管理相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第25条要求共同故意犯罪；第318条规定组织他人偷越，第321条规定运送他人偷越。一般住宿等服务不因客人违法就自动成为共犯，应核查明知、通谋及实际参与。",
+        "checkedAt": "2026-10-05",
+        "scope": "仅按题给各人认识、事前联系与分工分别分析，不要求全部加重程度或其他责任，不把经营者身份替代明知。"
+      },
+      {
+        "sourceId": "border2022",
+        "title": "两高一部一局《关于依法惩治妨害国（边）境管理违法犯罪的意见》",
+        "url": "https://www.court.gov.cn/fabu/xiangqing/363931.html",
+        "excerpt": "法发〔2022〕18号意见第3项规定，事前通谋提供接驳、容留、藏匿等帮助的，按组织或运送偷越的共同犯罪处理；第4项规定，明知偷越人员而分段运送其前往国（边）境属于运送行为，并须结合实际作用妥当处理。",
+        "checkedAt": "2026-10-05",
+        "scope": "只核题述境内接送与事前通谋，不要求运输必须跨越国境，不把事后普通服务推定为事前共谋。"
+      }
+    ]
+  },
+  "cl18-pollution-outsourcing": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "0a351b5c9daa618c09bf4e3819190333317db7b6751a372f70df21f2d290cf39",
+    "sourceMetadataFingerprint": "ded0c212f111cea6f2f20ed3cadb509de7dd32438db1c73f2b427f090abf5d95",
+    "questionId": "cl18-pollution-outsourcing",
+    "questionRevision": "criminal-social-2026-09-15.v1",
+    "contentId": "6c38c1c37c7f7324321cfec9bdde34621c155b94006583df60a37653f52457b8",
+    "title": "压低报价的处置合同",
+    "facts": "2026年9月，公司负责人甲看到乙报价仅为正规危险废物处理费用的一小部分。乙明确告知没有危险废物经营许可证，甲仍决定交给他十吨经依法认定的危险废物，并安排车辆送达。乙随后将全部废物倒入荒沟，造成严重污染。合同虽写由乙自行承担责任，但聊天记录和交接单完整。",
+    "prompt": "甲能否凭外包合同排除刑事责任？",
+    "criteria": [
+      {
+        "id": "cl18-pollution-outsourcing-p1",
+        "label": "认识",
+        "meaning": "乙明确告知无证而甲仍交付，不只凭低报价猜测。",
+        "acceptable": "意思相当且能联系本案事实即可：乙明确告知无证而甲仍交付，不只凭低报价猜测。",
+        "boundary": "不能把所有价格较低的委托都推定明知。"
+      },
+      {
+        "id": "cl18-pollution-outsourcing-p2",
+        "label": "行为后果",
+        "meaning": "十吨危险废物实际交付并被非法倾倒，造成严重污染。",
+        "acceptable": "意思相当且能联系本案事实即可：十吨危险废物实际交付并被非法倾倒，造成严重污染。",
+        "boundary": "无证信息不能替代污染事实。"
+      },
+      {
+        "id": "cl18-pollution-outsourcing-p3",
+        "label": "责任归属",
+        "meaning": "依委托处置共同犯罪规则审查，私人合同不能免责。",
+        "acceptable": "意思相当且能联系本案事实即可：依委托处置共同犯罪规则审查，私人合同不能免责。",
+        "boundary": "不把未参与决策和实施的全体员工一概入罪。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》社会管理相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第338条要求违反国家规定排放、倾倒或处置法定污染物并严重污染环境；第25条规定共同故意犯罪。双方私约承担责任不能代替各行为人实际构成与参与条件的审查。",
+        "checkedAt": "2026-10-05",
+        "scope": "限定题给危险废物、明知与严重污染结果，不以低价或无许可证单独认定污染环境罪，不要求所有员工责任或加重刑档。"
+      },
+      {
+        "sourceId": "environment2026",
+        "title": "两高《关于办理环境污染刑事案件适用法律若干问题的解释》（2026第二次修正）",
+        "url": "https://www.court.gov.cn/fabu/xiangqing/508011.html",
+        "excerpt": "最高法2026年8月重新公布的环境污染解释第8条规定，明知他人无危险废物经营许可证，向其提供或委托其收集、贮存、利用、处置危险废物，严重污染环境的，以共同犯罪论处。第二次修正自2026年8月15日起施行。",
+        "checkedAt": "2026-10-05",
+        "scope": "仅核题给2026年9月行为的明知、委托和实际严重污染条件；不将所有无证委托自动认定污染犯罪，不扩展未核行政细则。"
+      }
+    ]
+  },
+  "cl18-wildlife-food": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "f126717ba50d036f0bf615a26e759d91151106ac2293620c53a79e2c1c399e64",
+    "sourceMetadataFingerprint": "33b0fc2131bac0f42e673f0a7d840d7d52639065b7553a080fb4fc7f69b84220",
+    "questionId": "cl18-wildlife-food",
+    "questionRevision": "criminal-social-2026-09-15.v1",
+    "contentId": "a8d9f24b011c3e1f4bb8e893b088f02a7b56594707486681d7bdf1c73a3f00f0",
+    "title": "餐馆的野味采购",
+    "facts": "餐馆负责人甲为推出野味菜，向猎捕者采购一批野外自然生长繁殖的陆生动物，要求对方提供刚从山里捕获的活体。鉴定确认不属于国家重点保护珍贵、濒危野生动物，但属于有重要生态、科学、社会价值的陆生野生动物，价值二万元。该收购违反野生动物保护管理法规，不属于许可的特殊用途。",
+    "prompt": "不是国家重点保护动物，就不属于刑法保护范围吗？",
+    "criteria": [
+      {
+        "id": "cl18-wildlife-food-p1",
+        "label": "对象分层",
+        "meaning": "非重点保护不等于不保护，核对野外陆生及具体类别。",
+        "acceptable": "意思相当且能联系本案事实即可：非重点保护不等于不保护，核对野外陆生及具体类别。",
+        "boundary": "不能将所有家畜家禽套入。"
+      },
+      {
+        "id": "cl18-wildlife-food-p2",
+        "label": "用途行为",
+        "meaning": "野味菜单与采购要求支持食用目的和非法收购。",
+        "acceptable": "意思相当且能联系本案事实即可：野味菜单与采购要求支持食用目的和非法收购。",
+        "boundary": "不把自用收藏等同本条食用目的。"
+      },
+      {
+        "id": "cl18-wildlife-food-p3",
+        "label": "严重情节",
+        "meaning": "有重要生态等价值类别二万元超过解释一万元路径。",
+        "acceptable": "意思相当且能联系本案事实即可：有重要生态等价值类别二万元超过解释一万元路径。",
+        "boundary": "不将其他类别五万元标准混用。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》社会管理相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第341条第3款针对违反野生动物保护管理法规、以食用为目的非法猎捕收购运输出售第一款规定以外的野外自然生长繁殖陆生野生动物且情节严重。对象援引是第一款规定以外，处罚档次才依前款。",
+        "checkedAt": "2026-10-05",
+        "scope": "只按题述动物类别、野外来源及食用目的分析；不把人工畜禽或一切收藏都套入本款，不追改旧参考字句。"
+      },
+      {
+        "sourceId": "wildlife2022",
+        "title": "两高《关于办理破坏野生动物资源刑事案件适用法律若干问题的解释》",
+        "url": "https://www.court.gov.cn/zixun/xiangqing/353961.html",
+        "excerpt": "法释〔2022〕12号第8条将前述行为中三有陆生野生动物或地方重点保护陆生野生动物价值一万元以上，列为情节严重；第一项以外其他陆生野生动物的价值门槛为五万元。两类对象的门槛不能混用。",
+        "checkedAt": "2026-10-05",
+        "scope": "仅用题设已给三有类别、价值与无例外事实，不要求重做真实物种鉴定、全部量刑或其他罪名。"
+      }
+    ]
+  },
+  "cl20-spy-public-study": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "c387400744120283a4ed612e4876f01062b85147650c6d67827f93ffdf7f39d1",
+    "sourceMetadataFingerprint": "bb039475d4412185d53a9b32b6e6f4cf84aed987b1b7425b2e79e9ee983336c0",
+    "questionId": "cl20-spy-public-study",
+    "questionRevision": "criminal-office-2026-09-15.v1",
+    "contentId": "2c6733f9b93bd68fca2884df32e6d8af184316769870a341d3362837669305d6",
+    "title": "公开资料合作",
+    "facts": "甲接受境外大学公开发布的普通学术项目，按约整理已经合法公开的气候年鉴并领取劳务费。资料不涉及国家秘密或刑法意义的情报，未涉及间谍组织或代理人的任务，也未查出危害国家安全的行为。有人仅凭境外付款提出甲犯间谍罪。",
+    "prompt": "这个判断缺少哪些关键依据？",
+    "criteria": [
+      {
+        "id": "cl20-spy-public-study-p1",
+        "label": "指出法定行为缺口",
+        "meaning": "没有参加间谍组织、接受其任务或其他本条行为的证据。",
+        "acceptable": "意思相当且能联系本案事实即可：没有参加间谍组织、接受其任务或其他本条行为的证据。",
+        "boundary": "不能把一切境外机构等同间谍组织。"
+      },
+      {
+        "id": "cl20-spy-public-study-p2",
+        "label": "核对资料与行为性质",
+        "meaning": "资料已合法公开，且题设排除了秘密、情报及危害行为。",
+        "acceptable": "意思相当且能联系本案事实即可：资料已合法公开，且题设排除了秘密、情报及危害行为。",
+        "boundary": "不能只因发生数据整理就推定违法。"
+      },
+      {
+        "id": "cl20-spy-public-study-p3",
+        "label": "给出受事实限制的结论",
+        "meaning": "依现有已查明事实不能认定间谍罪。",
+        "acceptable": "意思相当且能联系本案事实即可：依现有已查明事实不能认定间谍罪。",
+        "boundary": "不是宣布所有学术名义的活动永远不需要核查。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》职务犯罪、国家安全、国防与军职条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第110条要求参加间谍组织、接受该组织或代理人任务，或为敌人指示轰击目标，并危害国家安全；第111条另规定为境外非法获取或提供国家秘密、情报。境外付款和普通资料整理不能替代这些行为、资料性质与危害事实。",
+        "checkedAt": "2026-10-05",
+        "scope": "只用题设已排除的组织任务、秘密情报及危害事实，不宣布所有学术名义永远合法，不作现实秘密或情报鉴定。"
+      }
+    ]
+  },
+  "cl20-defection-border": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "b9f99c97d0056d7c225cf39ebfabe4b6dc94f55d94ecd2df71899c5b1152d5c2",
+    "sourceMetadataFingerprint": "bb039475d4412185d53a9b32b6e6f4cf84aed987b1b7425b2e79e9ee983336c0",
+    "questionId": "cl20-defection-border",
+    "questionRevision": "criminal-office-2026-09-15.v1",
+    "contentId": "33285205d3d694249fa1ee394c3fd9aa79c6cf4ff3e891da11d7f662bff39ef8",
+    "title": "辞职后的境外居留",
+    "facts": "乙已经依法辞去国家机关职务并完成离职手续，不掌握国家秘密。半年后，乙以普通公民身份依法出境，在境外办理合法居留。没有公务团组、在岗任务或叛逃行为的证据。有人认为乙曾经在机关任职，所以应认定叛逃。",
+    "prompt": "这一结论为什么不能成立？",
+    "criteria": [
+      {
+        "id": "cl20-defection-border-p1",
+        "label": "看行为时身份",
+        "meaning": "乙已依法离职，不能把过去职务当作行为时身份。",
+        "acceptable": "意思相当且能联系本案事实即可：乙已依法离职，不能把过去职务当作行为时身份。",
+        "boundary": "不能只写曾在机关工作。"
+      },
+      {
+        "id": "cl20-defection-border-p2",
+        "label": "查公务与叛逃事实",
+        "meaning": "没有履职任务、擅离公务岗位或叛逃行为。",
+        "acceptable": "意思相当且能联系本案事实即可：没有履职任务、擅离公务岗位或叛逃行为。",
+        "boundary": "境外居留不是叛逃的同义词。"
+      },
+      {
+        "id": "cl20-defection-border-p3",
+        "label": "限定结论范围",
+        "meaning": "题设也排除了掌握秘密等相关事实，应否定这项推定。",
+        "acceptable": "意思相当且能联系本案事实即可：题设也排除了掌握秘密等相关事实，应否定这项推定。",
+        "boundary": "不扩张为离职后一切行为均不受法律约束。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》职务犯罪、国家安全、国防与军职条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第109条第1款联系国家机关工作人员行为时身份、履行公务期间、擅离岗位与叛逃；第2款另规定掌握国家秘密的国家工作人员叛逃。境外居留、过去任职或离职本身不能替代对应事实，也不能自动排除一切其他法律责任。",
+        "checkedAt": "2026-10-05",
+        "scope": "只分析题给已离职、无秘密及无公务叛逃事实的排除理由，不把合法出境与一切叛逃情形等同。"
+      }
+    ]
+  },
+  "cap-gap-retired-marriage-v2": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "54ac355869624f5597effa8f98d3a9475695384a8e841a360fa0a658d0598df2",
+    "sourceMetadataFingerprint": "7fbb08800ba4a59bbddf1548b74c605f0b33a53c833b837925304d41fe8f7945",
+    "questionId": "cap-gap-retired-marriage-v2",
+    "questionRevision": "criminal-marriage-rubric-review-2026-09-30.v1",
+    "contentId": "2c6c23a47a24ccf56463b4da9103c2042cbd341698239119adac69898a8dc8e7",
+    "title": "退役后的身份",
+    "facts": "丁与戊开始交往时，戊的配偶已经依法退役。调查排除了该配偶在有关行为期间仍属现役的事实，亦无现役阶段行为。有人认为曾经当兵就永远适用破坏军婚罪。",
+    "prompt": "是否可以这样理解法定对象？",
+    "criteria": [
+      {
+        "id": "cap-gap-retired-marriage-v2-p1",
+        "label": "行为时身份",
+        "meaning": "应看有关行为时配偶是否现役，题设明确已退役。",
+        "acceptable": "意思相当且能联系本案事实即可：应看有关行为时配偶是否现役，题设明确已退役。",
+        "boundary": "不是按一生是否当过兵判断。"
+      },
+      {
+        "id": "cap-gap-retired-marriage-v2-p2",
+        "label": "法定范围",
+        "meaning": "欠缺现役身份，不以本罪定罪，不可作不利类推。",
+        "acceptable": "意思相当且能联系本案事实即可：欠缺现役身份，不以本罪定罪，不可作不利类推。",
+        "boundary": "保护目的不授权突破条文。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》总则及本题对应分则条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第259条第1款的法定对象为现役军人的配偶，并要求明知该身份而同居或结婚。判断以有关行为时的现役身份为条件，保护目的不能把曾经服役者永久扩作现役。",
+        "checkedAt": "2026-10-05",
+        "scope": "仅用题设已排除现役阶段行为的身份边界，不新增其他责任或未给的现役期间事实。"
+      }
+    ]
+  },
+  "cl20-defense-operations": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "d0ac497ce4a9bf84130e353defcbd50b7f0c1adde77a25ed120944238197ff84",
+    "sourceMetadataFingerprint": "bb039475d4412185d53a9b32b6e6f4cf84aed987b1b7425b2e79e9ee983336c0",
+    "questionId": "cl20-defense-operations",
+    "questionRevision": "criminal-office-2026-09-15.v1",
+    "contentId": "9402903d08cb15f1abe828f36a0f29fe2cd5bbef4b6607fb49e31528d8409f9e",
+    "title": "堵住军事行动通道",
+    "facts": "部队依法执行军事行动，需要按任务安排通过一处道路。普通居民丙多次接到协调通知，仍为迫使有关方面满足其无关要求，组织车辆长期封堵指定通道，未直接攻击或威胁任何军人。封堵造成任务严重延误，法定严重后果及因果关系已查明。",
+    "prompt": "未对军人使用暴力威胁，是否当然排除本章相关犯罪？",
+    "criteria": [
+      {
+        "id": "cl20-defense-operations-p1",
+        "label": "区分保护对象",
+        "meaning": "本题阻碍的是武装部队军事行动，而非只问个别军人履职。",
+        "acceptable": "意思相当且能联系本案事实即可：本题阻碍的是武装部队军事行动，而非只问个别军人履职。",
+        "boundary": "不能将两款条件完全混用。"
+      },
+      {
+        "id": "cl20-defense-operations-p2",
+        "label": "依据事实判断认识与行为",
+        "meaning": "丙多次收到通知仍组织持续封堵以施压。",
+        "acceptable": "意思相当且能联系本案事实即可：丙多次收到通知仍组织持续封堵以施压。",
+        "boundary": "不只凭道路上出现车辆就推定故意阻碍。"
+      },
+      {
+        "id": "cl20-defense-operations-p3",
+        "label": "核对特别条件",
+        "meaning": "军事行动严重延误和因果联系已查明，第二款不要求暴力威胁。",
+        "acceptable": "意思相当且能联系本案事实即可：军事行动严重延误和因果联系已查明，第二款不要求暴力威胁。",
+        "boundary": "没有严重后果时不能直接照搬本题结论。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》职务犯罪、国家安全、国防与军职条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第368条第1款针对以暴力、威胁阻碍军人依法履职；第2款针对故意阻碍武装部队军事行动并造成严重后果。第二款不以对个别军人使用暴力威胁为统一前提，仍须行为、故意与严重后果因果条件。",
+        "checkedAt": "2026-10-05",
+        "scope": "只用题述已查明的行动、持续封堵及严重延误，不自行设定严重尺度，不把任一道路堵塞均认定军事行动犯罪。"
+      }
+    ]
+  },
+  "cap-gap-peacetime-trade": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "1319e23dd1a7cbfba85f96394af6aa1c375402b7b74fa450487fb3b3888adab6",
+    "sourceMetadataFingerprint": "7fbb08800ba4a59bbddf1548b74c605f0b33a53c833b837925304d41fe8f7945",
+    "questionId": "cap-gap-peacetime-trade",
+    "questionRevision": "criminal-capstone-2026-09-15.v1",
+    "contentId": "589d6985df3c17176e5922c88ab577aab5ffe81e7f51f1e97589c62d964b9a90",
+    "title": "普通出口的边界",
+    "facts": "和平时期，乙依适用出口管理规定完成许可与查验，向普通境外民用客户供应依法可出口的日用品。没有敌方、军用物资或其他违法事实。有评论仅因客户来自另一国家而称其资敌。",
+    "prompt": "这一刑事指控为什么不能成立？",
+    "criteria": [
+      {
+        "id": "cap-gap-peacetime-trade-p1",
+        "label": "时段",
+        "meaning": "题设明确和平时期，不能凭评论改成战时。",
+        "acceptable": "意思相当且能联系本案事实即可：题设明确和平时期，不能凭评论改成战时。",
+        "boundary": "刑法条件不能类推扩大。"
+      },
+      {
+        "id": "cap-gap-peacetime-trade-p2",
+        "label": "对象和物资",
+        "meaning": "普通民用客户及可出口日用品，不直接等同敌方军用供给。",
+        "acceptable": "意思相当且能联系本案事实即可：普通民用客户及可出口日用品，不直接等同敌方军用供给。",
+        "boundary": "国别或竞争关系不是证据替代物。"
+      },
+      {
+        "id": "cap-gap-peacetime-trade-p3",
+        "label": "结论边界",
+        "meaning": "现有事实不构成资敌，是否有其他出口违法另按实际证据，题设已排除。",
+        "acceptable": "意思相当且能联系本案事实即可：现有事实不构成资敌，是否有其他出口违法另按实际证据，题设已排除。",
+        "boundary": "不虚构隐藏用途定罪。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》总则及本题对应分则条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第112条规定战时供给敌人武器装备、军用物资资敌；战时、敌方及军事物资等条件不能用普通国别、商业竞争或评论替代。其他出口责任仍按实际规则与事实独立审查，不能凭未知用途定罪。",
+        "checkedAt": "2026-10-05",
+        "scope": "只分析题设已合法许可、和平民用及已排除其他违法事实的指控，不隐含新增其他出口责任必答。"
+      }
+    ]
+  },
+  "cl13-robbery-unconscious": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "884b34f4bb9db3e2ab76251c853679ffc25a7497057744a9e02b9144dfe1c260",
+    "sourceMetadataFingerprint": "6f1bf62d2d800f34513c0c6c2d447a2fb7845d958dbae01d35183b5a9958ef14",
+    "questionId": "cl13-robbery-unconscious",
+    "questionRevision": "criminal-property-2026-09-15.v1",
+    "contentId": "bac8489997910a942b5f301020ee85eaf55a1cea01dec276a82820c4e4431e92",
+    "title": "两种失去反抗能力的情形",
+    "facts": "两个独立案件：甲为取走乙的两万元现金，使乙饮用含致昏睡成分的饮料，待乙失去意识后取款离开；丙在一次聚餐后见丁自行饮酒熟睡，临时拿走丁放在身旁的价值一万元的手表。两名被害人均未受伤。",
+    "prompt": "甲、丙的行为是否同样属于盗窃？说明区别。",
+    "criteria": [
+      {
+        "id": "cl13-robbery-unconscious-p1",
+        "label": "甲的手段",
+        "meaning": "甲为了取财主动使乙昏睡，属于抢劫的其他方法。",
+        "acceptable": "意思相当且能联系本案事实即可：甲为了取财主动使乙昏睡，属于抢劫的其他方法。",
+        "boundary": "不以拳打脚踢或外伤为唯一条件。"
+      },
+      {
+        "id": "cl13-robbery-unconscious-p2",
+        "label": "丙的取物",
+        "meaning": "丙利用独立存在的熟睡状态窃取手表，成立盗窃。",
+        "acceptable": "意思相当且能联系本案事实即可：丙利用独立存在的熟睡状态窃取手表，成立盗窃。",
+        "boundary": "不将被害人不能反抗直接等同抢劫。"
+      },
+      {
+        "id": "cl13-robbery-unconscious-p3",
+        "label": "联系条件",
+        "meaning": "关键是行为人是否为取财制造压制反抗的手段。",
+        "acceptable": "意思相当且能联系本案事实即可：关键是行为人是否为取财制造压制反抗的手段。",
+        "boundary": "要分别对应两案的先后关系。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》财产犯罪及相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第263条的抢劫手段包括暴力、胁迫及其他方法，并不限于外伤；第264条另规定盗窃。应联系行为人为取财制造压制反抗状态的手段与取财过程，不能仅凭被害人当时不能反抗把既有熟睡状态一律等同抢劫。",
+        "checkedAt": "2026-10-05",
+        "scope": "仅区分题给两段独立事实中的手段和取财联系，不增加伤情门槛、刑期或未给的共谋。"
+      },
+      {
+        "sourceId": "robbery2016",
+        "title": "最高法《关于审理抢劫刑事案件适用法律若干问题的指导意见》",
+        "url": "https://www.court.gov.cn/fabu/xiangqing/37412.html",
+        "excerpt": "法发〔2016〕2号第二部分第2项在公共交通情形列举暴力、胁迫、麻醉等手段，表明压制反抗不限可见外伤；第三部分仍要求联系法定构成条件。不能把其中特定交通加重情形直接移作所有场景的加重条件。",
+        "checkedAt": "2026-10-05",
+        "scope": "本规则只作抢劫手段范围旁证，不将交通场所或其他加重情形加进本题，不据熟睡本身代替手段判断。"
+      }
+    ]
+  },
+  "cl13-conversion-days": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "f22565195f3eb42b372d0b248b981f64273af434b4d91e4ec3c263585c40a7fa",
+    "sourceMetadataFingerprint": "6f1bf62d2d800f34513c0c6c2d447a2fb7845d958dbae01d35183b5a9958ef14",
+    "questionId": "cl13-conversion-days",
+    "questionRevision": "criminal-property-2026-09-15.v1",
+    "contentId": "4eb7aa8a02b5f96ac965a21452d3208c36dae613d639f9d0414293fdc2036206",
+    "title": "隔了两天的追问",
+    "facts": "甲从同事乙的储物柜偷走九千元，顺利离开后藏好钱。两天后乙通过录像发现甲，到另一处住地询问。甲为阻止乙报警，拿棍打断乙手臂，构成轻伤。乙当时没有正在追回现金，甲也没有另索财物。",
+    "prompt": "能否按转化型抢劫将两段行为合在一起？",
+    "criteria": [
+      {
+        "id": "cl13-conversion-days-p1",
+        "label": "现场联系",
+        "meaning": "间隔两天并另换地点，已不是紧接盗窃的现场或连续追捕。",
+        "acceptable": "意思相当且能联系本案事实即可：间隔两天并另换地点，已不是紧接盗窃的现场或连续追捕。",
+        "boundary": "不能只因仍想保住赃物就认定当场。"
+      },
+      {
+        "id": "cl13-conversion-days-p2",
+        "label": "要件判断",
+        "meaning": "有阻止报警的动机仍不足转化抢劫。",
+        "acceptable": "意思相当且能联系本案事实即可：有阻止报警的动机仍不足转化抢劫。",
+        "boundary": "目的与时间条件要同时满足。"
+      },
+      {
+        "id": "cl13-conversion-days-p3",
+        "label": "分别评价",
+        "meaning": "前盗窃、后故意伤害分别处理并罚。",
+        "acceptable": "意思相当且能联系本案事实即可：前盗窃、后故意伤害分别处理并罚。",
+        "boundary": "不因不能转化而遗漏后段伤害。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "law",
+        "title": "《中华人民共和国刑法》财产犯罪及相关条款",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第269条要求先有盗窃、诈骗、抢夺，为窝藏赃物、抗拒抓捕或毁灭罪证而当场使用暴力或威胁；目的与当场联系须同时核查。不能转化的先前盗窃与后续独立伤害仍依各构成和第69条处理。",
+        "checkedAt": "2026-10-05",
+        "scope": "只回应两段行为能否合并及对应独立评价，不计算刑期，不因仍想保赃就忽略时间地点断开。"
+      },
+      {
+        "sourceId": "robbery2016",
+        "title": "最高法《关于审理抢劫刑事案件适用法律若干问题的指导意见》",
+        "url": "https://www.court.gov.cn/fabu/xiangqing/37412.html",
+        "excerpt": "法发〔2016〕2号第三部分将当场限于原盗窃诈骗抢夺现场，及刚离现场即被发现抓捕的情形；行为目的不能单独替代连续现场联系。",
+        "checkedAt": "2026-10-05",
+        "scope": "限定题给盗窃已离开藏好财物、后续另时另地行为，不把任何间隔都机械按天数设全国阈值。"
+      }
+    ]
+  }
+}

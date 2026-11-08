@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilInheritanceTeacherPublications: Record<string, string> = {
+  "civil-inheritance-living-owner-no-opening-written":
+    "d7c3ded582e0c40a195f688d3521b78d7e54d249c9babdfbb3ec0568e8c139e5",
+  "civil-inheritance-marital-fund-estate-scope-written":
+    "94a0bf1448cd14076638e4ab904f2d669143e4bc381c7975c170483e2943ecf1",
+  "civil-inheritance-heir-silence-accepts-written":
+    "b1aca9fbc7bec68a9f8b2aa983554ac881853cbec692eef62c28fbf3a1d03ee0",
+  "civil-inheritance-legatee-silence-sixty-days-written":
+    "4f957e52c90c4c7542bbb5cfccc0b117c57bb5e8068e1c261fedb9099e94a925",
+  "civil-inheritance-first-order-excludes-brother-written":
+    "653d86ba0806797ac9c86f43d6c6c79165391b456cf23d980b8409c413ba745c",
+  "civil-inheritance-second-order-half-sister-grandfather-written":
+    "966b909c77ebf9caee3d03ce86fd1550ff6387a49e07b5c8f2f217ccb9ca79d3",
+  "civil-inheritance-granddaughter-not-daughter-in-law-written":
+    "081067ff4b6bf217fefab5ab3b27ef4065c790d1daf02532ab39af6a20e82b6c",
+  "civil-inheritance-siblings-children-one-branch-written":
+    "8e6ef1c85868a02c48c86063c1dff31dd8269d289c605d848c05eeb58675aeaf",
+  "civil-inheritance-will-handwritten-no-notary-written":
+    "e9b26fa71c01dd5723dbf028a2cf6193eaa2c756ffcc0ec5d3e8fa54ff535884",
+  "civil-inheritance-will-printed-last-page-only-written":
+    "64b3c43c22b3bec1230f6c8e5aedba2d13e43c5341618730f7a3d8d9550f4f16",
+  "civil-inheritance-will-later-handwritten-conflict-written":
+    "bae0f75b94430a6ad5525637890ebe697d81b6ba9bc83d0a3dded177f71ddeff",
+  "civil-inheritance-will-necessary-share-adult-child-written":
+    "7a78233adf847d3cfdb7be4b0cf5dbc56ad29210dae0bc0731e3e5253748fe86",
+  "civil-inheritance-transfer-spouse-after-heir-death-written":
+    "37863557af1735883a9de09b48e121f6cc2776917ee6566ee3203a2c3cf5c175",
+  "civil-inheritance-transfer-written-waiver-before-death-written":
+    "a401ab3831d24a8ed42407c830ee70652f8dafb3ddf3e8880bb64ef06cc1000c",
+  "civil-inheritance-debt-inherited-value-limit-written":
+    "fafefc90d8a30804030f6389a9932d514951dc706395cd13e3d21ace3836768f",
+  "civil-inheritance-debt-before-cash-legacy-written":
+    "f1db2f2f45172f2ae1f04858ecc857f9d40a63f2b13983614b9506ac0344a191",
+};

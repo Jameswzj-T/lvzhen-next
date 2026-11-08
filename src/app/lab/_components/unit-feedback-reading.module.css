@@ -1,0 +1,87 @@
+.summary {
+  margin: 0 0 22px;
+}
+.pointList {
+  list-style: none;
+  margin: 12px 0 22px;
+  padding: 0;
+}
+.pointRow {
+  margin: 18px 0;
+  overflow-wrap: anywhere;
+}
+.pointHeading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 12px;
+}
+.pointHeading h3 {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.7;
+  font-weight: 600;
+}
+.pointStatus {
+  margin: 0;
+  color: var(--ink);
+  font-size: 17px;
+  line-height: 1.75;
+  font-weight: 500;
+}
+.pointCue {
+  margin: 6px 0 0;
+  font-size: 17px;
+  line-height: 1.75;
+  white-space: pre-wrap;
+}
+.judgment {
+  margin: 12px 0 22px;
+  font-size: 20px;
+  line-height: 1.75;
+  font-weight: 550;
+}
+.summaryHeading {
+  margin: 22px 0 8px;
+  font-size: 19px;
+  line-height: 1.7;
+  font-weight: 600;
+}
+.improvements {
+  margin: 8px 0 20px;
+  padding-left: 24px;
+}
+.improvements li {
+  margin: 10px 0;
+  padding-left: 4px;
+}
+.reference {
+  margin: 8px 0 22px;
+  white-space: pre-wrap;
+}
+.independent {
+  color: var(--muted);
+  font-weight: 400;
+}
+.details {
+  margin: 12px 0;
+  border-top: 1px solid var(--line);
+}
+.details > summary {
+  min-height: 48px;
+  align-content: center;
+  color: var(--blue);
+  cursor: pointer;
+  font-size: 17px;
+  line-height: 1.7;
+}
+@media (max-width: 700px) {
+  .pointHeading {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+  }
+  .judgment {
+    font-size: 19px;
+  }
+}

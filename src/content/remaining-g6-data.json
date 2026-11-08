@@ -1,0 +1,4061 @@
+{
+  "topics": [
+    {
+      "id": "remaining-g6-law-governance",
+      "chapterId": "REMAINING-G6-LAW-GOVERNANCE",
+      "subject": "theory-law",
+      "sectionId": "jurisprudence",
+      "title": "依法治国与法治建设",
+      "headline": "法治建设包含立法、执法、司法和守法，权力行使也须遵守法律。",
+      "paragraphs": [
+        "全面依法治国需要各环节共同推进，不能只靠法院，也不能把立法、执法或守法排除在外。",
+        "宪法和法律对国家机关同样有约束力，工作目标、内部批示不能成为任意越过法定权限和程序的理由。"
+      ],
+      "pitfall": "区分法治的整体要求与各机关的具体法定职责。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-law-sources",
+      "chapterId": "REMAINING-G6-LAW-SOURCES",
+      "subject": "theory-law",
+      "sectionId": "jurisprudence",
+      "title": "法律与习惯",
+      "headline": "处理民事纠纷先依法；法律没有规定时，可适用不违背公序良俗的习惯。",
+      "paragraphs": [
+        "习惯不是一概没有法律意义，也不能仅因存在习惯就排除现行法律。",
+        "适用习惯须审查其是否真实存在、是否用于法律没有规定的情形，以及是否违背公序良俗。"
+      ],
+      "pitfall": "不把任何地方做法都当成可以优先于法律的规则。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-law-hierarchy",
+      "chapterId": "REMAINING-G6-LAW-HIERARCHY",
+      "subject": "theory-law",
+      "sectionId": "jurisprudence",
+      "title": "规范效力与冲突裁决",
+      "headline": "下位规范不能任意抵触上位法；新一般与旧特别冲突不能只套一句新法优先。",
+      "paragraphs": [
+        "宪法具有最高法律效力，法律高于行政法规、地方性法规和规章。特别授权的变通须按其法定范围判断。",
+        "同一事项的新一般与旧特别规定冲突、不能确定如何适用时，须按立法法交相应机关裁决，不可一律直接否定旧特别规定。"
+      ],
+      "pitfall": "先区分规范层级和制定机关，再判断冲突规则。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-law-time",
+      "chapterId": "REMAINING-G6-LAW-TIME",
+      "subject": "theory-law",
+      "sectionId": "jurisprudence",
+      "title": "法律的时间效力",
+      "headline": "规范一般不溯及既往，有利保护权利的特别规定另行判断。",
+      "paragraphs": [
+        "立法法确立法律等规范一般不溯及既往的规则；不能因今天审理就当然把新规则套到过去一切事实。",
+        "为更好保护公民、法人和其他组织权利利益而作的特别规定，是法定例外；还须查具体衔接规则。"
+      ],
+      "pitfall": "本组用明示的假定规范练习一般规则，不替代具体部门法的时间效力制度。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-law-rights",
+      "chapterId": "REMAINING-G6-LAW-RIGHTS",
+      "subject": "theory-law",
+      "sectionId": "jurisprudence",
+      "title": "民事权利的行使与禁止滥用",
+      "headline": "有权利也要依法行使，不能以损害他人为唯一目的滥用。",
+      "paragraphs": [
+        "民事主体依法自主行使权利，同时履行法律和约定义务；权利并非无任何边界。",
+        "不得滥用民事权利损害国家利益、社会公共利益或者他人合法权益，须结合目的、方式和影响判断。"
+      ],
+      "pitfall": "不是别人不满意，就当然构成权利滥用。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-constitution-change",
+      "chapterId": "REMAINING-G6-CONSTITUTION-CHANGE",
+      "subject": "theory-law",
+      "sectionId": "constitution",
+      "title": "宪法效力与修改程序",
+      "headline": "宪法修改有特别的提议与表决门槛，不能拿普通议案多数替代。",
+      "paragraphs": [
+        "修改宪法由全国人大常委会或者五分之一以上全国人大代表提议。",
+        "须由全国人大以全体代表三分之二以上多数通过；普通法律和其他议案是全体代表过半数。"
+      ],
+      "pitfall": "分清提议权、决定机关及全体代表分母。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-constitution-election",
+      "chapterId": "REMAINING-G6-CONSTITUTION-ELECTION",
+      "subject": "theory-law",
+      "sectionId": "constitution",
+      "title": "选举权与直接选举",
+      "headline": "公民年满十八周岁依法享有选举权，不能任意附加财产学历条件。",
+      "paragraphs": [
+        "年满十八周岁的中国公民，除依法被剥夺政治权利外，依法享有选举权与被选举权，不分财产、教育程度等。",
+        "县、不设区的市、市辖区、乡等人大代表由选民直接选举，设区的市等更高层级依规定间接选举。"
+      ],
+      "pitfall": "公民资格、年龄和法定例外要看清，直接间接选举层级不能颠倒。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-constitution-personal",
+      "chapterId": "REMAINING-G6-CONSTITUTION-PERSONAL",
+      "subject": "theory-law",
+      "sectionId": "constitution",
+      "title": "人身自由与通信秘密",
+      "headline": "限制人身和检查通信都有法律边界，普通单位没有任意检查权。",
+      "paragraphs": [
+        "公民人身自由不受侵犯，禁止非法拘禁、非法搜查身体等。",
+        "通信自由和秘密受保护，宪法规定的检查须有国家安全或追查刑事犯罪等要求，并由法定机关依法定程序实施。"
+      ],
+      "pitfall": "不把单位管理需要当作法定强制或通信检查权限。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-constitution-freedoms",
+      "chapterId": "REMAINING-G6-CONSTITUTION-FREEDOMS",
+      "subject": "theory-law",
+      "sectionId": "constitution",
+      "title": "宗教信仰自由与受教育权",
+      "headline": "不得强迫公民信或不信宗教，受教育权也不能因性别随意剥夺。",
+      "paragraphs": [
+        "公民有宗教信仰自由，国家机关、社会团体和个人不得强制信仰或不信仰，不得因此歧视；宗教活动仍有法定边界。",
+        "公民有受教育的权利和义务，国家依法保障教育，不能以女孩应留家等理由任意排除受教育权。"
+      ],
+      "pitfall": "保护权利不等于任何行为都不受法律约束。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-constitution-organs",
+      "chapterId": "REMAINING-G6-CONSTITUTION-ORGANS",
+      "subject": "theory-law",
+      "sectionId": "constitution",
+      "title": "国家机关的宪法地位与职权",
+      "headline": "全国人大、常委会和国务院职权各有边界，监察机关也不等于行政机关。",
+      "paragraphs": [
+        "全国人大是最高国家权力机关，全国人大常委会有解释宪法、监督实施及解释法律等法定职权。国务院是最高国家权力机关的执行机关和最高国家行政机关。",
+        "监察委员会是国家监察机关，不因办理公职人员案件就变成政府内部行政部门。"
+      ],
+      "pitfall": "区分机关性质，不用工作内容相似代替宪法定位。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-constitution-local",
+      "chapterId": "REMAINING-G6-CONSTITUTION-LOCAL",
+      "subject": "theory-law",
+      "sectionId": "constitution",
+      "title": "民族自治机关与基层自治组织",
+      "headline": "民族自治机关有法定范围，村居委会属于基层群众性自治组织。",
+      "paragraphs": [
+        "民族自治地方的自治机关是自治区、自治州、自治县的人大和政府，不能把当地所有机关都称为自治机关。",
+        "居民委员会、村民委员会是基层群众性自治组织，依法办理本地公共事务等，不是乡镇政府的普通派出行政机关。"
+      ],
+      "pitfall": "组织帮助政府办事，不等于它就变成政府机关。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-tang-law",
+      "chapterId": "REMAINING-G6-TANG-LAW",
+      "subject": "theory-law",
+      "sectionId": "history",
+      "title": "唐律中的化外人相犯",
+      "headline": "按题目指定的唐律制度，区分同类化外人相犯与异类相犯。",
+      "paragraphs": [
+        "唐律对来自同一所属共同体的化外人自相犯，依其本俗法处理；异类相犯按唐律处理。",
+        "这是特定历史制度的复原，不是现行涉外刑事管辖或国籍冲突规则。"
+      ],
+      "pitfall": "不要把历史制度直接搬到今天，也不据此推论古代已具备现代平等权制度。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-song-separation",
+      "chapterId": "REMAINING-G6-SONG-SEPARATION",
+      "subject": "theory-law",
+      "sectionId": "history",
+      "title": "宋代鞫谳分司",
+      "headline": "按指定宋代制度，查明案情与检法议刑分工，不能混作同一职责。",
+      "paragraphs": [
+        "鞫司着重查明案件事实，谳司负责检法议刑，长官据相关结果裁断。",
+        "分工有形成制约的作用，但不是现代审判权独立制度，也不能概括所有时期层级安排完全一致。"
+      ],
+      "pitfall": "识别历史制度和具体分工，不用现代机关名称强行替换。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-qing-modern-code",
+      "chapterId": "REMAINING-G6-QING-MODERN-CODE",
+      "subject": "theory-law",
+      "sectionId": "history",
+      "title": "清末新刑律的体例与刑制",
+      "headline": "《大清新刑律》的编纂采用总则、分则，刑制不能套旧五刑。",
+      "paragraphs": [
+        "《大清新刑律》是清末专门刑法典的编纂成果，采用总则与分则等体例，不是旧律的吏户礼兵刑工六部排列。",
+        "其主刑列死刑、无期徒刑、有期徒刑、拘役、罚金，不能写成笞杖徒流死；编纂颁布不等于已在清朝全面施行。"
+      ],
+      "pitfall": "本组只辨文献与编纂内容，不编造清末具体案件已全面按新律裁判。",
+      "package": "theory"
+    },
+    {
+      "id": "remaining-g6-judicial-organs",
+      "chapterId": "REMAINING-G6-JUDICIAL-ORGANS",
+      "subject": "legal-profession",
+      "sectionId": "judicial-system",
+      "title": "法院、检察院与上下级关系",
+      "headline": "法院依法审判、检察院依法监督，上下级法院监督与上下级检察院领导不能混同。",
+      "paragraphs": [
+        "人民法院是国家审判机关，人民检察院是国家法律监督机关；二者依法分工负责。",
+        "上级法院监督下级法院审判工作，上级检察院领导下级检察院工作；不把法院审判关系写成普通行政上下级任意指令。"
+      ],
+      "pitfall": "性质和组织关系有宪法依据，不凭机构名称或行政级别推断。",
+      "package": "profession"
+    },
+    {
+      "id": "remaining-g6-juror-voting",
+      "chapterId": "REMAINING-G6-JUROR-VOTING",
+      "subject": "legal-profession",
+      "sectionId": "judicial-system",
+      "title": "人民陪审员的表决范围",
+      "headline": "三人庭与七人庭的陪审员法律适用表决权不同，不能套同一规则。",
+      "paragraphs": [
+        "人民陪审员参加三人合议庭，对事实认定和法律适用均独立发表意见并表决。",
+        "参加七人合议庭，对事实认定与法官共同表决；对法律适用可发表意见，但不参加表决。"
+      ],
+      "pitfall": "不参加某项表决，不等于完全不能发表意见。",
+      "package": "profession"
+    },
+    {
+      "id": "remaining-g6-judicial-ethics",
+      "chapterId": "REMAINING-G6-JUDICIAL-ETHICS",
+      "subject": "legal-profession",
+      "sectionId": "professional-ethics",
+      "title": "司法人员的廉洁与保密",
+      "headline": "案件结论没被改变，也不代表可以收受当事人财物或私泄办案信息。",
+      "paragraphs": [
+        "法官、检察官须遵守廉洁要求，不得接受当事人及有关人员请客送礼或财物，不能以自称仍公正为由免责。",
+        "办案中知悉的国家秘密、工作秘密、商业秘密和个人隐私等须依法保密，公开审判不等于全部未公开材料可以私下传播。"
+      ],
+      "pitfall": "本组只判断职业义务，不以是否达到刑事入罪数额作为唯一门槛。",
+      "package": "profession"
+    },
+    {
+      "id": "remaining-g6-lawyer-duty",
+      "chapterId": "REMAINING-G6-LAWYER-DUTY",
+      "subject": "legal-profession",
+      "sectionId": "professional-ethics",
+      "title": "律师保密与同案利益冲突",
+      "headline": "律师应保护执业秘密，不能同一案件同时代理对立双方。",
+      "paragraphs": [
+        "律师对执业知悉的商业秘密、个人隐私等负保密义务，法律规定的特定犯罪信息等例外另行判断。",
+        "同一案件不得为双方当事人担任代理人，不能只凭双方同意就把这项禁止消除；其他利益冲突须按相应规范判断。"
+      ],
+      "pitfall": "不把特定法定例外变成任何私下传播的借口，也不把同案禁止无限扩到所有无关事务。",
+      "package": "profession"
+    },
+    {
+      "id": "remaining-g6-notary-duty",
+      "chapterId": "REMAINING-G6-NOTARY-DUTY",
+      "subject": "legal-profession",
+      "sectionId": "professional-ethics",
+      "title": "公证回避与真实合法性",
+      "headline": "有利害关系应依法回避，付费不能让虚假材料变成可以公证。",
+      "paragraphs": [
+        "公证员不得为本人、近亲属办理公证，涉及法定利害关系应依法回避。",
+        "公证依程序证明真实性、合法性，申请人虚构隐瞒事实或提供虚假证明材料等法定情形，不予办理相应公证。"
+      ],
+      "pitfall": "收费不是购买公证结论，回避与材料核验都应依法进行。",
+      "package": "profession"
+    },
+    {
+      "id": "remaining-g6-sovereignty-peace",
+      "chapterId": "REMAINING-G6-SOVEREIGNTY-PEACE",
+      "subject": "international-law",
+      "sectionId": "public-international",
+      "title": "主权平等与和平解决争端",
+      "headline": "争端应和平解决，经济分歧本身不是任意用武的理由。",
+      "paragraphs": [
+        "国家应依法尊重主权并以和平方式解决国际争端，不得违法威胁或使用武力。",
+        "遭受武力攻击时的自卫有法定条件，采取自卫措施应立即向安理会报告；不等于无限使用武力。"
+      ],
+      "pitfall": "本组为明确事实的虚构情境，不对现实复杂冲突作结论。",
+      "package": "public"
+    },
+    {
+      "id": "remaining-g6-state-immunity",
+      "chapterId": "REMAINING-G6-STATE-IMMUNITY",
+      "subject": "international-law",
+      "sectionId": "public-international",
+      "title": "外国国家管辖豁免与执行豁免",
+      "headline": "符合条件的商业活动可能不享有管辖豁免，但执行财产还要另行审查。",
+      "paragraphs": [
+        "外国国家在中国境内从事商业活动等符合连接条件的争议，适用法定管辖豁免例外；活动性质并结合目的判断。",
+        "接受法院管辖不等于自动同意对全部国家财产采取强制措施，须另审执行豁免及财产特别保护。"
+      ],
+      "pitfall": "国家采购不是一概商业；馆舍等财产保护不能略过。",
+      "package": "public"
+    },
+    {
+      "id": "remaining-g6-nationality",
+      "chapterId": "REMAINING-G6-NATIONALITY",
+      "subject": "international-law",
+      "sectionId": "public-international",
+      "title": "出生与中国国籍",
+      "headline": "出生地、父母国籍及定居情况要一起看，不能只凭人在国外或国内一句话判断。",
+      "paragraphs": [
+        "父母双方或一方为中国公民、本人出生在中国，依法具有中国国籍。",
+        "出生国外的情形有父母中国国籍、定居国外及出生即取得外国国籍等特别条件；不把全部国外出生者一概排除。"
+      ],
+      "pitfall": "自动丧失国籍另须审查法定条件，持有居留证与取得外国国籍也不同。",
+      "package": "public"
+    },
+    {
+      "id": "remaining-g6-treaty-interpretation",
+      "chapterId": "REMAINING-G6-TREATY-INTERPRETATION",
+      "subject": "international-law",
+      "sectionId": "public-international",
+      "title": "条约履行与解释",
+      "headline": "有效条约须善意履行，解释不能只挑一个孤立词。",
+      "paragraphs": [
+        "对当事国有效的条约须善意履行，通常不能以内国普通法为不履行借口，缔约权限重大明显瑕疵等严格例外另看。",
+        "解释应依条文通常含义、上下文及目的宗旨，必要时使用补充资料；不任意扩成对第三国有约束力。"
+      ],
+      "pitfall": "条约是否参加、生效及保留要先明确，本组不推定接受所有争端管辖。",
+      "package": "public"
+    },
+    {
+      "id": "remaining-g6-diplomacy-assistance",
+      "chapterId": "REMAINING-G6-DIPLOMACY-ASSISTANCE",
+      "subject": "international-law",
+      "sectionId": "public-international",
+      "title": "外交馆舍与境内司法协助",
+      "headline": "使馆不可侵犯不等于外国领土，在中国送达取证仍须符合司法协助规则。",
+      "paragraphs": [
+        "外交馆舍的不可侵犯等保护是特别法律地位，不代表领土主权已转给派遣国。",
+        "外国使领馆可依法向本国公民作非强制送达取证，其他在中国自行送达取证须符合主管机关准许等要求，不得违法或强制。"
+      ],
+      "pitfall": "不得把外交豁免一概扩给所有领事或所有涉外人员。",
+      "package": "public"
+    },
+    {
+      "id": "remaining-g6-choice-mandatory",
+      "chapterId": "REMAINING-G6-CHOICE-MANDATORY",
+      "subject": "international-law",
+      "sectionId": "private-international",
+      "title": "选法自治与直接强制规范",
+      "headline": "法律允许的涉外合同选法不以实际联系为必要，但不能排除直接强制规范。",
+      "paragraphs": [
+        "在法律允许选择的范围内，当事人可选适用法，不能仅因所选法律与关系无实际联系就认定选法无效。",
+        "依法应直接适用的中国强制规范不被选外国法条款排除；不是任何国内强制条款都自动属于这类规范。"
+      ],
+      "pitfall": "选法律与选法院是不同问题，法律选择权限也不能无限扩大。",
+      "package": "private"
+    },
+    {
+      "id": "remaining-g6-foreign-law-ascertainment",
+      "chapterId": "REMAINING-G6-FOREIGN-LAW-ASCERTAINMENT",
+      "subject": "international-law",
+      "sectionId": "private-international",
+      "title": "外国法查明",
+      "headline": "查明责任随选法情况区分，一次查找失败不当然等于无法查明。",
+      "paragraphs": [
+        "依法应适用外国法时，法院按规则查明，可使用多种合法途径；双方未选法，不能只因一方不提交就径认不能查明。",
+        "当事人选择外国法时应提供，在合理期限内无正当理由不提供，可依法认定不能查明并适用中国法。"
+      ],
+      "pitfall": "不同解释有争议不等于法律不存在，也不能只凭一个网页打不开就结束查明。",
+      "package": "private"
+    },
+    {
+      "id": "remaining-g6-consumer-labor-choice",
+      "chapterId": "REMAINING-G6-CONSUMER-LABOR-CHOICE",
+      "subject": "international-law",
+      "sectionId": "private-international",
+      "title": "消费者与劳动合同的法律适用",
+      "headline": "这两类合同有专门连接点，不能直接照搬普通合同选法。",
+      "paragraphs": [
+        "消费者合同一般用消费者经常居所地法，但消费者选择商品服务提供地法或经营者未在其经常居所地经营等法定例外应区分。",
+        "劳动合同通常适用劳动者工作地法，难以确定时看雇主主营业地，劳务派遣另有法定路径。"
+      ],
+      "pitfall": "本组只判断准据法，不据此一概决定受理法院或最终赔偿。",
+      "package": "private"
+    },
+    {
+      "id": "remaining-g6-tort-choice",
+      "chapterId": "REMAINING-G6-TORT-CHOICE",
+      "subject": "international-law",
+      "sectionId": "private-international",
+      "title": "一般侵权的法律适用",
+      "headline": "一般侵权先看共同经常居所等规则，侵权发生后还可依法协议选法。",
+      "paragraphs": [
+        "一般侵权通常适用侵权行为地法，但双方有共同经常居所地时适用该地法。",
+        "侵权发生后当事人协议选择适用法律，依其约定；产品、人格权等特殊侵权另有规则。"
+      ],
+      "pitfall": "不要把所有特殊侵权都压成一个公式，也别把侵权前条款当成发生后协议。",
+      "package": "private"
+    },
+    {
+      "id": "remaining-g6-family-succession",
+      "chapterId": "REMAINING-G6-FAMILY-SUCCESSION",
+      "subject": "international-law",
+      "sectionId": "private-international",
+      "title": "结婚手续与法定继承",
+      "headline": "结婚形式有可选择的有效连接点，不动产法定继承另看所在地。",
+      "paragraphs": [
+        "结婚手续符合婚姻缔结地、一方经常居所地或国籍国法律，即可按相应规则认可形式；实质结婚条件另行审查。",
+        "法定继承一般以死亡时经常居所地法为连接，不动产法定继承适用不动产所在地法，遗嘱效力另有规则。"
+      ],
+      "pitfall": "形式、实质、法定继承和遗嘱不要混在一起。",
+      "package": "private"
+    },
+    {
+      "id": "remaining-g6-arbitration-seat",
+      "chapterId": "REMAINING-G6-ARBITRATION-SEAT",
+      "subject": "international-law",
+      "sectionId": "private-international",
+      "title": "涉外仲裁地与临时仲裁范围",
+      "headline": "仲裁地不等于开庭地点，境内临时仲裁也不是所有涉外争议都能任意采用。",
+      "paragraphs": [
+        "书面约定仲裁地具有程序法及司法监督等法律意义，单纯改变实际开庭地点不当然改变仲裁地。",
+        "现行仲裁法第82条临时仲裁只开放列明范围，须满足纠纷、区域企业等法定条件，不能泛称全部涉外纠纷都可自由适用。"
+      ],
+      "pitfall": "新仲裁法已于2026年3月施行，本组不使用旧条号或无限制临时仲裁结论。",
+      "package": "private"
+    },
+    {
+      "id": "remaining-g6-cisg-scope",
+      "chapterId": "REMAINING-G6-CISG-SCOPE",
+      "subject": "international-law",
+      "sectionId": "international-trade",
+      "title": "CISG适用与中国声明",
+      "headline": "公约适用看营业地等条件，不能只看国籍；中国不同声明的状态也要分开。",
+      "paragraphs": [
+        "营业地在不同缔约国的国际货物买卖，符合法定范围且未有效排除时，原则上适用CISG，国籍不是直接决定因素。",
+        "中国内地仍有不受第1条第1款b项约束的声明；2013年撤回书面形式声明，不等于撤回全部保留。香港适用状态另行核对。"
+      ],
+      "pitfall": "不把公约机械套到私人家用买卖、服务等全部合同。",
+      "package": "trade"
+    },
+    {
+      "id": "remaining-g6-cisg-formation",
+      "chapterId": "REMAINING-G6-CISG-FORMATION",
+      "subject": "international-law",
+      "sectionId": "international-trade",
+      "title": "CISG下要约与承诺",
+      "headline": "沉默本身不是承诺，实质改变要约的答复通常是反要约。",
+      "paragraphs": [
+        "在适用公约的交易中，承诺须依公约规则作出，单纯沉默或不作为本身不等于接受，交易习惯等特别情况另审。",
+        "答复实质改变价款、数量质量、争议解决等条件，通常不算原要约的承诺，而是拒绝并构成反要约。"
+      ],
+      "pitfall": "不把所有报价一律当有效要约，也不否认符合条件的行为承诺。",
+      "package": "trade"
+    },
+    {
+      "id": "remaining-g6-cisg-remedies",
+      "chapterId": "REMAINING-G6-CISG-REMEDIES",
+      "subject": "international-law",
+      "sectionId": "international-trade",
+      "title": "CISG下解除与减损",
+      "headline": "小瑕疵不当然允许解除，受损方还应合理避免损失扩大。",
+      "paragraphs": [
+        "解除须符合根本违约等公约法定条件，不能只要有任何瑕疵就全盘解除；通知及额外期限等路径须按具体情形判断。",
+        "受损方应采取合理措施减损，不采取时，可避免的扩大损失不能都转嫁给违约方。"
+      ],
+      "pitfall": "不是否认非根本违约的一切其他救济，也不是让受害人承担不合理风险。",
+      "package": "trade"
+    },
+    {
+      "id": "remaining-g6-letter-credit",
+      "chapterId": "REMAINING-G6-LETTER-CREDIT",
+      "subject": "international-law",
+      "sectionId": "international-trade",
+      "title": "信用证独立与欺诈止付",
+      "headline": "普通货物争议不当然阻止信用证付款，欺诈止付也须守住善意第三人保护。",
+      "paragraphs": [
+        "信用证付款义务独立于基础合同，单据表面相符时，普通质量争议不能当然让银行拒付。",
+        "有信用证欺诈时可依法申请止付，但法律对已经善意付款、议付等情形设有保护，不能只说有欺诈就任何环节一律止付。"
+      ],
+      "pitfall": "欺诈须证据与法定程序，不是申请人单方指控即可。",
+      "package": "trade"
+    },
+    {
+      "id": "remaining-g6-wto-nondiscrimination",
+      "chapterId": "REMAINING-G6-WTO-NONDISCRIMINATION",
+      "subject": "international-law",
+      "sectionId": "international-trade",
+      "title": "货物贸易最惠国与国民待遇",
+      "headline": "对外同类产品待遇与进口、国产同类产品内税待遇，要分清比较对象。",
+      "paragraphs": [
+        "货物贸易最惠国待遇原则上要求将给任何国家同类产品的相关优惠立即无条件给予其他成员同类产品，合法自贸等例外另看。",
+        "国民待遇约束进口与国产同类产品的内税、国内销售监管等歧视，不等于边境一律不得征收关税。"
+      ],
+      "pitfall": "本组明确排除相应例外，不把货物规则直接扩到所有服务投资。",
+      "package": "trade"
+    },
+    {
+      "id": "remaining-g6-trade-remedies",
+      "chapterId": "REMAINING-G6-TRADE-REMEDIES",
+      "subject": "international-law",
+      "sectionId": "international-trade",
+      "title": "反倾销与保障措施",
+      "headline": "低于本国产品价格不直接等于倾销，保障措施也不以倾销为必要前提。",
+      "paragraphs": [
+        "反倾销应依法认定出口价格低于正常价值、产业损害及因果关系并履行调查等要求，不能只拿进口国商品价格作唯一标准。",
+        "保障措施针对符合条件的进口增长及严重损害等，另有未预见发展和程序要求，不须先证明倾销，也不因进口增长就自动合法。"
+      ],
+      "pitfall": "不提供实时税率、制裁清单或现实争端的简化结论。",
+      "package": "trade"
+    },
+    {
+      "id": "remaining-g6-copyright-ownership",
+      "chapterId": "REMAINING-G6-COPYRIGHT-OWNERSHIP",
+      "subject": "intellectual-property",
+      "sectionId": "intellectual-property",
+      "title": "著作权归属与原件所有权",
+      "headline": "付创作费不一定买走著作权，买到作品原件也不等于取得全部版权。",
+      "paragraphs": [
+        "委托创作的著作权按合同约定，未明确约定时依法归受托人；不能只因付费就默认全归委托人。",
+        "作品原件所有权与著作权不同，买下画作原件不当然取得复制发行权；原件展览权等特别规定另看。"
+      ],
+      "pitfall": "作者身份、著作财产权和有形原件应分开。",
+      "package": "ip"
+    },
+    {
+      "id": "remaining-g6-copyright-fair-use",
+      "chapterId": "REMAINING-G6-COPYRIGHT-FAIR-USE",
+      "subject": "intellectual-property",
+      "sectionId": "intellectual-property",
+      "title": "合理使用与网络传播",
+      "headline": "署名和免费不是万能许可，合理使用还须有法定事由和适当范围。",
+      "paragraphs": [
+        "介绍、评论作品等目的的适当引用，可在法定共同条件内合理使用，应标明作者和出处。",
+        "不影响作品正常使用、不不合理损害权利人合法利益等条件仍须满足，不能把全文公开传播仅因免费就当合理使用。"
+      ],
+      "pitfall": "不预判复杂AI训练争议，也不把课堂少量使用扩成网上无限发布。",
+      "package": "ip"
+    },
+    {
+      "id": "remaining-g6-trademark-prior",
+      "chapterId": "REMAINING-G6-TRADEMARK-PRIOR",
+      "subject": "intellectual-property",
+      "sectionId": "intellectual-property",
+      "title": "商标先用与在先权利",
+      "headline": "注册不是抹掉全部在先权利，合条件先用可在原范围继续。",
+      "paragraphs": [
+        "依本题2026年10月适用的2019法，符合先于申请且先于注册人使用、已有一定影响等条件的先用人，可在原使用范围继续，注册人可要求区别标识。",
+        "申请注册不得损害他人已有在先权利，未注册商标不等于放弃在先著作权等合法权利。"
+      ],
+      "pitfall": "2026修订商标法要到2027年1月施行，届时另核迁移，不提前混用。",
+      "package": "ip"
+    },
+    {
+      "id": "remaining-g6-patent-duty",
+      "chapterId": "REMAINING-G6-PATENT-DUTY",
+      "subject": "intellectual-property",
+      "sectionId": "intellectual-property",
+      "title": "职务发明与科研使用例外",
+      "headline": "职务发明的申请权与发明人署名分开，科研名义也不免一切商业使用。",
+      "paragraphs": [
+        "执行单位任务等依法构成职务发明时，申请权原则归单位；发明人仍有在专利文件中署名等法定权利。",
+        "专为科学研究和实验使用有关专利有法定例外，但科研机构身份或将收入用于研究，不让普通生产销售自动免责。"
+      ],
+      "pitfall": "物质技术条件有约定、合作发明等另审；本组不扩期限补偿和开放许可程序。",
+      "package": "ip"
+    }
+  ],
+  "cases": [
+    {
+      "id": "remaining-g6-governance-whole",
+      "topicId": "remaining-g6-law-governance",
+      "title": "把全部法治任务交给法院",
+      "facts": "【原创教学案例】某地安排法治建设工作时，提出今后各部门不必审查规范是否合法、执法是否符合法定程序，只要法院在诉讼中把案件判好，就算完成当地全部法治建设任务。",
+      "prompt": "这种安排是否完整，为什么？",
+      "reference": "不完整。公正司法只是法治建设的一环，不能代替科学立法、严格执法和全民守法。各机关仍要在自己的权限内依法履职，不能等出了诉讼才把全部责任推给法院。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不完整，立法、执法、司法、守法应共同推进。",
+          "explanation": "法院审判不能替代其他环节职责。"
+        },
+        {
+          "text": "完整，其他机关都不受法律约束。",
+          "explanation": "国家机关同样须依法行使权力。"
+        },
+        {
+          "text": "法院判案后任何违法规范都自动变成合法。",
+          "explanation": "没有这一效果。"
+        },
+        {
+          "text": "法治建设只要求公民守法，机关可以例外。",
+          "explanation": "要求并非单向约束。"
+        }
+      ],
+      "points": [
+        {
+          "label": "整体建设",
+          "meaning": "说明不能仅靠司法，立法执法守法等共同推进。",
+          "boundary": "不要求机械列出固定口号顺序。"
+        },
+        {
+          "label": "各自履职",
+          "meaning": "联系其他部门仍须依法审查规范、履行法定程序，不能全部推给法院。",
+          "boundary": "不要求法院替行政机关完成执法。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-law-governance",
+        "remaining-g6-law-governance-constitution"
+      ]
+    },
+    {
+      "id": "remaining-g6-governance-order",
+      "topicId": "remaining-g6-law-governance",
+      "title": "内部批示能替代法定授权吗",
+      "facts": "【原创教学案例】某负责人给下属发内部批示，要求为赶项目进度采取一项法律没有授权该部门实施的强制措施，并称工作目标重要就可以先越权，之后再补说明。",
+      "prompt": "能否仅凭工作目标和内部批示越过法定权限？",
+      "reference": "不能。依法履职首先要求有法定权限，内部批示和进度目标不能代替法律授权。应改走有权限、有依据的处理路径，而不是用事后说明补成当时就有权。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "内部批示可以替代任何法律授权。",
+          "explanation": "内部要求不能无限扩张权限。"
+        },
+        {
+          "text": "只要追求公益，所有程序都可取消。",
+          "explanation": "公益目的不当然免除法定条件。"
+        },
+        {
+          "text": "不能，应在法定权限和程序内处理。",
+          "explanation": "工作进度不是越权依据。"
+        },
+        {
+          "text": "越权后补一封说明即当然从未违法。",
+          "explanation": "事后解释不等于原有授权。"
+        }
+      ],
+      "points": [
+        {
+          "label": "权限约束",
+          "meaning": "说明权力行使须有法定授权，批示不代替。",
+          "boundary": "不否认依法授权或依法特别措施。"
+        },
+        {
+          "label": "目的非免责",
+          "meaning": "联系赶进度不能越权，应改走合法路径。",
+          "boundary": "不要求列出题外具体救济种类。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-law-governance",
+        "remaining-g6-law-governance-constitution"
+      ]
+    },
+    {
+      "id": "remaining-g6-sources-custom",
+      "topicId": "remaining-g6-law-sources",
+      "title": "交易惯例不成文就一定没用吗",
+      "facts": "【原创教学案例】甲乙发生民事交易争议。对争议细节，现行法律和合同均没有规定。甲举证当地该类市场长期普遍采用一种结算习惯，乙认可其真实存在，也未提出违反公序良俗的事实，仅称没写进法律就绝对不能参考。",
+      "prompt": "乙的理由是否成立，适用习惯还应守住什么边界？",
+      "reference": "不成立。民事法律没有规定时，可以依法适用习惯，不成文并不让习惯当然失去意义。但仍须审查真实存在和公序良俗等条件，不能把任何临时做法都当作可适用习惯。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "凡不成文的交易习惯都绝不能适用。",
+          "explanation": "民法典允许一定条件下适用习惯。"
+        },
+        {
+          "text": "不成立，法律无规定时可依法适用习惯，但须守住公序良俗等边界。",
+          "explanation": "不是任何习惯都无条件适用。"
+        },
+        {
+          "text": "有任何一人如此做过就形成普遍习惯。",
+          "explanation": "须核实习惯是否真实存在。"
+        },
+        {
+          "text": "习惯一经主张就可以随意改掉强制法律。",
+          "explanation": "习惯不能当然排除法律。"
+        }
+      ],
+      "points": [
+        {
+          "label": "习惯地位",
+          "meaning": "说明法律没有规定时可依法适用习惯，不因不成文就绝对排除。",
+          "boundary": "本题不是随意绕过已有明确法律。"
+        },
+        {
+          "label": "适用边界",
+          "meaning": "指出须真实存在且不违背公序良俗等。",
+          "boundary": "不要求另创合同中的未约定事实。"
+        }
+      ],
+      "sources": ["remaining-g6-law-sources"]
+    },
+    {
+      "id": "remaining-g6-sources-law-first",
+      "topicId": "remaining-g6-law-sources",
+      "title": "旧习惯能推翻法律明确的权利吗",
+      "facts": "【原创教学案例】一项现行法律已明确给予符合条件的人某项民事权利，甲符合全部条件。当地一些人提出，只因甲来自外地，就按他们过去的做法完全排除这项权利。该法律没有授权这种区别，也无相应特别规定。",
+      "prompt": "能否用本题地方旧做法直接排除法律已明确的权利？",
+      "reference": "不能。处理民事纠纷应依法，习惯是在法律没有规定等条件下的补充，不能直接推翻已经明确适用的法律。甲的权利不能只因地方旧做法而被排除。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "只要地方人同意，就可推翻任何法律权利。",
+          "explanation": "习惯不当然高于法律。"
+        },
+        {
+          "text": "外地人依法取得的民事权利一律不受保护。",
+          "explanation": "无此一般规则。"
+        },
+        {
+          "text": "任何习惯都和法律具有完全相同的优先地位。",
+          "explanation": "适用条件与层级不同。"
+        },
+        {
+          "text": "不能，应依法律保护，不能用该旧做法直接排除。",
+          "explanation": "题设法律已有明确规定。"
+        }
+      ],
+      "points": [
+        {
+          "label": "依法优先",
+          "meaning": "说明本题法律已有规定，不能径以习惯排除。",
+          "boundary": "不把法律无规定时的补充适用一并否定。"
+        },
+        {
+          "label": "事实对应",
+          "meaning": "联系仅因外地身份排除既有权利，否定该做法。",
+          "boundary": "不要求判断题外其他权利限制。"
+        }
+      ],
+      "sources": ["remaining-g6-law-sources"]
+    },
+    {
+      "id": "remaining-g6-hierarchy-lower",
+      "topicId": "remaining-g6-law-hierarchy",
+      "title": "部门规章想直接改掉法律",
+      "facts": "【原创教学案例】某部门制定规章，允许所属机构实施一项全国性法律明确禁止的行为。没有任何授权变通，规章制定者称自己的文本公布较晚，所以比法律更新，应当优先。",
+      "prompt": "能否仅凭公布较晚，就让本题部门规章排除法律？",
+      "reference": "不能。法律效力高于部门规章，规章不得以公布较晚为由抵触法律。新旧规则不能跨越层级任意推翻上位法；本题也不存在法定授权变通。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，法律高于部门规章，晚公布不等于可抵触上位法。",
+          "explanation": "题设无授权变通。"
+        },
+        {
+          "text": "任何后公布文件都高于宪法。",
+          "explanation": "效力层级不由日期单独决定。"
+        },
+        {
+          "text": "只有纸质文件才可能有法律效力。",
+          "explanation": "与本题冲突无关。"
+        },
+        {
+          "text": "部门有实际管理职责就能任意修改法律。",
+          "explanation": "管理权限不是修法权限。"
+        }
+      ],
+      "points": [
+        {
+          "label": "层级识别",
+          "meaning": "说明法律效力高于部门规章。",
+          "boundary": "不把二者视为同一机关同层级新旧规范。"
+        },
+        {
+          "label": "日期非推翻",
+          "meaning": "否定仅凭晚公布抵触法律，联系无授权变通。",
+          "boundary": "不要求在此直接作出正式撤销决定。"
+        }
+      ],
+      "sources": ["remaining-g6-law-hierarchy"]
+    },
+    {
+      "id": "remaining-g6-hierarchy-special",
+      "topicId": "remaining-g6-law-hierarchy",
+      "title": "新的一般法律与旧的特别法律冲突",
+      "facts": "【原创教学案例】两部全国性法律对同一事项存在冲突：较早法律规定的是特定领域特别规则，较新法律规定的是一般规则。没有明确废止或衔接条款，依法研究后仍不能确定如何适用。办案人员拟只凭日期较新直接认定一般规则必定优先。",
+      "prompt": "能否这样处理，应由哪个机关依法裁决？",
+      "reference": "不能简单这样处理。法律之间新的一般规定与旧的特别规定冲突且不能确定如何适用，依法由全国人大常委会裁决。不能只凭日期就把旧特别规定当然废掉。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "任何部门办公室都能宣布旧法律作废。",
+          "explanation": "应走法定冲突裁决路径。"
+        },
+        {
+          "text": "永远由当事人任选法律且法院不得审查。",
+          "explanation": "无此一般规则。"
+        },
+        {
+          "text": "不能径按日期判断，依法由全国人大常委会裁决。",
+          "explanation": "适用立法法专门冲突规则。"
+        },
+        {
+          "text": "较新的一般法律在任何冲突中都必定优先。",
+          "explanation": "忽视旧特别与新一般的专门规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "冲突类型",
+          "meaning": "识别新一般与旧特别且不能确定适用，不简单按日期处理。",
+          "boundary": "不是明确已废止旧法。"
+        },
+        {
+          "label": "裁决机关",
+          "meaning": "指出法律之间此种冲突由全国人大常委会裁决。",
+          "boundary": "不误写成国务院裁决两部法律。"
+        }
+      ],
+      "sources": ["remaining-g6-law-hierarchy"]
+    },
+    {
+      "id": "remaining-g6-time-no-retro",
+      "topicId": "remaining-g6-law-time",
+      "title": "新规定能否自动增加过去行为的负担",
+      "facts": "【原创教学案例】【规范为题设假定】某法律2026年10月起对一种原本合法的民事行为新设额外负担，未规定追溯适用，也无其他衔接例外。甲的行为已在此前全部完成。机关仅因现在办理，就要求甲按新法为该旧行为承担新增负担。",
+      "prompt": "仅凭现在办理，能否当然把本题新负担追溯用于已完成行为？",
+      "reference": "不能当然追溯。法律等规范一般不溯及既往，本题没有追溯或特别衔接依据，不能只凭办理日期较新，就将新增负担加给此前已完成的行为。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "凡现在办理的事情都必须无条件追溯新法。",
+          "explanation": "办理日期不单独决定全部时间效力。"
+        },
+        {
+          "text": "不能当然追溯，本题无相应特别依据。",
+          "explanation": "应遵守一般不溯及既往原则。"
+        },
+        {
+          "text": "法律一公布就必定追溯百年前所有行为。",
+          "explanation": "没有这一规则。"
+        },
+        {
+          "text": "旧行为发生后便永远不受任何法律调整。",
+          "explanation": "仍须依法判断相应规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "一般原则",
+          "meaning": "说明法律一般不溯及既往。",
+          "boundary": "不否认具体法律特别时间规定。"
+        },
+        {
+          "label": "本题对应",
+          "meaning": "联系旧行为已完成且无特别依据，否定仅凭现在办理加新负担。",
+          "boundary": "不处理持续行为的题外规则。"
+        }
+      ],
+      "sources": ["remaining-g6-law-time"]
+    },
+    {
+      "id": "remaining-g6-time-beneficial",
+      "topicId": "remaining-g6-law-time",
+      "title": "明确的有利保护追溯条款",
+      "facts": "【原创教学案例】【规范为题设假定】某法律为更好保护受害人的民事权利，明确规定一项有利救济适用于施行前尚未处理的特定事实，甲的情况正落入该范围。乙仅以任何法律都绝不能追溯为由，要求不适用该明确条款。",
+      "prompt": "乙的绝对说法是否成立，本题应如何对待这项特别规定？",
+      "reference": "不成立。不溯及既往是一般原则，立法法保留为更好保护权利利益而作特别规定的例外。本题已明示符合该例外范围，应依法适用具体特别条款，不能一概排除追溯。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "法律任何情况下都绝无追溯例外。",
+          "explanation": "忽略立法法明示的有利保护例外。"
+        },
+        {
+          "text": "任何机关口头说有利就可以代替特别规定。",
+          "explanation": "仍需真实法定特别依据。"
+        },
+        {
+          "text": "只要有利任何人就能无限扩张到全部旧案。",
+          "explanation": "仍须守住具体条款范围。"
+        },
+        {
+          "text": "不成立，应依法按有利保护的明确特别规定处理。",
+          "explanation": "不是任意扩大追溯。"
+        }
+      ],
+      "points": [
+        {
+          "label": "例外识别",
+          "meaning": "说明为更好保护权利利益而作特别规定可构成例外。",
+          "boundary": "不是所有新法一律追溯。"
+        },
+        {
+          "label": "范围适用",
+          "meaning": "联系明示条款及甲符合范围，依法适用而非绝对排除。",
+          "boundary": "不要求编造题外条款。"
+        }
+      ],
+      "sources": ["remaining-g6-law-time"]
+    },
+    {
+      "id": "remaining-g6-rights-abuse",
+      "topicId": "remaining-g6-law-rights",
+      "title": "只为遮住邻居采光而搭无用高墙",
+      "facts": "【原创教学案例】甲与乙长期不和。在不存在安全或使用需求的情况下，甲耗资在自家范围搭起一堵对自己毫无用途的高墙，聊天记录写明只为让乙房间终年见不到阳光。高墙严重损害乙依法享有的相邻采光利益。",
+      "prompt": "甲能否仅以墙在自己范围、有财产权为由排除权利滥用问题？",
+      "reference": "不能。财产权应依法行使，不能仅以损害他人合法权益为目的滥用。本题高墙无自身合理用途、明确只为遮光且严重侵害乙相邻利益，甲构成权利滥用，应依法停止相应侵害，不能只凭位置在自家就免责。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，应结合损害目的、无合理用途及影响审查权利滥用。",
+          "explanation": "有财产权不代表可任意损害他人。"
+        },
+        {
+          "text": "只要在自己地界内就无任何法律边界。",
+          "explanation": "财产权行使仍受约束。"
+        },
+        {
+          "text": "只要邻居不高兴，所有正常使用都违法。",
+          "explanation": "不能只凭主观不满认定滥用。"
+        },
+        {
+          "text": "付出费用越多就必定合法。",
+          "explanation": "投入多少不是合法性标准。"
+        }
+      ],
+      "points": [
+        {
+          "label": "权利边界",
+          "meaning": "说明有财产权不排除禁止滥用。",
+          "boundary": "不否定正常合理使用财产。"
+        },
+        {
+          "label": "事实判断",
+          "meaning": "联系只为遮光、无自身用途及严重侵害，说明构成权利滥用。",
+          "boundary": "不把任何相邻矛盾一概视为滥用。"
+        }
+      ],
+      "sources": ["remaining-g6-law-rights"]
+    },
+    {
+      "id": "remaining-g6-rights-obligation",
+      "topicId": "remaining-g6-law-rights",
+      "title": "主张收货权却认为不必付款",
+      "facts": "【原创教学案例】甲乙订立有效买卖合同，双方权利义务均清楚。乙已按约交货，甲认可质量合格，却称自己享有收货的合同权利，所以支付价款的约定义务可以由自己单方取消。没有抵销、同时履行抗辩等其他事实。",
+      "prompt": "甲能否仅因享有合同权利，就单方免除本题约定付款义务？",
+      "reference": "不能。行使民事权利同时应履行法律规定和当事人约定的义务。本题乙已经依约履行，甲无其他抗辩依据，不能把自己的收货权当成单方取消付款义务的理由。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "享有一项权利就不需履行任何对应义务。",
+          "explanation": "权利义务不能如此割裂。"
+        },
+        {
+          "text": "只要声称不想履行，合同义务自动消失。",
+          "explanation": "单方想法不代替法定解除等依据。"
+        },
+        {
+          "text": "不能，应履行本题约定付款义务。",
+          "explanation": "无其他法定抗辩或变更依据。"
+        },
+        {
+          "text": "一切合同权利都只属于收货人。",
+          "explanation": "双方各有权利义务。"
+        }
+      ],
+      "points": [
+        {
+          "label": "权利义务",
+          "meaning": "说明权利行使不免法律和约定义务。",
+          "boundary": "不是否定合法抗辩或解除制度。"
+        },
+        {
+          "label": "本题履约",
+          "meaning": "联系合格交货及无抗辩，甲仍须按约付款。",
+          "boundary": "不要求算题目未给的利息。"
+        }
+      ],
+      "sources": ["remaining-g6-law-rights"]
+    },
+    {
+      "id": "remaining-g6-constitution-proposal",
+      "topicId": "remaining-g6-constitution-change",
+      "title": "十分之一代表能否单独提出修宪提议",
+      "facts": "【原创教学案例】一组全国人大代表人数为全体代表的十分之一，拟仅由本组以宪法规定的代表联名路径提出修宪提议。全国人大常委会没有提出提议，也无其他代表加入。",
+      "prompt": "本组人数是否已达到该项代表提议门槛？",
+      "reference": "没有。代表联名提出宪法修改提议须达到全体全国人大代表五分之一以上，十分之一不足。本题也没有全国人大常委会提出的另一条路径，不能据此认定提议条件已满足。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "任何一名代表都能单独完成法定修宪提议。",
+          "explanation": "代表联名有特别数量要求。"
+        },
+        {
+          "text": "没有，代表联名须五分之一以上。",
+          "explanation": "本题仅十分之一。"
+        },
+        {
+          "text": "国务院可直接自行修改宪法。",
+          "explanation": "修改须全国人大法定程序。"
+        },
+        {
+          "text": "只要有新闻报道就算修宪通过。",
+          "explanation": "报道不是法定程序。"
+        }
+      ],
+      "points": [
+        {
+          "label": "提议门槛",
+          "meaning": "指出代表联名须全体五分之一以上。",
+          "boundary": "不否定全国人大常委会另有提议权。"
+        },
+        {
+          "label": "本题未达",
+          "meaning": "指出十分之一不足且无另一提议路径。",
+          "boundary": "不混为通过门槛。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-change"]
+    },
+    {
+      "id": "remaining-g6-constitution-vote",
+      "topicId": "remaining-g6-constitution-change",
+      "title": "过半数能否通过宪法修正",
+      "facts": "【原创教学案例】某宪法修改提议已经合法提出。表决时赞成数为全体全国人大代表的60%，其他表决程序无争议。有人认为超过一半，就和普通议案一样已经通过。",
+      "prompt": "该赞成比例是否达到宪法修改的通过要求？",
+      "reference": "没有。宪法修改须全体代表三分之二以上多数通过，60%尚未达到。普通法律或其他议案的过半数标准不能用来替代修宪特别门槛。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何过半数均可通过修宪。",
+          "explanation": "普通议案门槛不能替代。"
+        },
+        {
+          "text": "只要出席代表过半数就一定足够。",
+          "explanation": "本项以全体代表及三分之二为准。"
+        },
+        {
+          "text": "提议一旦合法，表决即可完全取消。",
+          "explanation": "提议与通过是不同阶段。"
+        },
+        {
+          "text": "没有，修宪须全体代表三分之二以上。",
+          "explanation": "60%不足。"
+        }
+      ],
+      "points": [
+        {
+          "label": "通过标准",
+          "meaning": "说明须全体代表三分之二以上。",
+          "boundary": "不改成出席代表分母。"
+        },
+        {
+          "label": "区分普通议案",
+          "meaning": "联系60%不足，不能套普通过半标准。",
+          "boundary": "不否认提议已经合法。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-change"]
+    },
+    {
+      "id": "remaining-g6-election-property",
+      "topicId": "remaining-g6-constitution-election",
+      "title": "没有房产就不准登记选民",
+      "facts": "【原创教学案例】乙是年满十八周岁的中国公民，未被剥夺政治权利，符合本选区依法登记的其他条件。工作人员仅因乙没有房产、学历较低就拒绝登记，称投票资格可以按资产多少决定。",
+      "prompt": "能否仅因本题房产和学历条件排除乙的选举权？",
+      "reference": "不能。宪法规定相应公民依法享有选举权，不分财产状况和教育程度。乙满足题设法定条件，不能再任意添加有房、高学历门槛。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，财产和教育程度不能成为这种排除理由。",
+          "explanation": "题设法定资格均已具备。"
+        },
+        {
+          "text": "只有有房者才是中国公民。",
+          "explanation": "公民资格不由房产决定。"
+        },
+        {
+          "text": "选举权可以任意按资产明码出售。",
+          "explanation": "违反法定选举权保障。"
+        },
+        {
+          "text": "十八周岁公民在任何情况下都没有法定例外。",
+          "explanation": "仍有依法剥夺政治权利等例外。"
+        }
+      ],
+      "points": [
+        {
+          "label": "权利条件",
+          "meaning": "说明年满十八周岁的公民依法享权，法定例外另看。",
+          "boundary": "不把本选区登记条件全部取消。"
+        },
+        {
+          "label": "不得任加条件",
+          "meaning": "联系无房学历低不能据此排除。",
+          "boundary": "不要求写完整选举程序。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-election"]
+    },
+    {
+      "id": "remaining-g6-election-level",
+      "topicId": "remaining-g6-constitution-election",
+      "title": "县人大代表让上级直接指定",
+      "facts": "【原创教学案例】某县准备选举本届人大代表。有人建议不组织本县选民直接选举，而由上级机关从名单中直接指定全部代表，称所有人大代表都不用选民投票。",
+      "prompt": "这种建议是否符合本题县级人大代表的产生方式？",
+      "reference": "不符合。县级人大代表依法由选民直接选举，不能用上级直接指定代替。更高层级的间接选举规则也不等于由机关随意指定。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "任何人大代表都由行政机关任意指定。",
+          "explanation": "选举不等于行政任命。"
+        },
+        {
+          "text": "县级代表一律由村委会随意点名。",
+          "explanation": "村委会点名不替代法定选举。"
+        },
+        {
+          "text": "不符合，县级人大代表依法由选民直接选举。",
+          "explanation": "不能任意省略选举。"
+        },
+        {
+          "text": "所有选举层级和方式完全相同。",
+          "explanation": "直接、间接有法定区分。"
+        }
+      ],
+      "points": [
+        {
+          "label": "县级直接",
+          "meaning": "说明县级人大代表由选民直接选举。",
+          "boundary": "不把更高层级一律也说成直接选。"
+        },
+        {
+          "label": "指定不替代",
+          "meaning": "否定上级指定代替本题选举。",
+          "boundary": "不要求讨论推荐候选人等题外事项。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-election"]
+    },
+    {
+      "id": "remaining-g6-personal-confinement",
+      "topicId": "remaining-g6-constitution-personal",
+      "title": "公司把员工锁起来催赔款",
+      "facts": "【原创教学案例】公司怀疑乙造成工作损失，尚未核实就由保安把乙反锁在办公室，禁止离开整夜，要求先签赔偿承诺。没有任何法定强制措施或紧急救助事实，公司称员工手册允许便足够。",
+      "prompt": "能否以员工手册和索赔需要为由这样限制人身自由？",
+      "reference": "不能。索赔应走合法途径，不能靠员工手册授予公司非法拘禁权。题设反锁禁止离开，实质限制乙人身自由，内部管理和催赔不能成为当然依据。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "员工手册可授予任何私人拘禁权。",
+          "explanation": "内部制度不替代法定权限。"
+        },
+        {
+          "text": "不能，公司应依法解决争议，不能据此非法限制自由。",
+          "explanation": "宪法保护人身自由。"
+        },
+        {
+          "text": "只要怀疑有损失，公民人身权就消失。",
+          "explanation": "怀疑不等于法定强制依据。"
+        },
+        {
+          "text": "反锁一夜永远不算限制人身。",
+          "explanation": "看实际无法自由离开的事实。"
+        }
+      ],
+      "points": [
+        {
+          "label": "自由保护",
+          "meaning": "指出非法限制人身自由不被允许。",
+          "boundary": "不否定法定机关依法采取强制措施。"
+        },
+        {
+          "label": "管理非授权",
+          "meaning": "联系公司索赔及员工手册不能代替合法依据。",
+          "boundary": "不要求直接认定具体刑罚。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-personal"]
+    },
+    {
+      "id": "remaining-g6-personal-communication",
+      "topicId": "remaining-g6-constitution-personal",
+      "title": "街道办以掌握舆情为由拆私人信件",
+      "facts": "【原创教学案例】街道工作人员为掌握住户一般生活意见，统一拆开寄给居民的私人信件。没有居民同意，也无国家安全或追查刑事犯罪的法定检查程序，工作人员仅称基层工作需要。",
+      "prompt": "一般工作需要是否能成为本题任意拆信的宪法依据？",
+      "reference": "不能。公民通信自由和秘密受宪法保护，法定检查有事由、机关和程序限制。本题一般掌握意见不属已给出的法定检查路径，街道不能仅凭工作需要任意拆信。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何基层人员都可随时拆私人信件。",
+          "explanation": "没有这种普遍权限。"
+        },
+        {
+          "text": "信封寄到本街道就不再受保护。",
+          "explanation": "寄送地点不消灭通信秘密。"
+        },
+        {
+          "text": "只有书面抱怨才享有通信自由。",
+          "explanation": "权利不取决于是否抱怨。"
+        },
+        {
+          "text": "不能，法定检查有特定事由、机关和程序要求。",
+          "explanation": "本题均无相应依据。"
+        }
+      ],
+      "points": [
+        {
+          "label": "秘密保护",
+          "meaning": "指出通信自由和秘密受宪法保护。",
+          "boundary": "不宣称任何法定检查都不允许。"
+        },
+        {
+          "label": "法定边界",
+          "meaning": "联系一般意见调查非相应法定事由、机关程序，否定任意拆信。",
+          "boundary": "不要求以刑事违法认定作为前提。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-personal"]
+    },
+    {
+      "id": "remaining-g6-freedom-belief",
+      "topicId": "remaining-g6-constitution-freedoms",
+      "title": "登记服务要求先签信仰保证",
+      "facts": "【原创教学案例】乙申请一项面向符合条件居民的公共服务，已满足全部法定条件。工作人员另外要求乙先承诺放弃某种正常宗教信仰，否则不受理，没有法律授权这一条件，也未涉及违法宗教活动。",
+      "prompt": "能否将本题放弃信仰承诺作为额外服务门槛？",
+      "reference": "不能。宪法保护宗教信仰自由，不得强制公民信仰或不信仰。本题没有相关违法行为或法定限制依据，机关不能任意把放弃正常信仰作为服务条件。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，公权力不得任意强制放弃正常信仰。",
+          "explanation": "本题不存在相应合法限制。"
+        },
+        {
+          "text": "工作人员可要求任何人按自己喜好改变信仰。",
+          "explanation": "侵犯信仰自由。"
+        },
+        {
+          "text": "申请公共服务即永远失去基本权利。",
+          "explanation": "无此效果。"
+        },
+        {
+          "text": "只要称宗教活动，任何违法行为都被宪法豁免。",
+          "explanation": "正常保护不免除法定义务。"
+        }
+      ],
+      "points": [
+        {
+          "label": "信仰自由",
+          "meaning": "说明不得强制信仰或不信仰宗教。",
+          "boundary": "不扩张为一切宗教名义行为都免责。"
+        },
+        {
+          "label": "额外门槛",
+          "meaning": "联系乙符合法定条件且无法定授权，否定本题门槛。",
+          "boundary": "不要求讨论其他合法服务条件。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-freedoms"]
+    },
+    {
+      "id": "remaining-g6-freedom-education",
+      "topicId": "remaining-g6-constitution-freedoms",
+      "title": "女孩读到小学就不让再上学",
+      "facts": "【原创教学案例】乙的女儿正处依法应接受义务教育的年龄。家长与村中个别人仅因她是女孩，就要求学校除名让她长期在家干活。没有依法缓学等特殊情况，学校准备只按这种要求办理。",
+      "prompt": "能否仅因本题性别和家长要求排除孩子依法受教育？",
+      "reference": "不能。公民受教育的权利和义务受宪法和法律保障，妇女在教育等方面与男子享有平等权利。家长偏好和性别理由不能代替合法处理，应依法保障孩子接受教育。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "家长一句话可永久取消孩子任何受教育权。",
+          "explanation": "监护应依法保障教育。"
+        },
+        {
+          "text": "女孩依法一律不得接受义务教育。",
+          "explanation": "与平等受教育要求相反。"
+        },
+        {
+          "text": "不能，应依法保障孩子受教育，不得仅因性别排除。",
+          "explanation": "题设无合法特殊情形。"
+        },
+        {
+          "text": "只有男孩才是宪法中的公民。",
+          "explanation": "公民资格不以性别区分。"
+        }
+      ],
+      "points": [
+        {
+          "label": "教育权义务",
+          "meaning": "说明应依法保障接受教育，家长不能随意取消。",
+          "boundary": "不否认依法缓学等特别情形。"
+        },
+        {
+          "label": "性别平等",
+          "meaning": "指出仅因女孩排除教育违反平等保障。",
+          "boundary": "不要求列出具体处罚数额。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-freedoms"]
+    },
+    {
+      "id": "remaining-g6-organs-interpret",
+      "topicId": "remaining-g6-constitution-organs",
+      "title": "把正式宪法解释权交给国务院部门",
+      "facts": "【原创教学案例】学习讨论中，甲认为国务院负责全国行政管理，因此任一国务院部门只要发一份通知，就可以以宪法规定的正式解释机关身份作出宪法解释。乙提出应先核对宪法列明的机关职权。",
+      "prompt": "甲的机关判断是否正确，宪法列明谁行使解释宪法的职权？",
+      "reference": "不正确。宪法列明全国人大常委会行使解释宪法、监督宪法实施的职权，不能因为国务院部门负责行政管理，就把通知当作有权机关的正式宪法解释。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "国务院每个部门都能自行作正式宪法解释。",
+          "explanation": "行政管理职责不产生该职权。"
+        },
+        {
+          "text": "不正确，宪法列明全国人大常委会行使该职权。",
+          "explanation": "应按法定机关职权区分。"
+        },
+        {
+          "text": "任何私人公司都与全国人大常委会同样有权。",
+          "explanation": "无此机关身份。"
+        },
+        {
+          "text": "机关是否有权只取决于通知字数。",
+          "explanation": "与法定职权无关。"
+        }
+      ],
+      "points": [
+        {
+          "label": "有权机关",
+          "meaning": "指出全国人大常委会行使解释宪法的职权。",
+          "boundary": "不把一般宪法学习解读也当作正式有权解释。"
+        },
+        {
+          "label": "行政职权区分",
+          "meaning": "说明国务院部门管理职责或通知不能替代该职权。",
+          "boundary": "不否定其依法制定职责内文件。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-organs"]
+    },
+    {
+      "id": "remaining-g6-organs-supervision",
+      "topicId": "remaining-g6-constitution-organs",
+      "title": "监察委员会只是政府一个科室吗",
+      "facts": "【原创教学案例】甲在介绍国家机构时，把依法设立的监察委员会写成同级政府可以任意设置撤销的普通内设行政科室，理由是其工作也与公职人员管理有关。",
+      "prompt": "仅凭工作对象类似，能否作出本题机关性质判断？",
+      "reference": "不能。各级监察委员会是宪法规定的国家监察机关，不是同级政府的普通内设行政科室。工作对象与公职人员有关，不改变其法定性质和依法行使职权的地位。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "只要工作涉及公职人员，就都是政府科室。",
+          "explanation": "工作对象不决定法定机关性质。"
+        },
+        {
+          "text": "监察委员会是私人行业协会。",
+          "explanation": "与宪法规定不符。"
+        },
+        {
+          "text": "任何政府科室都能随意改名取得监察机关全部权力。",
+          "explanation": "法定职权不能任意取得。"
+        },
+        {
+          "text": "不能，应依宪法确认其国家监察机关性质。",
+          "explanation": "不是普通政府内设科室。"
+        }
+      ],
+      "points": [
+        {
+          "label": "监察性质",
+          "meaning": "指出监察委员会属于国家监察机关。",
+          "boundary": "不混为人民检察院或行政科室。"
+        },
+        {
+          "label": "法定地位",
+          "meaning": "否定以对象相似就认作政府可任意设置科室。",
+          "boundary": "不要求讨论本题未问的具体留置程序。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-organs"]
+    },
+    {
+      "id": "remaining-g6-local-autonomy-organ",
+      "topicId": "remaining-g6-constitution-local",
+      "title": "自治县法院是不是自治机关",
+      "facts": "【原创教学案例】某自治县拟制作机关分类图，把自治县人民法院、人民检察院与县人大、县政府全都列为宪法所称民族自治地方的自治机关，依据只是它们都位于自治县。",
+      "prompt": "能否仅因位于自治县，就把本题所有机关一并列为自治机关？",
+      "reference": "不能。宪法所称民族自治地方自治机关是该地方的人大和人民政府。法院、检察院有各自法定性质，不能仅因地理位置在自治县就一并列入这一概念。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，法定自治机关范围是该地方人大和政府。",
+          "explanation": "所在地不单独决定机关分类。"
+        },
+        {
+          "text": "自治县境内所有组织都是自治机关。",
+          "explanation": "范围被无限扩张。"
+        },
+        {
+          "text": "只要私人住所位于自治县就有自治立法权。",
+          "explanation": "个人不因此成为自治机关。"
+        },
+        {
+          "text": "民族自治机关可以不遵守任何宪法法律。",
+          "explanation": "自治在宪法法律框架内。"
+        }
+      ],
+      "points": [
+        {
+          "label": "法定范围",
+          "meaning": "说明自治机关为相应地方人大和政府。",
+          "boundary": "不是全部位于当地的国家机关。"
+        },
+        {
+          "label": "分类纠正",
+          "meaning": "指出法院检察院不能只凭所在地列入。",
+          "boundary": "不否定当地依法行使其他职权。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-local"]
+    },
+    {
+      "id": "remaining-g6-local-village",
+      "topicId": "remaining-g6-constitution-local",
+      "title": "协助防汛就变成乡政府派出机关",
+      "facts": "【原创教学案例】村委会按法律协助政府开展防汛，工作人员因此在介绍材料中称村委会已经变成乡政府可随意任命全部成员的派出行政机关，不再需要依法实行村民自治。",
+      "prompt": "协助防汛是否足以改变本题村委会的组织性质？",
+      "reference": "不足以。村委会是基层群众性自治组织，依法协助政府不使其变为普通派出行政机关。其成员产生、自治事项等仍须依法处理，不能只因协助一项事务就随意取消自治。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "只要协助政府任何一次就自动成为行政机关。",
+          "explanation": "协助不改变法定性质。"
+        },
+        {
+          "text": "村委会完全不能依法协助任何公共事务。",
+          "explanation": "自治组织可以依法办理协助事务。"
+        },
+        {
+          "text": "不足以，仍是基层群众性自治组织。",
+          "explanation": "成员产生与自治继续依法处理。"
+        },
+        {
+          "text": "防汛期间宪法规定全部自动消失。",
+          "explanation": "无此效果。"
+        }
+      ],
+      "points": [
+        {
+          "label": "组织性质",
+          "meaning": "说明村委会是基层群众性自治组织。",
+          "boundary": "不是将其等同乡政府。"
+        },
+        {
+          "label": "协助非改变",
+          "meaning": "联系依法协助防汛不改变性质，不能据此取消自治。",
+          "boundary": "不排除法定指导协助关系。"
+        }
+      ],
+      "sources": ["remaining-g6-constitution-local"]
+    },
+    {
+      "id": "remaining-g6-tang-same",
+      "topicId": "remaining-g6-tang-law",
+      "title": "两名同一国商旅在唐境内相犯",
+      "facts": "【原创教学案例】【法律史制度复原】两名商旅均来自同一个外国共同体，来到唐境后彼此发生犯罪纠纷。题目明确按《唐律疏议》所述化外人相犯规则考查，二人的所属无争议，不涉及唐人与化外人相犯。",
+      "prompt": "本题应按本俗法还是一概按唐律，能否把这个答案直接当成今天的规则？",
+      "reference": "按题目指定的唐制，同类化外人自相犯依其本俗法处理，不能只因发生在唐境就一概改按唐律。该结论只用于所考历史制度，不能直接当成现行涉外法律规则。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要在唐境，无论化外人类别一概按唐律。",
+          "explanation": "忽略同类相犯的历史特别规则。"
+        },
+        {
+          "text": "依本俗法，且不能直接搬作今天的规则。",
+          "explanation": "题目限定同类化外人及历史制度。"
+        },
+        {
+          "text": "双方可以在任何时代任意选任何刑法。",
+          "explanation": "没有这个跨时代结论。"
+        },
+        {
+          "text": "只要来自国外，任何行为在唐境都不处理。",
+          "explanation": "不是当然免于法律处理。"
+        }
+      ],
+      "points": [
+        {
+          "label": "同类本俗",
+          "meaning": "联系来自同一所属共同体，说明依指定唐制适用本俗法。",
+          "boundary": "不扩大到唐人与化外人相犯。"
+        },
+        {
+          "label": "历史边界",
+          "meaning": "说明不能直接用作现行涉外规则。",
+          "boundary": "不要求计算未提供的具体刑罚。"
+        }
+      ],
+      "sources": ["remaining-g6-tang-law"]
+    },
+    {
+      "id": "remaining-g6-tang-different",
+      "topicId": "remaining-g6-tang-law",
+      "title": "不同国家商旅各自要求用本国规则",
+      "facts": "【原创教学案例】【法律史制度复原】甲乙分别来自两个不同的外国共同体，在唐境内相犯。题目只按《唐律疏议》的化外人规则考查，两人都主张仅用自己的本国规则，不涉及真实现代争端。",
+      "prompt": "按指定唐制应如何选择规则，能否仅由一方指定自己的本俗法？",
+      "reference": "本题属异类化外人相犯，依指定唐制按唐律处理，不能由任一方只凭自己所属就单方指定其本俗法。不要把同类相犯的处理直接套到异类相犯。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "甲先说话就永远只用甲国规则。",
+          "explanation": "无此单方选择规则。"
+        },
+        {
+          "text": "乙是受害人就自动有不限范围的立法权。",
+          "explanation": "与历史制度不符。"
+        },
+        {
+          "text": "异类相犯绝对不受任何法律处理。",
+          "explanation": "不是该规则。"
+        },
+        {
+          "text": "按唐律，不由一方任意单方指定本俗法。",
+          "explanation": "区分同类与异类。"
+        }
+      ],
+      "points": [
+        {
+          "label": "异类唐律",
+          "meaning": "指出不同所属共同体，依指定唐制按唐律。",
+          "boundary": "不混同同类本俗规则。"
+        },
+        {
+          "label": "不任意选择",
+          "meaning": "否定任一方可单方决定用自己的本俗法。",
+          "boundary": "不延伸到现行准据法选择。"
+        }
+      ],
+      "sources": ["remaining-g6-tang-law"]
+    },
+    {
+      "id": "remaining-g6-song-division",
+      "topicId": "remaining-g6-song-separation",
+      "title": "审问取证与检法议刑分开办",
+      "facts": "【原创教学案例】【法律史制度复原】某宋代地方机关按指定制度，安排一组官员审问、核对证据以查明案情，另一组根据案情检索律令、议定刑罚，再交长官裁断。题目只问这一分工的制度识别。",
+      "prompt": "这体现什么制度，前两组分别承担何种职责？",
+      "reference": "体现鞫谳分司。查明案情的一组承担鞫的职责，检法议刑的一组承担谳的职责，最后由长官据此裁断。不能把检法议刑误写成重新包办全部取证。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "鞫谳分司，鞫查事实、谳检法议刑。",
+          "explanation": "符合指定制度分工。"
+        },
+        {
+          "text": "现代陪审团在宋代已经完全照搬实行。",
+          "explanation": "不能以现代概念替代题设历史制度。"
+        },
+        {
+          "text": "两组都只负责征税，与审判无关。",
+          "explanation": "与案情职责不符。"
+        },
+        {
+          "text": "只有检法者可以发现任何事实，取证组没有职责。",
+          "explanation": "颠倒事实调查分工。"
+        }
+      ],
+      "points": [
+        {
+          "label": "制度识别",
+          "meaning": "指出鞫谳分司。",
+          "boundary": "不要求特定繁简字写法。"
+        },
+        {
+          "label": "职责对应",
+          "meaning": "说明鞫查案情，谳检法议刑，按事实分工。",
+          "boundary": "不要求背出各时期全部官职。"
+        }
+      ],
+      "sources": ["remaining-g6-song-separation"]
+    },
+    {
+      "id": "remaining-g6-song-not-modern",
+      "topicId": "remaining-g6-song-separation",
+      "title": "把古代分工直接等同现代司法独立",
+      "facts": "【原创教学案例】【法律史制度复原】同学甲看见宋代查案与检法由不同人员承担，就说这一点足以证明宋代已经完整实行今天的审判机关独立行使审判权制度，不再需要看长官裁断等历史条件。",
+      "prompt": "能否仅凭本题分工就得出这一现代制度结论？",
+      "reference": "不能。鞫谳分司体现查明案情与检法议刑的历史分工及制约，但还要放在当时长官裁断等制度中理解。不能仅因有分工，就认定与今天的审判权制度完全相同。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "凡有两个人参与办案就等于所有现代制度。",
+          "explanation": "概念和历史条件不同。"
+        },
+        {
+          "text": "历史制度完全没有研究价值。",
+          "explanation": "本题是否等同现代制度与研究价值不同。"
+        },
+        {
+          "text": "不能，应保留历史分工与现代制度的区别。",
+          "explanation": "不能从单一相似点推出完全相同。"
+        },
+        {
+          "text": "既然叫分司，就不再有最终裁断。",
+          "explanation": "题设制度仍有裁断环节。"
+        }
+      ],
+      "points": [
+        {
+          "label": "分工含义",
+          "meaning": "说明是查案与检法议刑的历史分工制约。",
+          "boundary": "不把其作用说成完全没有。"
+        },
+        {
+          "label": "不可等同",
+          "meaning": "联系长官裁断等历史条件，否定当然等同现代审判制度。",
+          "boundary": "不要求评价古今制度优劣。"
+        }
+      ],
+      "sources": ["remaining-g6-song-separation"]
+    },
+    {
+      "id": "remaining-g6-qing-structure",
+      "topicId": "remaining-g6-qing-modern-code",
+      "title": "展板把新刑律仍写成六部体例",
+      "facts": "【原创教学案例】【法律史文献辨识】博物馆为《大清新刑律》制作说明，草稿称它与传统旧律完全一样，按吏、户、礼、兵、刑、工六部编排，不存在总则与分则。审稿人要求核对该法典实际编纂体例。",
+      "prompt": "本题展板应如何修改，能否仅因编纂颁布就宣称已在清朝全面施行？",
+      "reference": "应改为该新刑律采用总则、分则的专门刑法典体例，不能套用旧律六部体例。还要区分编纂颁布与实际施行，不能仅据文献形成就宣称已在清朝全面实施。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "新刑律必定没有总则和分则。",
+          "explanation": "与编纂体例不符。"
+        },
+        {
+          "text": "改为总则、分则体例，并区分编纂与全面施行。",
+          "explanation": "不能把新刑律等同旧律或扩大实施事实。"
+        },
+        {
+          "text": "只要书名有刑字，所有时代体例都相同。",
+          "explanation": "书名相似不等于结构相同。"
+        },
+        {
+          "text": "任何历史文献一写成就立即全国完整施行。",
+          "explanation": "不能作这种推论。"
+        }
+      ],
+      "points": [
+        {
+          "label": "体例改正",
+          "meaning": "指出总则、分则，不是旧六部体例。",
+          "boundary": "不要求逐章背诵。"
+        },
+        {
+          "label": "实施边界",
+          "meaning": "说明编纂颁布不能直接证明清朝已全面施行。",
+          "boundary": "不编造具体实施案。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-qing-modern-code",
+        "remaining-g6-qing-modern-code-penalties"
+      ]
+    },
+    {
+      "id": "remaining-g6-qing-penalties",
+      "topicId": "remaining-g6-qing-modern-code",
+      "title": "给新刑律误配旧五刑",
+      "facts": "【原创教学案例】【法律史文献辨识】一张介绍《大清新刑律》编纂内容的卡片，把其五种主刑写成笞、杖、徒、流、死。题目只考文献中的刑种，不讨论它在清朝实际施行范围。",
+      "prompt": "该刑种列举是否正确，应怎样改正？",
+      "reference": "不正确。该新刑律的主刑应列死刑、无期徒刑、有期徒刑、拘役和罚金，不能把传统笞杖徒流死直接当成新刑律五种主刑。这里只辨编纂内容，不由此推断已全面施行。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "笞杖徒流死在所有现代与古代刑法中都完全相同。",
+          "explanation": "不能混同不同历史刑制。"
+        },
+        {
+          "text": "新刑律从来没有任何主刑。",
+          "explanation": "与所考文献不符。"
+        },
+        {
+          "text": "主刑只有民事赔偿一项。",
+          "explanation": "民事责任不能冒作该主刑表。"
+        },
+        {
+          "text": "不正确，应列死刑、无期徒刑、有期徒刑、拘役、罚金。",
+          "explanation": "不能套旧五刑。"
+        }
+      ],
+      "points": [
+        {
+          "label": "识别误配",
+          "meaning": "指出旧五刑不等于本新刑律主刑。",
+          "boundary": "不是否认旧五刑在相关历史中的存在。"
+        },
+        {
+          "label": "列举改正",
+          "meaning": "给出死刑、无期徒刑、有期徒刑、拘役、罚金。",
+          "boundary": "不要求法定排列顺序。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-qing-modern-code",
+        "remaining-g6-qing-modern-code-penalties"
+      ]
+    },
+    {
+      "id": "remaining-g6-judicial-relation",
+      "topicId": "remaining-g6-judicial-organs",
+      "title": "法院和检察院都写成领导关系",
+      "facts": "【原创教学案例】培训材料写道：上级法院与上级检察院对下级都适用完全相同的领导关系，上级法院可以不经法定程序只用行政口头指令替下级决定案件结果。学员要求按宪法改正。",
+      "prompt": "本题两类上下级关系应如何区分，能否用口头行政指令替代法定审判程序？",
+      "reference": "应区分：上级法院监督下级法院审判工作，上级检察院领导下级检察院工作。法院依法独立行使审判权，监督须依法进行，不能据行政口头指令绕开法定审判程序。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "法院是审判监督关系，检察院是领导关系，不能以口头指令替代法定审判。",
+          "explanation": "依法区分机构关系及程序。"
+        },
+        {
+          "text": "任何上级人员一句话均能取消法定审判程序。",
+          "explanation": "没有这种一般权限。"
+        },
+        {
+          "text": "检察机关全部只是法院的内设科室。",
+          "explanation": "机关性质和组织均不同。"
+        },
+        {
+          "text": "下级法院依法审判就永远不受任何法定监督。",
+          "explanation": "独立审判不排除法定监督。"
+        }
+      ],
+      "points": [
+        {
+          "label": "上下级区分",
+          "meaning": "说明法院监督审判工作，检察院上下级领导关系。",
+          "boundary": "不把监督说成绝无约束的私人建议。"
+        },
+        {
+          "label": "法定程序",
+          "meaning": "否定口头行政指令替代本题依法审判。",
+          "boundary": "不否认法定审判监督及司法解释等制度。"
+        }
+      ],
+      "sources": ["remaining-g6-judicial-organs"]
+    },
+    {
+      "id": "remaining-g6-judicial-functions",
+      "topicId": "remaining-g6-judicial-organs",
+      "title": "起诉机关可否自己宣布刑事有罪",
+      "facts": "【原创教学案例】检察机关审查一件刑事案件后，认为证据可以支持起诉。某工作人员提出既然检察机关负责法律监督，就可以不移送法院审判，直接以本机关决定代替有罪判决。本题无其他法定特别程序。",
+      "prompt": "起诉和监督职权是否让检察机关可以这样替代法院定罪？",
+      "reference": "不可以。人民检察院履行起诉、法律监督等法定职责，人民法院依法行使审判权；刑事有罪判决应走法定审判程序，不能仅凭检察机关认为可以起诉就代替法院判决。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "能起诉就当然能自行完成任何有罪判决。",
+          "explanation": "起诉与审判职权不同。"
+        },
+        {
+          "text": "所有法律监督机关都有相同的直接定罪权。",
+          "explanation": "不能无限扩张监督。"
+        },
+        {
+          "text": "不能，应区分检察职能和法院审判职能。",
+          "explanation": "移送起诉不等于已判有罪。"
+        },
+        {
+          "text": "认为证据足够就可以完全取消辩护与审判。",
+          "explanation": "不符法定程序。"
+        }
+      ],
+      "points": [
+        {
+          "label": "职能区分",
+          "meaning": "说明法院审判与检察起诉监督不同。",
+          "boundary": "不否认检察机关依法作其他处理决定。"
+        },
+        {
+          "label": "不能替代",
+          "meaning": "指出认为可以起诉不等于有罪判决，应依法审判。",
+          "boundary": "不要求评价本题具体证据真伪。"
+        }
+      ],
+      "sources": ["remaining-g6-judicial-organs"]
+    },
+    {
+      "id": "remaining-g6-juror-three",
+      "topicId": "remaining-g6-juror-voting",
+      "title": "三人庭陪审员被禁止表决法律问题",
+      "facts": "【原创教学案例】案件由依法组成的三人合议庭审理，成员中有人民陪审员。评议时，审判长只因陪审员不是职业法官，就要求其不得就法律适用表决，仅可表决事实问题。",
+      "prompt": "本题三人庭中，这种限制是否正确？",
+      "reference": "不正确。人民陪审员参加三人合议庭，对事实认定和法律适用均有独立发表意见、行使表决权的权利，不能只因非职业法官就排除其法律适用表决。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要不是法官，任何合议庭中都不能表决。",
+          "explanation": "三人庭有法定表决权。"
+        },
+        {
+          "text": "不正确，三人庭陪审员对事实和法律均有法定表决权。",
+          "explanation": "不能套七人庭法律表决限制。"
+        },
+        {
+          "text": "三人庭陪审员可独自排除其他成员任意决定全部事项。",
+          "explanation": "仍须依法合议表决。"
+        },
+        {
+          "text": "陪审员只负责维持旁听秩序。",
+          "explanation": "不是其法定审判参与职责。"
+        }
+      ],
+      "points": [
+        {
+          "label": "三人范围",
+          "meaning": "指出事实认定和法律适用均可表决。",
+          "boundary": "不要求职业法官身份作为前提。"
+        },
+        {
+          "label": "限制纠正",
+          "meaning": "联系三人庭，否定只因非职业法官排除表决。",
+          "boundary": "不将三人规则无差别扩到七人庭。"
+        }
+      ],
+      "sources": ["remaining-g6-juror-voting"]
+    },
+    {
+      "id": "remaining-g6-juror-seven",
+      "topicId": "remaining-g6-juror-voting",
+      "title": "七人庭只让陪审员沉默旁听",
+      "facts": "【原创教学案例】一件案件依法组成七人合议庭。评议法律适用时，有人正确指出陪审员不参加该项表决，却进一步要求其连意见也不准发表；评议事实时，也不让陪审员与法官共同表决。",
+      "prompt": "本题七人庭中，陪审员对事实和法律分别有什么参与范围？",
+      "reference": "对事实认定，陪审员独立发表意见并与法官共同表决。对法律适用，可以发表意见但不参加表决。不能把不参加法律表决扩大为不得发表任何意见，更不能排除事实表决。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "七人庭陪审员对事实和法律一律不得发言。",
+          "explanation": "意见权与表决范围被一并错误排除。"
+        },
+        {
+          "text": "七人庭陪审员对法律适用与三人庭完全一样表决。",
+          "explanation": "七人庭有特别分工。"
+        },
+        {
+          "text": "只要七人庭就不需要查明任何事实。",
+          "explanation": "事实认定仍是审理内容。"
+        },
+        {
+          "text": "事实共同表决，法律可发表意见但不参加表决。",
+          "explanation": "应区分两种事项。"
+        }
+      ],
+      "points": [
+        {
+          "label": "事实参与",
+          "meaning": "说明对事实独立发表意见并与法官共同表决。",
+          "boundary": "不排除法定事实表决。"
+        },
+        {
+          "label": "法律参与",
+          "meaning": "说明法律可发表意见但不参与表决。",
+          "boundary": "不把不表决变为不得发言。"
+        }
+      ],
+      "sources": ["remaining-g6-juror-voting"]
+    },
+    {
+      "id": "remaining-g6-ethics-gift",
+      "topicId": "remaining-g6-judicial-ethics",
+      "title": "判决不变也想收红包",
+      "facts": "【原创教学案例】承办法官甲收到本案一方当事人送来的红包，知道与当前案件有关仍收下。甲称自己准备完全按证据判案，红包没有改变结论，所以不违反任何廉洁要求。",
+      "prompt": "本题能否仅凭声称结论公正，就认定收红包符合职业要求？",
+      "reference": "不能。收受本案当事人财物本身违反法官廉洁义务，不以最后是否改判作为唯一判断。甲自称仍按证据办案，不能使这次收红包合法，也不必先等刑事数额标准才判断职业违规。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，收受案件当事人财物已违反廉洁要求。",
+          "explanation": "声称结论没变不是免责依据。"
+        },
+        {
+          "text": "只要自认为公正，案件红包可以随便收。",
+          "explanation": "廉洁义务不如此豁免。"
+        },
+        {
+          "text": "所有职业纪律都只在被刑事判刑后才存在。",
+          "explanation": "职业义务与刑事门槛不同。"
+        },
+        {
+          "text": "判决书写得长便可以抵消红包问题。",
+          "explanation": "无此抵消。"
+        }
+      ],
+      "points": [
+        {
+          "label": "廉洁义务",
+          "meaning": "指出收受本案当事人财物违反法官廉洁要求。",
+          "boundary": "不要求先定具体刑事罪名。"
+        },
+        {
+          "label": "结论非免责",
+          "meaning": "否定自称判决公正就可收财物。",
+          "boundary": "不必推定本题一定已经枉法裁判。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-judicial-ethics",
+        "remaining-g6-judicial-ethics-prosecutors"
+      ]
+    },
+    {
+      "id": "remaining-g6-ethics-secret",
+      "topicId": "remaining-g6-judicial-ethics",
+      "title": "饭局上展示未公开办案隐私材料",
+      "facts": "【原创教学案例】检察官甲把办案中取得、尚未依法公开的被害人隐私材料拍照，在私人饭局供朋友取乐，没有当事人同意，也无法定披露依据。甲称自己没收钱，就不可能有职业问题。",
+      "prompt": "没有收钱是否足以排除本题泄露材料的职业问题？",
+      "reference": "不足以。检察官对依法应保密的办案信息和个人隐私负保密义务，私人饭局传播没有法定依据。泄密与是否收钱是不同问题，不能用未获财物排除职业责任。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "没有收钱就能任意传播全部办案隐私。",
+          "explanation": "保密义务不以收费为前提。"
+        },
+        {
+          "text": "只要拍成照片，隐私自动不再受保护。",
+          "explanation": "载体变化不取消保密要求。"
+        },
+        {
+          "text": "不足以，私自传播应保密的办案隐私违反职业义务。",
+          "explanation": "未收钱不是泄露的免责依据。"
+        },
+        {
+          "text": "任何被害人材料都应立刻供私人饭局娱乐。",
+          "explanation": "无此义务。"
+        }
+      ],
+      "points": [
+        {
+          "label": "保密义务",
+          "meaning": "指出未依法公开的办案隐私须依法保密，不能私下传播。",
+          "boundary": "不排除依法授权披露的情形。"
+        },
+        {
+          "label": "收费区分",
+          "meaning": "说明没收钱不等于不泄密或无职业问题。",
+          "boundary": "不要求计算题外损害数额。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-judicial-ethics",
+        "remaining-g6-judicial-ethics-prosecutors"
+      ]
+    },
+    {
+      "id": "remaining-g6-lawyer-opponents",
+      "topicId": "remaining-g6-lawyer-duty",
+      "title": "双方都同意同一个律师代理",
+      "facts": "【原创教学案例】民事案件原被告利益直接对立，拟在同一案件中都委托律师甲作诉讼代理。双方都表示愿意，甲认为只要签同意书，就可以同时代表两边进行相互冲突的诉讼主张。",
+      "prompt": "本题能否仅凭双方同意，让甲在同一案件同时代理对立双方？",
+      "reference": "不能。律师法禁止在同一案件中为双方当事人担任代理人，双方签同意书不能直接消除这一法定禁止。甲应依法处理委托冲突，而不是同时代理提出相互对立主张。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "双方同意可以取消同案代理的全部法定禁止。",
+          "explanation": "同案双方代理有明确限制。"
+        },
+        {
+          "text": "不能，双方同意不消除本题同案双方代理禁止。",
+          "explanation": "应依法处理冲突。"
+        },
+        {
+          "text": "只要律师收费少，就不再有任何冲突。",
+          "explanation": "收费数额不决定该禁止。"
+        },
+        {
+          "text": "律师一经执业就不得代理任何案件。",
+          "explanation": "限制特定冲突不是禁止全部执业。"
+        }
+      ],
+      "points": [
+        {
+          "label": "同案禁止",
+          "meaning": "指出同一案件不得为双方当事人代理。",
+          "boundary": "不把所有无关事项都说成同案。"
+        },
+        {
+          "label": "同意不解除",
+          "meaning": "否定仅凭双方签同意书排除本题禁止。",
+          "boundary": "不要求安排具体另聘律师人选。"
+        }
+      ],
+      "sources": ["remaining-g6-lawyer-duty"]
+    },
+    {
+      "id": "remaining-g6-lawyer-confidential",
+      "topicId": "remaining-g6-lawyer-duty",
+      "title": "拿客户经营底账当直播素材",
+      "facts": "【原创教学案例】律师甲办理普通合同案件时，取得客户尚未公开的经营底账及个人隐私。案件结束后，甲未获客户许可就准备用来做收费直播素材。本题没有特定将要或正在实施的严重犯罪等法定例外事实。",
+      "prompt": "案件结束和想做直播，是否足以让甲不再受本题保密义务约束？",
+      "reference": "不足以。律师的执业保密义务不因案件结束或想增加收入就当然消失。题设商业秘密与个人隐私没有披露依据，不能擅自用作直播素材；也不能编造本题没有的法定例外。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "结案以后所有客户材料都自动属于公开信息。",
+          "explanation": "结案不当然消灭保密义务。"
+        },
+        {
+          "text": "直播收费越高，法律保密要求越少。",
+          "explanation": "收入不是披露依据。"
+        },
+        {
+          "text": "只要曾做律师，任何犯罪信息也永远无例外不得依法处理。",
+          "explanation": "法定例外仍应具体判断。"
+        },
+        {
+          "text": "不足以，没有披露依据不得擅自传播执业秘密隐私。",
+          "explanation": "本题排除了相应法定例外。"
+        }
+      ],
+      "points": [
+        {
+          "label": "持续保密",
+          "meaning": "说明结案不当然免除律师对该信息的保密义务。",
+          "boundary": "不把义务误作结案日一律终止。"
+        },
+        {
+          "label": "无披露依据",
+          "meaning": "联系无许可无法定例外，不能擅自直播传播。",
+          "boundary": "不宣称法律从不存在保密例外。"
+        }
+      ],
+      "sources": ["remaining-g6-lawyer-duty"]
+    },
+    {
+      "id": "remaining-g6-notary-relative",
+      "topicId": "remaining-g6-notary-duty",
+      "title": "公证员替亲兄弟办理事项",
+      "facts": "【原创教学案例】甲是承办公证员，申请人是其亲兄弟，拟由甲本人为该兄弟办理一项公证。甲称材料看起来真实，自己也能保持公正，因此不必考虑法定回避要求。",
+      "prompt": "材料看似真实、本人自称公正，能否替代本题回避要求？",
+      "reference": "不能。公证员不得为近亲属办理公证，应依法回避并由有资格的其他人员按程序处理。材料真实是另一项要求，不能拿它代替回避义务，自称公正也不解除法定限制。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，应依法回避，真实性不代替回避要求。",
+          "explanation": "亲兄弟属于近亲属。"
+        },
+        {
+          "text": "只要当事人是亲属，公证员即可优先免审。",
+          "explanation": "亲属关系不是免审理由。"
+        },
+        {
+          "text": "自称公正便能取消任何法定回避。",
+          "explanation": "主观承诺不替代制度。"
+        },
+        {
+          "text": "公证回避只适用于收过红包的人。",
+          "explanation": "法定回避不只此一种情况。"
+        }
+      ],
+      "points": [
+        {
+          "label": "回避识别",
+          "meaning": "指出不能为近亲属办理公证，应依法回避。",
+          "boundary": "不扩大为任何同姓者均必须回避。"
+        },
+        {
+          "label": "要求分开",
+          "meaning": "说明真实性或自称公正不能代替回避。",
+          "boundary": "不要求认定本题材料事实上虚假。"
+        }
+      ],
+      "sources": ["remaining-g6-notary-duty"]
+    },
+    {
+      "id": "remaining-g6-notary-false",
+      "topicId": "remaining-g6-notary-duty",
+      "title": "承认借用别人的证件仍催出证",
+      "facts": "【原创教学案例】公证机构核验身份时，发现申请人提交的身份证件属于另一个人。申请人承认借用他人证件冒名申办，但称自己已缴费用，要求机构不要记录核验发现，直接按虚假身份出具公证。",
+      "prompt": "已缴费用能否使本题机构可以按虚假身份直接出证？",
+      "reference": "不能。公证应依法核验真实合法性，本题申请人提供虚假身份材料，符合不予办理的法定情形。付费不能购买虚假公证，机构不能明知冒名仍按该身份出证。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "费用缴清就必须按任何假材料出证。",
+          "explanation": "收费不免真实性合法性审查。"
+        },
+        {
+          "text": "申请人承认冒名反而证明材料必真。",
+          "explanation": "供认冒名不能变真实。"
+        },
+        {
+          "text": "不能，虚假身份材料不因付费变得可公证。",
+          "explanation": "应依法处理不予办理情形。"
+        },
+        {
+          "text": "所有公证都完全无需核验身份。",
+          "explanation": "忽视法定核验义务。"
+        }
+      ],
+      "points": [
+        {
+          "label": "虚假材料",
+          "meaning": "联系他人证件及承认冒名，指出不符真实合法要求。",
+          "boundary": "不把普通可补正小错一概当欺诈。"
+        },
+        {
+          "label": "费用非通行",
+          "meaning": "否定缴费即可直接按虚假身份出证。",
+          "boundary": "不要求决定题外费用退还问题。"
+        }
+      ],
+      "sources": ["remaining-g6-notary-duty"]
+    },
+    {
+      "id": "remaining-g6-peace-economic",
+      "topicId": "remaining-g6-sovereignty-peace",
+      "title": "谈不拢关税就准备炮击港口",
+      "facts": "【原创教学案例】虚构国家甲乙就关税争执，尚未发生武力攻击，也无安理会授权等其他合法用武依据。甲准备派军舰炮击乙港口逼其接受报价，称只要经济损失较大就有权这样解决。",
+      "prompt": "本题经济分歧能否单独成为这样使用武力的依据？",
+      "reference": "不能。经济分歧和谈判不顺不能单独构成使用武力的合法依据，应依法采用谈判、调停等和平方式。本题没有武力攻击或其他相应用武依据，不能以炮击港口逼迫接受条件。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，应依法和平解决，经济分歧本身不授权炮击。",
+          "explanation": "题设无相应用武依据。"
+        },
+        {
+          "text": "只要关税谈不拢，就能无条件轰炸对方。",
+          "explanation": "违背和平解决及禁止违法用武要求。"
+        },
+        {
+          "text": "国家主权只保护人口多的一方。",
+          "explanation": "主权平等不按人口排除。"
+        },
+        {
+          "text": "派出军舰就让商业报价自动成为国际判决。",
+          "explanation": "没有这一效果。"
+        }
+      ],
+      "points": [
+        {
+          "label": "和平原则",
+          "meaning": "说明应依法和平解决，不得仅凭经济分歧用武。",
+          "boundary": "不否认合法自卫等例外。"
+        },
+        {
+          "label": "事实对应",
+          "meaning": "联系无武力攻击及其他合法依据，否定本题炮击。",
+          "boundary": "不评判现实国家争端。"
+        }
+      ],
+      "sources": ["remaining-g6-sovereignty-peace"]
+    },
+    {
+      "id": "remaining-g6-self-defense-report",
+      "topicId": "remaining-g6-sovereignty-peace",
+      "title": "依法自卫后认为无需报告",
+      "facts": "【原创教学案例】虚构国家甲遭武力攻击后采取自卫措施。本题假定自卫的其他国际法条件均满足，只考报告义务。甲认为无需向安理会报告，因为自卫是本国可以自行决定的权利。",
+      "prompt": "自卫措施的采取是否使本题报告义务消失？",
+      "reference": "不会。联合国宪章规定采取自卫措施应立即向安理会报告。自卫权与报告义务同时存在，不能只因自己主张自卫就省略报告，也不能由此推导可以无限扩大用武。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "自卫就不受任何国际法义务约束。",
+          "explanation": "权利与相应义务不能割裂。"
+        },
+        {
+          "text": "报告只需发到私人社交账号。",
+          "explanation": "不是向安理会报告。"
+        },
+        {
+          "text": "不会，应立即向安理会报告所采取措施。",
+          "explanation": "本题其他条件不争议。"
+        },
+        {
+          "text": "报告以后所有未来军事行为自动合法。",
+          "explanation": "报告不是无限用武许可。"
+        }
+      ],
+      "points": [
+        {
+          "label": "报告义务",
+          "meaning": "指出采取自卫措施应立即报告安理会。",
+          "boundary": "不是先取得任意国家同意才存在报告。"
+        },
+        {
+          "label": "权义并存",
+          "meaning": "说明自卫权不排除该义务。",
+          "boundary": "不要求重审本题已经假定的其他条件。"
+        }
+      ],
+      "sources": ["remaining-g6-sovereignty-peace"]
+    },
+    {
+      "id": "remaining-g6-immunity-commercial",
+      "topicId": "remaining-g6-state-immunity",
+      "title": "外国政府在境内采购家具供商业转售",
+      "facts": "【原创教学案例】2026年10月，外国政府甲以自己名义在中国境内向乙企业购买普通家具，目的为公开商业转售获利，不作使馆公务或主权管理使用。乙按约交货后因价款争议起诉，甲仅称自己是外国国家就必定享有本案管辖豁免。",
+      "prompt": "能否仅凭外国国家身份，当然排除本题商业活动争议的法院管辖？",
+      "reference": "不能。本题活动在中国境内、内容和目的均为普通商业采购转售，符合商业活动例外，甲就本争议不享有管辖豁免，不能只凭外国国家身份主张一律豁免。不得据此推出其所有国家活动或全部财产都不受保护。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "外国国家任何商业交易争议都必定绝对豁免。",
+          "explanation": "现行法有法定例外。"
+        },
+        {
+          "text": "不能，本题具备境内商业活动例外的对应事实。",
+          "explanation": "须把性质、目的和连接条件结合。"
+        },
+        {
+          "text": "所有国家采购无论用途都一律不豁免。",
+          "explanation": "不能忽略主权目的等差异。"
+        },
+        {
+          "text": "无管辖豁免就可以直接占有使馆。",
+          "explanation": "管辖与财产强制保护不同。"
+        }
+      ],
+      "points": [
+        {
+          "label": "商业连接",
+          "meaning": "联系中国境内普通家具商业转售交易，识别法定例外。",
+          "boundary": "不把一切公务采购一概商业化。"
+        },
+        {
+          "label": "身份非绝免",
+          "meaning": "说明不能只凭国家身份排除本案管辖。",
+          "boundary": "不扩张到一切国家财产均可执行。"
+        }
+      ],
+      "sources": ["remaining-g6-state-immunity"]
+    },
+    {
+      "id": "remaining-g6-immunity-execution",
+      "topicId": "remaining-g6-state-immunity",
+      "title": "同意管辖就冻结使馆公务账户",
+      "facts": "【原创教学案例】2026年10月，外国国家甲已明示接受中国法院审理一项民事争议。乙仅凭这一点，就要求冻结甲专供驻华使馆履行公务的银行账户。甲未同意该强制措施，本题也没有其他可突破相应财产保护的依据。",
+      "prompt": "仅凭接受法院管辖，是否已足以支持本题冻结请求？",
+      "reference": "不足以。接受管辖与同意财产强制措施是两回事，执行豁免须分别判断。专供使馆公务的账户有相应特别保护，本题无其他突破依据，不能仅凭接受管辖就直接冻结。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "接受管辖即自动放弃全部国家财产保护。",
+          "explanation": "两种豁免须分别审查。"
+        },
+        {
+          "text": "使馆公务账户无论何时都可随意分配给私人。",
+          "explanation": "忽视特别保护。"
+        },
+        {
+          "text": "只要原告愿意，就可自行执行任何外交财产。",
+          "explanation": "原告意愿不是法定措施依据。"
+        },
+        {
+          "text": "不足以，管辖与强制措施豁免分开，本题财产另受保护。",
+          "explanation": "不能由一种同意推出全部放弃。"
+        }
+      ],
+      "points": [
+        {
+          "label": "两类分开",
+          "meaning": "说明接受管辖不当然同意强制措施。",
+          "boundary": "不否认符合法定条件可另行采取措施。"
+        },
+        {
+          "label": "财产保护",
+          "meaning": "联系使馆公务账户及无其他依据，否定径行冻结。",
+          "boundary": "不把所有普通商业财产也等同使馆公务财产。"
+        }
+      ],
+      "sources": ["remaining-g6-state-immunity"]
+    },
+    {
+      "id": "remaining-g6-nationality-born-china",
+      "topicId": "remaining-g6-nationality",
+      "title": "母亲是中国公民，孩子出生在中国",
+      "facts": "【原创教学案例】母亲甲具有中国国籍，父亲是外国公民。孩子出生在中国境内，父母国籍和出生事实无争议。本题只依中国国籍法判断是否具有中国国籍，不问外国法是否另作认定。",
+      "prompt": "能否仅因父亲是外国公民就否定孩子的中国国籍？",
+      "reference": "不能。父母双方或一方为中国公民、本人出生在中国，即符合国籍法该项规定。本题母亲为中国公民且孩子生在中国，不能只因父亲外国籍就排除其中国国籍。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，本题一方父母中国公民且出生中国，符合规定。",
+          "explanation": "不能只看父亲国籍。"
+        },
+        {
+          "text": "孩子必须父母都中国籍才有任何可能。",
+          "explanation": "第4条包含一方情形。"
+        },
+        {
+          "text": "父亲外国籍就当然排除中国国籍。",
+          "explanation": "不符本题法定条件。"
+        },
+        {
+          "text": "出生证明写得短就没有国籍。",
+          "explanation": "与文书字数无关。"
+        }
+      ],
+      "points": [
+        {
+          "label": "法定条件",
+          "meaning": "说明一方父母中国公民且本人中国出生即可依该条认定。",
+          "boundary": "不处理外国法另行认定。"
+        },
+        {
+          "label": "事实对应",
+          "meaning": "联系中国籍母亲和境内出生，否定只因父亲外国籍排除。",
+          "boundary": "不要求引入本题未问的双重国籍冲突。"
+        }
+      ],
+      "sources": ["remaining-g6-nationality"]
+    },
+    {
+      "id": "remaining-g6-nationality-born-abroad",
+      "topicId": "remaining-g6-nationality",
+      "title": "父母定居国外，孩子出生即取得外国国籍",
+      "facts": "【原创教学案例】父母均为中国公民，已依法定居外国。孩子在该外国出生，出生时即依法取得该国国籍。题目明确这些条件已查清，只依中国国籍法关于出生取得的规定判断。",
+      "prompt": "本题能否只凭父母中国国籍，就认定孩子出生时当然具有中国国籍？",
+      "reference": "不能。国籍法对中国公民定居外国、子女在国外出生且出生时即具有外国国籍设有例外，本题符合该条件，依该条不具有中国国籍。不能只看父母国籍漏掉定居和出生取得外国国籍的事实。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "无论父母定居、出生国籍怎样都只看父母国籍。",
+          "explanation": "漏掉第5条例外。"
+        },
+        {
+          "text": "任何短期出境旅游都等同永久定居。",
+          "explanation": "定居有具体事实，不能任意等同。"
+        },
+        {
+          "text": "不能，本题符合国外出生取得的法定例外。",
+          "explanation": "三项条件均明确。"
+        },
+        {
+          "text": "孩子长大以后喜欢哪国才决定出生时国籍。",
+          "explanation": "出生取得不由后来喜好倒推。"
+        }
+      ],
+      "points": [
+        {
+          "label": "例外条件",
+          "meaning": "联系父母定居外国、国外出生且出生即具外国国籍。",
+          "boundary": "不把普通国外出生一概排除。"
+        },
+        {
+          "label": "本题结论",
+          "meaning": "说明依本条不具有中国国籍，不能只凭父母国籍认定。",
+          "boundary": "不要求讨论日后依法申请加入。"
+        }
+      ],
+      "sources": ["remaining-g6-nationality"]
+    },
+    {
+      "id": "remaining-g6-treaty-domestic",
+      "topicId": "remaining-g6-treaty-interpretation",
+      "title": "条约生效后用普通国内预算安排拒绝履行",
+      "facts": "【原创教学案例】虚构甲乙两国均为维也纳条约法公约当事国，双方一项条约已经有效生效，对本题义务无保留。甲后来通过普通国内预算安排，称预算少了即可单方拒绝全部履行。不存在缔约权限重大明显瑕疵等争议。",
+      "prompt": "本题普通内国安排能否当然成为不履行有效条约的理由？",
+      "reference": "不能。有效条约应善意履行，通常不能以本国内法安排为不履行借口。本题无相应严格例外，甲应依法履行或按合法变更、终止等机制处理，不能仅凭预算安排单方抹去义务。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "任何国内新安排都自动消灭全部条约义务。",
+          "explanation": "不符善意履行要求。"
+        },
+        {
+          "text": "不能，有效条约须善意履行，普通内国法不能当然作拒绝理由。",
+          "explanation": "题设排除相关严格例外。"
+        },
+        {
+          "text": "有效条约对任何未同意第三国一律自动强加义务。",
+          "explanation": "第三国约束有不同规则。"
+        },
+        {
+          "text": "一国财政少一点就无需任何法律程序退出所有条约。",
+          "explanation": "无此无条件效果。"
+        }
+      ],
+      "points": [
+        {
+          "label": "善意履行",
+          "meaning": "说明有效条约对当事国须善意履行。",
+          "boundary": "不否认合法终止、变更等制度。"
+        },
+        {
+          "label": "内法非借口",
+          "meaning": "联系普通预算安排及无例外，否定当然拒绝履行。",
+          "boundary": "不把所有缔约权限瑕疵都说成毫无意义。"
+        }
+      ],
+      "sources": ["remaining-g6-treaty-interpretation"]
+    },
+    {
+      "id": "remaining-g6-treaty-context",
+      "topicId": "remaining-g6-treaty-interpretation",
+      "title": "只挑孤立词，拒绝看上下文",
+      "facts": "【原创教学案例】虚构两国就一项有效条约的用语发生解释分歧。甲方仅挑其中一个孤立词的某种字典含义，明确拒绝结合前后条款、文本整体和条约目的宗旨，称所有这些材料都绝对不能用。",
+      "prompt": "这种绝对排除上下文和目的宗旨的解释方法是否正确？",
+      "reference": "不正确。条约解释应结合通常含义、上下文及目的宗旨，不能只挑孤立词就排除其他法定解释因素；必要时才按规则使用补充资料。也不能仅凭目的宗旨随意改写清楚条文。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "条约永远只看一个词，其他条款全部无意义。",
+          "explanation": "不符通常解释规则。"
+        },
+        {
+          "text": "只要声称目的很好，就能任意改写所有条文。",
+          "explanation": "目的宗旨不是无限改写权。"
+        },
+        {
+          "text": "字典中有多个含义，条约就自动不存在。",
+          "explanation": "有分歧不等于条约无效。"
+        },
+        {
+          "text": "不正确，应依法结合通常含义、上下文和目的宗旨。",
+          "explanation": "不能绝对排除其一。"
+        }
+      ],
+      "points": [
+        {
+          "label": "结合解释",
+          "meaning": "说明应结合通常含义、上下文及目的宗旨。",
+          "boundary": "不要求在无全文时算出最终特定含义。"
+        },
+        {
+          "label": "纠正绝对化",
+          "meaning": "否定只挑孤词排除其他因素，也不无限改写条文。",
+          "boundary": "不把补充资料一律当首要或唯一依据。"
+        }
+      ],
+      "sources": ["remaining-g6-treaty-interpretation"]
+    },
+    {
+      "id": "remaining-g6-diplomacy-premises",
+      "topicId": "remaining-g6-diplomacy-assistance",
+      "title": "使馆院墙内是不是外国领土",
+      "facts": "【原创教学案例】虚构甲国在中国的使馆依法享有馆舍不可侵犯等保护。有人据此认为使馆院墙内已经不是中国领土，甲国可仅凭馆舍保护宣布该地领土主权转归自己。",
+      "prompt": "馆舍不可侵犯是否等于本题领土主权已经转移？",
+      "reference": "不等于。馆舍不可侵犯是外交关系公约赋予的特别保护，不是领土转让。使馆所在地仍在接受国领土上，不能把依法进入馆舍的限制误认为国家领土主权已经改变。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不等于，特别馆舍保护不同于领土主权转移。",
+          "explanation": "应区分两个法律概念。"
+        },
+        {
+          "text": "只要挂上使馆牌子，任何土地都自动转给外国。",
+          "explanation": "不存在这种自动转移。"
+        },
+        {
+          "text": "使馆馆舍完全没有任何法律保护。",
+          "explanation": "不能因不是外国领土而否认保护。"
+        },
+        {
+          "text": "所有外国人的住宅都自动成为使馆领土。",
+          "explanation": "无此规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "非领土转移",
+          "meaning": "说明使馆仍在接受国领土，不因馆舍地位转移主权。",
+          "boundary": "不否认合法领土变更的其他制度。"
+        },
+        {
+          "label": "保护区分",
+          "meaning": "指出不可侵犯是特别法律保护，不能一并否定。",
+          "boundary": "不推导可任意无视馆舍保护进入。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-diplomacy-assistance",
+        "remaining-g6-diplomacy-assistance-civil-assistance"
+      ]
+    },
+    {
+      "id": "remaining-g6-assistance-coercion",
+      "topicId": "remaining-g6-diplomacy-assistance",
+      "title": "外国领事馆要求中国公民必须接受讯问",
+      "facts": "【原创教学案例】2026年10月，外国驻华领事馆为该国一宗民事案件，未经中国主管机关准许，就要求一名中国公民到馆接受强制取证，并称外交身份足以让其强制到场。该公民不是派遣国公民。",
+      "prompt": "本题能否仅凭领事身份强制向该中国公民取证？",
+      "reference": "不能。外国使领馆向本国公民依法进行非强制送达取证有特定范围，不是对中国公民的强制取证权。本题未经主管机关准许且主张强制，不能仅凭领事身份自行实施，应走合法司法协助路径。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "任何外国领馆在中国都能任意强制讯问所有人。",
+          "explanation": "身份不产生无限取证权。"
+        },
+        {
+          "text": "只要是民事案件，就完全没有主权和协助程序问题。",
+          "explanation": "民事取证同样受规则约束。"
+        },
+        {
+          "text": "不能，本题对象及强制方式不在其可自行实施范围内。",
+          "explanation": "应依法走协助及许可路径。"
+        },
+        {
+          "text": "派遣国公民的非强制取证规则等于可强制所有中国公民。",
+          "explanation": "对象和方式被错误扩张。"
+        }
+      ],
+      "points": [
+        {
+          "label": "范围区分",
+          "meaning": "指出本国公民非强制取证与本题中国公民不同。",
+          "boundary": "不否认条约或合法准许的协助路径。"
+        },
+        {
+          "label": "强制不允许",
+          "meaning": "联系未经准许、强制要求，否定外交身份足以授权。",
+          "boundary": "不把依法非强制协助一概禁止。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-diplomacy-assistance",
+        "remaining-g6-diplomacy-assistance-civil-assistance"
+      ]
+    },
+    {
+      "id": "remaining-g6-choice-no-connection",
+      "topicId": "remaining-g6-choice-mandatory",
+      "title": "涉外合同选了第三国法律",
+      "facts": "【原创教学案例】2026年10月，中国甲企业与外国乙企业签普通涉外服务合同，依法可以选择适用法律，双方明确选择丙国实体法。丙国与合同没有实际联系，但不存在本题涉及的直接强制规范、公共利益或特殊合同例外。甲只以无实际联系要求否定选法。",
+      "prompt": "无实际联系这一理由，是否足以否定本题选法？",
+      "reference": "不足以。对依法允许选法的涉外合同，不能仅因所选法律与关系没有实际联系就认定选择无效。本题已经明确符合选择范围且无相关例外，应尊重该法律选择，不把选法院的连接要求混进来。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不足以，依法允许的选法不因这一点当然无效。",
+          "explanation": "不能混同选法院与选法律。"
+        },
+        {
+          "text": "凡选第三国法就一律无效。",
+          "explanation": "不符现行解释。"
+        },
+        {
+          "text": "只要有合同，任何身份关系也可任意选法。",
+          "explanation": "选择范围受法律限制。"
+        },
+        {
+          "text": "选了某国法就自动只能去该国法院。",
+          "explanation": "准据法与管辖不同。"
+        }
+      ],
+      "points": [
+        {
+          "label": "自治范围",
+          "meaning": "联系依法可选的涉外普通合同，说明无实际联系不当然无效。",
+          "boundary": "不扩成所有关系都可自由选法。"
+        },
+        {
+          "label": "制度区分",
+          "meaning": "说明不能把法律选择与法院管辖混同，本题尊重有效选择。",
+          "boundary": "不要求判断题外诉讼地点。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-choice-mandatory",
+        "remaining-g6-choice-mandatory-interpretation"
+      ]
+    },
+    {
+      "id": "remaining-g6-choice-mandatory-rule",
+      "topicId": "remaining-g6-choice-mandatory",
+      "title": "选了外国法就想排除直接强制规范",
+      "facts": "【原创教学案例】2026年10月，甲乙涉外合同有效选择外国法。中国法院依法认定，与本案有关的一项中国法律规范属于必须直接适用的强制性规定，其法定适用条件已具备。甲仍称选择外国法意味着这一规范绝对不能适用。",
+      "prompt": "本题有效选法是否当然排除已依法认定应直接适用的规范？",
+      "reference": "不会。选法条款不排除依法必须直接适用的中国强制性规定。本题该性质和条件已依法确定，应适用相应规范；这不表示所有国内强制条款都可以不经识别直接套用。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "有效选外国法就能取消任何直接强制规范。",
+          "explanation": "选法受法定强制边界约束。"
+        },
+        {
+          "text": "凡中国规范都自动属于涉外直接强制规范。",
+          "explanation": "不能无限扩大该类规范。"
+        },
+        {
+          "text": "不会，应适用本题依法认定须直接适用的强制规范。",
+          "explanation": "性质及条件均已明确。"
+        },
+        {
+          "text": "存在一项强制规范就让所有合同自动不存在。",
+          "explanation": "不能扩大到全部法律关系。"
+        }
+      ],
+      "points": [
+        {
+          "label": "边界规则",
+          "meaning": "说明有效选法不排除应直接适用的中国强制规范。",
+          "boundary": "不把一切国内强制条文一律如此认定。"
+        },
+        {
+          "label": "本题适用",
+          "meaning": "联系性质和条件已经确定，应适用该相应规范。",
+          "boundary": "不要求重审本题已确定的识别。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-choice-mandatory",
+        "remaining-g6-choice-mandatory-interpretation"
+      ]
+    },
+    {
+      "id": "remaining-g6-ascertain-court",
+      "topicId": "remaining-g6-foreign-law-ascertainment",
+      "title": "未选法，法院只查一个失效网页",
+      "facts": "【原创教学案例】甲乙未选择适用法，按中国冲突规范本案应适用某外国法。法院只访问一处失效网页，便因双方没有提交该法全文而直接认定无法查明，没有尝试其他可行查明途径，也未依法审查不能查明的条件。",
+      "prompt": "本题能否只凭这一过程，就当然认定外国法不能查明并改用中国法？",
+      "reference": "不能。双方没有选法，法院对依法应适用的外国法负相应查明职责；一个网页失效不等于已穷尽合法可行途径。应依规则继续查明、审查条件，不能仅因当事人未提交就直接替换。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "外国网页一次打不开，所有外国法就永久失效。",
+          "explanation": "单一途径失败不等于不能查明。"
+        },
+        {
+          "text": "不能，应依法履行查明职责并审查是否真不能查明。",
+          "explanation": "本题不能只推给当事人。"
+        },
+        {
+          "text": "外国法都必须由当事人提供，法院永远无需负责。",
+          "explanation": "未选法情形不能这样概括。"
+        },
+        {
+          "text": "无法查网页就可以任意想象条文。",
+          "explanation": "不能编造外国法内容。"
+        }
+      ],
+      "points": [
+        {
+          "label": "法院职责",
+          "meaning": "说明未选法而依法适用外国法时，法院应按规则查明。",
+          "boundary": "不把当事人选择情形的义务机械搬入。"
+        },
+        {
+          "label": "过程不足",
+          "meaning": "指出一网页失效和未提交不足以当然认定无法查明。",
+          "boundary": "不要求保证任何外国法最终一定可查明。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-foreign-law-ascertainment",
+        "remaining-g6-foreign-law-ascertainment-law"
+      ]
+    },
+    {
+      "id": "remaining-g6-ascertain-chosen",
+      "topicId": "remaining-g6-foreign-law-ascertainment",
+      "title": "主动选法却无正当理由不提供",
+      "facts": "【原创教学案例】甲乙依法共同选择某外国法。法院告知提供义务、明确所需范围并给予合理期限，双方无正当理由拒不提供。本题不存在可另行取得文本等争议。",
+      "prompt": "本题是否可依法认定不能查明，之后适用什么法律？",
+      "reference": "可以依法认定不能查明，按法律适用法规定适用中国法律。主动选择外国法有相应提供义务，合理期限内无正当理由不提供等条件依法满足后，不能要求法院凭空猜出外国法。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "主动选外国法也可以永久不提供，法院只能无限等待。",
+          "explanation": "忽略提供义务和不能查明处理。"
+        },
+        {
+          "text": "不能查明就按法官个人喜好决定。",
+          "explanation": "法律有明确替代规则。"
+        },
+        {
+          "text": "只要双方拒绝提供，全部权利义务自动归零。",
+          "explanation": "不等于实体权利自动消失。"
+        },
+        {
+          "text": "可依法认定不能查明并适用中国法。",
+          "explanation": "本题查明及合理期限条件明确。"
+        }
+      ],
+      "points": [
+        {
+          "label": "不能查明条件",
+          "meaning": "联系主动选法、合理期限和无正当理由拒供等依法满足条件。",
+          "boundary": "不扩到任何一次未交材料都立即认定。"
+        },
+        {
+          "label": "替代法律",
+          "meaning": "说明依法适用中国法律。",
+          "boundary": "不主张随意选择第三国法。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-foreign-law-ascertainment",
+        "remaining-g6-foreign-law-ascertainment-law"
+      ]
+    },
+    {
+      "id": "remaining-g6-consumer-habitual",
+      "topicId": "remaining-g6-consumer-labor-choice",
+      "title": "境外商家专门向中国消费者销售",
+      "facts": "【原创教学案例】2026年10月，消费者甲经常居所位于中国。外国商家乙长期专门在中国市场开展网售、配送业务，甲为个人生活向其购买商品。甲没有选择商品服务提供地法律，本题没有其他特别适用例外。",
+      "prompt": "本题消费者合同原则上适用何地法律，能否仅因商家在国外就一概用其所在地法？",
+      "reference": "原则上适用消费者甲经常居所地的中国法。乙已在中国开展相关经营，甲也未选择提供地法，不能仅因乙在国外就把消费者专门规则改成商家所在地法。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "原则上中国法，不能只因商家外国所在地就排除消费者规则。",
+          "explanation": "本题未落入所列例外。"
+        },
+        {
+          "text": "商家在哪里注册，所有消费合同一律用该地法。",
+          "explanation": "忽略消费者专门连接点。"
+        },
+        {
+          "text": "任何跨境消费都完全不受法律调整。",
+          "explanation": "有相应法律适用规则。"
+        },
+        {
+          "text": "消费者经常居所地永远没有法律意义。",
+          "explanation": "本题正是主要连接点。"
+        }
+      ],
+      "points": [
+        {
+          "label": "连接点",
+          "meaning": "说明本题以消费者经常居所地为原则，适用中国法。",
+          "boundary": "不把国籍直接代替经常居所。"
+        },
+        {
+          "label": "例外审查",
+          "meaning": "联系乙在中国经营且无消费者提供地选择，否定仅因商家在外改用。",
+          "boundary": "不宣称所有消费者案件均无例外。"
+        }
+      ],
+      "sources": ["remaining-g6-consumer-labor-choice"]
+    },
+    {
+      "id": "remaining-g6-labor-workplace",
+      "topicId": "remaining-g6-consumer-labor-choice",
+      "title": "在中国固定工作，只看外国雇主注册地",
+      "facts": "【原创教学案例】2026年10月，乙与外国公司甲订立劳动合同，实际一直在中国固定场所履行岗位劳动，工作地明确。不是劳务派遣，双方也没有其他特殊连接事实。甲称只要自己在境外注册，就当然改用注册地法。",
+      "prompt": "本题劳动合同通常应适用何地法，雇主注册地是否当然优先？",
+      "reference": "通常适用劳动者工作地的中国法。工作地已明确且不属题设劳务派遣等特别情形，不能仅凭雇主境外注册就把主要连接点换成注册地。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "外国雇主一律有权取消全部劳动保护。",
+          "explanation": "不能这样扩张。"
+        },
+        {
+          "text": "工作地明确也永远只看雇主注册地。",
+          "explanation": "不符劳动合同主要连接规则。"
+        },
+        {
+          "text": "通常用中国工作地法，注册地不当然优先。",
+          "explanation": "本题无难定工作地或派遣问题。"
+        },
+        {
+          "text": "国籍不同就不存在劳动合同。",
+          "explanation": "涉外因素不当然否定关系。"
+        }
+      ],
+      "points": [
+        {
+          "label": "工作地法",
+          "meaning": "说明劳动合同通常按明确工作地，本题用中国法。",
+          "boundary": "不把雇主注册地当当然原则。"
+        },
+        {
+          "label": "事实边界",
+          "meaning": "联系工作地明确、无派遣等特别事实，否定甲理由。",
+          "boundary": "不要求判断实际劳动赔偿金额。"
+        }
+      ],
+      "sources": ["remaining-g6-consumer-labor-choice"]
+    },
+    {
+      "id": "remaining-g6-tort-common-residence",
+      "topicId": "remaining-g6-tort-choice",
+      "title": "共同经常居所中国，旅游时在国外发生普通侵权",
+      "facts": "【原创教学案例】甲乙的经常居所均在中国，在外国短期旅游时发生一般人身侵权纠纷。双方未作侵权发生后选法，本题不属产品、网络人格权等特殊侵权，也无其他特别规定。",
+      "prompt": "本题应否只按事发国外就一律适用外国法？",
+      "reference": "不应。本题一般侵权双方有共同经常居所地中国，应适用中国法，不能只看行为发生在国外。这里用的是经常居所连接点，不是单看两人国籍。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "任何侵权都只看事发地，不存在其他规则。",
+          "explanation": "本题有共同经常居所特别连接。"
+        },
+        {
+          "text": "不应，本题有共同经常居所地，应适用中国法。",
+          "explanation": "短期旅游不自动改变经常居所。"
+        },
+        {
+          "text": "短期同坐一架飞机就必定有共同经常居所。",
+          "explanation": "须有经常居所事实。"
+        },
+        {
+          "text": "经常居所与国籍在所有法律中完全同义。",
+          "explanation": "连接点不能混同。"
+        }
+      ],
+      "points": [
+        {
+          "label": "共同居所",
+          "meaning": "指出一般侵权双方有共同经常居所，适用该地法。",
+          "boundary": "不将所有侵权均如此处理。"
+        },
+        {
+          "label": "本题结论",
+          "meaning": "联系共同居所中国，不能只因国外事发用外国法。",
+          "boundary": "不以国籍替代已给居所事实。"
+        }
+      ],
+      "sources": ["remaining-g6-tort-choice"]
+    },
+    {
+      "id": "remaining-g6-tort-later-choice",
+      "topicId": "remaining-g6-tort-choice",
+      "title": "侵权后共同明确选择适用法",
+      "facts": "【原创教学案例】普通涉外侵权已经发生。双方经充分协商后，明确协议选择丙国实体法解决该侵权责任。本题不属特殊侵权，选择真实有效，也无强制适用或公共利益例外。",
+      "prompt": "能否仅因不是合同纠纷，就一概否定本题侵权后选法？",
+      "reference": "不能。一般侵权发生后，当事人可以依法协议选择适用法；本题符合该条件，应尊重约定。关键在发生后等法定条件，不可由此扩大成侵权前任何格式条款都同样有效。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何侵权争议都绝不能协议选法。",
+          "explanation": "一般侵权发生后有选法路径。"
+        },
+        {
+          "text": "任一人单方想选就等于双方协议。",
+          "explanation": "需要有效协议。"
+        },
+        {
+          "text": "侵权前任何条款都自动满足发生后协议要求。",
+          "explanation": "时点与条件不能略去。"
+        },
+        {
+          "text": "不能一概否定，本题可依法按侵权后有效协议选法。",
+          "explanation": "题设已明确符合范围和条件。"
+        }
+      ],
+      "points": [
+        {
+          "label": "事后自治",
+          "meaning": "说明一般侵权发生后可协议选法。",
+          "boundary": "不是单方任意选择。"
+        },
+        {
+          "label": "范围时点",
+          "meaning": "联系有效事后协议应尊重，不扩成一切事前条款。",
+          "boundary": "不引入未给的特殊侵权例外。"
+        }
+      ],
+      "sources": ["remaining-g6-tort-choice"]
+    },
+    {
+      "id": "remaining-g6-marriage-form",
+      "topicId": "remaining-g6-family-succession",
+      "title": "结婚手续只满足一方国籍国法",
+      "facts": "【原创教学案例】甲乙在外国办理结婚，实质结婚条件本题已依法确认满足。手续形式不符合缔结地一般要求，但符合甲国籍国法律。中国法院只审本题手续的法律适用，不涉及公共利益等其他排除事实。",
+      "prompt": "能否仅因不符合缔结地形式，就一律否定本题手续？",
+      "reference": "不能。结婚手续符合缔结地、一方经常居所地或国籍国法即可依相应规则认可形式。本题已符合甲国籍国法，不能只看缔结地形式就否定，也不要拿这一形式结论代替所有实质条件审查。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，本题符合一方国籍国法的形式连接。",
+          "explanation": "不只存在唯一缔结地连接。"
+        },
+        {
+          "text": "结婚形式永远只有缔结地一条路。",
+          "explanation": "法律提供多个形式有效连接点。"
+        },
+        {
+          "text": "手续有效就永远不用审实质条件。",
+          "explanation": "形式与实质不同。"
+        },
+        {
+          "text": "外国办理婚姻就绝无认可可能。",
+          "explanation": "不符涉外法律适用制度。"
+        }
+      ],
+      "points": [
+        {
+          "label": "形式连接",
+          "meaning": "说明一方国籍国法等可支持结婚手续形式。",
+          "boundary": "不误套实质条件规则。"
+        },
+        {
+          "label": "本题认可",
+          "meaning": "联系符合甲国籍国法，否定只因不符缔结地形式而一律否定。",
+          "boundary": "不由形式推导一切实质问题均解决。"
+        }
+      ],
+      "sources": ["remaining-g6-family-succession"]
+    },
+    {
+      "id": "remaining-g6-succession-real-estate",
+      "topicId": "remaining-g6-family-succession",
+      "title": "死者住国外，中国房屋如何法定继承",
+      "facts": "【原创教学案例】乙死亡时经常居所位于外国，在中国境内有一套房屋。没有遗嘱、遗赠协议或其他特别安排，现仅审这套房屋的法定继承准据法。继承人称死者常住外国，所以房屋必定也只用该外国法。",
+      "prompt": "本题中国房屋的法定继承应适用何地法？",
+      "reference": "应适用房屋所在地的中国法。不动产法定继承有所在地法特别规则，不能把死亡时经常居所地的一般连接不加区分地套给该房屋；本题也不是遗嘱形式效力问题。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "任何财产法定继承都不分类型一律用居所地法。",
+          "explanation": "不动产有特别连接。"
+        },
+        {
+          "text": "所有继承都必须随意选择任一继承人的国籍。",
+          "explanation": "不是本题法定规则。"
+        },
+        {
+          "text": "适用中国所在地法，不能忽略不动产特别规则。",
+          "explanation": "范围明确为房屋法定继承。"
+        },
+        {
+          "text": "死者住国外，中国房屋就自动归无关外国机构。",
+          "explanation": "无法律依据。"
+        }
+      ],
+      "points": [
+        {
+          "label": "不动产连接",
+          "meaning": "说明不动产法定继承适用所在地法。",
+          "boundary": "不扩到全部动产或遗嘱问题。"
+        },
+        {
+          "label": "本题中国法",
+          "meaning": "联系中国房屋，适用中国法，不仅看死者经常居所。",
+          "boundary": "不要求分配具体继承份额。"
+        }
+      ],
+      "sources": ["remaining-g6-family-succession"]
+    },
+    {
+      "id": "remaining-g6-arbitration-hearing",
+      "topicId": "remaining-g6-arbitration-seat",
+      "title": "仲裁地约上海，借境外会议室开庭",
+      "facts": "【原创教学案例】2026年10月，双方书面约定上海为涉外仲裁的仲裁地，约定有效。为方便证人，依法在境外某会议室举行一次听证，但双方没有改约仲裁地。乙据此称法律上的仲裁地已自动改成会议室所在国。",
+      "prompt": "本题实际开庭地点变化，是否当然改变已约定仲裁地？",
+      "reference": "不会。仲裁地是有特定法律意义的连接点，不等于每次实际开庭地址。本题未变更仲裁地约定，借境外会议室听证不使上海仲裁地自动改变。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "每换一次会议室，仲裁地都自动跨国变化。",
+          "explanation": "实际听证地点不同于仲裁地。"
+        },
+        {
+          "text": "不会，未改约时本题仲裁地仍为上海。",
+          "explanation": "不能只看物理开庭地址。"
+        },
+        {
+          "text": "任何涉外仲裁永远没有法律上的仲裁地。",
+          "explanation": "现行法明确相关制度。"
+        },
+        {
+          "text": "会议室经营者可以代替当事人修改所有仲裁协议。",
+          "explanation": "无此当然权限。"
+        }
+      ],
+      "points": [
+        {
+          "label": "概念区分",
+          "meaning": "说明仲裁地与开庭地点不同。",
+          "boundary": "不否认依法变更仲裁地的可能。"
+        },
+        {
+          "label": "本题不变",
+          "meaning": "联系有效上海约定未变，不因境外听证自动更改。",
+          "boundary": "不要求推定所有监督法院结论。"
+        }
+      ],
+      "sources": ["remaining-g6-arbitration-seat"]
+    },
+    {
+      "id": "remaining-g6-arbitration-ad-hoc",
+      "topicId": "remaining-g6-arbitration-seat",
+      "title": "所有涉外合同都可在境内任意临时仲裁吗",
+      "facts": "【原创教学案例】2026年10月，两家均在境外设立的企业发生普通非海事服务合同争议，均未在自贸试验区、海南自由贸易港等第82条列明或国家规定区域设立登记企业。本题无其他法定开放依据，拟只因有涉外因素就在中国境内任意组织临时仲裁。",
+      "prompt": "仅有涉外因素是否已足以满足本题境内临时仲裁的法定范围？",
+      "reference": "不足以。现行法开放临时仲裁有第82条列明的纠纷与区域企业等条件，不是所有涉外合同一律适用。本题普通非海事争议、双方也不具所列区域登记条件，不能只凭涉外因素认定符合该开放范围。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何涉外纠纷都无条件适用境内临时仲裁。",
+          "explanation": "忽略法定限定。"
+        },
+        {
+          "text": "只要换成英文合同就能取消全部范围条件。",
+          "explanation": "语言不是该法定条件。"
+        },
+        {
+          "text": "临时仲裁与任何备案等法定要求都完全无关。",
+          "explanation": "仍须遵守相关法定要求。"
+        },
+        {
+          "text": "不足以，需满足第82条相应范围和条件。",
+          "explanation": "本题未满足且无其他开放依据。"
+        }
+      ],
+      "points": [
+        {
+          "label": "限定范围",
+          "meaning": "说明境内临时仲裁依法限于列明范围，不是全部涉外合同。",
+          "boundary": "不误说新法完全没有临时仲裁。"
+        },
+        {
+          "label": "本题未具",
+          "meaning": "联系非海事和无相应区域企业条件，否定仅凭涉外因素。",
+          "boundary": "不要求自行列举尚未给出的其他国家指定区域。"
+        }
+      ],
+      "sources": ["remaining-g6-arbitration-seat"]
+    },
+    {
+      "id": "remaining-g6-cisg-business",
+      "topicId": "remaining-g6-cisg-scope",
+      "title": "负责人国籍相同，营业地却在不同缔约国",
+      "facts": "【原创教学案例】甲乙企业营业地分别位于两个CISG缔约国，签订普通工业设备的国际买卖，属于公约范围，没有有效排除或相关保留等障碍。双方负责人恰好同国籍。甲据此主张公约必定不适用。",
+      "prompt": "能否仅因负责人国籍相同，就否定本题公约适用？",
+      "reference": "不能。本题看企业营业地分处不同缔约国等适用条件，不是看负责人国籍。题设其他范围和排除问题已经明确，国籍相同不让本应适用的公约当然退出。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，应按营业地等公约适用条件判断。",
+          "explanation": "负责人国籍不是该项决定标准。"
+        },
+        {
+          "text": "负责人同国籍就必定排除全部国际买卖规则。",
+          "explanation": "混淆国籍与营业地。"
+        },
+        {
+          "text": "任何服务合同都不需条件直接用CISG。",
+          "explanation": "公约范围有约束。"
+        },
+        {
+          "text": "企业名称长度决定公约是否适用。",
+          "explanation": "无法律依据。"
+        }
+      ],
+      "points": [
+        {
+          "label": "营业地标准",
+          "meaning": "指出公约看营业地在不同缔约国等，不看负责人国籍。",
+          "boundary": "不取消其他范围及排除条件。"
+        },
+        {
+          "label": "本题适用",
+          "meaning": "联系条件均满足，否定同国籍当然排除。",
+          "boundary": "不泛化到私人家用或纯服务交易。"
+        }
+      ],
+      "sources": ["remaining-g6-cisg-scope", "remaining-g6-cisg-scope-status"]
+    },
+    {
+      "id": "remaining-g6-cisg-declarations",
+      "topicId": "remaining-g6-cisg-scope",
+      "title": "把撤回书面形式声明写成撤回全部保留",
+      "facts": "【原创教学案例】2026年10月，一份针对中国内地的培训说明称：中国2013年撤回CISG书面形式声明，已经等于撤回全部保留，因此第1条第1款b项声明也不存在。题目只核本段声明辨识，不讨论香港或特定合同最终适用。",
+      "prompt": "本题“撤回全部保留”的推论是否正确，应怎样区分？",
+      "reference": "不正确。撤回的是关于书面形式的相应声明，中国内地不受第1条第1款b项约束的声明仍须单独识别。不能把撤回其中一项写成全部撤回，也不能由此直接决定所有合同适用。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "撤回其中一项必然同时撤回所有其他声明。",
+          "explanation": "各项状态须分别核对。"
+        },
+        {
+          "text": "不同地区与任何时期的声明都永远完全相同。",
+          "explanation": "不能抹去时间和适用区域。"
+        },
+        {
+          "text": "不正确，应分清书面形式撤回与仍存的第1条第1款b项声明。",
+          "explanation": "本题限定中国内地。"
+        },
+        {
+          "text": "培训文件可以代替联合国保存人修改声明。",
+          "explanation": "没有该效力。"
+        }
+      ],
+      "points": [
+        {
+          "label": "撤回内容",
+          "meaning": "说明撤回相应书面形式声明，不是所有声明。",
+          "boundary": "不误说中国仍保留原书面形式声明。"
+        },
+        {
+          "label": "仍存声明",
+          "meaning": "指出内地第1条第1款b项声明仍需识别。",
+          "boundary": "不把该保留直接否定1款a项等适用。"
+        }
+      ],
+      "sources": ["remaining-g6-cisg-scope", "remaining-g6-cisg-scope-status"]
+    },
+    {
+      "id": "remaining-g6-cisg-silence",
+      "topicId": "remaining-g6-cisg-formation",
+      "title": "陌生买家没有回信就说成交",
+      "facts": "【原创教学案例】适用CISG的交易中，卖方向特定买家发出内容确定的有效要约。双方此前无交易关系、相关惯例或习惯，买家未回复也未付款、收货或作其他接受行为。卖方自行写了一句“不答即同意”，就称合同已成立。",
+      "prompt": "仅凭本题未答复，能否认定买家已经承诺？",
+      "reference": "不能。沉默或不作为本身不构成承诺，卖方单方写不答即同意不能凭空约束陌生买家。本题无相关习惯或接受行为，不能据未回复认定合同已按要约成立。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "卖方写不答即同意就能单方面让所有人负债。",
+          "explanation": "单方通知不创造接受意思。"
+        },
+        {
+          "text": "不能，本题无习惯或行为依据，沉默本身不算承诺。",
+          "explanation": "需按公约承诺规则判断。"
+        },
+        {
+          "text": "合同永远只能在纸上签字，任何行为都不可能承诺。",
+          "explanation": "不符公约一般及行为承诺制度。"
+        },
+        {
+          "text": "没有付款也没有回复，必定证明已经无条件接受。",
+          "explanation": "无相应事实。"
+        }
+      ],
+      "points": [
+        {
+          "label": "沉默规则",
+          "meaning": "说明沉默本身不构成承诺。",
+          "boundary": "不否认符合要约惯例习惯的行为接受。"
+        },
+        {
+          "label": "本题未成",
+          "meaning": "联系无过往习惯及无接受行为，否定卖方单方不答即同意。",
+          "boundary": "不要求评价要约本身内容确定性。"
+        }
+      ],
+      "sources": ["remaining-g6-cisg-formation"]
+    },
+    {
+      "id": "remaining-g6-cisg-counteroffer",
+      "topicId": "remaining-g6-cisg-formation",
+      "title": "回复同意却改成另一种争议解决方式",
+      "facts": "【原创教学案例】适用CISG的有效要约约定争议由法院诉讼解决。买家回复“其他同意，但一切争议必须改由指定仲裁机构仲裁”，卖方尚未接受这一改动。本题没有相应惯例或其他解释依据。",
+      "prompt": "本题回复是否当然构成对原要约的承诺，应如何定性？",
+      "reference": "不是。争议解决方式的改变属于公约列明的实质性变更，不能只因开头写同意就当作原要约承诺。该答复按规则构成拒绝原要约并提出反要约，是否成立合同还须看后续接受等。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "只要开头写同意，后面改任何核心条件也算原样承诺。",
+          "explanation": "须看实质变更。"
+        },
+        {
+          "text": "争议解决从不属于合同条件。",
+          "explanation": "公约明确列为实质变更事项。"
+        },
+        {
+          "text": "买家回复后卖方必须接受任何改动。",
+          "explanation": "没有无条件接受义务。"
+        },
+        {
+          "text": "属于实质变更，按反要约处理，不能当然认原样承诺。",
+          "explanation": "不是单看同意二字。"
+        }
+      ],
+      "points": [
+        {
+          "label": "实质变更",
+          "meaning": "识别争议解决方式改变属于实质性变更。",
+          "boundary": "不把所有无关紧要差别一律视为实质。"
+        },
+        {
+          "label": "反要约",
+          "meaning": "说明不能认原承诺，应按反要约等规则看后续接受。",
+          "boundary": "不凭空补上卖方已经接受。"
+        }
+      ],
+      "sources": ["remaining-g6-cisg-formation"]
+    },
+    {
+      "id": "remaining-g6-cisg-minor-defect",
+      "topicId": "remaining-g6-cisg-remedies",
+      "title": "五台机器外壳轻微划痕就要解除整单",
+      "facts": "【原创教学案例】适用CISG的设备买卖，卖方按时交付100台设备，全部性能和生产用途符合约定，只有5台外壳轻微划痕，可两小时内修复且不影响使用。买方未提出其他合同目的受损事实，就称任何瑕疵都自动赋予解除整单的权利。",
+      "prompt": "本题能否仅因这些轻微瑕疵就当然解除整单，是否因此完全没有其他救济？",
+      "reference": "不能当然解除。题设轻微、迅速可补的外观瑕疵没有实质剥夺买方的合同期待，不能只凭有瑕疵就按根本违约解除整单。买方仍可依法主张相应修补、损害赔偿等合适救济，不能反过来说一切权利都没有。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能当然解除，但仍可依法主张相应适当救济。",
+          "explanation": "轻微瑕疵与根本违约不同。"
+        },
+        {
+          "text": "任何一个划痕都自动解除全部合同。",
+          "explanation": "忽视解除条件。"
+        },
+        {
+          "text": "不能解除就意味着任何修补赔偿都绝无可能。",
+          "explanation": "不同救济不能混同。"
+        },
+        {
+          "text": "设备已交付就不可能存在任何质量责任。",
+          "explanation": "交付不消灭相应责任。"
+        }
+      ],
+      "points": [
+        {
+          "label": "解除条件",
+          "meaning": "联系轻微且迅速可补、不影响用途，否定当然根本违约解除。",
+          "boundary": "不排除其他依法可解除的案型。"
+        },
+        {
+          "label": "其他救济",
+          "meaning": "说明仍可依法主张修补赔偿等适当救济。",
+          "boundary": "不要求算未给出的金额。"
+        }
+      ],
+      "sources": ["remaining-g6-cisg-remedies"]
+    },
+    {
+      "id": "remaining-g6-cisg-mitigation",
+      "topicId": "remaining-g6-cisg-remedies",
+      "title": "明知有合理替代仓库仍任损失扩大",
+      "facts": "【原创教学案例】适用CISG的交易中，卖方违约使买方需临时存货。买方知道附近有可立即使用、安全合适且无额外困难的合理替代仓库，却无正当理由不采取这一措施，导致本可避免的一部分仓储损失扩大，现要求卖方全额负担。",
+      "prompt": "本题可避免的扩大部分是否也应不加区分全部转嫁，为什么？",
+      "reference": "不应。受损方有采取合理措施减损的义务，本题替代措施合理可行且无正当理由未采用，可避免的扩大部分可依法从赔偿中扣减。不能因对方先违约就任意扩大损失，也不影响本来依法可赔的其他损失。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "对方先违约，受损方就能任意增加损失全部索赔。",
+          "explanation": "仍有合理减损要求。"
+        },
+        {
+          "text": "不减损就必定失去全部实体权利。",
+          "explanation": "应区分可避免部分而非无条件全失。"
+        },
+        {
+          "text": "不应，合理减损本可避免的扩大损失应依法区分。",
+          "explanation": "本题措施合理可行。"
+        },
+        {
+          "text": "所有替代措施无论风险多大都必须采取。",
+          "explanation": "只要求合理措施。"
+        }
+      ],
+      "points": [
+        {
+          "label": "合理减损",
+          "meaning": "联系合理可行替代措施，说明受损方应依法减损。",
+          "boundary": "不是要求承受任何不合理风险。"
+        },
+        {
+          "label": "扩大部分",
+          "meaning": "说明可避免的扩大损失不应全转嫁，其他损失依法另看。",
+          "boundary": "不一律抹掉全部赔偿。"
+        }
+      ],
+      "sources": ["remaining-g6-cisg-remedies"]
+    },
+    {
+      "id": "remaining-g6-credit-goods-dispute",
+      "topicId": "remaining-g6-letter-credit",
+      "title": "货物颜色有争议就要求相符单据拒付",
+      "facts": "【原创教学案例】一笔信用证约定单据表面相符时付款，相关单据经依法审查相符。买卖双方只对货物颜色是否完全符合合同发生普通争议，没有信用证欺诈等特别情形。开证申请人要求银行仅凭该货物争议立即拒付。",
+      "prompt": "本题普通基础合同争议是否当然足以让银行拒付？",
+      "reference": "不当然足以。信用证付款与基础买卖合同相对独立，本题单据表面相符且没有欺诈等特别依据，不能仅以普通颜色质量争议要求拒付。货物违约争议仍可按基础合同依法处理。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "任何货物争议都自动取消银行全部信用证义务。",
+          "explanation": "违背独立性要求。"
+        },
+        {
+          "text": "不当然足以，应区分相符单据付款与普通货物争议。",
+          "explanation": "本题无欺诈等特别依据。"
+        },
+        {
+          "text": "银行须代替法院彻底审完全部商品质量才可能付款。",
+          "explanation": "不是信用证一般审单机制。"
+        },
+        {
+          "text": "信用证独立意味着卖方任何欺诈也绝不受约束。",
+          "explanation": "欺诈有专门规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "独立原则",
+          "meaning": "说明信用证付款与基础合同相对独立。",
+          "boundary": "不排除法定欺诈止付。"
+        },
+        {
+          "label": "本题处理",
+          "meaning": "联系相符单据无欺诈，不能仅凭普通质量争议拒付，基础争议另处理。",
+          "boundary": "不要求决定最终货物赔偿。"
+        }
+      ],
+      "sources": ["remaining-g6-letter-credit"]
+    },
+    {
+      "id": "remaining-g6-credit-good-faith",
+      "topicId": "remaining-g6-letter-credit",
+      "title": "存在欺诈却已有善意议付",
+      "facts": "【原创教学案例】法院已查明一笔信用证存在受益人欺诈，但在欺诈暴露前，议付行不知情且已善意完成议付并支付对价，依法落入信用证司法解释保护的善意议付情形。申请人仍称只要有欺诈，就不必考虑这种保护而一律止付。",
+      "prompt": "本题能否跳过已明确的善意议付保护，一律按有欺诈就止付？",
+      "reference": "不能。欺诈止付不是绝对规则，已善意议付等法定情形受专门保护。本题条件已明确满足，不能仅凭受益人欺诈就忽略议付行地位，仍可按其他合法途径追究欺诈者。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何一处欺诈都使全部善意第三人当然失去保护。",
+          "explanation": "忽视法定止付例外。"
+        },
+        {
+          "text": "善意议付就说明受益人从未实施欺诈。",
+          "explanation": "第三人保护不抹掉欺诈事实。"
+        },
+        {
+          "text": "议付行只要口头声称善意，无需任何实际条件。",
+          "explanation": "仍须满足法定保护条件。"
+        },
+        {
+          "text": "不能，应依法适用本题已满足的善意议付保护。",
+          "explanation": "不等于欺诈者免责。"
+        }
+      ],
+      "points": [
+        {
+          "label": "止付例外",
+          "meaning": "说明已善意议付等有法定保护，非欺诈一律止付。",
+          "boundary": "不把任何不知情人士一律等同受保护议付。"
+        },
+        {
+          "label": "本题适用",
+          "meaning": "联系已依法满足善意议付条件，不能忽视，同时不免欺诈者责任。",
+          "boundary": "不要求另判具体追索金额。"
+        }
+      ],
+      "sources": ["remaining-g6-letter-credit"]
+    },
+    {
+      "id": "remaining-g6-wto-mfn",
+      "topicId": "remaining-g6-wto-nondiscrimination",
+      "title": "同类产品只给一个国家低关税",
+      "facts": "【原创教学案例】虚构甲乙为WTO成员。甲把给予某第三国普通同类产品的关税从10%降到5%，却仍对乙相同产品收10%。本题不存在自贸区、关税同盟、授权优惠、一般或安全例外等合法差别依据。",
+      "prompt": "本题这种差别涉及什么待遇原则，能否仅因更喜欢第三国就排除乙？",
+      "reference": "涉及货物贸易最惠国待遇。本题给第三国同类产品的相关关税优惠，原则上应立即无条件给予乙等成员，既无法定例外，就不能只凭偏好排除乙。这里比较不同来源国，不是进口与国产的内税比较。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "涉及最惠国待遇，无法定例外不能只凭偏好排除乙。",
+          "explanation": "比较的是不同来源国同类产品。"
+        },
+        {
+          "text": "只要喜欢一个国家，就能任意取消全部最惠国义务。",
+          "explanation": "无此例外。"
+        },
+        {
+          "text": "国民待遇意味着一切进口都不得有边境关税。",
+          "explanation": "概念和范围错误。"
+        },
+        {
+          "text": "只有国内消费者付费才有WTO义务。",
+          "explanation": "与本题成员义务无关。"
+        }
+      ],
+      "points": [
+        {
+          "label": "原则识别",
+          "meaning": "指出不同来源国同类产品关税优惠涉及最惠国待遇。",
+          "boundary": "不混为国内税国民待遇。"
+        },
+        {
+          "label": "无例外对应",
+          "meaning": "联系无合法差别依据，不能只凭偏好排除乙。",
+          "boundary": "不否认合法自贸等例外。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-wto-nondiscrimination",
+        "remaining-g6-wto-nondiscrimination-gatt1994"
+      ]
+    },
+    {
+      "id": "remaining-g6-wto-national-treatment",
+      "topicId": "remaining-g6-wto-nondiscrimination",
+      "title": "只对进口同类商品加国内消费税",
+      "facts": "【原创教学案例】虚构WTO成员甲对进入国内市场销售的同类商品，国产收5%内部消费税，进口收12%，立法说明只为保护本国产品。不是边境关税，也没有本题适用的合法差别或其他例外。",
+      "prompt": "本题主要涉及哪项待遇要求，能否把它等同于禁止一切进口关税？",
+      "reference": "涉及货物贸易国民待遇：进口同类产品的国内税负受到更不利待遇，本题无合法差别依据，不能这样保护国产。它不等于一律禁止边境关税，不能把内税与进口关税混同。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "国产与进口国内税差别只会涉及外国人国籍法。",
+          "explanation": "与所考贸易待遇不同。"
+        },
+        {
+          "text": "国民待遇必定禁止任何边境进口关税。",
+          "explanation": "内税待遇不等于零关税。"
+        },
+        {
+          "text": "涉及国民待遇，应区分国内税与边境关税。",
+          "explanation": "本题歧视性内税不可由保护目的正当化。"
+        },
+        {
+          "text": "只要称保护国产，任何歧视都自动合法。",
+          "explanation": "无此一般豁免。"
+        }
+      ],
+      "points": [
+        {
+          "label": "国民待遇",
+          "meaning": "说明本题进口同类产品内税更不利，涉及国民待遇且无合法差别依据。",
+          "boundary": "不误认只比较两个外国来源。"
+        },
+        {
+          "label": "关税区分",
+          "meaning": "说明不等于禁止一切边境关税。",
+          "boundary": "本题明确是内税。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-wto-nondiscrimination",
+        "remaining-g6-wto-nondiscrimination-gatt1994"
+      ]
+    },
+    {
+      "id": "remaining-g6-dumping-comparison",
+      "topicId": "remaining-g6-trade-remedies",
+      "title": "比本国同类便宜就立刻征反倾销税",
+      "facts": "【原创教学案例】虚构WTO成员甲发现进口商品比本国同类产品便宜30%，尚未查出口国正常价值，也未依法调查国内产业损害、因果关系等，就准备只凭该价格差认定倾销并直接加税。",
+      "prompt": "本题价格差是否已足以直接采取反倾销措施，还缺哪些核心判断？",
+      "reference": "不足以。倾销比较的是出口价格与依法确定的正常价值，不是只要比进口国商品便宜。采取反倾销措施还须依法认定相关产业损害、因果关系并履行调查等条件，本题不能直接跳到加税。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "凡比进口国本地商品便宜，都必定倾销且可立即加税。",
+          "explanation": "比较基准及程序均错误。"
+        },
+        {
+          "text": "不足以，须查正常价值、损害因果并履行法定调查等要求。",
+          "explanation": "不能仅凭一项本地价差。"
+        },
+        {
+          "text": "价格越高越必定倾销，不需正常价值。",
+          "explanation": "没有该定义。"
+        },
+        {
+          "text": "WTO禁止所有低价竞争。",
+          "explanation": "正常市场竞争不等同倾销措施条件。"
+        }
+      ],
+      "points": [
+        {
+          "label": "倾销基准",
+          "meaning": "说明不能只比进口国商品价格，应依法比较正常价值。",
+          "boundary": "不要求本题计算具体倾销幅度。"
+        },
+        {
+          "label": "措施条件",
+          "meaning": "指出还需损害、因果及法定调查等，不能径加税。",
+          "boundary": "不宣称任何价差都永无调查可能。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-trade-remedies",
+        "remaining-g6-trade-remedies-safeguards"
+      ]
+    },
+    {
+      "id": "remaining-g6-safeguard-no-dumping",
+      "topicId": "remaining-g6-trade-remedies",
+      "title": "没有倾销就永远不能采取保障措施吗",
+      "facts": "【原创教学案例】虚构WTO成员甲依法调查某商品进口增长，已依法满足保障措施所需严重损害、因果关系、未预见发展及其他实体程序条件，且没有倾销。题目只问是否还必须先认定倾销，不重审已假定的其他条件。",
+      "prompt": "没有倾销是否足以单独否定本题保障措施路径？",
+      "reference": "不足以。保障措施与反倾销的条件不同，保障措施不以倾销为必要前提。本题已经假定其他法定条件满足，不能仅凭没有倾销就排除；也不能把这一答案扩大成任何进口增长都自动可采取保障措施。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "所有保障措施必须先认定倾销。",
+          "explanation": "两类贸易救济条件不同。"
+        },
+        {
+          "text": "只要进口增长一件，就可无条件永久封锁。",
+          "explanation": "忽视严重损害等实体程序。"
+        },
+        {
+          "text": "不倾销就任何国际贸易规则都不适用。",
+          "explanation": "并无这种总括效果。"
+        },
+        {
+          "text": "不足以，保障措施不以倾销为必要条件。",
+          "explanation": "仍须满足其自身法定条件。"
+        }
+      ],
+      "points": [
+        {
+          "label": "制度区分",
+          "meaning": "说明保障措施不须先认定倾销。",
+          "boundary": "不是否认反倾销自身条件。"
+        },
+        {
+          "label": "自身条件",
+          "meaning": "联系其他条件已满足而不能仅因无倾销排除，也不无限扩大到所有增长。",
+          "boundary": "不要求重新证明题设已假定条件。"
+        }
+      ],
+      "sources": [
+        "remaining-g6-trade-remedies",
+        "remaining-g6-trade-remedies-safeguards"
+      ]
+    },
+    {
+      "id": "remaining-g6-copyright-commission",
+      "topicId": "remaining-g6-copyright-ownership",
+      "title": "付了绘画费用就说版权全买走了",
+      "facts": "【原创教学案例】2026年10月，甲委托独立画师乙创作插画，支付约定创作费用。双方没有约定著作权归属或转让，乙完成了受著作权保护的原创表达。甲称付过钱就说明全部著作权当然属于自己。",
+      "prompt": "本题没有权属约定时，著作权默认归谁，费用支付能否直接改变？",
+      "reference": "依法默认归受托创作者乙。委托作品先看合同权属约定，没有明确约定时按法定规则归受托人，不能仅因甲支付创作费就认定全部著作权当然转移。具体使用范围仍可依法依约判断。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "默认归乙，支付创作费不等于当然转让全部著作权。",
+          "explanation": "没有明确权属约定适用法定规则。"
+        },
+        {
+          "text": "谁付过任何钱，所有著作权就永久自动归谁。",
+          "explanation": "创作费与权利转让不同。"
+        },
+        {
+          "text": "委托作品绝不可能受著作权保护。",
+          "explanation": "委托不排除保护。"
+        },
+        {
+          "text": "未经注册的原创插画在任何情况下都没有著作权。",
+          "explanation": "不能添加统一登记前提。"
+        }
+      ],
+      "points": [
+        {
+          "label": "默认归属",
+          "meaning": "说明未明确约定时归受托创作者乙。",
+          "boundary": "不否定有效权属约定的作用。"
+        },
+        {
+          "label": "费用区分",
+          "meaning": "指出支付创作费不当然等于全部版权转让。",
+          "boundary": "不要求决定合同未给的具体使用许可范围。"
+        }
+      ],
+      "sources": ["remaining-g6-copyright-ownership"]
+    },
+    {
+      "id": "remaining-g6-copyright-original",
+      "topicId": "remaining-g6-copyright-ownership",
+      "title": "买下一幅原画就大量印挂历",
+      "facts": "【原创教学案例】2026年10月，甲购得乙创作的一幅画的有形原件。买卖合同未转让或许可复制发行等著作财产权，甲随后准备把画面大量印成挂历出售，仅凭自己拥有原画主张已获授权。本题不问原件展览权。",
+      "prompt": "仅有原画所有权，是否足以取得本题复制发行授权？",
+      "reference": "不足以。画作原件所有权与著作权分开，买原画不当然取得复制发行权。本题没有相关转让许可，不能仅凭拥有原件就大量印制出售；依法可能享有的原件展览权也不等同复制发行权。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "买到一张原画就自动取得全部可复制版权。",
+          "explanation": "有形所有权与著作权不同。"
+        },
+        {
+          "text": "未取得复制权就说明原件买卖也必定无效。",
+          "explanation": "不能把两个问题混同。"
+        },
+        {
+          "text": "不足以，原件所有权不当然包含复制发行授权。",
+          "explanation": "本题无相应转让许可。"
+        },
+        {
+          "text": "只要挂历印得清楚，就不再需要任何权利依据。",
+          "explanation": "印刷质量不代替授权。"
+        }
+      ],
+      "points": [
+        {
+          "label": "两权区分",
+          "meaning": "说明原件所有权与著作权不同。",
+          "boundary": "不误否定合法原件所有权。"
+        },
+        {
+          "label": "复制授权",
+          "meaning": "联系无转让许可，不能据拥有原件大量印售。",
+          "boundary": "不把特定原件展览权说成不存在。"
+        }
+      ],
+      "sources": ["remaining-g6-copyright-ownership"]
+    },
+    {
+      "id": "remaining-g6-fair-use-quotation",
+      "topicId": "remaining-g6-copyright-fair-use",
+      "title": "评论文章中引用几句原文",
+      "facts": "【原创教学案例】2026年10月，甲写评论介绍乙已发表的一篇长文，只引用与评论直接相关的几句话，明确标注乙及文章出处，评论有自己的充分分析。引用没有替代原文阅读，也未影响正常使用或不合理损害乙利益，无其他争议。",
+      "prompt": "本题引用能否按合理使用判断，除署名外还要看什么？",
+      "reference": "可以按本题法定评论目的的适当引用处理，结合已明确的范围和共同条件，属于合理使用。并不是只要署名就够，还要有法定事由、引用适当且满足不影响正常使用、不不合理损害合法利益等条件。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "任何几字引用都必须让整篇作品永久下架。",
+          "explanation": "本题符合适当评论引用条件。"
+        },
+        {
+          "text": "可按合理使用处理，但须同时满足法定目的和范围等条件。",
+          "explanation": "署名不是唯一条件。"
+        },
+        {
+          "text": "只要署名，任何人都可复制全部收费书出版出售。",
+          "explanation": "超出合理使用边界。"
+        },
+        {
+          "text": "免费和付费在任何情形都自动决定全部合法性。",
+          "explanation": "还须按具体法定条件判断。"
+        }
+      ],
+      "points": [
+        {
+          "label": "适当引用",
+          "meaning": "联系评论目的、少量相关文字和标明来源，认可本题适当引用。",
+          "boundary": "不要求认可所有名为评论的复制。"
+        },
+        {
+          "label": "共同条件",
+          "meaning": "说明还需不影响正常使用、不不合理损害利益等，不只看署名。",
+          "boundary": "不把署名完全说成无关紧要。"
+        }
+      ],
+      "sources": ["remaining-g6-copyright-fair-use"]
+    },
+    {
+      "id": "remaining-g6-fair-use-fulltext",
+      "topicId": "remaining-g6-copyright-fair-use",
+      "title": "标注作者就把整篇收费文章公开",
+      "facts": "【原创教学案例】2026年10月，甲未经许可，把乙一篇受保护的收费评论文章完整发布到自己的公开网站，读者可因此不再购买阅读原文。甲只在末尾写乙的名字和来源，称自己没有另收阅读费，所以必定合理使用。",
+      "prompt": "本题署名和免费是否足以使这种全文公开传播合法？",
+      "reference": "不足以。署名和免费不自动构成合理使用，本题完整公开收费评论、替代原文正常阅读，未体现适当引用等法定范围和共同条件。不能只凭标注作者就获得全文传播许可。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "只要注明姓名，任何收费作品都可以完整搬走。",
+          "explanation": "署名不等于授权或合理使用。"
+        },
+        {
+          "text": "网站不另收费就绝不会影响作品正常利用。",
+          "explanation": "免费替代也可能影响正常使用。"
+        },
+        {
+          "text": "任何文章一发表就全部放弃所有财产权。",
+          "explanation": "发表不等于全面弃权。"
+        },
+        {
+          "text": "不足以，本题全文替代传播不能只靠署名免费认合法。",
+          "explanation": "须审法定事由、范围及共同条件。"
+        }
+      ],
+      "points": [
+        {
+          "label": "非万能条件",
+          "meaning": "指出署名和免费不自动构成合理使用。",
+          "boundary": "不否定真正合理使用的可能。"
+        },
+        {
+          "label": "本题超界",
+          "meaning": "联系全文公开替代收费阅读，不能据此认定适当合法使用。",
+          "boundary": "不把单纯事实新闻与受保护评论作品混同。"
+        }
+      ],
+      "sources": ["remaining-g6-copyright-fair-use"]
+    },
+    {
+      "id": "remaining-g6-trademark-original-scope",
+      "topicId": "remaining-g6-trademark-prior",
+      "title": "先用小店被要求全部停用",
+      "facts": "【原创教学案例】2026年10月，甲在当地同类商品上先于乙使用一商标，并在乙申请注册前已经有一定影响，全部先用条件均有证据。乙后来取得注册，要求甲连原有店面范围都必须停用。甲只想保持原范围，不扩大经营。",
+      "prompt": "本题乙能否一概阻止甲原范围继续使用，是否还可依法要求区别标识？",
+      "reference": "不能一概阻止。按本题现行法，甲符合先用条件，可在原使用范围内继续；乙可依法要求甲附加适当区别标识。先用并非给甲无限扩大范围的权利，也不让乙的注册完全不存在。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能一概阻止，甲可原范围继续，乙可依法要求适当区别标识。",
+          "explanation": "先用保护有范围边界。"
+        },
+        {
+          "text": "任何后注册都自动抹去所有法定先用保护。",
+          "explanation": "忽略先用规则。"
+        },
+        {
+          "text": "甲先用就可无限扩张到任何商品和地区。",
+          "explanation": "仍受原使用范围约束。"
+        },
+        {
+          "text": "先用存在就证明乙所有注册自动不存在。",
+          "explanation": "不能作此当然推论。"
+        }
+      ],
+      "points": [
+        {
+          "label": "原范围先用",
+          "meaning": "联系法定条件已满足，说明可在原范围继续。",
+          "boundary": "不推广至任意扩张范围。"
+        },
+        {
+          "label": "区别标识",
+          "meaning": "说明注册人可依法要求适当区别标识。",
+          "boundary": "不把先用保护等同注册全部无效。"
+        }
+      ],
+      "sources": ["remaining-g6-trademark-prior"]
+    },
+    {
+      "id": "remaining-g6-trademark-copyright",
+      "topicId": "remaining-g6-trademark-prior",
+      "title": "没注册商标就不能保护原创图案吗",
+      "facts": "【原创教学案例】2026年10月，乙未经许可将甲早已发表并受著作权保护的原创图案申请为自己的商标，图案完全相同。甲从未把该图案申请注册为商标。乙称甲没有注册商标，所以在先著作权也一概不能用来主张。",
+      "prompt": "甲未注册商标是否足以排除本题在先著作权保护？",
+      "reference": "不足以。申请注册商标不得损害他人已有在先权利，著作权属于可以依法主张的在先权利之一。甲没注册商标，不等于放弃已经存在的著作权；应依法按相应商标程序和权利保护路径处理。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "没注册商标就永远不可能有著作权。",
+          "explanation": "两类权利取得条件不同。"
+        },
+        {
+          "text": "申请商标可以无条件拿走所有他人作品。",
+          "explanation": "申请不能损害已有在先权利。"
+        },
+        {
+          "text": "不足以，甲可依法主张已有在先著作权。",
+          "explanation": "未注册商标不抹掉作品权利。"
+        },
+        {
+          "text": "只要图案被别人申请，原作者立即不再存在。",
+          "explanation": "没有这种自动后果。"
+        }
+      ],
+      "points": [
+        {
+          "label": "在先权利",
+          "meaning": "说明商标申请不得损害他人已有在先著作权。",
+          "boundary": "不要求甲先有同图案注册商标。"
+        },
+        {
+          "label": "权利不消失",
+          "meaning": "指出未注册商标不等于放弃或无著作权。",
+          "boundary": "不要求确定未给事实的异议无效期限。"
+        }
+      ],
+      "sources": ["remaining-g6-trademark-prior"]
+    },
+    {
+      "id": "remaining-g6-patent-employee",
+      "topicId": "remaining-g6-patent-duty",
+      "title": "单位研发任务完成后把申请权当个人所有",
+      "facts": "【原创教学案例】2026年10月，工程师甲按乙单位明确的研发任务完成一项发明，属于执行单位任务，不存在特殊权属约定或合作争议。甲认为技术主要由自己想出，申请专利权必定个人独有；乙则认为若归单位，甲连发明人署名也没有。",
+      "prompt": "本题申请权和甲的发明人署名应怎样区分？",
+      "reference": "本题属职务发明，申请专利的权利原则上归乙单位，不能只凭个人构思就排除职务任务归属。但甲作为发明人仍依法有在专利文件中署名的权利，单位有申请权不抹掉真实发明人身份。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "个人思考过就必定排除全部职务发明规则。",
+          "explanation": "应看执行单位任务等法定事实。"
+        },
+        {
+          "text": "申请权原则归单位，甲仍有发明人署名权。",
+          "explanation": "权属与个人身份权利分开。"
+        },
+        {
+          "text": "申请权归单位就能任意删掉所有真实发明人。",
+          "explanation": "不能抹掉法定署名权。"
+        },
+        {
+          "text": "职务发明在任何条件下都不能申请专利。",
+          "explanation": "并无该禁止。"
+        }
+      ],
+      "points": [
+        {
+          "label": "职务申请权",
+          "meaning": "联系执行单位任务无特殊约定，说明申请权原则归单位。",
+          "boundary": "不扩到所有业余私人发明。"
+        },
+        {
+          "label": "署名保留",
+          "meaning": "说明真实发明人甲仍有法定署名权。",
+          "boundary": "不把单位申请权等同单位人员自动都是发明人。"
+        }
+      ],
+      "sources": ["remaining-g6-patent-duty"]
+    },
+    {
+      "id": "remaining-g6-patent-commercial",
+      "topicId": "remaining-g6-patent-duty",
+      "title": "把销售所得用于科研就说不侵权",
+      "facts": "【原创教学案例】2026年10月，某研究机构未经许可，批量生产并销售落入他人有效专利保护范围的商品。这些商品用于普通商业用途，不是对该专利技术本身作专门科学研究或实验。机构称销售收入将投入科研，故全部属于科研使用例外。",
+      "prompt": "本题机构身份和收入用途是否足以适用科研实验使用例外？",
+      "reference": "不足以。专利法的科研实验例外针对专为科学研究实验使用有关专利，不是科研机构一切生产销售。题设是普通商业制造销售，收入拟用于科研不改变行为性质，不能仅据此免除相关专利责任。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "所有叫研究机构的单位，任何专利使用都免责。",
+          "explanation": "机构名称不替代法定使用目的。"
+        },
+        {
+          "text": "卖得越多越必定属于专为实验。",
+          "explanation": "不能颠倒商业与实验事实。"
+        },
+        {
+          "text": "收入用于科研就能无条件复制所有专利商品销售。",
+          "explanation": "资金用途不自动改变行为性质。"
+        },
+        {
+          "text": "不足以，本题商业生产销售不因科研名义而适用该例外。",
+          "explanation": "须审真正的使用目的和方式。"
+        }
+      ],
+      "points": [
+        {
+          "label": "例外条件",
+          "meaning": "说明专为科研实验使用有关专利，不是机构身份就免责。",
+          "boundary": "不否认真正符合条件的实验使用。"
+        },
+        {
+          "label": "商业对应",
+          "meaning": "联系批量商业生产销售，收入用途不使其自动落入例外。",
+          "boundary": "不要求核定题外侵权赔偿。"
+        }
+      ],
+      "sources": ["remaining-g6-patent-duty"]
+    }
+  ],
+  "sources": {
+    "remaining-g6-law-governance": {
+      "title": "《坚持走中国特色社会主义法治道路 更好推进中国特色社会主义法治体系建设》关于法治体系建设与共同推进的论述",
+      "url": "https://www.court.gov.cn/xinshidai/xiangqing/345611.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。法治建设包含立法、执法、司法和守法，权力行使也须遵守法律。"
+    },
+    "remaining-g6-law-governance-constitution": {
+      "title": "《中华人民共和国宪法》（2018年修正）第5条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-law-sources": {
+      "title": "《民法典》第8、10—11条",
+      "url": "https://www.cac.gov.cn/2020-06/01/c_1592561777268319.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。处理民事纠纷先依法；法律没有规定时，可适用不违背公序良俗的习惯。"
+    },
+    "remaining-g6-law-hierarchy": {
+      "title": "《立法法》（2023年修正）第98—106条",
+      "url": "https://www.bjrd.gov.cn/xwzx/qgrd/202303/t20230314_2935590.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。下位规范不能任意抵触上位法；新一般与旧特别冲突不能只套一句新法优先。"
+    },
+    "remaining-g6-law-time": {
+      "title": "《立法法》（2023年修正）第104条",
+      "url": "https://www.bjrd.gov.cn/xwzx/qgrd/202303/t20230314_2935590.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。规范一般不溯及既往，有利保护权利的特别规定另行判断。"
+    },
+    "remaining-g6-law-rights": {
+      "title": "《民法典》第7—8、130—132条",
+      "url": "https://www.cac.gov.cn/2020-06/01/c_1592561777268319.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。有权利也要依法行使，不能以损害他人为唯一目的滥用。"
+    },
+    "remaining-g6-constitution-change": {
+      "title": "《中华人民共和国宪法》（2018年修正）第5、64条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。宪法修改有特别的提议与表决门槛，不能拿普通议案多数替代。"
+    },
+    "remaining-g6-constitution-election": {
+      "title": "《中华人民共和国宪法》（2018年修正）第34、97条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。公民年满十八周岁依法享有选举权，不能任意附加财产学历条件。"
+    },
+    "remaining-g6-constitution-personal": {
+      "title": "《中华人民共和国宪法》（2018年修正）第37—40条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。限制人身和检查通信都有法律边界，普通单位没有任意检查权。"
+    },
+    "remaining-g6-constitution-freedoms": {
+      "title": "《中华人民共和国宪法》（2018年修正）第33、36、46、48条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。不得强迫公民信或不信宗教，受教育权也不能因性别随意剥夺。"
+    },
+    "remaining-g6-constitution-organs": {
+      "title": "《中华人民共和国宪法》（2018年修正）第57、67、85、123条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。全国人大、常委会和国务院职权各有边界，监察机关也不等于行政机关。"
+    },
+    "remaining-g6-constitution-local": {
+      "title": "《中华人民共和国宪法》（2018年修正）第111—116条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。民族自治机关有法定范围，村居委会属于基层群众性自治组织。"
+    },
+    "remaining-g6-tang-law": {
+      "title": "唐律蕴含丰富法律文化精髓与治理智慧“化外人有犯”条的历史研究",
+      "url": "https://www.spp.gov.cn/llyj/202311/t20231113_633734.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。按题目指定的唐律制度，区分同类化外人相犯与异类相犯。"
+    },
+    "remaining-g6-song-separation": {
+      "title": "宋代司法审判中的鞫谳分司鞫司、谳司与裁断的分工",
+      "url": "https://www.sxfj.gov.cn/jing_cai_zhuan_ti/267e63/10937859.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。按指定宋代制度，查明案情与检法议刑分工，不能混作同一职责。"
+    },
+    "remaining-g6-qing-modern-code": {
+      "title": "从略卖到拐卖：历代律典拐卖罪行表述的历史考察《大清新刑律》的文献体例",
+      "url": "https://law.ucass.edu.cn/info/1985/8459.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。《大清新刑律》的编纂采用总则、分则，刑制不能套旧五刑。"
+    },
+    "remaining-g6-qing-modern-code-penalties": {
+      "title": "五刑清末新刑律主刑的历史材料",
+      "url": "https://zxzx.chinalaw.org.cn/portal/article/index/id/28594.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-judicial-organs": {
+      "title": "《中华人民共和国宪法》（2018年修正）第128、131—138条",
+      "url": "https://www.cac.gov.cn/2018-03/22/c_1122572643.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。法院依法审判、检察院依法监督，上下级法院监督与上下级检察院领导不能混同。"
+    },
+    "remaining-g6-juror-voting": {
+      "title": "中华人民共和国人民陪审员法第20—23条",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/94492.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。三人庭与七人庭的陪审员法律适用表决权不同，不能套同一规则。"
+    },
+    "remaining-g6-judicial-ethics": {
+      "title": "中华人民共和国法官法第46条",
+      "url": "https://www.hengqin.gov.cn/lab/flfg/fl/content/post_3517416.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。案件结论没被改变，也不代表可以收受当事人财物或私泄办案信息。"
+    },
+    "remaining-g6-judicial-ethics-prosecutors": {
+      "title": "中华人民共和国检察官法第47条",
+      "url": "https://www.spp.gov.cn/zdgz/201904/t20190423_415970.shtml",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-lawyer-duty": {
+      "title": "中华人民共和国律师法第38—40条",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201912/t20191219_1313473.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。律师应保护执业秘密，不能同一案件同时代理对立双方。"
+    },
+    "remaining-g6-notary-duty": {
+      "title": "中华人民共和国公证法第2—3、23、31条",
+      "url": "https://xzfy.moj.gov.cn/c/2021-01-06/487828.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。有利害关系应依法回避，付费不能让虚假材料变成可以公证。"
+    },
+    "remaining-g6-sovereignty-peace": {
+      "title": "联合国宪章第2、33、51条",
+      "url": "https://www.fmprc.gov.cn/web/ziliao_674904/tytj_674911/tyfg_674913/200404/t20040408_7949544.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。争端应和平解决，经济分歧本身不是任意用武的理由。"
+    },
+    "remaining-g6-state-immunity": {
+      "title": "中华人民共和国外国国家豁免法第3—7、13—15条",
+      "url": "https://www.fmprc.gov.cn/web/wjb_673085/zfxxgk_674865/zcfg/fl/202309/t20230901_11137076.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。符合条件的商业活动可能不享有管辖豁免，但执行财产还要另行审查。"
+    },
+    "remaining-g6-nationality": {
+      "title": "中华人民共和国国籍法第3—5、9、14条",
+      "url": "https://www.nia.gov.cn/n741440/n741547/c1013967/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。出生地、父母国籍及定居情况要一起看，不能只凭人在国外或国内一句话判断。"
+    },
+    "remaining-g6-treaty-interpretation": {
+      "title": "维也纳条约法公约第26—27、31—32、34、46条",
+      "url": "https://legal.un.org/ilc/texts/instruments/english/conventions/1_1_1969.pdf",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。有效条约须善意履行，解释不能只挑一个孤立词。"
+    },
+    "remaining-g6-diplomacy-assistance": {
+      "title": "维也纳外交关系公约第22、29、31—32条",
+      "url": "https://www.mfa.gov.cn/web/wjb_673085/zfxxgk_674865/gknrlb/tywj/tyqk/200404/t20040408_7949263.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。使馆不可侵犯不等于外国领土，在中国送达取证仍须符合司法协助规则。"
+    },
+    "remaining-g6-diplomacy-assistance-civil-assistance": {
+      "title": "中华人民共和国民事诉讼法（2023修正）第293—294条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5220330/content.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-choice-mandatory": {
+      "title": "中华人民共和国涉外民事关系法律适用法第3—4、9、41条",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=46613",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。法律允许的涉外合同选法不以实际联系为必要，但不能排除直接强制规范。"
+    },
+    "remaining-g6-choice-mandatory-interpretation": {
+      "title": "最高人民法院涉外民事关系法律适用法解释（一）（2020修正）第4—5、8条",
+      "url": "https://cicc.court.gov.cn/html/1/218/62/84/12831.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-foreign-law-ascertainment": {
+      "title": "最高人民法院涉外民事关系法律适用法解释（二）第1—3、5、8—10条",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/419042.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。查明责任随选法情况区分，一次查找失败不当然等于无法查明。"
+    },
+    "remaining-g6-foreign-law-ascertainment-law": {
+      "title": "中华人民共和国涉外民事关系法律适用法第10条",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=46613",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-consumer-labor-choice": {
+      "title": "中华人民共和国涉外民事关系法律适用法第41—43条",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=46613",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。这两类合同有专门连接点，不能直接照搬普通合同选法。"
+    },
+    "remaining-g6-tort-choice": {
+      "title": "中华人民共和国涉外民事关系法律适用法第44—46条",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=46613",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。一般侵权先看共同经常居所等规则，侵权发生后还可依法协议选法。"
+    },
+    "remaining-g6-family-succession": {
+      "title": "中华人民共和国涉外民事关系法律适用法第21—22、31条",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=46613",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。结婚形式有可选择的有效连接点，不动产法定继承另看所在地。"
+    },
+    "remaining-g6-arbitration-seat": {
+      "title": "中华人民共和国仲裁法（2025修订）第81—83条",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=103718",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。仲裁地不等于开庭地点，境内临时仲裁也不是所有涉外争议都能任意采用。"
+    },
+    "remaining-g6-cisg-scope": {
+      "title": "联合国国际货物销售合同公约第1—6、11、95—97条",
+      "url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。公约适用看营业地等条件，不能只看国籍；中国不同声明的状态也要分开。"
+    },
+    "remaining-g6-cisg-scope-status": {
+      "title": "联合国保存人CISG状态及声明中国声明与2013撤回注记",
+      "url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20I/Chapter%20X/X-10.en.pdf",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-cisg-formation": {
+      "title": "联合国国际货物销售合同公约第14—19、23条",
+      "url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。沉默本身不是承诺，实质改变要约的答复通常是反要约。"
+    },
+    "remaining-g6-cisg-remedies": {
+      "title": "联合国国际货物销售合同公约第25—26、46第3款、47、49、74、77条",
+      "url": "https://uncitral.un.org/sites/default/files/media-documents/uncitral/en/v1056997-cisg-e-book.pdf",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。小瑕疵不当然允许解除，受损方还应合理避免损失扩大。"
+    },
+    "remaining-g6-letter-credit": {
+      "title": "最高人民法院关于审理信用证纠纷案件若干问题的规定（2020修正）第5、8、10条",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/282631.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。普通货物争议不当然阻止信用证付款，欺诈止付也须守住善意第三人保护。"
+    },
+    "remaining-g6-wto-nondiscrimination": {
+      "title": "GATT1994所纳入的GATT条文GATT1994纳入正文第I、III条",
+      "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。对外同类产品待遇与进口、国产同类产品内税待遇，要分清比较对象。"
+    },
+    "remaining-g6-wto-nondiscrimination-gatt1994": {
+      "title": "GATT1994纳入文件纳入GATT1947相关正文的规则",
+      "url": "https://www.wto.org/english/docs_e/legal_e/06-gatt_e.htm",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-trade-remedies": {
+      "title": "WTO反倾销协定第1—3、5、9条",
+      "url": "https://www.wto.org/english/docs_e/legal_e/adp_e.htm",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。低于本国产品价格不直接等于倾销，保障措施也不以倾销为必要前提。"
+    },
+    "remaining-g6-trade-remedies-safeguards": {
+      "title": "WTO保障措施协定第1—5条及GATT第XIX条衔接",
+      "url": "https://www.wto.org/english/docs_e/legal_e/25-safeg_e.htm",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "remaining-g6-copyright-ownership": {
+      "title": "中华人民共和国著作权法（2020修正）第11、19—20条",
+      "url": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。付创作费不一定买走著作权，买到作品原件也不等于取得全部版权。"
+    },
+    "remaining-g6-copyright-fair-use": {
+      "title": "中华人民共和国著作权法（2020修正）第24—25条",
+      "url": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。署名和免费不是万能许可，合理使用还须有法定事由和适当范围。"
+    },
+    "remaining-g6-trademark-prior": {
+      "title": "中华人民共和国商标法（2019修正）第32、59条",
+      "url": "https://www.cnipa.gov.cn/art/2019/7/30/art_95_28179.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。注册不是抹掉全部在先权利，合条件先用可在原范围继续。"
+    },
+    "remaining-g6-patent-duty": {
+      "title": "中华人民共和国专利法（2020修正）第6、11、17、75条",
+      "url": "https://www.cnipa.gov.cn/art/2020/11/23/art_97_155167.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。职务发明的申请权与发明人署名分开，科研名义也不免一切商业使用。"
+    }
+  }
+}

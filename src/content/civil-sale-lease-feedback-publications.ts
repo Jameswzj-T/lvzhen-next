@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilSaleLeaseTeacherPublications: Record<string, string> = {
+  "civil-sale-lease-risk-before-explain":
+    "d5b1a5c8a3e2d6c0156818c650c77997c887ff048a193304e146317215b12462",
+  "civil-sale-lease-risk-after-explain":
+    "0960dd8635193ea69e63a8843987a76d398c57b2d1912e0f8e81ef92d73dce3d",
+  "civil-sale-lease-installment-demand-explain":
+    "0fe7c98c116493417ac9f19f627f9fdd20c99bafe9c85ceffb985b2ba66725d5",
+  "civil-sale-lease-installment-no-demand-explain":
+    "9219fb97be58ae6626661ccf53c7f337a0aee0633ba879251a0ecb543a9d13d6",
+  "civil-sale-lease-inspection-notice-explain":
+    "d682be3b74d7ca297d60c1c8ecb31f7256e74e6d9325251682a4fd0fe8054884",
+  "civil-sale-lease-inspection-hidden-explain":
+    "f02bda8bbacdc8c5501a0c0ee385b9270635703f9705e3b8d78b02a1b5b55120",
+  "civil-sale-lease-sample-different-explain":
+    "59ef703d3e0c5bc04e6579f06ee340373ec4bdf737e19e457331577d5fcd5492",
+  "civil-sale-lease-sample-hidden-explain":
+    "1cf9daae616608d74e331d152897a8fe69030554a64a9fd4e29b4d004a3c747c",
+  "civil-sale-lease-repair-pipe-explain":
+    "d1b3dd18a0a83031279b9012eb462522836273d19345c43b7e54bbc4e848f7ca",
+  "civil-sale-lease-repair-door-explain":
+    "ea5c0ad6a4e568c6bcc074b222c48903ee774578aefd31cc78d6c1da2560c74b",
+  "civil-sale-lease-sublease-objection-explain":
+    "002160f641788273d8cf715682d16207c3e2851fd7fe868e3224ee1d296bd916",
+  "civil-sale-lease-sublease-silence-explain":
+    "abfb136161ca6cf53203edc5832b2992639b6105176260f1f2d929bf7cc74257",
+  "civil-sale-lease-ownership-move-explain":
+    "dc62aa364aad155a32395107e5eaa1dc3d39d372966323b7fe8d5ee2bec18f36",
+  "civil-sale-lease-ownership-rent-explain":
+    "113afcff3ec43dd7fea418e67bf6a600bcdaeedcda5d1c8a472423ef621d8453",
+  "civil-sale-lease-preemption-unnotified-explain":
+    "43a18f2a52cf2149d588b7d4b5e5510611321e880cc2f7d593a79b4b191cd4a4",
+  "civil-sale-lease-preemption-daughter-explain":
+    "20bc2deebeddf0a33a44c4b4ec82e91a5833a1934d93e0d0294f4269ba428c2e",
+};

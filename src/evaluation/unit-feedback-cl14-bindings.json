@@ -1,0 +1,119 @@
+{
+  "cl14-flight-no-serious-result": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "7f7bf8f3f887cf184efa49652c45e2a730e2f8c108a6157e65019cf635104acc",
+    "sourceMetadataFingerprint": "4baa4f7b338e4c2d0acf1e741e9d54a13e1eb1f10648b58576a5ace40b5a4c9d",
+    "questionId": "cl14-flight-no-serious-result",
+    "questionRevision": "criminal-special-accidents-2026-10-04.v1",
+    "contentId": "33f05347959bd613d2241372ded4ab31bae292ed6ce593c3967e0540792fb2ea",
+    "title": "违规之后安全返航",
+    "facts": "另一独立航班中，飞行员乙违反适用飞行规章，未按规定核验新的进场航线，沿用旧航线数据。塔台及时发现并要求改正，乙随即执行，航空器正常返航着陆。已完整核实：没有发生坠毁、碰撞或人员伤亡，航空器和地面财产没有损坏，也没有发生其他严重后果。有人认为：乙是航空人员并已违规，就足以按第一百三十一条肯定重大飞行事故犯罪成立。",
+    "prompt": "这一肯定理由能否成立？只结合第一百三十一条的事故后果条件和本案说明，不要求判断其他责任或刑期。",
+    "criteria": [
+      {
+        "id": "cl14-flight-no-serious-result-p1",
+        "label": "事故后果条件",
+        "meaning": "说明本条不只要求航空人员违规，还要求因此发生重大飞行事故并造成严重后果，不能仅凭身份和违规肯定成立。",
+        "acceptable": "意思相当且能联系本案事实即可：说明本条不只要求航空人员违规，还要求因此发生重大飞行事故并造成严重后果，不能仅凭身份和违规肯定成立。",
+        "boundary": "可合并说成‘还得有由违规导致的重大飞行事故及严重结果’；不强求逐字引法、条号或分别写两句。不能把事故后果说成只是量刑时再看的条件。"
+      },
+      {
+        "id": "cl14-flight-no-serious-result-p2",
+        "label": "联系本案",
+        "meaning": "结合塔台纠正后正常返航、已核实没有伤亡损害或其他严重后果，说明题述肯定理由不能成立。",
+        "acceptable": "意思相当且能联系本案事实即可：结合塔台纠正后正常返航、已核实没有伤亡损害或其他严重后果，说明题述肯定理由不能成立。",
+        "boundary": "接受‘违规虽已发生，但该航班安全返回且没有题设所要求的严重结果，不能据此肯定本条’等综合表达；不要求逐项列完全部无损害事实。是否另负行政、纪律或其他刑责不是本问必答，未单列提醒句不作漏答；不把本案无后果扩大为所有未死亡的事故均不成立。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "flightAccidentLaw",
+        "title": "《中华人民共和国刑法》第一百三十一条",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第131条要求航空人员违反规章制度，致使重大飞行事故并造成严重后果。身份及违规本身不能替代事故和严重后果；飞机坠毁或人员死亡另涉较重刑档，不是每一种基础路径的唯一后果形式。",
+        "checkedAt": "2026-10-04",
+        "scope": "只核本题已查明后果与错误肯定理由；不添加其他责任、刑期、完整职业名单或严重量化门槛。"
+      }
+    ]
+  },
+  "cl14-rail-unrelated-accident": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "dc498367fc41fe77af5ff9bc4f7981e003eaa9ed3620e7bb83eba6509aebc847",
+    "sourceMetadataFingerprint": "b31c9191a437f8f2a46abdc45e99e15bdb8a7751005ddb27e6e7ce9b5cda2a34",
+    "questionId": "cl14-rail-unrelated-accident",
+    "questionRevision": "criminal-special-accidents-2026-10-04.v1",
+    "contentId": "88e4f59b1ff030f4c2d0063c032af3fc5840f2dac8f84bbf5a140702fd6d3580",
+    "title": "同一天违规与事故，仍要核对联系",
+    "facts": "丁是甲站铁路信号维护职工，某日上午违反检修规章，漏做一台备用信号设备的例行检测。同日一列未经过甲站的列车在另一运行区段遇到突发山体滑坡，巨石落入轨道后发生碰撞，造成多名乘客死亡。全部行车记录及设备检验已查明：该备用设备始终正常，本次列车的行车控制没有使用它，丁也没有向该列车发出过调度指令；影像记录了巨石落入轨道及随后的碰撞。有人据此说：丁是铁路职工、当天违规，铁路又出了严重事故，当然可以肯定丁适用第一百三十二条。",
+    "prompt": "这一推断能否成立？只说明违规与事故后果之间所需的联系，并结合本案事实说明，不要求评价丁的其他责任。",
+    "criteria": [
+      {
+        "id": "cl14-rail-unrelated-accident-p1",
+        "label": "违规与后果联系",
+        "meaning": "说明本条要求违规致使事故及严重后果，不能仅因同一天有违规和事故就肯定联系。",
+        "acceptable": "意思相当且能联系本案事实即可：说明本条要求违规致使事故及严重后果，不能仅因同一天有违规和事故就肯定联系。",
+        "boundary": "允许‘结果得是这个违规引起的，不能只按时间先后或同属铁路推定’；不强求因果术语、固定条号或另列最终无罪结论。"
+      },
+      {
+        "id": "cl14-rail-unrelated-accident-p2",
+        "label": "题设具体支持",
+        "meaning": "结合该设备正常且未参与此次列车控制、丁无相关指令以及落石碰撞的记录，说明现有事实不能支持题述当然归责推断。",
+        "acceptable": "意思相当且能联系本案事实即可：结合该设备正常且未参与此次列车控制、丁无相关指令以及落石碰撞的记录，说明现有事实不能支持题述当然归责推断。",
+        "boundary": "允许综合说明‘这次事故与漏检的设备和丁的操作没有给定联系，实际过程是别处落石导致碰撞’，不要求逐项复述全部记录；不另考山体滑坡应由谁负责、行政或纪律责任、其他罪名和量刑。不能仅写‘事故在别处’而忽略设备或操作是否仍有作用。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "railAccidentLaw",
+        "title": "《中华人民共和国刑法》第一百三十二条",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第132条要求铁路职工违反规章制度，致使铁路运营安全事故并造成严重后果。违规与事故同时出现、同日或同属铁路，不能替代致使关系；特别严重后果属于后段较重刑档条件。",
+        "checkedAt": "2026-10-04",
+        "scope": "只核本题违规设备或指令与实际事故的联系；不得把严重后果当成自动因果，不添加其他责任或统一事故量化标准。"
+      }
+    ]
+  },
+  "cl14-mass-event-title-without-duty": {
+    "registrationVersion": "unit-feedback-public-registry-20261004.v1",
+    "protocolVersion": "unit-evidence-feedback-candidate-v1",
+    "instructionsSha256": "d1096931615d031dde11a1ebc373131ff22c9046a4b4d13f47081c56e3162919",
+    "referenceFingerprint": "8a24d4aa53f62ba68a2ee1e02339e0c9dfc3a9eb212705e0a2e1aa2f0b97fd17",
+    "sourceMetadataFingerprint": "a0ead8916eac4097b447b29dde795d770790b92437993c8b861319fc0acd772e",
+    "questionId": "cl14-mass-event-title-without-duty",
+    "questionRevision": "criminal-special-accidents-2026-10-04.v1",
+    "contentId": "9173bb16c6347fb2a86d29f612bc8f990da82904016834cb5f47a039514cca66",
+    "title": "赞助方副经理不自动成为安全主管",
+    "facts": "另一独立展销活动在临时场地向公众售票开放，已取得公安机关对该大型群众性活动的安全许可。甲任赞助企业副经理，合同和实际分工仅让甲协调品牌展示，甲当日以嘉宾身份到场；举办、承办、安全方案、场内施工和应急安排均不归甲负责，甲没有指挥或实施有关安全作业，也未参与削减检查。活动承办方安全负责人乙私自削减看台检查，未发现松动的承重构件，看台在使用中倒塌，造成多名观众死亡。职责材料、现场记录和调查已完整核实上述分工，甲事后才获知削减检查。有人认为：甲是副经理又到场，就足以把甲认定为第一百三十五条之一中的直接负责主管人员。",
+    "prompt": "这一主体认定理由能否成立？只结合本条责任人员条件及甲的实际职责、行为说明，不要求判断乙的全部责任或其他罪数。",
+    "criteria": [
+      {
+        "id": "cl14-mass-event-title-without-duty-p1",
+        "label": "实质责任条件",
+        "meaning": "说明本条责任人员须结合实际安全管理职责和行为判断，副经理头衔或到场本身不足以认定。",
+        "acceptable": "意思相当且能联系本案事实即可：说明本条责任人员须结合实际安全管理职责和行为判断，副经理头衔或到场本身不足以认定。",
+        "boundary": "可说‘要看他是否实际负责或参与这次安全违规，不能只看职位’，不强求逐字引文或分别解释两类责任人员；不能把只有法定代表人才能负责作为理由。"
+      },
+      {
+        "id": "cl14-mass-event-title-without-duty-p2",
+        "label": "甲的给定职责与行为",
+        "meaning": "结合甲仅作品牌协调和嘉宾、没有安全管理或相关作业职责且未参与削减检查，说明题述当然认定不能成立。",
+        "acceptable": "意思相当且能联系本案事实即可：结合甲仅作品牌协调和嘉宾、没有安全管理或相关作业职责且未参与削减检查，说明题述当然认定不能成立。",
+        "boundary": "允许概括实际分工后合并给出理由，不要求逐项否定全部职责清单、另写甲最终无罪或分析乙的完整罪责、共同犯罪、单位责任和刑罚；未单列这些范围提醒不算漏答。不能从本案事实扩大为所有赞助方或副经理都不可能承担责任。"
+      }
+    ],
+    "publicRules": [
+      {
+        "sourceId": "massEventAccidentLaw",
+        "title": "《中华人民共和国刑法》第一百三十五条之一",
+        "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/20240920152615743.shtml",
+        "excerpt": "第135条之一规定举办大型群众性活动违反安全管理规定，因而发生重大伤亡事故或其他严重后果时，对直接负责的主管人员和其他直接责任人员追责。具体责任需要联系实际安全职责及相关行为，不能仅按职务头衔或到场认定。",
+        "checkedAt": "2026-10-04",
+        "scope": "只核本题甲实际安全职责及行为的主体推断，不要求分析乙全部罪责、其他罪数、处罚、行政活动定义或严重尺度。"
+      }
+    ]
+  }
+}

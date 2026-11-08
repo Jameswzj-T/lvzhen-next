@@ -1,0 +1,23 @@
+# Build from the clean public export; this deny list also protects a local build.
+node_modules
+.next
+.git
+.env*
+model-keys.local.json
+.local-records
+artifacts
+checks
+team
+docs
+evals
+!evals/scoring-loop-2026-09-22
+!evals/scoring-loop-2026-09-22/transfer.ts
+**/*.test.*
+**/*.spec.*
+**/*fixture*
+!src/app/lab/feedback/fixtures.ts
+!src/evaluation/graph/demo-fixtures.ts
+**/samples.json
+coverage
+*.tsbuildinfo
+deploy/*.env

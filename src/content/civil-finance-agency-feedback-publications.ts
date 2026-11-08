@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilFinanceAgencyTeacherPublications: Record<string, string> = {
+  "civil-finance-agency-lease-unregistered-title-written":
+    "5dd9f91afb6a55077d8b2f2210f103d6b91bd0d588efedd782283bb18b96d3de",
+  "civil-finance-agency-lease-symbolic-price-written":
+    "6edbc0a8efc803fbbbb6270e56777167f9204331dab77c51966201855228ae06",
+  "civil-finance-agency-lease-damage-rent-written":
+    "8a908299de87281dc20934164d029c260968ae64e7f2a7ab40c982cf535588d6",
+  "civil-finance-agency-lease-lessor-change-written":
+    "f1925bea5fc1fe2c4a17e32ec0e8fb968d657d3098dea593f365531e15e03d4c",
+  "civil-finance-agency-factoring-before-notice-written":
+    "04695bff9cb5f2a3649d9d779dcc722feb3742d757392c781dae50a575cb02b0",
+  "civil-finance-agency-factoring-after-notice-written":
+    "548caea273d732dff344ea6e4ace956c6241bacf3ecc82cdad470528d330512b",
+  "civil-finance-agency-factoring-recourse-surplus-written":
+    "98d869043b5367b7bf15e8a28965882d60a054dc1f0b1ecaeae035ec93b25bbb",
+  "civil-finance-agency-factoring-nonrecourse-surplus-written":
+    "c030add625b9bb39eb2de5c1006ea2121a2256a3c247955493a68e4cd430e823",
+  "civil-finance-agency-commission-claim-price-written":
+    "401796d7f1442921a0caeaecd05528e84cdba7ff10425bfbfd82b1460ccca306",
+  "civil-finance-agency-commission-third-party-default-written":
+    "26d1c264685ac0540cf05df85bc123aa6d9413b8658525dca81c39eaf5e9de68",
+  "civil-finance-agency-commission-better-price-written":
+    "1fef6fafeb14b8f70d4d6fcf4bd14217d6d8cd8a561ba1953e44719f3f73a7d0",
+  "civil-finance-agency-commission-self-purchase-written":
+    "778e166a4d4164e0fd092169891d15a4903b78fa6dbaf91b9dcf506626f3f8c0",
+  "civil-finance-agency-intermediary-concealed-defect-written":
+    "ef2c5da61b9382d8a7489859913d59b5967e10ca5350d66878f34d18b8fb7915",
+  "civil-finance-agency-intermediary-not-guarantor-written":
+    "4538f73872fcc97b82ae39754243c386ef3530b1af5de87c812ad408d3384771",
+  "civil-finance-agency-intermediary-no-contract-written":
+    "061176e776c02af7da6eee431a613f7d81774c93509f4d250d4ce048cbb3c280",
+  "civil-finance-agency-intermediary-bypass-written":
+    "53da17d775321f950d800aff8b60a4d45d755bd75fcfe14ae566cd94126430aa",
+};

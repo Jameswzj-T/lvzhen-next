@@ -1,0 +1,109 @@
+.directory {
+  min-width: 0;
+}
+.heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+.heading h2 {
+  font-size: 21px;
+  font-weight: 600;
+}
+.heading > span {
+  font-size: 15px;
+  color: var(--muted);
+}
+.list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 28px;
+  border-top: 1px solid var(--line);
+}
+.chapter {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 0;
+  width: 100%;
+  min-height: 82px;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  background: transparent;
+  text-align: left;
+  color: var(--ink);
+}
+.chapter:hover {
+  color: var(--blue);
+}
+.number {
+  color: var(--muted);
+  font-size: 15px;
+  font-variant-numeric: tabular-nums;
+  align-self: flex-start;
+  margin-top: 2px;
+}
+.name {
+  font-size: 18px;
+  font-weight: 500;
+  min-width: 0;
+  line-height: 1.5;
+}
+.name small {
+  display: block;
+  font-size: 15px;
+  color: var(--muted);
+  font-weight: 400;
+  margin-top: 3px;
+}
+.chapter > svg {
+  flex-shrink: 0;
+  margin-left: auto;
+  color: var(--muted);
+  width: 17px;
+}
+.remaining {
+  padding-top: 16px;
+  font-size: 15px;
+  color: var(--muted);
+}
+.remaining summary {
+  cursor: pointer;
+  min-height: 44px;
+  align-content: center;
+}
+.remaining summary span {
+  margin-left: 8px;
+}
+.remaining ol {
+  list-style: none;
+  padding: 12px 0 0;
+  margin: 0;
+}
+.remaining li {
+  display: flex;
+  gap: 15px;
+  padding: 10px 0;
+}
+.remaining li span {
+  font-variant-numeric: tabular-nums;
+}
+@media (max-width: 700px) {
+  .heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 3px;
+  }
+  .list {
+    grid-template-columns: 1fr;
+  }
+  .chapter {
+    min-height: 76px;
+    padding: 13px 0;
+  }
+  .name {
+    font-size: 17px;
+  }
+}

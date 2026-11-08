@@ -1,0 +1,292 @@
+.workspace {
+  max-width: var(--reading-width);
+  margin: auto;
+  padding: 36px 24px 64px;
+}
+.intro {
+  padding-bottom: 24px;
+}
+.intro h1 {
+  font-size: 34px;
+  line-height: 1.4;
+  font-weight: 650;
+}
+.intro p {
+  font-size: 18px;
+  color: var(--ink);
+  margin-top: 8px;
+}
+.entryConflict {
+  margin-bottom: 20px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--blue-soft, #edf3fb);
+  font-size: 16px;
+  line-height: 1.7;
+}
+.entryConflict > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+.entryConflict button {
+  min-height: 44px;
+  padding: 10px 12px;
+  font: inherit;
+  color: var(--blue);
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.entryConflict button:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 3px;
+}
+.composer {
+  background: white;
+  border: 1px solid #bac5d4;
+  border-radius: 8px;
+}
+.composer:focus-within {
+  border-color: var(--blue);
+}
+.context {
+  margin: 16px 18px 0;
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line);
+  font-size: 17px;
+  color: var(--ink);
+}
+.context > span {
+  flex: 1;
+  min-width: 140px;
+}
+.contextActions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: auto;
+}
+.context button {
+  min-width: 44px;
+  min-height: 44px;
+  flex-shrink: 0;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  padding: 8px;
+  display: grid;
+  place-items: center;
+}
+.context button.returnToQuestion {
+  display: inline-flex;
+  font-size: 17px;
+  color: var(--blue);
+}
+.composer textarea {
+  display: block;
+  width: 100%;
+  resize: vertical;
+  padding: 18px;
+  color: var(--ink);
+  border: 0;
+  border-radius: 8px;
+  font-size: 18px;
+  line-height: 1.8;
+  background: transparent;
+  min-height: 140px;
+}
+.availability {
+  margin: 12px 18px 0;
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.7;
+}
+.composerBottom {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 16px;
+  padding: 4px 18px 18px;
+  flex-wrap: wrap;
+}
+.primary {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  background: var(--blue);
+  color: white;
+  border: 0;
+  border-radius: 8px;
+  min-height: 48px;
+  padding: 11px 18px;
+  font-size: 17px !important;
+  white-space: nowrap;
+}
+.message {
+  font-size: 17px;
+  color: var(--ink);
+  padding: 14px 0;
+}
+.message button {
+  border: 0;
+  background: transparent;
+  color: var(--blue);
+  font: inherit;
+  text-decoration: underline;
+  padding: 6px 0;
+  margin-left: 12px;
+  min-height: 44px;
+}
+.faq {
+  margin-top: 32px;
+}
+.sectionHeading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+.sectionHeading h2 {
+  font-size: 22px;
+  font-weight: 600;
+}
+.sectionHeading span {
+  font-size: 15px;
+  color: var(--muted);
+}
+.question {
+  border-bottom: 1px solid var(--line);
+}
+.question > button {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  text-align: left;
+  justify-content: space-between;
+  gap: 20px;
+  background: transparent;
+  border: 0;
+  color: var(--ink);
+  padding: 16px 0;
+  font-size: 18px;
+  min-height: 56px;
+}
+.question > button svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  color: var(--muted);
+  transition: transform 0.18s;
+}
+.question[data-open="true"] > button svg {
+  transform: rotate(180deg);
+}
+.answer {
+  padding: 0 0 4px;
+  margin: 0 0 20px;
+  font-size: 18px;
+}
+.answer p {
+  margin-bottom: 12px;
+}
+.answer a {
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 2px;
+}
+.savedQuestions {
+  margin-top: 28px;
+  border-bottom: 1px solid var(--line);
+}
+.savedQuestions > summary {
+  font-size: 18px;
+  min-height: 48px;
+  align-content: center;
+}
+.savedQuestions > summary span {
+  font-size: 15px;
+  color: var(--muted);
+  margin-left: 8px;
+}
+.savedQuestions article {
+  padding: 18px 0;
+  border-top: 1px solid var(--line);
+  font-size: 18px;
+}
+.savedQuestions article > p {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.savedQuestions article > div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  color: var(--muted);
+  font-size: 15px;
+  margin-top: 10px;
+}
+.savedQuestions button {
+  border: 0;
+  background: transparent;
+  color: var(--blue);
+  font-size: 16px;
+  padding: 4px 0;
+  min-height: 44px;
+}
+.visuallyHidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+}
+@media (max-width: 700px) {
+  .workspace {
+    padding: 26px 20px 32px;
+  }
+  .intro h1 {
+    font-size: 30px;
+  }
+  .composer textarea,
+  .intro p,
+  .question > button,
+  .answer,
+  .savedQuestions article {
+    font-size: 17px;
+  }
+  .primary {
+    font-size: 16px !important;
+  }
+}
+
+.explanationActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 16px 0 24px;
+}
+.explanationActions button {
+  min-height: 44px;
+  padding: 10px 12px;
+  font: inherit;
+  color: var(--blue);
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+.explanationActions button:disabled {
+  opacity: 0.5;
+}

@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilUsufructTeacherPublications: Record<string, string> = {
+  "civil-usufruct-habitation-contract-without-registration-written":
+    "1692e1c0b457482b46977d20c26a148bcc85ffec7719be6e540f3d4b1412f600",
+  "civil-usufruct-habitation-registered-free-use-written":
+    "ed038c26e717a535b8f2347fb92584d10913ce42653fb30ce8a31454f6e44eae",
+  "civil-usufruct-habitation-death-no-inheritance-written":
+    "a5526e2de1a91f8952fe40e2cc565891a29ce382065f6b0b03fb169391b5ba95",
+  "civil-usufruct-habitation-agreed-rental-exception-written":
+    "3c6767fb10b91903c1b2f29d11732d333136d686332c7374a38979a19386fa4d",
+  "civil-usufruct-easement-contract-no-registration-written":
+    "9119233ac92c8527ac6d0c7ce96057327ea8cde759b0cbd323f38a9b116e6adc",
+  "civil-usufruct-easement-unregistered-good-faith-transferee-written":
+    "6f9a1c7917c17c25672852ca26ae7dbbdec6af9e9c4502e437e1bfcdb8821d36",
+  "civil-usufruct-easement-servient-obstruction-written":
+    "b50f4d2f50207a77824f09e6fcb8b03beb5673d56f2f9e097300ce07a400bf8b",
+  "civil-usufruct-easement-dominant-excess-use-written":
+    "8c7ac55e0be120cfc25792d18d26acc480c110f687fd3001475e7ffec0d765b0",
+  "civil-usufruct-construction-contract-not-registered-written":
+    "970b562dcde55cc5ce0eed1d7ab7e0a76c7140b2bff6659e0a94104ee207d24f",
+  "civil-usufruct-construction-separate-underground-layer-written":
+    "e4f594a7feb042f662a98ddb9607568cbb5a97ba39791e340bf30b2ede5ec69c",
+  "civil-usufruct-construction-warehouse-land-together-written":
+    "e0aefedcdcf8ba377dba2ab3ead54ad99602dfc7d66fb4f6e09b3ee00d34ac79",
+  "civil-usufruct-construction-residential-auto-renewal-written":
+    "e98e79f4b8cfcf36775d67adddb6be4d407911da3ead9ab63a6fa51d3bc5cb17",
+  "civil-usufruct-land-contract-effective-before-certificate-written":
+    "dd5d64eb9f565c14915888a6c3742fff7d5271d148d9bddb637cf1d6c99e2490",
+  "civil-usufruct-land-contract-no-recovery-for-higher-bid-written":
+    "eef832e6b06856dfe38da49369438166707cd1b869f4c735310609607b553c29",
+  "civil-usufruct-land-management-seven-year-unregistered-written":
+    "24fb43179d1b662eb1ed06af94df9151b36671998af9af182565ebc59ee93c34",
+  "civil-usufruct-land-management-beyond-remaining-term-written":
+    "b23e8623854cfa3e259f9bd7f71710469c8662c46d1ed135b8446e157ef24f9b",
+};

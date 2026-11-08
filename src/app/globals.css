@@ -1,0 +1,94 @@
+/* Shared product typography and surfaces. Page modules own their layout. */
+:root {
+  color-scheme: light;
+  --page: #fafaf8;
+  --paper: #fff;
+  --ink: #232c39;
+  --muted: #596677;
+  --blue: #285bc4;
+  --navy: #232c39;
+  --pale: #f0f4fc;
+  --line: #e2e5e9;
+  --amber: #785013;
+  --reading-width: 820px;
+  --workspace-width: 1180px;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font-family: "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: 18px;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+}
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+button,
+a,
+input,
+textarea,
+summary {
+  -webkit-tap-highlight-color: transparent;
+}
+button,
+summary {
+  cursor: pointer;
+}
+button:disabled {
+  cursor: not-allowed;
+}
+a {
+  color: var(--blue);
+  text-underline-offset: 4px;
+}
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible,
+summary:focus-visible {
+  outline: 3px solid #91b0f0;
+  outline-offset: 4px;
+}
+button {
+  color: inherit;
+}
+small {
+  font-size: 15px;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+::selection {
+  background: #dce7fc;
+}
+@media (max-width: 700px) {
+  body {
+    font-size: 17px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}

@@ -1,0 +1,3984 @@
+{
+  "revision": "g8-completion-2026-11-02.v1",
+  "scope": "Original supplemental questions on existing substantive topics. Product practice counts, not official exam weights.",
+  "sources": {
+    "g8-main-civil-capacity-code-minor": {
+      "title": "《民法典》第19、20、144、145条：未成年人的行为能力与交易效力",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html",
+      "note": "2026-11-02定向核第19、20、144、145条，含催告后三十日未表示视为拒绝追认。"
+    },
+    "g8-main-civil-capacity-age-fit-interpretation": {
+      "title": "最高法总则编解释第5条：年龄、智力适应的具体判断",
+      "url": "https://ipc.court.gov.cn/zh-cn/news/view-1792.html",
+      "note": "最高人民法院官方附全文，法释〔2022〕6号，自2022-03-01施行；2026-10-22直接核读第5条。结合行为与生活的关联、本人理解及预见后果的能力、标的数量与价款等判断，不以某个金额自动划界。本组只据此选择事实清楚的小额学习用品与不理解高额分期负担的对照，不引用官方案例或旧机构题库。"
+    },
+    "g8-main-civil-contract-offer": {
+      "title": "《民法典》第472、473、479条：要约邀请与接受交易条件",
+      "url": "https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf",
+      "note": "全国人大法规库对应官方附件；本包直读所列条款，采用法源专员2026-10-05本轮取得的有效记录。限普通动产交易的订立判断，不代表2027完整大纲、平台特别规则或模型效果已验。"
+    },
+    "g8-main-civil-contract-oral-formation": {
+      "title": "《民法典》第469、479、483、484、137条：口头订约与承诺生效",
+      "url": "https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf",
+      "note": "全国人大法规库对应官方附件；本包直读所列条款，采用法源专员2026-10-05本轮取得的有效记录。限普通动产交易的订立判断，不代表2027完整大纲、平台特别规则或模型效果已验。第137条只采用对话意思表示的生效规则；不泛化到法定特别形式或另约成立条件。"
+    },
+    "g8-main-civil-contract-counteroffer": {
+      "title": "《民法典》第479、483、488条：改价回复与合同成立",
+      "url": "https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf",
+      "note": "全国人大法规库对应官方附件；本包直读所列条款，采用法源专员2026-10-05本轮取得的有效记录。限普通动产交易的订立判断，不代表2027完整大纲、平台特别规则或模型效果已验。只判本题价款的实质性变更、回复性质和成立结果；不扩逾期回复或非实质变更。"
+    },
+    "g8-main-civil-contract-conduct-formation": {
+      "title": "《民法典》第480、483、484条第2款：按约定行为承诺",
+      "url": "https://flk.npc.gov.cn/detail?id=ff808081729d1efe01729d50b5c500bf",
+      "note": "全国人大法规库对应官方附件；本包直读所列条款，采用法源专员2026-10-05本轮取得的有效记录。限普通动产交易的订立判断，不代表2027完整大纲、平台特别规则或模型效果已验。本题已明确允许规定的装运行为，不依未查明交易习惯推定承诺，也不把沉默当本案接受。"
+    },
+    "g8-main-civpro-detail-coercion-law": {
+      "title": "《民事诉讼法》（2023年修正）第112、117—120条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5220330/content.html",
+      "note": "2026-10-30核读。区分拘传、罚款和拘留的条件与程序；罚款拘留向上一级法院复议一次，复议不停止执行。 原创虚构教学案例，不是官方真题。"
+    },
+    "g8-main-civpro-detail-coercion-procedure": {
+      "title": "《民诉法解释》（2022年修正）第174、175条",
+      "url": "https://www.quanzhou.gov.cn/zfb/xxgk/zfxxgkzl/fgwj/sfjs/202304/t20230412_2868534.htm",
+      "note": "2026-10-30核读。拘传票直接送达；拘传前说明拒不到庭后果，批评教育后仍拒不到庭才可实施。 原创虚构教学案例，不是官方真题。"
+    },
+    "g8-main-civpro-detail-fee-mediation": {
+      "title": "《诉讼费用交纳办法》第15、31条",
+      "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1555",
+      "note": "2026-10-30核读。法院调解结案减半交纳案件受理费；费用负担先由双方协商，协商不成由法院决定。 原创虚构教学案例，不是官方真题。"
+    },
+    "g8-main-civpro-detail-fee-relief": {
+      "title": "《诉讼费用交纳办法》第44、45、48条",
+      "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1555",
+      "note": "2026-10-30核读。无其他收入的最低生活保障对象申请司法救助，应准予免交；仍须提出书面申请并提交经济困难证明。免交仅适用于自然人。 原创虚构教学案例，不是官方真题。"
+    },
+    "g8-main-crimpro-g1-period-service": {
+      "title": "《刑事诉讼法》（2018年修正）第105—107、230条：期间、送达与上诉期限",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_48b3b0c3f954448e996602a71fc6f878.html",
+      "note": "2026-11-01核读；原创虚构教学案例，不是官方真题。上诉交邮看是否及时，羁押到期不能借节假日顺延。"
+    },
+    "g8-main-crimpro-g1-appeal-right": {
+      "title": "《刑事诉讼法》（2018年修正）第227至231条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_48b3b0c3f954448e996602a71fc6f878.html",
+      "note": "2026-11-01核读；原创虚构教学案例，不是官方真题。被告人可以上诉，被害人对公诉刑事判决通常请求检察院抗诉。"
+    },
+    "g8-main-admin-g4-license-material": {
+      "title": "《行政许可法》（2019年修正）第27、29—34、82条：收件补正、工作日与禁止强制购买",
+      "url": "https://tjj.beijing.gov.cn/zwgkai/lzyj_31357/fl/202002/t20200216_1637807.html",
+      "note": "2026-11-02定向核读；五日按工作日计算；不把受理等同于许可获准。"
+    },
+    "g8-main-admin-g4-force-subject": {
+      "title": "《行政强制法》第17—19条",
+      "url": "https://www.samr.gov.cn/fgs/zcfg/art/2023/art_3dacc237ebea4f4083529f4b20141266.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。强制措施权不能委托；执法资格和法定程序不能由合同替代。"
+    },
+    "g8-main-commercial-g5-profit": {
+      "title": "《公司法》（2023年修订，2024年7月施行）第210—212条",
+      "url": "https://www.samr.gov.cn/xyjgs/flfg/art/2024/art_d4e84936a8a744f8928ac7aec7594345.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。先弥补亏损、依法提公积金，再分剩余利润；违规分红要退还。"
+    },
+    "g8-main-commercial-g5-partner-liability": {
+      "title": "《合伙企业法》（2006年修订）第2、38—40、76条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211810/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。先以合伙企业财产清偿，普通合伙人与有限合伙人的外部责任不同。"
+    },
+    "g8-main-remaining-g6-law-hierarchy": {
+      "title": "《立法法》（2023年修正）第98—106条",
+      "url": "https://www.bjrd.gov.cn/xwzx/qgrd/202303/t20230314_2935590.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。下位规范不能任意抵触上位法；新一般与旧特别冲突不能只套一句新法优先。"
+    },
+    "g8-main-remaining-g6-law-time": {
+      "title": "《立法法》（2023年修正）第104条",
+      "url": "https://www.bjrd.gov.cn/xwzx/qgrd/202303/t20230314_2935590.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。规范一般不溯及既往，有利保护权利的特别规定另行判断。"
+    },
+    "g8-main-remaining-g6-lawyer-duty": {
+      "title": "中华人民共和国律师法第38—40条",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201912/t20191219_1313473.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。律师应保护执业秘密，不能同一案件同时代理对立双方。"
+    },
+    "g8-main-remaining-g6-juror-voting": {
+      "title": "中华人民共和国人民陪审员法第20—23条",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/94492.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。三人庭与七人庭的陪审员法律适用表决权不同，不能套同一规则。"
+    },
+    "g8-main-remaining-g6-state-immunity": {
+      "title": "《外国国家豁免法》第2—7、13—15条：国家机关、商业例外与分别判断",
+      "url": "https://www.fmprc.gov.cn/web/wjb_673085/zfxxgk_674865/zcfg/fl/202309/t20230901_11137076.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。符合条件的商业活动可能不享有管辖豁免，但执行财产还要另行审查。"
+    },
+    "g8-main-remaining-g6-choice-mandatory": {
+      "title": "中华人民共和国涉外民事关系法律适用法第3—4、9、41条",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=46613",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。法律允许的涉外合同选法不以实际联系为必要，但不能排除直接强制规范。"
+    },
+    "g8-main-remaining-g6-choice-mandatory-interpretation": {
+      "title": "最高人民法院涉外民事关系法律适用法解释（一）（2020修正）第4—5、8条",
+      "url": "https://cicc.court.gov.cn/html/1/218/62/84/12831.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "g8-main-remaining-g6-copyright-ownership": {
+      "title": "中华人民共和国著作权法（2020修正）第11、19—20条",
+      "url": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。付创作费不一定买走著作权，买到作品原件也不等于取得全部版权。"
+    },
+    "g8-main-remaining-g6-patent-duty": {
+      "title": "《中华人民共和国专利法》（2020修正）第6、15、16条：职务发明、奖励报酬与署名",
+      "url": "https://www.cnipa.gov.cn/art/2020/11/23/art_97_155167.html",
+      "note": "2026-11-02定向复核第6、15、16条；本批仅考职务发明申请权、实际发明人署名、单位奖励及实施后的合理报酬，不要求计算具体报酬金额。"
+    },
+    "g8-writing-civil-procedure": {
+      "title": "《民事诉讼法》（2023年修正）第123、124条：起诉形式与起诉状内容",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5220330/content.html",
+      "note": "2026-11-02定向核起诉形式和当事人、诉求、事实理由、证据事项；本题管辖已明确，不另设隐含程序门槛。"
+    },
+    "g8-writing-civil-sale": {
+      "title": "《民法典》第509、577、579、626条：合同履行与支付价款",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/233181.html",
+      "note": "固定买卖事实下的价款履行请求；本题只要求剩余价款及诉讼费，不核利息、违约金或税费。"
+    },
+    "g8-writing-appeal": {
+      "title": "《刑事诉讼法》（2018年修正）第227—231条：上诉权、期限和提出方式",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_48b3b0c3f954448e996602a71fc6f878.html",
+      "note": "本题只训练被告人的量刑上诉文书，不承诺上诉必然改判。"
+    },
+    "g8-writing-confession": {
+      "title": "《刑法》第67条：如实供述的从宽评价",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5212248/content.html",
+      "note": "被抓获后如实供述不同于自动投案；量刑请求可依法提出，不虚构自首或保证减刑。"
+    },
+    "g8-writing-constitution": {
+      "title": "《中华人民共和国宪法》第5、27条：依法治国、依法行使职权及联系群众",
+      "url": "https://www.gov.cn/guoqing/2018-03/22/content_5276318.htm",
+      "note": "论述依据为公开宪法原则及题设材料；练习建议篇幅不是官方考试字数或评分标准。"
+    },
+    "g8-writing-lawyer": {
+      "title": "《中华人民共和国律师法》第38—40条：保密、利益冲突与禁止行为",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/201912/t20191219_1313473.html",
+      "note": "材料型长论述围绕已有执业规范；不把忠于委托人解释为可伪造证据、双重代理或泄密。"
+    },
+    "g8-writing-repayment": {
+      "title": "《关于常见犯罪的量刑指导意见（试行）》（2021）第三部分（十）：退赃、退赔",
+      "url": "https://www.jinjiang.gov.cn/ztzl/jjgazl/flfg/202107/t20210706_2583807.htm",
+      "note": "2026-11-02定向核正式文件政府公开全文及最高法2021发布说明。仅支持综合评价退赔；本练习不要求计算基准刑比例，也不保证改判或免刑。"
+    }
+  },
+  "parents": [
+    {
+      "id": "civil-capacity-minor",
+      "title": "未成年人的行为能力与交易效力",
+      "headline": "先看年龄，再看交易内容与法定代理人的参与。",
+      "goal": "区分不满8周岁独立行为、限制能力人的独立有效行为及须同意追认的交易。",
+      "prerequisite": "知道买卖和接受赠与都是民事法律行为；本组只看行为能力造成的效力问题。",
+      "minutes": "8–12",
+      "paragraphs": [
+        "不满8周岁的未成年人没有民事行为能力，由法定代理人代理实施民事法律行为；其自己实施的民事法律行为无效（第20、144条）。8周岁以上的未成年人一般为限制民事行为能力人；已满16周岁、自养的特别情形见下一知识点。",
+        "限制能力人可以独立实施纯获利益的行为，以及与年龄、智力相适应的行为，这些行为有效（第19、145条）。是否相适应，要看与生活的关联、理解及预见后果的能力和标的价款，不能只用“未满18”或“钱是自己的”判断。",
+        "其他交易应由法定代理人代理，或经其同意、追认。本人未经同意实施且尚未获追认时效力待定，追认后有效；不要把限制能力人的所有交易都判成永久无效。"
+      ],
+      "pitfall": "把所有未成年人交易都判无效，或把有自己的钱当成取得独立订约能力。",
+      "recall": {
+        "prompt": "8周岁以上未成年人哪些行为可独立有效，其他交易怎么办？",
+        "reference": "纯获利益或与年龄、智力相适应的行为可独立有效；其他交易须法定代理人代理或同意、追认。不满8周岁自己的行为无效，不能混用追认规则。"
+      },
+      "example": {
+        "title": "小学生买学习字典",
+        "facts": "11周岁的周箬为本学期语文课购买一本32元的字典。她比对了目录和标价，用积攒的50元零花钱付款，取回18元找零，随后带到学校查生字。店员后来以父母没有到场同意为由，称这笔购买不能生效。",
+        "analysis": "周箬11周岁，但32元字典是日常学习用品，购买行为与其年龄、理解能力相适应，可以独立有效；无需只因父母未到场就否定效力。"
+      },
+      "sources": [
+        "g8-main-civil-capacity-code-minor",
+        "g8-main-civil-capacity-age-fit-interpretation"
+      ],
+      "exercises": [
+        {
+          "id": "g8-types-minor-camera-multiple",
+          "caseId": "g8-types-minor-camera",
+          "relatedTopicIds": ["civil-capacity-minor"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "相机、赠与与追认（多选）",
+          "facts": "七岁的甲用压岁钱向商店买一台4200元的相机。甲的姐姐乙十五岁，接受姑姑无附加条件赠送的一套画具；又瞒着父母买了一台9800元的电脑。电脑交易超出乙的年龄、智力范围，乙父母接到商店的追认催告后满三十日一直没有答复。",
+          "prompt": "关于三笔交易的效力，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "乙的电脑买卖因父母三十日未答复而视为已经追认。",
+              "explanation": "法定代理人收到催告后三十日未作表示，视为拒绝追认。"
+            },
+            {
+              "id": "b",
+              "text": "甲的相机买卖无效，不能靠父母事后追认使该买卖生效。",
+              "explanation": "甲未满八周岁，自己实施的买卖无效；与限制行为能力人的追认制度不同。"
+            },
+            {
+              "id": "c",
+              "text": "只要钱是未成年人自己的，买卖便全部有效。",
+              "explanation": "财产来源不能替代行为能力与交易内容的审查。"
+            },
+            {
+              "id": "d",
+              "text": "乙接受无附加义务的画具赠与有效。",
+              "explanation": "乙是限制民事行为能力人，可以独立实施纯获利益的行为。"
+            }
+          ],
+          "correctChoices": ["b", "d"],
+          "answer": "b,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、D。A项：法定代理人收到催告后三十日未作表示，视为拒绝追认。 B项：甲未满八周岁，自己实施的买卖无效；与限制行为能力人的追认制度不同。 C项：财产来源不能替代行为能力与交易内容的审查。 D项：乙是限制民事行为能力人，可以独立实施纯获利益的行为。",
+          "sources": [
+            "g8-main-civil-capacity-code-minor",
+            "g8-main-civil-capacity-age-fit-interpretation"
+          ]
+        },
+        {
+          "id": "g8-types-minor-camera-indefinite",
+          "caseId": "g8-types-minor-camera",
+          "relatedTopicIds": ["civil-capacity-minor"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "相机、赠与与追认（不定项）",
+          "facts": "七岁的甲用压岁钱向商店买一台4200元的相机。甲的姐姐乙十五岁，接受姑姑无附加条件赠送的一套画具；又瞒着父母买了一台9800元的电脑。电脑交易超出乙的年龄、智力范围，乙父母接到商店的追认催告后满三十日一直没有答复。",
+          "prompt": "只看乙买电脑这一交易，父母始终未作其他表示。下列哪些判断正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "催告后的法定期限届满未答复，视为拒绝追认。",
+              "explanation": "本题明确超过相适应范围，且催告后三十日未答复。"
+            },
+            {
+              "id": "b",
+              "text": "收到电脑本身就使乙自动取得独立订立该交易的能力。",
+              "explanation": "履行事实不改变行为能力。"
+            },
+            {
+              "id": "c",
+              "text": "乙能够说清价格，因此必须视为完全民事行为能力人。",
+              "explanation": "十五岁且题设明确交易不相适应，不能仅据表达能力认定完全行为能力。"
+            },
+            {
+              "id": "d",
+              "text": "商店可以用催告直接替代法定代理人的同意。",
+              "explanation": "催告只是促使法定代理人表态，不能替其同意。"
+            }
+          ],
+          "correctChoices": ["a"],
+          "answer": "a",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A。A项：本题明确超过相适应范围，且催告后三十日未答复。 B项：履行事实不改变行为能力。 C项：十五岁且题设明确交易不相适应，不能仅据表达能力认定完全行为能力。 D项：催告只是促使法定代理人表态，不能替其同意。",
+          "sources": [
+            "g8-main-civil-capacity-code-minor",
+            "g8-main-civil-capacity-age-fit-interpretation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "civil-contract-formation",
+      "title": "合同成立",
+      "headline": "哪些交易表示已经达成合意？",
+      "goal": "从具体交易表示区分邀请、要约及承诺，结合回复内容和接受方式说明本案合同是否及何时成立。",
+      "prerequisite": "能够分辨当事人发出的交易条件和对方实际说了、做了什么。",
+      "minutes": "10–15",
+      "paragraphs": [
+        "要约是希望订立合同的具体表示，要表明经对方承诺即受约束（第472条）。邀请他人提出交易条件是要约邀请（第473条）；本组价目表明确还需协商，不据样价或收到资料就认定已订约。符合要约条件的商业广告仍可能是要约，不能只按材料名称判断。",
+        "承诺是同意要约；对价款等作实质性变更是新要约（第479、488条）。先联系本案回复具体改了什么，再判断双方是否已同意相同交易条件，不能把‘其余照旧’或‘收到，正在考虑’补成完整接受。",
+        "没有法律特别规定或另定成立条件时，承诺生效即合同成立（第483条）。普通订约可以口头进行，对话承诺按第484条连接第137条判断生效；要约明确允许的行为承诺，可在依要求作出行为时生效（第480、484条第2款）。本组分别按当场接受和完成约定装运判断，不把之后付款、交货或一封额外回信自动变为成立前提。"
+      ],
+      "pitfall": "报价、考虑、改价和按约接受的法律意义不同；‘已成立’也不等于已经付款、交付或解决了所有效力争议。",
+      "recall": {
+        "prompt": "报价已允许按规定行为接受，没有回信为何仍可能成立合同？",
+        "reference": "要联系要约允许的方式与实际行为；按要求完成接受行为时，行为承诺可以生效，合同随之成立。不能推广为任何沉默或任意搬运都算接受。"
+      },
+      "example": {
+        "title": "当场买旧投影仪",
+        "facts": "本案为虚构；各方具备相应民事行为能力，以自己名义进行普通动产交易。本问只判断合同成立，不展开其他法律争议。陈芷在家中出售自有的一台旧投影仪。穆棠看过设备后，陈芷说：“这台按2600元卖给你，明天在这里交货，你交货时付款。”穆棠当场回答：“按你刚说的价格和交货付款安排，我买。”陈芷听清并理解了这句话。双方未约定另签合同书、确认书，也未约定要等付款或交货才成立。陈芷随后以“纸上还没有签字”为由说双方尚未订约。",
+        "analysis": "普通订约可以采用口头形式，穆棠即时同意明确的物品、价款和交货付款安排，陈芷已理解该对话承诺；没有另行成立约定，本案承诺生效时合同成立。付款、交货是后续约定事项，不自行变成成立条件。依据第469、479、483、484条连接第137条，不能仅因没有合同书签字否定成立。这不泛化为依法须特殊形式或另约成立条件的任何合同都不必签字。"
+      },
+      "sources": [
+        "g8-main-civil-contract-offer",
+        "g8-main-civil-contract-oral-formation",
+        "g8-main-civil-contract-counteroffer",
+        "g8-main-civil-contract-conduct-formation"
+      ],
+      "exercises": [
+        {
+          "id": "g8-types-offer-chair-multiple",
+          "caseId": "g8-types-offer-chair",
+          "relatedTopicIds": ["civil-contract-formation"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "报价与改价回复（多选）",
+          "facts": "甲家具厂发邮件给乙书店，写明供应50把指定型号椅子，每把300元，六月十日送至乙门店；乙在六月二日前回复同意即可成交。乙回复：“其余照办，每把280元，六月二日前答复我即可。”甲收到后未回复，也未发货。",
+          "prompt": "关于双方往来，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "乙同意了大多数条件，所以300元合同已经成立。",
+              "explanation": "实质性修改价款不构成对原要约的承诺。"
+            },
+            {
+              "id": "b",
+              "text": "甲未反对就当然接受了乙的280元报价。",
+              "explanation": "本题没有法律规定、约定或交易习惯使沉默构成承诺。"
+            },
+            {
+              "id": "c",
+              "text": "甲的邮件具体确定，并表示乙承诺即可成立合同，属于要约。",
+              "explanation": "标的、数量、价格、交付及受约束意思均明确。"
+            },
+            {
+              "id": "d",
+              "text": "乙改变价格的回复属于新要约。",
+              "explanation": "价款的实质性变更使回复成为新要约。"
+            }
+          ],
+          "correctChoices": ["c", "d"],
+          "answer": "c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选C、D。A项：实质性修改价款不构成对原要约的承诺。 B项：本题没有法律规定、约定或交易习惯使沉默构成承诺。 C项：标的、数量、价格、交付及受约束意思均明确。 D项：价款的实质性变更使回复成为新要约。",
+          "sources": [
+            "g8-main-civil-contract-offer",
+            "g8-main-civil-contract-oral-formation",
+            "g8-main-civil-contract-counteroffer",
+            "g8-main-civil-contract-conduct-formation"
+          ]
+        },
+        {
+          "id": "g8-types-offer-chair-indefinite",
+          "caseId": "g8-types-offer-chair",
+          "relatedTopicIds": ["civil-contract-formation"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "报价与改价回复（不定项）",
+          "facts": "甲家具厂发邮件给乙书店，写明供应50把指定型号椅子，每把300元，六月十日送至乙门店；乙在六月二日前回复同意即可成交。乙回复：“其余照办，每把280元，六月二日前答复我即可。”甲收到后未回复，也未发货。",
+          "prompt": "将原题全部邮件往来替换为以下独立情境：甲的最初邮件明确“乙在六月二日前支付15000元即为承诺，无须另回邮件”，乙未发出任何改价回复，六月一日依约支付且款已到账。下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "不能仅因没有书面回复，就否定合同成立。",
+              "explanation": "依法可以用行为作出承诺。"
+            },
+            {
+              "id": "b",
+              "text": "合同一律要等椅子全部交付后才成立。",
+              "explanation": "本题约定的是付款承诺，而非以全部交付作为成立条件。"
+            },
+            {
+              "id": "c",
+              "text": "该行为在六月一日完成时，合同依约成立。",
+              "explanation": "无需承诺通知的，依约实施行为时生效。"
+            },
+            {
+              "id": "d",
+              "text": "可以依要约约定以付款行为作出承诺。",
+              "explanation": "要约允许以行为承诺，本题行为符合约定。"
+            }
+          ],
+          "correctChoices": ["a", "c", "d"],
+          "answer": "a,c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、C、D。A项：依法可以用行为作出承诺。 B项：本题约定的是付款承诺，而非以全部交付作为成立条件。 C项：无需承诺通知的，依约实施行为时生效。 D项：要约允许以行为承诺，本题行为符合约定。",
+          "sources": [
+            "g8-main-civil-contract-offer",
+            "g8-main-civil-contract-oral-formation",
+            "g8-main-civil-contract-counteroffer",
+            "g8-main-civil-contract-conduct-formation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "civpro-detail-coercive-measures",
+      "title": "妨害诉讼的强制措施",
+      "headline": "是否采取强制措施，由法院按法定条件决定。",
+      "goal": "本案是否具备拘传条件？采取拘传需要哪些批准和文书手续？",
+      "prerequisite": "知道民事诉讼用于解决当事人之间的民事争议。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "必须到庭的被告，经两次传票传唤，无正当理由拒不到庭，可以拘传。拘传、罚款、拘留须经院长批准；拘传用拘传票，罚款、拘留用决定书。",
+        "不服罚款、拘留决定，可以向上一级法院申请复议一次，复议不停止执行。单位拒绝协助执行，可被责令履行并罚款；对责任人员可罚款，仍不履行的可拘留。",
+        "追索债务不能靠私自关人、扣财产。司法强制措施和私人讨债是两回事。"
+      ],
+      "pitfall": "把拒不到庭直接当成犯罪，或认为提出复议就可以不执行拘留决定。",
+      "recall": {
+        "prompt": "本组各类情形应分别怎样处理？",
+        "reference": "是否采取强制措施，由法院按法定条件决定。"
+      },
+      "example": {
+        "title": "两次拒不到庭，法院可以怎么办",
+        "facts": "在一起赡养费诉讼中，法院依法认定被告韩宁必须本人到庭，才能查清赡养安排等关键事实。法院先后两次向他合法送达传票，他没有疾病、交通受阻等正当理由，只说不想来，两次都未到庭。法院向他说明后果并批评教育后，他仍拒绝到庭。原告要求自己找人把韩宁带来；承办法官则考虑依法采取拘传。",
+        "analysis": "具备可以拘传的条件。韩宁是必须到庭的被告，两次收到传票仍无正当理由拒不到庭。拘传由法院依法决定，须经院长批准，使用拘传票并直接送达；实施前说明后果、批评教育仍拒不到庭的，才依法拘传。不能让原告自己找人强行带他来。"
+      },
+      "sources": [
+        "g8-main-civpro-detail-coercion-law",
+        "g8-main-civpro-detail-coercion-procedure"
+      ],
+      "exercises": [
+        {
+          "id": "g8-types-court-detention-multiple",
+          "caseId": "g8-types-court-detention",
+          "relatedTopicIds": ["civpro-detail-coercive-measures"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "法庭秩序与拘留决定（多选）",
+          "facts": "民事庭审中，旁听人甲反复辱骂证人、推倒录音设备，劝阻无效。合议庭认为需要罚款；拟采取的数额在法定范围内。书记员提议由承办法官口头决定罚款，另有人提议以“藐视法庭”为由无限期拘留。",
+          "prompt": "就法院强制措施的程序，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "为维护法庭秩序，可以不受法定期限限制地拘留。",
+              "explanation": "司法拘留有法定期限，不能无限期实施。"
+            },
+            {
+              "id": "b",
+              "text": "作出罚款、拘留决定，须经院长批准。",
+              "explanation": "罚款、拘留须由院长批准，并以决定书作出。"
+            },
+            {
+              "id": "c",
+              "text": "对罚款、拘留决定不服，可以向上一级人民法院申请复议一次。",
+              "explanation": "法律规定一次复议渠道。"
+            },
+            {
+              "id": "d",
+              "text": "只要法官口头宣布，罚款决定就不必制作决定书。",
+              "explanation": "罚款和拘留应当用决定书。"
+            }
+          ],
+          "correctChoices": ["b", "c"],
+          "answer": "b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、C。A项：司法拘留有法定期限，不能无限期实施。 B项：罚款、拘留须由院长批准，并以决定书作出。 C项：法律规定一次复议渠道。 D项：罚款和拘留应当用决定书。",
+          "sources": [
+            "g8-main-civpro-detail-coercion-law",
+            "g8-main-civpro-detail-coercion-procedure"
+          ]
+        },
+        {
+          "id": "g8-types-court-detention-indefinite",
+          "caseId": "g8-types-court-detention",
+          "relatedTopicIds": ["civpro-detail-coercive-measures"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "法庭秩序与拘留决定（不定项）",
+          "facts": "民事庭审中，旁听人甲反复辱骂证人、推倒录音设备，劝阻无效。合议庭认为需要罚款；拟采取的数额在法定范围内。书记员提议由承办法官口头决定罚款，另有人提议以“藐视法庭”为由无限期拘留。",
+          "prompt": "甲收到合法作出的罚款决定后申请复议。关于复议的效力，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "必须先交完罚款，才享有申请复议的权利。",
+              "explanation": "法律未把先缴罚款作为申请复议权的前提。"
+            },
+            {
+              "id": "b",
+              "text": "只要申请复议，原决定便自动撤销。",
+              "explanation": "申请复议本身不使决定失效。"
+            },
+            {
+              "id": "c",
+              "text": "可以连续向同一上一级法院反复申请复议，不受次数限制。",
+              "explanation": "对此类决定依法可申请复议一次。"
+            },
+            {
+              "id": "d",
+              "text": "复议期间不停止决定的执行。",
+              "explanation": "对罚款、拘留申请复议不停止执行。"
+            }
+          ],
+          "correctChoices": ["d"],
+          "answer": "d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选D。A项：法律未把先缴罚款作为申请复议权的前提。 B项：申请复议本身不使决定失效。 C项：对此类决定依法可申请复议一次。 D项：对罚款、拘留申请复议不停止执行。",
+          "sources": [
+            "g8-main-civpro-detail-coercion-law",
+            "g8-main-civpro-detail-coercion-procedure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "civpro-detail-litigation-fees",
+      "title": "诉讼费用与司法救助",
+      "headline": "调解结案可以减半收费，困难当事人可以依法申请救助。",
+      "goal": "案件受理费应如何收取？双方谈不拢负担比例时由谁决定？",
+      "prerequisite": "知道民事诉讼用于解决当事人之间的民事争议。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "以法院调解方式结案，案件受理费减半；由谁负担先协商，协商不成由法院决定。减半不等于全部免费。",
+        "缴费确有困难，可申请缓交、减交或免交。无其他收入的低保对象符合免交条件；应提交书面申请和经济困难证明，由法院审查。免交仅适用于自然人。"
+      ],
+      "pitfall": "把调解成功理解成诉讼费用全免，或因为自己困难就不申请、不缴费。",
+      "recall": {
+        "prompt": "本组各类情形应分别怎样处理？",
+        "reference": "调解结案可以减半收费，困难当事人可以依法申请救助。"
+      },
+      "example": {
+        "title": "法院调解结案，诉讼费由谁承担",
+        "facts": "两家公司的一审买卖合同纠纷按普通程序审理，原告已按正常标准预交案件受理费。双方后来在法院主持下达成调解协议并以调解方式结案，但始终无法就案件受理费由谁负担达成一致。被告说调解结案就应全部免交；原告说这笔费必然全由被告负担。题目不涉及其他收费项目。",
+        "analysis": "案件受理费减半交纳，并非全部免交。调解案件的诉讼费用负担由双方协商，协商不成由法院决定；不能只因对方是被告，就认定案件受理费必须由其全部承担。"
+      },
+      "sources": [
+        "g8-main-civpro-detail-fee-mediation",
+        "g8-main-civpro-detail-fee-relief"
+      ],
+      "exercises": [
+        {
+          "id": "g8-types-fee-mediation-multiple",
+          "caseId": "g8-types-fee-mediation",
+          "relatedTopicIds": ["civpro-detail-litigation-fees"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "调解结案的诉讼费用（多选）",
+          "facts": "甲向乙追索货款。法院按普通程序审理后，双方在法院主持下调解结案。依本案金额原应收取的案件受理费为2400元，尚未适用任何减半规则；双方没有就费用负担达成协议。",
+          "prompt": "仅讨论本案案件受理费，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "本案调解结案，案件受理费减半交纳。",
+              "explanation": "调解结案属于法定减半交纳情形。"
+            },
+            {
+              "id": "b",
+              "text": "费用负担无法协商，就不得制作调解书。",
+              "explanation": "费用争议有法院决定的处理机制，不当然阻止调解结案。"
+            },
+            {
+              "id": "c",
+              "text": "调解成功便一律免交案件受理费。",
+              "explanation": "减半不等于免交。"
+            },
+            {
+              "id": "d",
+              "text": "双方未协商好费用负担，依法由人民法院决定。",
+              "explanation": "调解案件费用先由当事人协商，协商不成由法院决定。"
+            }
+          ],
+          "correctChoices": ["a", "d"],
+          "answer": "a,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、D。A项：调解结案属于法定减半交纳情形。 B项：费用争议有法院决定的处理机制，不当然阻止调解结案。 C项：减半不等于免交。 D项：调解案件费用先由当事人协商，协商不成由法院决定。",
+          "sources": [
+            "g8-main-civpro-detail-fee-mediation",
+            "g8-main-civpro-detail-fee-relief"
+          ]
+        },
+        {
+          "id": "g8-types-fee-mediation-indefinite",
+          "caseId": "g8-types-fee-mediation",
+          "relatedTopicIds": ["civpro-detail-litigation-fees"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "调解结案的诉讼费用（不定项）",
+          "facts": "甲向乙追索货款。法院按普通程序审理后，双方在法院主持下调解结案。依本案金额原应收取的案件受理费为2400元，尚未适用任何减半规则；双方没有就费用负担达成协议。",
+          "prompt": "依题设计算，并判断费用承担程序，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "不能仅以原告起诉为由，断言全部费用一定由甲承担。",
+              "explanation": "调解案件按协商或法院决定负担。"
+            },
+            {
+              "id": "b",
+              "text": "双方可协商费用负担，但未达成协议时法院仍须作出处理。",
+              "explanation": "费用负担有明确的后续决定机制。"
+            },
+            {
+              "id": "c",
+              "text": "本案应交案件受理费为1200元。",
+              "explanation": "2400元减半为1200元。"
+            },
+            {
+              "id": "d",
+              "text": "因为被告最初不同意付款，法定收费额必须翻倍。",
+              "explanation": "没有题设所称因抗辩而翻倍收费的规则。"
+            }
+          ],
+          "correctChoices": ["a", "b", "c"],
+          "answer": "a,b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、B、C。A项：调解案件按协商或法院决定负担。 B项：费用负担有明确的后续决定机制。 C项：2400元减半为1200元。 D项：没有题设所称因抗辩而翻倍收费的规则。",
+          "sources": [
+            "g8-main-civpro-detail-fee-mediation",
+            "g8-main-civpro-detail-fee-relief"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crimpro-g1-period-service",
+      "title": "期间计算与送达",
+      "headline": "上诉交邮看是否及时，羁押到期不能借节假日顺延。",
+      "goal": "李某是否超过上诉期限？张某的羁押期限能否顺延？",
+      "prerequisite": "知道刑事案件通常经过侦查、审查起诉和审判。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "期间开始的时和日不计入；上诉状在期满前交邮，不因法院后来收到而过期。最后一日遇节假日通常顺延，但在押期限不得据此延长。",
+        "送达一般交本人；本人不在时可以由成年家属或所在单位负责人代收。拒收不能当然阻止送达，依法留置须完成见证、记明拒收事由和送达日期等手续。"
+      ],
+      "pitfall": "把法院收到上诉状的日期当作唯一标准，或因放假多羁押几天。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "上诉交邮看是否及时，羁押到期不能借节假日顺延。"
+      },
+      "example": {
+        "title": "最后一天寄出的上诉状",
+        "facts": "李某的刑事上诉期限经依法计算在星期五届满。他当日把上诉状交邮，保留了邮局收寄凭证；法院在下周一才收到。另一案中，张某羁押期限在节假日届满，办案人员打算等假期结束再释放，也没有依法变更措施。",
+        "analysis": "李某没有逾期，他在期限届满前已交邮。张某的羁押期限不能因节假日顺延，应按期限依法释放或变更措施；普通诉讼期限的节假日顺延规则，不能用来延长在押时间。"
+      },
+      "sources": ["g8-main-crimpro-g1-period-service"],
+      "exercises": [
+        {
+          "id": "g8-types-service-time-multiple",
+          "caseId": "g8-types-service-time",
+          "relatedTopicIds": ["crimpro-g1-period-service"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "上诉期与在途时间（多选）",
+          "facts": "一审刑事判决送达未被羁押的被告人甲。甲在判决书签收日当天问律师：“今天是否已算上诉期第一天？我若在法定期满前把上诉状交邮，会不会因为法院后来才收到而逾期？”只适用刑事诉讼法一般期间规则，不涉及节假日顺延。",
+          "prompt": "关于期间计算，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "一审判决的上诉期与一审裁定完全一样，均为五日。",
+              "explanation": "判决上诉期十日，裁定上诉期五日。"
+            },
+            {
+              "id": "b",
+              "text": "上诉期只从律师读完判决书时才开始计算。",
+              "explanation": "期间依法从收到判决书的第二日起计算，不以律师阅读为准。"
+            },
+            {
+              "id": "c",
+              "text": "上诉状在期满前已交邮的，不算过期。",
+              "explanation": "期间不包括路途上的时间，期满前交邮不算过期。"
+            },
+            {
+              "id": "d",
+              "text": "期间开始的时和日不算在期间以内。",
+              "explanation": "法定期间从起算时点后的单位开始计算。"
+            }
+          ],
+          "correctChoices": ["c", "d"],
+          "answer": "c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选C、D。A项：判决上诉期十日，裁定上诉期五日。 B项：期间依法从收到判决书的第二日起计算，不以律师阅读为准。 C项：期间不包括路途上的时间，期满前交邮不算过期。 D项：法定期间从起算时点后的单位开始计算。",
+          "sources": ["g8-main-crimpro-g1-period-service"]
+        },
+        {
+          "id": "g8-types-service-time-indefinite",
+          "caseId": "g8-types-service-time",
+          "relatedTopicIds": ["crimpro-g1-period-service"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "上诉期与在途时间（不定项）",
+          "facts": "一审刑事判决送达未被羁押的被告人甲。甲在判决书签收日当天问律师：“今天是否已算上诉期第一天？我若在法定期满前把上诉状交邮，会不会因为法院后来才收到而逾期？”只适用刑事诉讼法一般期间规则，不涉及节假日顺延。",
+          "prompt": "只考虑一审刑事判决的法定上诉期限，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "不服判决的上诉期限为五日。",
+              "explanation": "五日适用于裁定，不适用于判决。"
+            },
+            {
+              "id": "b",
+              "text": "不服判决的上诉期限为十日。",
+              "explanation": "刑事判决上诉期限为十日。"
+            },
+            {
+              "id": "c",
+              "text": "只要甲口头告诉朋友想上诉，期限就永久中止计算。",
+              "explanation": "告诉朋友不产生题设所称的期限中止效果。"
+            },
+            {
+              "id": "d",
+              "text": "所有刑事上诉期限都可由当事人自行约定。",
+              "explanation": "这是法定期限。"
+            }
+          ],
+          "correctChoices": ["b"],
+          "answer": "b",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B。A项：五日适用于裁定，不适用于判决。 B项：刑事判决上诉期限为十日。 C项：告诉朋友不产生题设所称的期限中止效果。 D项：这是法定期限。",
+          "sources": ["g8-main-crimpro-g1-period-service"]
+        }
+      ]
+    },
+    {
+      "id": "crimpro-g1-appeal-right",
+      "title": "上诉、抗诉的主体与期限",
+      "headline": "被告人可以上诉，被害人对公诉刑事判决通常请求检察院抗诉。",
+      "goal": "被害人能否以此身份直接对公诉刑事判决上诉？可以采取什么救济？",
+      "prerequisite": "知道刑事案件通常经过侦查、审查起诉和审判。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "被告人、自诉人及其法定代理人可上诉；辩护人、近亲属须经被告人同意。附民当事人可就民事部分上诉。判决上诉抗诉期10日，裁定5日，从收到文书次日起算。",
+        "公诉案件被害人及其法定代理人对刑事判决不服，可在收到判决书5日内请求检察院抗诉；检察院收到后5日内决定并答复，不能将其与被害人的民事上诉权混同。"
+      ],
+      "pitfall": "把被害人对公诉刑事部分的请求抗诉说成直接上诉，或不问被告人意见就由普通近亲属上诉。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "被告人可以上诉，被害人对公诉刑事判决通常请求检察院抗诉。"
+      },
+      "example": {
+        "title": "被害人认为判得轻，想直接刑事上诉",
+        "facts": "一起公诉伤害案判决送达被害人两天，被害人认为刑罚过轻，准备直接向上一级法院对刑事部分上诉。他没有就本题提出附带民事部分的争议。",
+        "analysis": "不能以被害人身份直接对公诉案件的刑事判决上诉。他可以在收到判决书后5日内请求检察院抗诉，检察院应在收到请求后5日内决定并答复。若另有附民争议，其民事部分上诉权要另行判断。"
+      },
+      "sources": [
+        "g8-main-crimpro-g1-appeal-right",
+        "g8-writing-appeal",
+        "g8-writing-confession",
+        "g8-writing-repayment"
+      ],
+      "exercises": [
+        {
+          "id": "g8-types-appeal-participants-multiple",
+          "caseId": "g8-types-appeal-participants",
+          "relatedTopicIds": ["crimpro-g1-appeal-right"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "谁可以提出刑事上诉（多选）",
+          "facts": "人民检察院对甲提起公诉，甲因故意伤害被一审判刑。甲的成年姐姐乙、辩护律师丙和被害人丁都认为判决太轻或太重。甲明确告诉丙同意上诉；乙未得到甲同意。丁想推翻对甲的量刑；丁不是附带民事诉讼当事人。",
+          "prompt": "关于上诉与请求抗诉，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "丁可因不满量刑，直接以被害人身份行使刑事上诉权。",
+              "explanation": "公诉案件被害人可依法请求检察院抗诉，不能据此直接刑事上诉。"
+            },
+            {
+              "id": "b",
+              "text": "丙经甲同意，可以提出上诉。",
+              "explanation": "辩护人经被告人同意可以提出上诉。"
+            },
+            {
+              "id": "c",
+              "text": "甲可以用书状或者口头向上一级人民法院上诉。",
+              "explanation": "被告人有独立上诉权。"
+            },
+            {
+              "id": "d",
+              "text": "乙作为近亲属，无须甲同意就可代其上诉。",
+              "explanation": "近亲属提出上诉须经被告人同意。"
+            }
+          ],
+          "correctChoices": ["b", "c"],
+          "answer": "b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、C。A项：公诉案件被害人可依法请求检察院抗诉，不能据此直接刑事上诉。 B项：辩护人经被告人同意可以提出上诉。 C项：被告人有独立上诉权。 D项：近亲属提出上诉须经被告人同意。",
+          "sources": ["g8-main-crimpro-g1-appeal-right"]
+        },
+        {
+          "id": "g8-types-appeal-participants-indefinite",
+          "caseId": "g8-types-appeal-participants",
+          "relatedTopicIds": ["crimpro-g1-appeal-right"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "谁可以提出刑事上诉（不定项）",
+          "facts": "人民检察院对甲提起公诉，甲因故意伤害被一审判刑。甲的成年姐姐乙、辩护律师丙和被害人丁都认为判决太轻或太重。甲明确告诉丙同意上诉；乙未得到甲同意。丁想推翻对甲的量刑；丁不是附带民事诉讼当事人。",
+          "prompt": "若丁收到判决后希望检察院提出抗诉，且仍在法定五日期限内，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "丁可以请求人民检察院提出抗诉。",
+              "explanation": "被害人及其法定代理人收到判决书后五日内有请求权。"
+            },
+            {
+              "id": "b",
+              "text": "提出请求不等于检察院必然抗诉。",
+              "explanation": "是否抗诉由检察院依法审查决定。"
+            },
+            {
+              "id": "c",
+              "text": "请求人写了抗诉二字，就自动产生撤销一审判决的效力。",
+              "explanation": "请求抗诉不直接撤销判决。"
+            },
+            {
+              "id": "d",
+              "text": "检察院收到请求后，应在法定期限内决定是否抗诉并答复。",
+              "explanation": "收到请求后五日内作出决定并答复请求人。"
+            }
+          ],
+          "correctChoices": ["a", "b", "d"],
+          "answer": "a,b,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、B、D。A项：被害人及其法定代理人收到判决书后五日内有请求权。 B项：是否抗诉由检察院依法审查决定。 C项：请求抗诉不直接撤销判决。 D项：收到请求后五日内作出决定并答复请求人。",
+          "sources": ["g8-main-crimpro-g1-appeal-right"]
+        },
+        {
+          "id": "g8-writing-criminal-appeal",
+          "caseId": "g8-writing-criminal-appeal",
+          "relatedTopicIds": ["crimpro-g1-appeal-right"],
+          "kind": "subjective",
+          "title": "刑事上诉状：提出有根据的量刑请求",
+          "facts": "以下均为虚构练习信息，不是实际案件。\n被告人许宁，男，1998年6月3日出生，住青岚市白桥区柳路9号，现羁押于青岚市看守所。青岚市白桥区人民法院作出（2026）练刑初18号刑事判决，以盗窃罪判处许宁有期徒刑二年，并处罚金人民币3000元。许宁于2026年10月29日收到判决，拟于11月2日通过原审法院上诉至青岚市中级人民法院。\n许宁对指控的盗窃事实、证据和定罪均无异议，只不服量刑。一审卷内已有银行退赔凭证和被害人收条，证明他在一审判决前已全部退赔；判决量刑理由未提及这组材料。许宁被警方抓获后一直如实供述，未自动投案。没有获得被害人谅解的材料，也没有立功情节。许宁希望二审审查退赔及如实供述，对其依法从轻处罚。本题不要求预测二审具体刑期。",
+          "prompt": "请以许宁名义写一份完整刑事上诉状，包括上诉人、一审案号和判决、明确上诉请求、事实与理由、致送法院及落款。请求限于量刑；不能把被抓获后的供述写成自动投案，不补造谅解或立功。",
+          "answer": "",
+          "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+          "reference": "刑事上诉状\n上诉人（原审被告人）：许宁，男，1998年6月3日出生，住青岚市白桥区柳路9号，现羁押于青岚市看守所。\n上诉人因盗窃罪一案，不服青岚市白桥区人民法院（2026）练刑初18号刑事判决所判有期徒刑二年、并处罚金人民币3000元的量刑部分。上诉人于2026年10月29日收到判决，现于法定期限内提出上诉。\n上诉请求：\n请二审法院审查原判量刑，结合已经全部退赔及到案后如实供述的情节，依法改判从轻处罚。\n事实与理由：\n上诉人对一审认定的盗窃事实、证据及定罪无异议。上诉仅针对量刑，并不请求因退赔而宣告无罪。\n一审判决前，上诉人已经全部退赔。银行退赔凭证和被害人收条均在原审卷内，但判决的量刑理由没有提及这些材料。请求二审核查，并在量刑中评价退赔的具体情况。\n上诉人被抓获后如实供述自己的罪行，未自动投案，不主张成立自首。请求依刑法关于如实供述的规定，对该情节依法作从宽评价。上诉人不主张题设没有的谅解或立功。\n请二审法院根据查明的事实与法律审查量刑，支持上诉人的从轻处罚请求。具体刑罚请法院依法裁量。\n此致\n青岚市中级人民法院\n（通过青岚市白桥区人民法院递交）\n上诉人：许宁\n2026年11月2日\n附：刑事上诉状及相关退赔材料副本。",
+          "criteria": [
+            {
+              "id": "g8-writing-criminal-appeal-1",
+              "label": "上诉文书身份与程序",
+              "meaning": "形成完整刑事上诉状，交代许宁身份、原审法院案号及量刑部分，写明向中院提出并可经原审递交。有致送法院和上诉人、日期落款。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不要求复述全部身份字段或上诉期条号；不能以不存在的法院或已放弃上诉事实代替。"
+            },
+            {
+              "id": "g8-writing-criminal-appeal-2",
+              "label": "请求明确且不扩张事实",
+              "meaning": "请求二审审查量刑并依法从轻，不因退赔直接主张不构成犯罪或保证固定刑期。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "请求用撤销量刑部分依法改判等同义表达可；不强制用参考原话。"
+            },
+            {
+              "id": "g8-writing-criminal-appeal-3",
+              "label": "退赔材料与量刑关系",
+              "meaning": "指出判前已全部退赔，卷内凭证及收条应被核查并作量刑评价。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不以全部退赔必然免刑替代；未给谅解不得写成已谅解。"
+            },
+            {
+              "id": "g8-writing-criminal-appeal-4",
+              "label": "如实供述与法律理由",
+              "meaning": "把抓获后的如实供述作为可依法从轻的理由，与自首区分。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不要求另答不相关罪名；只错写自首要明确指出，不推翻独立退赔理由。"
+            }
+          ],
+          "sources": [
+            "g8-writing-appeal",
+            "g8-writing-confession",
+            "g8-writing-repayment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "admin-g4-license-material",
+      "title": "许可申请的受理与补正",
+      "headline": "材料不全要一次告知补正；事项不属本机关，要告知向谁申请。",
+      "goal": "这种分次告知方式是否符合受理规则？",
+      "prerequisite": "知道行政机关依法作出决定，并可通过复议、诉讼寻求救济。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "材料不齐或形式不符，应当当场或五个工作日内一次告知全部补正内容；逾期不告知，按收到材料之日起受理。",
+        "本机关无权办理时，应即时作出不予受理决定，并告知有权机关。依法不需许可的，应即时告知。"
+      ],
+      "pitfall": "受理只是进入审查，不等于最终已经获得许可。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "材料不全要一次告知补正；事项不属本机关，要告知向谁申请。"
+      },
+      "example": {
+        "title": "补一项又补一项",
+        "facts": "【原创教学案例】许可窗口收到林某申请，材料同时缺少两项法定附件，缺项当时即可查明。窗口第2个工作日只让补甲附件，林某补齐后，第8个工作日又首次要求补乙附件，并称每次只需告知一项。",
+        "analysis": "不符合。能够查明的材料缺项，应在当场或五个工作日内一次告知全部补正内容。窗口明知两项都缺仍分开告知，增加申请人往返，不符合一次告知要求。"
+      },
+      "sources": ["g8-main-admin-g4-license-material"],
+      "exercises": [
+        {
+          "id": "g8-types-license-notice-multiple",
+          "caseId": "g8-types-license-notice",
+          "relatedTopicIds": ["admin-g4-license-material"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "窗口收件后的补正告知（多选）",
+          "facts": "甲向市主管部门申请一项行政许可，许可由该部门依法办理。窗口收件时材料缺少法定附件。工作人员既未当场告知补正，也未在五个工作日内告知；第八个工作日才要求甲补交，并称此前从未受理。另有工作人员要求甲购买指定书籍才肯收件。",
+          "prompt": "关于行政许可申请的办理，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "行政机关可以要求申请人购买指定书籍，作为收件条件。",
+              "explanation": "不得借行政许可要求购买指定商品或接受有偿服务。"
+            },
+            {
+              "id": "b",
+              "text": "材料不齐全，应当场或者在五个工作日内一次告知需要补正的全部内容。",
+              "explanation": "补正告知有期限及一次性要求。"
+            },
+            {
+              "id": "c",
+              "text": "只要附件有缺漏，机关就可无限期不处理申请。",
+              "explanation": "有法定补正和受理处理规则，不能无限搁置。"
+            },
+            {
+              "id": "d",
+              "text": "逾期不告知的，自收到申请材料之日起即为受理。",
+              "explanation": "本题已超过法定补正告知期限。"
+            }
+          ],
+          "correctChoices": ["b", "d"],
+          "answer": "b,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、D。A项：不得借行政许可要求购买指定商品或接受有偿服务。 B项：补正告知有期限及一次性要求。 C项：有法定补正和受理处理规则，不能无限搁置。 D项：本题已超过法定补正告知期限。",
+          "sources": ["g8-main-admin-g4-license-material"]
+        },
+        {
+          "id": "g8-types-license-notice-indefinite",
+          "caseId": "g8-types-license-notice",
+          "relatedTopicIds": ["admin-g4-license-material"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "窗口收件后的补正告知（不定项）",
+          "facts": "甲向市主管部门申请一项行政许可，许可由该部门依法办理。窗口收件时材料缺少法定附件。工作人员既未当场告知补正，也未在五个工作日内告知；第八个工作日才要求甲补交，并称此前从未受理。另有工作人员要求甲购买指定书籍才肯收件。",
+          "prompt": "如果只是申请书上一处明显的日期笔误，能够当场更正，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "应允许申请人当场更正。",
+              "explanation": "行政许可法允许对可当场更正的错误当场更正。"
+            },
+            {
+              "id": "b",
+              "text": "可要求申请人先接受指定付费培训才更正。",
+              "explanation": "更正不以购买有偿服务为条件。"
+            },
+            {
+              "id": "c",
+              "text": "一律必须拒收并要求重新排队申请。",
+              "explanation": "不得以可当场更正的错误一律拒收。"
+            },
+            {
+              "id": "d",
+              "text": "笔误一经发现，甲永远不得再申请同一许可。",
+              "explanation": "没有此种永久排除申请资格的规定。"
+            }
+          ],
+          "correctChoices": ["a"],
+          "answer": "a",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A。A项：行政许可法允许对可当场更正的错误当场更正。 B项：更正不以购买有偿服务为条件。 C项：不得以可当场更正的错误一律拒收。 D项：没有此种永久排除申请资格的规定。",
+          "sources": ["g8-main-admin-g4-license-material"]
+        }
+      ]
+    },
+    {
+      "id": "admin-g4-force-subject",
+      "title": "行政强制措施的实施主体",
+      "headline": "强制措施权不能委托；执法资格和法定程序不能由合同替代。",
+      "goal": "能否据该合同让保安独立决定并实施扣押？",
+      "prerequisite": "知道行政机关依法作出决定，并可通过复议、诉讼寻求救济。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "措施应由法律、法规规定的机关在职权内实施，由具备资格的行政执法人员执行。",
+        "通常需两名以上执法人员并履行批准、告知、听取意见及记录等程序。紧急现场措施也须依法补报批准。"
+      ],
+      "pitfall": "处罚可以依法委托，不代表强制措施也可以。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "强制措施权不能委托；执法资格和法定程序不能由合同替代。"
+      },
+      "example": {
+        "title": "请保安公司代为扣押",
+        "facts": "【原创教学案例】有权主管局与保安公司签约，让保安独立上门决定并实施扣押涉案机器，局里只事后盖章。保安不具行政执法资格。主管局认为自己有法定扣押权，当然可以委托。",
+        "analysis": "不能。行政强制措施权不得委托，且应由具备资格的行政执法人员实施。局里有扣押权，不等于保安公司也取得该权，事后盖章不能补足本案主体和人员资格。"
+      },
+      "sources": ["g8-main-admin-g4-force-subject"],
+      "exercises": [
+        {
+          "id": "g8-types-force-staff-multiple",
+          "caseId": "g8-types-force-staff",
+          "relatedTopicIds": ["admin-g4-force-subject"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "查封由谁实施（多选）",
+          "facts": "某行政机关依法有权对涉案设备实施查封。机关把现场查封全部交给受委托的商业公司，现场只有公司雇员；也未指派行政执法人员到场。负责人称公司效率高，可以代替执法人员。只讨论行政强制措施，不讨论行政强制执行。",
+          "prompt": "关于这次查封的实施主体，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "当事人签字同意后，任何人都可以代机关查封。",
+              "explanation": "同意不消除法定主体和资格要求。"
+            },
+            {
+              "id": "b",
+              "text": "商业公司只要收取服务费，就自动取得查封权。",
+              "explanation": "服务合同不能授予行政强制措施权。"
+            },
+            {
+              "id": "c",
+              "text": "行政强制措施权不得委托。",
+              "explanation": "不能把查封等行政强制措施权委托给商业公司行使。"
+            },
+            {
+              "id": "d",
+              "text": "行政强制措施应由具备资格的行政执法人员实施。",
+              "explanation": "其他人员不得实施行政强制措施。"
+            }
+          ],
+          "correctChoices": ["c", "d"],
+          "answer": "c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选C、D。A项：同意不消除法定主体和资格要求。 B项：服务合同不能授予行政强制措施权。 C项：不能把查封等行政强制措施权委托给商业公司行使。 D项：其他人员不得实施行政强制措施。",
+          "sources": ["g8-main-admin-g4-force-subject"]
+        },
+        {
+          "id": "g8-types-force-staff-indefinite",
+          "caseId": "g8-types-force-staff",
+          "relatedTopicIds": ["admin-g4-force-subject"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "查封由谁实施（不定项）",
+          "facts": "某行政机关依法有权对涉案设备实施查封。机关把现场查封全部交给受委托的商业公司，现场只有公司雇员；也未指派行政执法人员到场。负责人称公司效率高，可以代替执法人员。只讨论行政强制措施，不讨论行政强制执行。",
+          "prompt": "若改由该机关两名具备资格的执法人员实施，并适用一般程序，下列哪些程序要求正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "到场执法人员应出示执法身份证件。",
+              "explanation": "身份出示属于法定实施程序。"
+            },
+            {
+              "id": "b",
+              "text": "既有两名执法人员，就不再需要制作现场笔录。",
+              "explanation": "人员数量符合要求不免除制作现场笔录的义务。"
+            },
+            {
+              "id": "c",
+              "text": "应告知当事人理由、依据以及依法享有的权利、救济途径。",
+              "explanation": "这些内容属于法定告知事项。"
+            },
+            {
+              "id": "d",
+              "text": "实施前须向行政机关负责人报告并经批准。",
+              "explanation": "一般程序须事先报告并经批准。"
+            }
+          ],
+          "correctChoices": ["a", "c", "d"],
+          "answer": "a,c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、C、D。A项：身份出示属于法定实施程序。 B项：人员数量符合要求不免除制作现场笔录的义务。 C项：这些内容属于法定告知事项。 D项：一般程序须事先报告并经批准。",
+          "sources": ["g8-main-admin-g4-force-subject"]
+        }
+      ]
+    },
+    {
+      "id": "commercial-g5-profit",
+      "title": "利润分配与违法分红",
+      "headline": "先弥补亏损、依法提公积金，再分剩余利润；违规分红要退还。",
+      "goal": "能否把银行现金余额直接当作可分配利润？",
+      "prerequisite": "知道商事活动须依法开展，争议应区分主体、权利与程序。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "公司分配税后利润前，依法弥补亏损并提取公积金。有限公司通常按实缴出资比例分配，全体股东另有约定除外。",
+        "违法向股东分配利润，股东应退还；给公司造成损失的，相关责任人依法赔偿。分红决议不等于可抽空应保护的公司财产。"
+      ],
+      "pitfall": "收入、现金余额和可分配利润不是同一回事。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "先弥补亏损、依法提公积金，再分剩余利润；违规分红要退还。"
+      },
+      "example": {
+        "title": "账上有现金就直接分红",
+        "facts": "【原创教学案例】2026年10月，公司以前年度亏损尚未弥补，当年税后利润尚不足补平。股东看到银行有一笔客户预付款，决定按现金余额分红，未处理亏损与公积金事项。",
+        "analysis": "不能。客户预付款形成现金，并不等于可分配税后利润。分配前应依法先补亏损、提取公积金，本案利润不足补亏，不能仅凭账上有现金直接分红。"
+      },
+      "sources": ["g8-main-commercial-g5-profit"],
+      "exercises": [
+        {
+          "id": "g8-types-company-profit-multiple",
+          "caseId": "g8-types-company-profit",
+          "relatedTopicIds": ["commercial-g5-profit"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "先弥补亏损还是先分红（多选）",
+          "facts": "甲有限公司年初仍有未弥补亏损。年末核算税后利润30万元；其法定公积金尚不足以弥补旧亏损。股东会准备把这30万元全部立即分给股东，称待来年再处理亏损和公积金。",
+          "prompt": "关于利润分配顺序，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "只要账面出现收入，便全部属于可分配利润。",
+              "explanation": "收入不等于依法可分配的税后利润。"
+            },
+            {
+              "id": "b",
+              "text": "法定公积金不足弥补以前年度亏损时，应先用当年利润弥补亏损。",
+              "explanation": "不能先把用于弥补亏损的利润分掉。"
+            },
+            {
+              "id": "c",
+              "text": "公司须依法处理亏损、提取公积金，再分配剩余税后利润。",
+              "explanation": "利润分配受法定顺序约束。"
+            },
+            {
+              "id": "d",
+              "text": "股东全体同意即可使违法分配利润合法化。",
+              "explanation": "一致同意不能取消法律对弥补亏损和法定公积金的要求。"
+            }
+          ],
+          "correctChoices": ["b", "c"],
+          "answer": "b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、C。A项：收入不等于依法可分配的税后利润。 B项：不能先把用于弥补亏损的利润分掉。 C项：利润分配受法定顺序约束。 D项：一致同意不能取消法律对弥补亏损和法定公积金的要求。",
+          "sources": ["g8-main-commercial-g5-profit"]
+        },
+        {
+          "id": "g8-types-company-profit-indefinite",
+          "caseId": "g8-types-company-profit",
+          "relatedTopicIds": ["commercial-g5-profit"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "先弥补亏损还是先分红（不定项）",
+          "facts": "甲有限公司年初仍有未弥补亏损。年末核算税后利润30万元；其法定公积金尚不足以弥补旧亏损。股东会准备把这30万元全部立即分给股东，称待来年再处理亏损和公积金。",
+          "prompt": "若公司违反公司法向股东分配利润，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "违法分配只能影响税收，与股东责任完全无关。",
+              "explanation": "违法分配涉及返还及可能的赔偿责任。"
+            },
+            {
+              "id": "b",
+              "text": "股东收款后，无论分配是否合法均不必退还。",
+              "explanation": "公司法明确规定返还义务。"
+            },
+            {
+              "id": "c",
+              "text": "公司后来经营盈利，就当然免除先前违法分配的返还义务。",
+              "explanation": "后来的盈利不当然使先前违法分配合法。"
+            },
+            {
+              "id": "d",
+              "text": "股东应将违反规定分配的利润退还公司。",
+              "explanation": "违法分配利润依法应返还。"
+            }
+          ],
+          "correctChoices": ["d"],
+          "answer": "d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选D。A项：违法分配涉及返还及可能的赔偿责任。 B项：公司法明确规定返还义务。 C项：后来的盈利不当然使先前违法分配合法。 D项：违法分配利润依法应返还。",
+          "sources": ["g8-main-commercial-g5-profit"]
+        }
+      ]
+    },
+    {
+      "id": "commercial-g5-partner-liability",
+      "title": "普通合伙与有限合伙的责任",
+      "headline": "先以合伙企业财产清偿，普通合伙人与有限合伙人的外部责任不同。",
+      "goal": "甲能否用内部四成比例对抗债权人，超额承担后如何处理？",
+      "prerequisite": "知道商事活动须依法开展，争议应区分主体、权利与程序。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "普通合伙人通常对企业债务负无限连带责任；内部亏损分担比例不能直接对抗企业债权人。",
+        "有限合伙人通常以认缴出资额为限，不能把所有合伙人一律当普通合伙人；对外使人合理信赖其为普通合伙人等例外另论。"
+      ],
+      "pitfall": "有限公司股东责任和普通合伙人责任不要混用。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "先以合伙企业财产清偿，普通合伙人与有限合伙人的外部责任不同。"
+      },
+      "example": {
+        "title": "合伙账上不够，甲只肯承担内部四成",
+        "facts": "【原创教学案例】甲乙设普通合伙企业，约定内部亏损甲四成乙六成。企业欠外部债权人100万元，全部企业财产只能清偿20万元。债权人要求甲清偿剩余80万元，甲承认债务但只愿按四成承担。",
+        "analysis": "不能。企业财产不足后，普通合伙人对剩余企业债务承担无限连带责任，甲不能拿内部四成限制外部债权。甲清偿超过自身内部分担部分，可依法向乙追偿。"
+      },
+      "sources": ["g8-main-commercial-g5-partner-liability"],
+      "exercises": [
+        {
+          "id": "g8-types-partnership-debt-multiple",
+          "caseId": "g8-types-partnership-debt",
+          "relatedTopicIds": ["commercial-g5-partner-liability"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "普通合伙的到期债务（多选）",
+          "facts": "甲、乙是普通合伙企业的两名合伙人。企业欠丙货款20万元，到期后企业财产只够清偿8万元。合伙协议写明甲、乙内部各承担一半；丙要求乙清偿剩余12万元。",
+          "prompt": "关于对外清偿，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "应先以合伙企业财产清偿企业债务。",
+              "explanation": "合伙企业债务先由企业财产清偿。"
+            },
+            {
+              "id": "b",
+              "text": "普通合伙人最多只以出资额承担责任。",
+              "explanation": "这是把普通合伙人的责任混同为有限责任。"
+            },
+            {
+              "id": "c",
+              "text": "内部各半约定当然使丙只能向乙请求6万元。",
+              "explanation": "内部比例不能对抗债权人的连带清偿请求。"
+            },
+            {
+              "id": "d",
+              "text": "企业财产不足清偿时，甲、乙依法承担无限连带责任。",
+              "explanation": "普通合伙人对不足清偿部分承担无限连带责任。"
+            }
+          ],
+          "correctChoices": ["a", "d"],
+          "answer": "a,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、D。A项：合伙企业债务先由企业财产清偿。 B项：这是把普通合伙人的责任混同为有限责任。 C项：内部比例不能对抗债权人的连带清偿请求。 D项：普通合伙人对不足清偿部分承担无限连带责任。",
+          "sources": ["g8-main-commercial-g5-partner-liability"]
+        },
+        {
+          "id": "g8-types-partnership-debt-indefinite",
+          "caseId": "g8-types-partnership-debt",
+          "relatedTopicIds": ["commercial-g5-partner-liability"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "普通合伙的到期债务（不定项）",
+          "facts": "甲、乙是普通合伙企业的两名合伙人。企业欠丙货款20万元，到期后企业财产只够清偿8万元。合伙协议写明甲、乙内部各承担一半；丙要求乙清偿剩余12万元。",
+          "prompt": "乙以个人财产向丙清偿剩余12万元后，甲、乙内部也无其他争议。下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "依各半约定，乙可就超出自己份额的6万元向甲追偿。",
+              "explanation": "剩余12万元按内部比例各6万元。"
+            },
+            {
+              "id": "b",
+              "text": "内部追偿与债权人对外请求属于不同层次的问题。",
+              "explanation": "内部份额不改变对外无限连带责任。"
+            },
+            {
+              "id": "c",
+              "text": "乙对外清偿不消灭其依法向甲追偿的可能。",
+              "explanation": "对外承担超出内部份额的部分，可以追偿。"
+            },
+            {
+              "id": "d",
+              "text": "乙已清偿就只能自己最终承担12万元，任何内部约定均无意义。",
+              "explanation": "法律保留合伙人之间的追偿。"
+            }
+          ],
+          "correctChoices": ["a", "b", "c"],
+          "answer": "a,b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、B、C。A项：剩余12万元按内部比例各6万元。 B项：内部份额不改变对外无限连带责任。 C项：对外承担超出内部份额的部分，可以追偿。 D项：法律保留合伙人之间的追偿。",
+          "sources": ["g8-main-commercial-g5-partner-liability"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-law-hierarchy",
+      "title": "规范效力与冲突裁决",
+      "headline": "下位规范不能任意抵触上位法；新一般与旧特别冲突不能只套一句新法优先。",
+      "goal": "能否仅凭公布较晚，就让本题部门规章排除法律？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "宪法具有最高法律效力，法律高于行政法规、地方性法规和规章。特别授权的变通须按其法定范围判断。",
+        "同一事项的新一般与旧特别规定冲突、不能确定如何适用时，须按立法法交相应机关裁决，不可一律直接否定旧特别规定。"
+      ],
+      "pitfall": "先区分规范层级和制定机关，再判断冲突规则。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "下位规范不能任意抵触上位法；新一般与旧特别冲突不能只套一句新法优先。"
+      },
+      "example": {
+        "title": "部门规章想直接改掉法律",
+        "facts": "【原创教学案例】某部门制定规章，允许所属机构实施一项全国性法律明确禁止的行为。没有任何授权变通，规章制定者称自己的文本公布较晚，所以比法律更新，应当优先。",
+        "analysis": "不能。法律效力高于部门规章，规章不得以公布较晚为由抵触法律。新旧规则不能跨越层级任意推翻上位法；本题也不存在法定授权变通。"
+      },
+      "sources": ["g8-main-remaining-g6-law-hierarchy"],
+      "exercises": [
+        {
+          "id": "g8-types-hierarchy-rules-multiple",
+          "caseId": "g8-types-hierarchy-rules",
+          "relatedTopicIds": ["remaining-g6-law-hierarchy"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "同一机关的新旧规范（多选）",
+          "facts": "全国人大常委会先制定一部法律，对某类交易设专门规则；后又制定一部一般法律，其相关规定与原专门规则不一致。两部均为法律，没有明确衔接条款，无法确定如何适用。某地政府另发布规章，直接免除上位法律明确规定的一项义务，本题不存在授权变通。",
+          "prompt": "关于规范效力，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "地方政府规章可因更贴近本地情况而直接排除上位法律。",
+              "explanation": "没有授权变通时，规章不得抵触法律。"
+            },
+            {
+              "id": "b",
+              "text": "凡名称含有规定二字，效力就一定高于法律。",
+              "explanation": "效力要看制定主体和法定层级，不能只看名称。"
+            },
+            {
+              "id": "c",
+              "text": "无法确定如何适用这两部法律时，由全国人大常委会裁决。",
+              "explanation": "法律之间此类冲突依法由全国人大常委会裁决。"
+            },
+            {
+              "id": "d",
+              "text": "不能只凭一般法律制定较晚，就断言旧特别规定一律失效。",
+              "explanation": "新一般与旧特别不一致且不能确定适用时，有专门裁决机制。"
+            }
+          ],
+          "correctChoices": ["c", "d"],
+          "answer": "c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选C、D。A项：没有授权变通时，规章不得抵触法律。 B项：效力要看制定主体和法定层级，不能只看名称。 C项：法律之间此类冲突依法由全国人大常委会裁决。 D项：新一般与旧特别不一致且不能确定适用时，有专门裁决机制。",
+          "sources": ["g8-main-remaining-g6-law-hierarchy"]
+        },
+        {
+          "id": "g8-types-hierarchy-rules-indefinite",
+          "caseId": "g8-types-hierarchy-rules",
+          "relatedTopicIds": ["remaining-g6-law-hierarchy"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "同一机关的新旧规范（不定项）",
+          "facts": "全国人大常委会先制定一部法律，对某类交易设专门规则；后又制定一部一般法律，其相关规定与原专门规则不一致。两部均为法律，没有明确衔接条款，无法确定如何适用。某地政府另发布规章，直接免除上位法律明确规定的一项义务，本题不存在授权变通。",
+          "prompt": "只讨论该地方政府规章与法律的关系，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "规章只要发布时间晚，就必然高于法律。",
+              "explanation": "跨层级不能机械适用新法优先。"
+            },
+            {
+              "id": "b",
+              "text": "法律的效力高于该地方政府规章。",
+              "explanation": "法律效力高于规章。"
+            },
+            {
+              "id": "c",
+              "text": "地方政府可以自行宣布全国性法律在当地永久失效。",
+              "explanation": "没有此种单方排除法律的权限。"
+            },
+            {
+              "id": "d",
+              "text": "规章经内部会议一致通过，就取得与法律相同效力。",
+              "explanation": "内部表决不改变规范层级。"
+            }
+          ],
+          "correctChoices": ["b"],
+          "answer": "b",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B。A项：跨层级不能机械适用新法优先。 B项：法律效力高于规章。 C项：没有此种单方排除法律的权限。 D项：内部表决不改变规范层级。",
+          "sources": ["g8-main-remaining-g6-law-hierarchy"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-law-time",
+      "title": "法律的时间效力",
+      "headline": "规范一般不溯及既往，有利保护权利的特别规定另行判断。",
+      "goal": "仅凭现在办理，能否当然把本题新负担追溯用于已完成行为？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "立法法确立法律等规范一般不溯及既往的规则；不能因今天审理就当然把新规则套到过去一切事实。",
+        "为更好保护公民、法人和其他组织权利利益而作的特别规定，是法定例外；还须查具体衔接规则。"
+      ],
+      "pitfall": "本组用明示的假定规范练习一般规则，不替代具体部门法的时间效力制度。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "规范一般不溯及既往，有利保护权利的特别规定另行判断。"
+      },
+      "example": {
+        "title": "新规定能否自动增加过去行为的负担",
+        "facts": "【原创教学案例】【规范为题设假定】某法律2026年10月起对一种原本合法的民事行为新设额外负担，未规定追溯适用，也无其他衔接例外。甲的行为已在此前全部完成。机关仅因现在办理，就要求甲按新法为该旧行为承担新增负担。",
+        "analysis": "不能当然追溯。法律等规范一般不溯及既往，本题没有追溯或特别衔接依据，不能只凭办理日期较新，就将新增负担加给此前已完成的行为。"
+      },
+      "sources": ["g8-main-remaining-g6-law-time"],
+      "exercises": [
+        {
+          "id": "g8-types-temporal-rule-multiple",
+          "caseId": "g8-types-temporal-rule",
+          "relatedTopicIds": ["remaining-g6-law-time"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "新规则怎样作用于旧事实（多选）",
+          "facts": "本题使用假定规范：旧规允许商户某类经营安排，新法自十月一日起禁止。甲的相关经营在九月三十日前已全部结束。新法没有溯及既往或过渡条款；本题也没有其他特别适用规则。机关准备仅凭十月的新法处罚甲九月的行为。",
+          "prompt": "依立法法的一般时间效力规则，下列哪些判断正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "只要新法更严，就必须追溯适用。",
+              "explanation": "更严不是立法法一般溯及规则的依据。"
+            },
+            {
+              "id": "b",
+              "text": "是否存在依法作出的特别溯及规定，会影响分析。",
+              "explanation": "为更好保护权利利益而作的特别规定，法律另有安排。"
+            },
+            {
+              "id": "c",
+              "text": "不能仅因十月才处理，就当然以新法否定已结束的九月行为。",
+              "explanation": "一般不溯及既往，处理时间不等于行为适用新法的根据。"
+            },
+            {
+              "id": "d",
+              "text": "所有新法都可以自动追溯到任何过去事实。",
+              "explanation": "一般不溯及既往。"
+            }
+          ],
+          "correctChoices": ["b", "c"],
+          "answer": "b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、C。A项：更严不是立法法一般溯及规则的依据。 B项：为更好保护权利利益而作的特别规定，法律另有安排。 C项：一般不溯及既往，处理时间不等于行为适用新法的根据。 D项：一般不溯及既往。",
+          "sources": ["g8-main-remaining-g6-law-time"]
+        },
+        {
+          "id": "g8-types-temporal-rule-indefinite",
+          "caseId": "g8-types-temporal-rule",
+          "relatedTopicIds": ["remaining-g6-law-time"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "新规则怎样作用于旧事实（不定项）",
+          "facts": "本题使用假定规范：旧规允许商户某类经营安排，新法自十月一日起禁止。甲的相关经营在九月三十日前已全部结束。新法没有溯及既往或过渡条款；本题也没有其他特别适用规则。机关准备仅凭十月的新法处罚甲九月的行为。",
+          "prompt": "若新法另有明确条款，为更好保护公民、法人和其他组织权利利益，对特定旧事实作特别规定，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "应先核对该特别规定是否适用于本次旧事实。",
+              "explanation": "须看具体适用对象和范围。"
+            },
+            {
+              "id": "b",
+              "text": "也不能将一项有限例外扩大到所有旧事实。",
+              "explanation": "例外按法定范围适用。"
+            },
+            {
+              "id": "c",
+              "text": "只要存在一项例外，所有其他法律都自动溯及既往。",
+              "explanation": "个别特别规定不改变其他规则的一般适用。"
+            },
+            {
+              "id": "d",
+              "text": "不能把一般不溯及既往理解为绝无任何法定例外。",
+              "explanation": "立法法明定有利保护权利的特别规定例外。"
+            }
+          ],
+          "correctChoices": ["a", "b", "d"],
+          "answer": "a,b,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、B、D。A项：须看具体适用对象和范围。 B项：例外按法定范围适用。 C项：个别特别规定不改变其他规则的一般适用。 D项：立法法明定有利保护权利的特别规定例外。",
+          "sources": ["g8-main-remaining-g6-law-time"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-lawyer-duty",
+      "title": "律师保密与同案利益冲突",
+      "headline": "律师应保护执业秘密，不能同一案件同时代理对立双方。",
+      "goal": "本题能否仅凭双方同意，让甲在同一案件同时代理对立双方？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "律师对执业知悉的商业秘密、个人隐私等负保密义务，法律规定的特定犯罪信息等例外另行判断。",
+        "同一案件不得为双方当事人担任代理人，不能只凭双方同意就把这项禁止消除；其他利益冲突须按相应规范判断。"
+      ],
+      "pitfall": "不把特定法定例外变成任何私下传播的借口，也不把同案禁止无限扩到所有无关事务。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "律师应保护执业秘密，不能同一案件同时代理对立双方。"
+      },
+      "example": {
+        "title": "双方都同意同一个律师代理",
+        "facts": "【原创教学案例】民事案件原被告利益直接对立，拟在同一案件中都委托律师甲作诉讼代理。双方都表示愿意，甲认为只要签同意书，就可以同时代表两边进行相互冲突的诉讼主张。",
+        "analysis": "不能。律师法禁止在同一案件中为双方当事人担任代理人，双方签同意书不能直接消除这一法定禁止。甲应依法处理委托冲突，而不是同时代理提出相互对立主张。"
+      },
+      "sources": ["g8-main-remaining-g6-lawyer-duty", "g8-writing-lawyer"],
+      "exercises": [
+        {
+          "id": "g8-types-lawyer-client-multiple",
+          "caseId": "g8-types-lawyer-client",
+          "relatedTopicIds": ["remaining-g6-lawyer-duty"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "委托之外的接案与保密（多选）",
+          "facts": "律师甲通过任职律所接受乙的合同纠纷委托。对方丙私下提出另付报酬，请甲同时为其处理同一纠纷。甲还收到自媒体邀约，希望其公开乙在咨询中透露的经营秘密。乙没有同意公开，且本题不涉及法定保密例外。",
+          "prompt": "关于甲的执业行为，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "只要自媒体付费，甲就可以公开乙的经营秘密。",
+              "explanation": "获取报酬不能解除保密义务。"
+            },
+            {
+              "id": "b",
+              "text": "甲不得在同一案件中同时为乙、丙担任代理人。",
+              "explanation": "律师不得在同一案件中为双方当事人担任代理人。"
+            },
+            {
+              "id": "c",
+              "text": "甲可以绕开律所私自接受丙的委托并收取报酬。",
+              "explanation": "律师不得私自接受委托、收取费用。"
+            },
+            {
+              "id": "d",
+              "text": "甲对乙的经营秘密负保密义务。",
+              "explanation": "执业中知悉的商业秘密依法应保密。"
+            }
+          ],
+          "correctChoices": ["b", "d"],
+          "answer": "b,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、D。A项：获取报酬不能解除保密义务。 B项：律师不得在同一案件中为双方当事人担任代理人。 C项：律师不得私自接受委托、收取费用。 D项：执业中知悉的商业秘密依法应保密。",
+          "sources": ["g8-main-remaining-g6-lawyer-duty"]
+        },
+        {
+          "id": "g8-types-lawyer-client-indefinite",
+          "caseId": "g8-types-lawyer-client",
+          "relatedTopicIds": ["remaining-g6-lawyer-duty"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "委托之外的接案与保密（不定项）",
+          "facts": "律师甲通过任职律所接受乙的合同纠纷委托。对方丙私下提出另付报酬，请甲同时为其处理同一纠纷。甲还收到自媒体邀约，希望其公开乙在咨询中透露的经营秘密。乙没有同意公开，且本题不涉及法定保密例外。",
+          "prompt": "另有案件的委托人要求甲“帮忙补一份假的收据”，甲尚未制作。关于该请求，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "甲应拒绝伪造证据，不能把委托人的要求当作免责理由。",
+              "explanation": "律师不得提供虚假证据或帮助伪造证据。"
+            },
+            {
+              "id": "b",
+              "text": "只要最终没有被法院采信，伪造行为就变成合法执业。",
+              "explanation": "是否采信不改变伪造证据的违法性质。"
+            },
+            {
+              "id": "c",
+              "text": "委托人签免责书后就可伪造。",
+              "explanation": "双方约定不能使伪造证据合法。"
+            },
+            {
+              "id": "d",
+              "text": "律师为争取胜诉可以自行决定制造事实材料。",
+              "explanation": "代理活动必须遵守事实和法律边界。"
+            }
+          ],
+          "correctChoices": ["a"],
+          "answer": "a",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A。A项：律师不得提供虚假证据或帮助伪造证据。 B项：是否采信不改变伪造证据的违法性质。 C项：双方约定不能使伪造证据合法。 D项：代理活动必须遵守事实和法律边界。",
+          "sources": ["g8-main-remaining-g6-lawyer-duty"]
+        },
+        {
+          "id": "g8-writing-lawyer-ethics",
+          "caseId": "g8-writing-lawyer-ethics",
+          "relatedTopicIds": ["remaining-g6-lawyer-duty"],
+          "kind": "subjective",
+          "title": "长论述：胜诉目标与律师执业边界",
+          "facts": "律所的一名青年律师甲代理公司乙的合同纠纷。乙经理让甲把一份晚签的收据改成交易当日日期，称“只要赢了，责任由公司担”。对方当事人又私下请甲同时为自己提供同案诉讼方案，并愿付报酬。自媒体联系甲，准备把乙咨询时透露的商业秘密改编成视频；未经乙许可，视频会披露足以识别交易方的细节，本题不涉及法定保密例外。\n同事说：“律师忠于客户，就该尽一切办法让他赢。”另一位同事反对：“遇到风险最好什么都不做，合法证据也少提交。”律所希望既守住执业边界，又提供有效服务。",
+          "prompt": "请以“忠实代理不等于没有边界”为题写一篇完整材料论述。说明胜诉目标与真实证据、利益冲突、保密义务的关系，并提出律师和律所的可执行做法。练习建议600—1000字，不要求统一措辞或官方评分模板。",
+          "answer": "",
+          "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+          "reference": "忠实代理不等于没有边界\n律师应当依法维护委托人的合法权益，认真争取有利结果。忠实代理要求投入专业努力，而不是服从任何指令。伪造证据、在同案代理对立双方或者擅自披露商业秘密，既越过执业边界，也可能损害客户利益和司法公正。\n乙经理要求把收据日期改早，改变的是证据反映的事实。客户承诺承担责任不能使该行为合法，也不能免除律师自身的执业责任。甲应拒绝改造收据，说明真实日期与交易事实的关系，并寻找合法证明途径：核查原始账目、付款记录、交货资料和真实沟通内容。对已有合法证据，应认真组织并依法提交，不能因为存在风险就消极不做事。\n对方提出的同案委托同样不能接受。律师不能同时替诉讼双方设计相互对立的诉讼方案，也不能私自接案收费。甲应拒绝该委托，通过律所进行利益冲突审查和接案管理，保存必要的处理记录，避免把双方信息混用。\n商业秘密来自执业咨询，不因视频可能带来宣传效果而可以公开。题设没有客户许可，也没有法定例外；细节足以识别交易方，仅改姓名不能当然消除泄密风险。甲应拒绝披露这些内容。律所对外发布案例应核查授权和保密要求，必要时只讨论无法关联客户的通用规则，不能先发后问。\n制度上，律所可以把冲突审查放在接案前，明确统一收案收费；对证据保留原件和来源记录，争议材料先核真实性再决定如何依法使用；对外宣传建立客户信息与授权审查。律师发现客户坚持违法要求，应说明不能执行的具体事项，依法处理委托关系，同时继续履行保密等义务。\n所以，两种极端都不可取：为赢而不择手段越过法律底线，什么都不做又放弃了专业服务。合适的路径是守住事实和执业规范，尽力发现、整理并运用合法证据，把法律风险讲给客户听，用依法、勤勉和可核查的工作维护客户的合法权益。",
+          "criteria": [
+            {
+              "id": "g8-writing-lawyer-ethics-1",
+              "label": "明确忠实代理的边界",
+              "meaning": "说明维护的是委托人合法权益，胜诉目标不能使伪造证据、冲突代理或泄密合法，同时不赞成消极放弃合法服务。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不强制复述题目所有观点，但不能赞成为胜诉不择手段。"
+            },
+            {
+              "id": "g8-writing-lawyer-ethics-2",
+              "label": "证据处理有具体分析",
+              "meaning": "针对改日期的要求指出虚假证据风险，拒绝实施并提出核查、组织真实证据的替代做法。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "客户免责承诺不是允许伪造的理由；不要求预判具体处罚。"
+            },
+            {
+              "id": "g8-writing-lawyer-ethics-3",
+              "label": "冲突与保密分别回应",
+              "meaning": "对同案对方委托、私下收费和未经许可公开秘密分别作出有依据的处理说明，不把客户同意扩大到本题不存在的授权。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "这是独立规范的综合要求；原答只写其中一方面应如实指出另一遗漏，不全盘否定正确部分。"
+            },
+            {
+              "id": "g8-writing-lawyer-ethics-4",
+              "label": "形成论述与可行措施",
+              "meaning": "成篇论述并提出冲突审查、统一接案、证据留源、对外材料审查等与问题对应的具体措施。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "措施可采用其他合理方式；不强制照抄制度清单或每项参考细节。"
+            }
+          ],
+          "sources": ["g8-writing-lawyer"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-juror-voting",
+      "title": "人民陪审员的表决范围",
+      "headline": "三人庭与七人庭的陪审员法律适用表决权不同，不能套同一规则。",
+      "goal": "本题三人庭中，这种限制是否正确？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "人民陪审员参加三人合议庭，对事实认定和法律适用均独立发表意见并表决。",
+        "参加七人合议庭，对事实认定与法官共同表决；对法律适用可发表意见，但不参加表决。"
+      ],
+      "pitfall": "不参加某项表决，不等于完全不能发表意见。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "三人庭与七人庭的陪审员法律适用表决权不同，不能套同一规则。"
+      },
+      "example": {
+        "title": "三人庭陪审员被禁止表决法律问题",
+        "facts": "【原创教学案例】案件由依法组成的三人合议庭审理，成员中有人民陪审员。评议时，审判长只因陪审员不是职业法官，就要求其不得就法律适用表决，仅可表决事实问题。",
+        "analysis": "不正确。人民陪审员参加三人合议庭，对事实认定和法律适用均有独立发表意见、行使表决权的权利，不能只因非职业法官就排除其法律适用表决。"
+      },
+      "sources": ["g8-main-remaining-g6-juror-voting"],
+      "exercises": [
+        {
+          "id": "g8-types-juror-seven-multiple",
+          "caseId": "g8-types-juror-seven",
+          "relatedTopicIds": ["remaining-g6-juror-voting"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "七人合议庭怎样表决（多选）",
+          "facts": "一起依法由七人合议庭审理的案件，有三名法官和四名人民陪审员。评议时需要分别确定关键事实是否发生，以及已经查明的事实应当适用何种法律。",
+          "prompt": "关于人民陪审员的参与权限，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "人民陪审员应先私下询问院外人员该如何投票，再服从其意见。",
+              "explanation": "陪审职责须依法独立履行，不能以院外指令代替评议。"
+            },
+            {
+              "id": "b",
+              "text": "人民陪审员只能旁听，不能参与事实表决。",
+              "explanation": "法律明确赋予事实认定表决权。"
+            },
+            {
+              "id": "c",
+              "text": "人民陪审员对事实认定与法官共同表决。",
+              "explanation": "七人合议庭中，陪审员对事实认定独立发表意见并共同表决。"
+            },
+            {
+              "id": "d",
+              "text": "人民陪审员可对法律适用发表意见，但不参加该部分表决。",
+              "explanation": "七人合议庭对法律适用不参加表决。"
+            }
+          ],
+          "correctChoices": ["c", "d"],
+          "answer": "c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选C、D。A项：陪审职责须依法独立履行，不能以院外指令代替评议。 B项：法律明确赋予事实认定表决权。 C项：七人合议庭中，陪审员对事实认定独立发表意见并共同表决。 D项：七人合议庭对法律适用不参加表决。",
+          "sources": ["g8-main-remaining-g6-juror-voting"]
+        },
+        {
+          "id": "g8-types-juror-seven-indefinite",
+          "caseId": "g8-types-juror-seven",
+          "relatedTopicIds": ["remaining-g6-juror-voting"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "七人合议庭怎样表决（不定项）",
+          "facts": "一起依法由七人合议庭审理的案件，有三名法官和四名人民陪审员。评议时需要分别确定关键事实是否发生，以及已经查明的事实应当适用何种法律。",
+          "prompt": "若改为由一名法官、两名人民陪审员组成三人合议庭，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "人民陪审员对法律适用也独立发表意见并参加表决。",
+              "explanation": "与七人庭不同，三人庭陪审员对法律适用参加表决。"
+            },
+            {
+              "id": "b",
+              "text": "只要有法官在场，陪审员依法就永远没有表决权。",
+              "explanation": "陪审员依法享有相应表决权。"
+            },
+            {
+              "id": "c",
+              "text": "不能把七人庭对法律适用的表决限制机械套到三人庭。",
+              "explanation": "法定参与范围依合议庭组成分别规定。"
+            },
+            {
+              "id": "d",
+              "text": "人民陪审员对事实认定独立发表意见并参加表决。",
+              "explanation": "三人合议庭的事实认定参与表决。"
+            }
+          ],
+          "correctChoices": ["a", "c", "d"],
+          "answer": "a,c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、C、D。A项：与七人庭不同，三人庭陪审员对法律适用参加表决。 B项：陪审员依法享有相应表决权。 C项：法定参与范围依合议庭组成分别规定。 D项：三人合议庭的事实认定参与表决。",
+          "sources": ["g8-main-remaining-g6-juror-voting"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-state-immunity",
+      "title": "外国国家管辖豁免与执行豁免",
+      "headline": "符合条件的商业活动可能不享有管辖豁免，但执行财产还要另行审查。",
+      "goal": "能否仅凭外国国家身份，当然排除本题商业活动争议的法院管辖？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "外国国家在中国境内从事商业活动等符合连接条件的争议，适用法定管辖豁免例外；活动性质并结合目的判断。",
+        "接受法院管辖不等于自动同意对全部国家财产采取强制措施，须另审执行豁免及财产特别保护。"
+      ],
+      "pitfall": "国家采购不是一概商业；馆舍等财产保护不能略过。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "符合条件的商业活动可能不享有管辖豁免，但执行财产还要另行审查。"
+      },
+      "example": {
+        "title": "外国政府在境内采购家具供商业转售",
+        "facts": "【原创教学案例】2026年10月，外国政府甲以自己名义在中国境内向乙企业购买普通家具，目的为公开商业转售获利，不作使馆公务或主权管理使用。乙按约交货后因价款争议起诉，甲仅称自己是外国国家就必定享有本案管辖豁免。",
+        "analysis": "不能。本题活动在中国境内、内容和目的均为普通商业采购转售，符合商业活动例外，甲就本争议不享有管辖豁免，不能只凭外国国家身份主张一律豁免。不得据此推出其所有国家活动或全部财产都不受保护。"
+      },
+      "sources": ["g8-main-remaining-g6-state-immunity"],
+      "exercises": [
+        {
+          "id": "g8-types-state-business-multiple",
+          "caseId": "g8-types-state-business",
+          "relatedTopicIds": ["remaining-g6-state-immunity"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "外国国家的商业交易（多选）",
+          "facts": "外国甲国的政府部门（本题明确为该国国家机关）以采购方身份，按市场条件向中国乙公司购买一批普通办公家具，交易约定交货地在中国。货物交付后发生价款争议，乙在中国法院起诉。题设已确认这是一项商业交易，诉讼也由该交易引起；双方没有另作享有豁免的明确约定。",
+          "prompt": "仅讨论本案管辖豁免，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "不享有管辖豁免，就等于所有国家财产都可立即被执行。",
+              "explanation": "管辖豁免与司法强制措施豁免须分别判断。"
+            },
+            {
+              "id": "b",
+              "text": "外国国家原则上享有管辖豁免，但法律规定了例外。",
+              "explanation": "我国外国国家豁免法采取有法定例外的制度。"
+            },
+            {
+              "id": "c",
+              "text": "题设商业活动发生在中国，因该活动产生的诉讼适用商业活动例外。",
+              "explanation": "符合本法商业活动例外条件，不享有管辖豁免。"
+            },
+            {
+              "id": "d",
+              "text": "一切以国家名义订立的商业合同都绝对不得由中国法院审理。",
+              "explanation": "国家身份不当然排除商业活动例外。"
+            }
+          ],
+          "correctChoices": ["b", "c"],
+          "answer": "b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、C。A项：管辖豁免与司法强制措施豁免须分别判断。 B项：我国外国国家豁免法采取有法定例外的制度。 C项：符合本法商业活动例外条件，不享有管辖豁免。 D项：国家身份不当然排除商业活动例外。",
+          "sources": ["g8-main-remaining-g6-state-immunity"]
+        },
+        {
+          "id": "g8-types-state-business-indefinite",
+          "caseId": "g8-types-state-business",
+          "relatedTopicIds": ["remaining-g6-state-immunity"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "外国国家的商业交易（不定项）",
+          "facts": "外国甲国的政府部门（本题明确为该国国家机关）以采购方身份，按市场条件向中国乙公司购买一批普通办公家具，交易约定交货地在中国。货物交付后发生价款争议，乙在中国法院起诉。题设已确认这是一项商业交易，诉讼也由该交易引起；双方没有另作享有豁免的明确约定。",
+          "prompt": "外国甲国另主动向中国法院提起一宗合同诉讼。只看甲国自行起诉对该诉讼管辖豁免的影响，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "起诉当然意味着其在世界上全部财产永久放弃执行豁免。",
+              "explanation": "起诉的管辖效果不能扩大为一切财产的永久执行豁免。"
+            },
+            {
+              "id": "b",
+              "text": "甲国可在取得不利结果后，仅凭国家身份推翻其已接受管辖的效果。",
+              "explanation": "不能以此任意撤回已接受的相应管辖。"
+            },
+            {
+              "id": "c",
+              "text": "外国国家只有签独立文件才能接受管辖，起诉没有任何效力。",
+              "explanation": "本法规定了起诉等依法视为接受管辖的情形。"
+            },
+            {
+              "id": "d",
+              "text": "甲国自行作为原告起诉，属于依法接受该案管辖的情形。",
+              "explanation": "外国国家作为原告提起诉讼，视为接受相关管辖。"
+            }
+          ],
+          "correctChoices": ["d"],
+          "answer": "d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选D。A项：起诉的管辖效果不能扩大为一切财产的永久执行豁免。 B项：不能以此任意撤回已接受的相应管辖。 C项：本法规定了起诉等依法视为接受管辖的情形。 D项：外国国家作为原告提起诉讼，视为接受相关管辖。",
+          "sources": ["g8-main-remaining-g6-state-immunity"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-choice-mandatory",
+      "title": "选法自治与直接强制规范",
+      "headline": "法律允许的涉外合同选法不以实际联系为必要，但不能排除直接强制规范。",
+      "goal": "无实际联系这一理由，是否足以否定本题选法？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "在法律允许选择的范围内，当事人可选适用法，不能仅因所选法律与关系无实际联系就认定选法无效。",
+        "依法应直接适用的中国强制规范不被选外国法条款排除；不是任何国内强制条款都自动属于这类规范。"
+      ],
+      "pitfall": "选法律与选法院是不同问题，法律选择权限也不能无限扩大。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "法律允许的涉外合同选法不以实际联系为必要，但不能排除直接强制规范。"
+      },
+      "example": {
+        "title": "涉外合同选了第三国法律",
+        "facts": "【原创教学案例】2026年10月，中国甲企业与外国乙企业签普通涉外服务合同，依法可以选择适用法律，双方明确选择丙国实体法。丙国与合同没有实际联系，但不存在本题涉及的直接强制规范、公共利益或特殊合同例外。甲只以无实际联系要求否定选法。",
+        "analysis": "不足以。对依法允许选法的涉外合同，不能仅因所选法律与关系没有实际联系就认定选择无效。本题已经明确符合选择范围且无相关例外，应尊重该法律选择，不把选法院的连接要求混进来。"
+      },
+      "sources": [
+        "g8-main-remaining-g6-choice-mandatory",
+        "g8-main-remaining-g6-choice-mandatory-interpretation"
+      ],
+      "exercises": [
+        {
+          "id": "g8-types-choice-law-multiple",
+          "caseId": "g8-types-choice-law",
+          "relatedTopicIds": ["remaining-g6-choice-mandatory"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "涉外合同选法的边界（多选）",
+          "facts": "中国甲公司与外国乙公司签订涉外服务合同，在合同中明确选择外国A国实体法。履行中涉及中国法律的一项强制性规定；题设已经确认该规定属于法律适用法第4条应直接适用的强制性规定。",
+          "prompt": "关于法律适用，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "当事人可依法律规定明示选择涉外民事关系适用的法律。",
+              "explanation": "选法须依法律规定并明示作出。"
+            },
+            {
+              "id": "b",
+              "text": "适用外国法时，必须把外国冲突规范也一并适用。",
+              "explanation": "我国法律适用法规定适用外国法不包括该国法律适用法。"
+            },
+            {
+              "id": "c",
+              "text": "选择外国法后，中国任何强制性规定都绝对不得适用。",
+              "explanation": "不能排除依法直接适用的强制性规定。"
+            },
+            {
+              "id": "d",
+              "text": "题设中国强制性规定应直接适用，不因选法条款排除。",
+              "explanation": "第4条规定直接适用的强制性规范优先。"
+            }
+          ],
+          "correctChoices": ["a", "d"],
+          "answer": "a,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、D。A项：选法须依法律规定并明示作出。 B项：我国法律适用法规定适用外国法不包括该国法律适用法。 C项：不能排除依法直接适用的强制性规定。 D项：第4条规定直接适用的强制性规范优先。",
+          "sources": [
+            "g8-main-remaining-g6-choice-mandatory",
+            "g8-main-remaining-g6-choice-mandatory-interpretation"
+          ]
+        },
+        {
+          "id": "g8-types-choice-law-indefinite",
+          "caseId": "g8-types-choice-law",
+          "relatedTopicIds": ["remaining-g6-choice-mandatory"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "涉外合同选法的边界（不定项）",
+          "facts": "中国甲公司与外国乙公司签订涉外服务合同，在合同中明确选择外国A国实体法。履行中涉及中国法律的一项强制性规定；题设已经确认该规定属于法律适用法第4条应直接适用的强制性规定。",
+          "prompt": "在其他事实不变的前提下，关于选法条款的效力范围，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "不能仅因选了外国法，就把该国冲突规则引入并自动转致另一国。",
+              "explanation": "适用外国法不包括其冲突规范。"
+            },
+            {
+              "id": "b",
+              "text": "依法应适用的中国强制性规定仍在本案发挥作用。",
+              "explanation": "题设已经明确属于第4条直接适用的规定。"
+            },
+            {
+              "id": "c",
+              "text": "它不能替代对中国直接适用的强制性规定的审查。",
+              "explanation": "选法自由受法定边界限制。"
+            },
+            {
+              "id": "d",
+              "text": "选法条款必然使全部合同无效，不必再看条款与争议内容。",
+              "explanation": "选择外国实体法本身不是合同无效的当然原因。"
+            }
+          ],
+          "correctChoices": ["a", "b", "c"],
+          "answer": "a,b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、B、C。A项：适用外国法不包括其冲突规范。 B项：题设已经明确属于第4条直接适用的规定。 C项：选法自由受法定边界限制。 D项：选择外国实体法本身不是合同无效的当然原因。",
+          "sources": [
+            "g8-main-remaining-g6-choice-mandatory",
+            "g8-main-remaining-g6-choice-mandatory-interpretation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-copyright-ownership",
+      "title": "著作权归属与原件所有权",
+      "headline": "付创作费不一定买走著作权，买到作品原件也不等于取得全部版权。",
+      "goal": "本题没有权属约定时，著作权默认归谁，费用支付能否直接改变？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "委托创作的著作权按合同约定，未明确约定时依法归受托人；不能只因付费就默认全归委托人。",
+        "作品原件所有权与著作权不同，买下画作原件不当然取得复制发行权；原件展览权等特别规定另看。"
+      ],
+      "pitfall": "作者身份、著作财产权和有形原件应分开。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "付创作费不一定买走著作权，买到作品原件也不等于取得全部版权。"
+      },
+      "example": {
+        "title": "付了绘画费用就说版权全买走了",
+        "facts": "【原创教学案例】2026年10月，甲委托独立画师乙创作插画，支付约定创作费用。双方没有约定著作权归属或转让，乙完成了受著作权保护的原创表达。甲称付过钱就说明全部著作权当然属于自己。",
+        "analysis": "依法默认归受托创作者乙。委托作品先看合同权属约定，没有明确约定时按法定规则归受托人，不能仅因甲支付创作费就认定全部著作权当然转移。具体使用范围仍可依法依约判断。"
+      },
+      "sources": ["g8-main-remaining-g6-copyright-ownership"],
+      "exercises": [
+        {
+          "id": "g8-types-commission-work-multiple",
+          "caseId": "g8-types-commission-work",
+          "relatedTopicIds": ["remaining-g6-copyright-ownership"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "插画委托与画稿原件（多选）",
+          "facts": "乙公司委托自由插画师甲创作一幅插画，甲独立完成创作。双方没有约定著作权归属，也不是职务作品。乙支付报酬并取得手绘原件。乙认为已经买到原件，便可以自行授权他人批量印制插画商品。",
+          "prompt": "关于权利归属，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "支付创作报酬就必然取得全部著作权。",
+              "explanation": "付款不能替代明确的著作权归属约定。"
+            },
+            {
+              "id": "b",
+              "text": "受托作者从未享有作品著作权。",
+              "explanation": "本题无归属约定，著作权依法归受托人。"
+            },
+            {
+              "id": "c",
+              "text": "手绘原件所有权转移，不当然改变作品著作权归属。",
+              "explanation": "作品原件物权与著作权分属不同权利。"
+            },
+            {
+              "id": "d",
+              "text": "没有明确约定的委托作品，著作权归受托创作的甲。",
+              "explanation": "委托作品没有约定或约定不明，著作权属于受托人。"
+            }
+          ],
+          "correctChoices": ["c", "d"],
+          "answer": "c,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选C、D。A项：付款不能替代明确的著作权归属约定。 B项：本题无归属约定，著作权依法归受托人。 C项：作品原件物权与著作权分属不同权利。 D项：委托作品没有约定或约定不明，著作权属于受托人。",
+          "sources": ["g8-main-remaining-g6-copyright-ownership"]
+        },
+        {
+          "id": "g8-types-commission-work-indefinite",
+          "caseId": "g8-types-commission-work",
+          "relatedTopicIds": ["remaining-g6-copyright-ownership"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "插画委托与画稿原件（不定项）",
+          "facts": "乙公司委托自由插画师甲创作一幅插画，甲独立完成创作。双方没有约定著作权归属，也不是职务作品。乙支付报酬并取得手绘原件。乙认为已经买到原件，便可以自行授权他人批量印制插画商品。",
+          "prompt": "只讨论乙是否仅凭取得原件就能授权第三人批量复制商品，不讨论法律另有规定的原件展览权，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "只要把商品上的作者名字去掉，就可以任意复制。",
+              "explanation": "删除署名不产生复制许可。"
+            },
+            {
+              "id": "b",
+              "text": "不能仅凭持有原件，就认定乙已取得授权复制作品的权利。",
+              "explanation": "原件所有权不当然包含著作权中的复制授权权能。"
+            },
+            {
+              "id": "c",
+              "text": "既然是定制作品，乙可在任何范围无限转授权。",
+              "explanation": "委托关系不当然授予无限制商业转授权。"
+            },
+            {
+              "id": "d",
+              "text": "只要第三人不知道甲是谁，就不需要著作权授权。",
+              "explanation": "不了解作者身份不等于取得复制权。"
+            }
+          ],
+          "correctChoices": ["b"],
+          "answer": "b",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B。A项：删除署名不产生复制许可。 B项：原件所有权不当然包含著作权中的复制授权权能。 C项：委托关系不当然授予无限制商业转授权。 D项：不了解作者身份不等于取得复制权。",
+          "sources": ["g8-main-remaining-g6-copyright-ownership"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-patent-duty",
+      "title": "职务发明与科研使用例外",
+      "headline": "职务发明的申请权与发明人署名分开，科研名义也不免一切商业使用。",
+      "goal": "本题申请权和甲的发明人署名应怎样区分？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "执行单位任务等依法构成职务发明时，申请权原则归单位；发明人仍有在专利文件中署名等法定权利。",
+        "专为科学研究和实验使用有关专利有法定例外，但科研机构身份或将收入用于研究，不让普通生产销售自动免责。"
+      ],
+      "pitfall": "物质技术条件有约定、合作发明等另审；本组不扩期限补偿和开放许可程序。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "职务发明的申请权与发明人署名分开，科研名义也不免一切商业使用。"
+      },
+      "example": {
+        "title": "单位研发任务完成后把申请权当个人所有",
+        "facts": "【原创教学案例】2026年10月，工程师甲按乙单位明确的研发任务完成一项发明，属于执行单位任务，不存在特殊权属约定或合作争议。甲认为技术主要由自己想出，申请专利权必定个人独有；乙则认为若归单位，甲连发明人署名也没有。",
+        "analysis": "本题属职务发明，申请专利的权利原则上归乙单位，不能只凭个人构思就排除职务任务归属。但甲作为发明人仍依法有在专利文件中署名的权利，单位有申请权不抹掉真实发明人身份。"
+      },
+      "sources": ["g8-main-remaining-g6-patent-duty"],
+      "exercises": [
+        {
+          "id": "g8-types-employee-invention-multiple",
+          "caseId": "g8-types-employee-invention",
+          "relatedTopicIds": ["remaining-g6-patent-duty"],
+          "kind": "objective",
+          "choiceMode": "multiple",
+          "title": "工作任务中的发明（多选）",
+          "facts": "工程师甲按所在公司明确分配的研发任务，利用公司实验设备完成一项技术发明。双方没有改变申请权归属的特别约定。公司准备申请专利，主管却主张只能写主管本人为发明人，因为其负责审批经费。主管未参与任何创造性技术工作。",
+          "prompt": "关于职务发明，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "职务发明的申请权一定属于甲个人，与其承担的任务无关。",
+              "explanation": "题设属于职务发明，申请权归单位。"
+            },
+            {
+              "id": "b",
+              "text": "甲作为实际发明人享有在专利文件中写明自己为发明人的权利。",
+              "explanation": "职务发明不取消实际发明人的署名权。"
+            },
+            {
+              "id": "c",
+              "text": "执行本单位任务完成的本项发明，申请专利的权利依法属于单位。",
+              "explanation": "属于执行本单位任务所完成的职务发明创造。"
+            },
+            {
+              "id": "d",
+              "text": "主管只凭审批经费就当然取代甲成为发明人。",
+              "explanation": "行政管理和经费审批不能替代创造性贡献。"
+            }
+          ],
+          "correctChoices": ["b", "c"],
+          "answer": "b,c",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选B、C。A项：题设属于职务发明，申请权归单位。 B项：职务发明不取消实际发明人的署名权。 C项：属于执行本单位任务所完成的职务发明创造。 D项：行政管理和经费审批不能替代创造性贡献。",
+          "sources": ["g8-main-remaining-g6-patent-duty"]
+        },
+        {
+          "id": "g8-types-employee-invention-indefinite",
+          "caseId": "g8-types-employee-invention",
+          "relatedTopicIds": ["remaining-g6-patent-duty"],
+          "kind": "objective",
+          "choiceMode": "indefinite",
+          "title": "工作任务中的发明（不定项）",
+          "facts": "工程师甲按所在公司明确分配的研发任务，利用公司实验设备完成一项技术发明。双方没有改变申请权归属的特别约定。公司准备申请专利，主管却主张只能写主管本人为发明人，因为其负责审批经费。主管未参与任何创造性技术工作。",
+          "prompt": "关于单位获得专利后的发明人权益，下列哪些说法正确？",
+          "options": [
+            {
+              "id": "a",
+              "text": "被授予专利权的单位应依法对发明人给予奖励。",
+              "explanation": "专利法对职务发明人规定奖励。"
+            },
+            {
+              "id": "b",
+              "text": "申请权归单位与甲依法享有署名、奖励和报酬可以并存。",
+              "explanation": "这些制度分别调整权利归属与实际发明人权益。"
+            },
+            {
+              "id": "c",
+              "text": "只要单位领工资，发明人依法享有的奖励报酬一律归零。",
+              "explanation": "工资关系不当然排除法定奖励、合理报酬制度。"
+            },
+            {
+              "id": "d",
+              "text": "专利实施后，应依法根据推广应用范围和经济效益给予合理报酬。",
+              "explanation": "专利实施后的合理报酬不同于署名权。"
+            }
+          ],
+          "correctChoices": ["a", "b", "d"],
+          "answer": "a,b,d",
+          "hint": "按本题事实逐项判断，再选择全部正确选项。",
+          "reference": "应选A、B、D。A项：专利法对职务发明人规定奖励。 B项：这些制度分别调整权利归属与实际发明人权益。 C项：工资关系不当然排除法定奖励、合理报酬制度。 D项：专利实施后的合理报酬不同于署名权。",
+          "sources": ["g8-main-remaining-g6-patent-duty"]
+        }
+      ]
+    },
+    {
+      "id": "civpro-filing-conditions",
+      "title": "起诉条件与受理",
+      "headline": "先核起诉入口，再审实体主张",
+      "goal": "识别原告与本案的直接利害关系，说明立案受理与实体请求成立是不同判断。",
+      "prerequisite": "知道原告提出请求、被告是请求指向的人即可；本卡从民诉入口开始。",
+      "minutes": "8–12",
+      "paragraphs": [
+        "第122条的起诉条件分别关心：原告是否与本案有直接利害关系，被告是否明确，诉讼请求及所据事实理由是否具体，以及是否属于法院民事受案范围和受诉法院管辖。不能拿其中一项替代其他项。",
+        "帮助朋友、知道事情经过，本身不等于自己的权利与该案有直接利害关系。以本人名义作原告和作为他人的诉讼代理人，是不同问题；本组只用题述事实识别前者。",
+        "第126条保障符合条件的起诉得到受理。受理与后续查明争议事实、确认权利义务不是同一判断；仅凭已经立案，不能认定实体诉求必然成立。两题分别练习利害关系与这一边界，不代表四项条件均已练习。"
+      ],
+      "pitfall": "把朋友愿意帮助当作本人利害关系，或把法院立案当成已经赢得实体请求。",
+      "recall": {
+        "prompt": "朋友为什么不能仅凭朋友身份以本人名义作原告？已经立案为什么还不能直接推出原告胜诉？",
+        "reference": "本人作原告要有与本案的直接利害关系，帮助朋友本身不能替代。立案受理是诉讼入口，争议事实和实体权利义务还需审理，不能仅凭立案认定诉求成立。"
+      },
+      "example": {
+        "title": "朋友能以本人名义起诉吗",
+        "facts": "本案为虚构，各方均为境内成年公民。周平向梁澄出借一万元，到期归还发生争议。周的朋友魏安没有取得这笔债权，自己的权利也没有因本次争议受到影响。魏拟把自己列为原告，以本人名义请求梁向周归还借款；他并非以周的诉讼代理人身份参加诉讼。本问只考察魏作为原告与本案的利害关系，不判断借款最终责任或其他起诉条件。",
+        "analysis": "选B。第122条要求原告与本案有直接利害关系。借款债权未转给魏，题设也没有魏自己的权利受到影响的事实；朋友身份和知道案情本身不足。这里仅判断题问的一项，不作借款最终责任或全部起诉条件的结论。"
+      },
+      "sources": ["g8-writing-civil-procedure", "g8-writing-civil-sale"],
+      "exercises": [
+        {
+          "id": "g8-writing-civil-complaint",
+          "caseId": "g8-writing-civil-complaint",
+          "relatedTopicIds": ["civpro-filing-conditions"],
+          "kind": "subjective",
+          "title": "民事起诉状：已交货未付清价款",
+          "facts": "以下人物、地址、电话及案号均为练习用虚构信息。\n青岚市青竹文具有限公司，住所地青岚市青竹区春路18号，法定代表人林平（经理），电话010-00000001，以下简称青竹公司。青岚市溪岸书店有限公司，住所地青岚市青竹区河路26号，法定代表人赵秋（经理），电话010-00000002，以下简称溪岸公司。\n2026年8月3日，双方签订书面买卖合同，青竹公司向溪岸公司出售1000套文具，总价5万元，约定8月15日交货、8月25日前付清。青竹公司按时交货，溪岸公司盖章签收；货物数量、质量均无争议。溪岸公司只付2万元，余款一直未付。9月10日，青竹公司发出书面催款函，溪岸公司回函承认还欠3万元，但未付款。\n青竹公司拟于2026年11月2日起诉，只主张剩余3万元货款及本案诉讼费，不主张利息或违约金。已有买卖合同、盖章签收单、2万元银行入账凭证、催款函及欠款回复。题设确认青岚市青竹区人民法院有管辖权。",
+          "prompt": "请代青竹公司写一份完整民事起诉状，包含当事人、明确诉讼请求、事实与理由、证据及来源、致送法院和具状落款。按所给材料写作，不补造统一社会信用代码或身份证号；材料未提供的信息不计作漏项。",
+          "answer": "",
+          "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+          "reference": "民事起诉状\n原告：青岚市青竹文具有限公司，住所地青岚市青竹区春路18号。法定代表人：林平，经理。联系电话：010-00000001。\n被告：青岚市溪岸书店有限公司，住所地青岚市青竹区河路26号。法定代表人：赵秋，经理。联系电话：010-00000002。\n诉讼请求：\n一、判令被告向原告支付剩余货款人民币30000元；\n二、本案诉讼费用由被告承担。\n事实与理由：\n2026年8月3日，原、被告签订文具买卖合同，约定原告出售1000套文具，价款50000元，8月15日交货、8月25日前付清。原告已按期交付，被告盖章签收，双方对数量和质量均无异议。被告仅支付20000元，尚欠30000元。原告于9月10日发函催收，被告书面确认欠款，至今未付。\n原告已经履行交货义务，被告应按约支付价款。被告逾期不付剩余货款，违反合同义务，应继续履行付款责任。为维护原告合法权益，依法诉请贵院支持上述请求。\n证据及来源：\n1.双方签订的买卖合同，证明买卖关系、价款及付款期限；\n2.被告盖章签收单，证明原告已经交货；\n3.原告留存的银行入账凭证，证明被告已支付20000元；\n4.原告催款函及被告欠款回复，证明催收经过和剩余欠款。\n此致\n青岚市青竹区人民法院\n具状人：青岚市青竹文具有限公司（盖章）\n2026年11月2日\n附：起诉状副本及证据材料按实际提交要求准备。",
+          "criteria": [
+            {
+              "id": "g8-writing-civil-complaint-1",
+              "label": "当事人与致送法院",
+              "meaning": "写明两公司的原被告身份、题给主要身份及联系方式，致送题定法院。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "未给信用代码不扣；联系信息少量笔误不否定实质身份，不能颠倒诉讼双方。"
+            },
+            {
+              "id": "g8-writing-civil-complaint-2",
+              "label": "明确诉讼请求",
+              "meaning": "请求支付剩余30000元及由被告承担诉讼费，不把已付20000元再次列为欠款。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "数额或请求主体错应指出；不以未主张题设排除的利息、违约金为遗漏。"
+            },
+            {
+              "id": "g8-writing-civil-complaint-3",
+              "label": "履约事实与请求理由",
+              "meaning": "写明合同、按期交货签收、已付20000元、到期未付余款及催收，并据此说明继续付款责任。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "可合并叙述，不必逐日期抄题，但应能看出交货与尚欠30000元的根据。"
+            },
+            {
+              "id": "g8-writing-civil-complaint-4",
+              "label": "文书与证据完整性",
+              "meaning": "全文成起诉状，交代证据及其所证事项，有具状人和日期。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不是仅回答谁胜诉；不强制条号、固定套话、未给的证人或额外附件数量。"
+            }
+          ],
+          "sources": ["g8-writing-civil-procedure", "g8-writing-civil-sale"]
+        }
+      ]
+    },
+    {
+      "id": "remaining-g6-law-governance",
+      "title": "依法治国与法治建设",
+      "headline": "法治建设包含立法、执法、司法和守法，权力行使也须遵守法律。",
+      "goal": "这种安排是否完整，为什么？",
+      "prerequisite": "先看本组适用的制度和时间，再结合法律规则判断。",
+      "minutes": "约8分钟",
+      "paragraphs": [
+        "全面依法治国需要各环节共同推进，不能只靠法院，也不能把立法、执法或守法排除在外。",
+        "宪法和法律对国家机关同样有约束力，工作目标、内部批示不能成为任意越过法定权限和程序的理由。"
+      ],
+      "pitfall": "区分法治的整体要求与各机关的具体法定职责。",
+      "recall": {
+        "prompt": "本组两种情形的处理有什么区别？",
+        "reference": "法治建设包含立法、执法、司法和守法，权力行使也须遵守法律。"
+      },
+      "example": {
+        "title": "把全部法治任务交给法院",
+        "facts": "【原创教学案例】某地安排法治建设工作时，提出今后各部门不必审查规范是否合法、执法是否符合法定程序，只要法院在诉讼中把案件判好，就算完成当地全部法治建设任务。",
+        "analysis": "不完整。公正司法只是法治建设的一环，不能代替科学立法、严格执法和全民守法。各机关仍要在自己的权限内依法履职，不能等出了诉讼才把全部责任推给法院。"
+      },
+      "sources": ["g8-writing-constitution"],
+      "exercises": [
+        {
+          "id": "g8-writing-law-governance",
+          "caseId": "g8-writing-law-governance",
+          "relatedTopicIds": ["remaining-g6-law-governance"],
+          "kind": "subjective",
+          "title": "长论述：便民服务与依法行政",
+          "facts": "某市推进“一窗办事”。甲区把法定申请材料列成公开清单，允许线上提交，建立群众投诉渠道并说明处理进展；对确有法定办理期限的事项仍按期审查。乙区负责人认为“群众只要结果”，要求工作人员对熟人先办、对难办申请不登记，也不给理由；又提出为了提速，可以用内部会议纪要取代法律规定的受理条件。群众反馈：排队短了，但同类申请结果不同，未被受理的人不知道如何反映。\n讨论会上有人说：“法治就是把文件写齐，办事快慢与法治无关。”另有人说：“便民是最终目的，程序和权限都可以省。”请围绕这两种说法和两区做法展开，而不是空谈口号。",
+          "prompt": "请以“把便民服务做在法治轨道上”为题写一篇完整论述。提出明确观点，结合材料分析便民、权限、平等和程序的关系，提出能够落地的改进措施。练习建议600—1000字，可依必要内容调整；这是本产品的练习篇幅，不是官方考试字数标准。",
+          "answer": "",
+          "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+          "reference": "把便民服务做在法治轨道上\n便民服务与依法行政应当相互促进。便民要让群众少跑腿、少等待，也要让同样的申请受到同样的对待，让未被受理的人知道原因并有渠道提出异议。离开权限和程序追求速度，可能只是把成本转给办事群众。\n甲区的做法说明，依法办事可以更方便。公开法定材料清单、允许线上提交，减少了信息不对称和重复跑动；保留法定审查与投诉渠道，又使决定有根据、过程有回应。它改进的是服务方式，没有把内部效率目标变成任意免除法定条件的权力。\n乙区的问题则不能靠“已经提速”掩盖。熟人先办使办事待遇取决于关系，损害平等；对难办申请不登记、不说明理由，使申请人无法知道进度，也难以有效反映问题。内部会议纪要可以安排工作，却不能替代法律规定的受理条件。工作人员对谁办理、怎样办理、何时答复，都应当有法律依据和可核查的记录。\n因此，法治不是把文件写齐就结束。文件是否落实为统一标准、真实登记、及时处理和有效监督，才直接影响群众感受。同时，便民也不意味着程序都可省：必要的告知、审查与救济保护申请人的权利，不能只因不方便就取消。可以精简重复填表、打通部门数据，但不应删去决定合法性所需的环节。\n改进时，应先核对法定权限、材料和期限，把清单公开并保持一致执行；对每份申请登记、给出可查询进度，对补正或不受理说明具体原因。线上渠道应保留线下帮助，照顾不熟悉技术的群众。投诉须有负责人员、处理记录和反馈，不能只设一个无人回应的入口。内部考核同时关注时效、同类事项处理一致性、理由说明及投诉解决情况，避免只看办结数量。\n衡量便民改革，既要看是否更快，也要看是否更公平、更可预期。让群众知道该准备什么、机关正在做什么、不服决定可以怎么办，服务便利和依法行政才能一起落实。",
+          "criteria": [
+            {
+              "id": "g8-writing-law-governance-1",
+              "label": "中心观点",
+              "meaning": "明确说明便民和依法行政相互促进，既不把法治理解为只写文件，也不为速度取消法定权限程序。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "观点应清楚；不强制特定政治术语、篇幅达标或唯一段落结构。"
+            },
+            {
+              "id": "g8-writing-law-governance-2",
+              "label": "围绕具体材料分析",
+              "meaning": "比较甲区公开材料和线上办理与乙区熟人优先、不登记、不说明、用内部纪要替法律等关键做法，并说明各自影响。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不要求列齐全部细节；只空喊合法便民而不联系做法是理由不足。"
+            },
+            {
+              "id": "g8-writing-law-governance-3",
+              "label": "解释权利与程序关系",
+              "meaning": "说明平等、权限和必要程序怎样保护可预期、公平及反映问题的机会，区分优化方式和删去法定环节。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不能以快或群众满意直接替代合法性；允许从不同具体角度说明同一关系。"
+            },
+            {
+              "id": "g8-writing-law-governance-4",
+              "label": "提出有针对性的措施并成篇",
+              "meaning": "提出与材料问题相连的可执行措施，例如统一公开清单、登记进度、说明理由、投诉反馈与兼顾线下帮助，论述有组织。",
+              "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+              "boundary": "不要求所有参考措施；至少有对应问题的具体做法，不把不同合理方案判错。"
+            }
+          ],
+          "sources": ["g8-writing-constitution"]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "subject": "civil-law",
+      "parentTopicId": "civil-capacity-minor",
+      "chapterId": "CIV-CAPACITY",
+      "exercise": {
+        "id": "g8-types-minor-camera-multiple",
+        "caseId": "g8-types-minor-camera",
+        "relatedTopicIds": ["civil-capacity-minor"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "相机、赠与与追认（多选）",
+        "facts": "七岁的甲用压岁钱向商店买一台4200元的相机。甲的姐姐乙十五岁，接受姑姑无附加条件赠送的一套画具；又瞒着父母买了一台9800元的电脑。电脑交易超出乙的年龄、智力范围，乙父母接到商店的追认催告后满三十日一直没有答复。",
+        "prompt": "关于三笔交易的效力，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "乙的电脑买卖因父母三十日未答复而视为已经追认。",
+            "explanation": "法定代理人收到催告后三十日未作表示，视为拒绝追认。"
+          },
+          {
+            "id": "b",
+            "text": "甲的相机买卖无效，不能靠父母事后追认使该买卖生效。",
+            "explanation": "甲未满八周岁，自己实施的买卖无效；与限制行为能力人的追认制度不同。"
+          },
+          {
+            "id": "c",
+            "text": "只要钱是未成年人自己的，买卖便全部有效。",
+            "explanation": "财产来源不能替代行为能力与交易内容的审查。"
+          },
+          {
+            "id": "d",
+            "text": "乙接受无附加义务的画具赠与有效。",
+            "explanation": "乙是限制民事行为能力人，可以独立实施纯获利益的行为。"
+          }
+        ],
+        "correctChoices": ["b", "d"],
+        "answer": "b,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、D。A项：法定代理人收到催告后三十日未作表示，视为拒绝追认。 B项：甲未满八周岁，自己实施的买卖无效；与限制行为能力人的追认制度不同。 C项：财产来源不能替代行为能力与交易内容的审查。 D项：乙是限制民事行为能力人，可以独立实施纯获利益的行为。",
+        "sources": [
+          "g8-main-civil-capacity-code-minor",
+          "g8-main-civil-capacity-age-fit-interpretation"
+        ]
+      }
+    },
+    {
+      "subject": "civil-law",
+      "parentTopicId": "civil-capacity-minor",
+      "chapterId": "CIV-CAPACITY",
+      "exercise": {
+        "id": "g8-types-minor-camera-indefinite",
+        "caseId": "g8-types-minor-camera",
+        "relatedTopicIds": ["civil-capacity-minor"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "相机、赠与与追认（不定项）",
+        "facts": "七岁的甲用压岁钱向商店买一台4200元的相机。甲的姐姐乙十五岁，接受姑姑无附加条件赠送的一套画具；又瞒着父母买了一台9800元的电脑。电脑交易超出乙的年龄、智力范围，乙父母接到商店的追认催告后满三十日一直没有答复。",
+        "prompt": "只看乙买电脑这一交易，父母始终未作其他表示。下列哪些判断正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "催告后的法定期限届满未答复，视为拒绝追认。",
+            "explanation": "本题明确超过相适应范围，且催告后三十日未答复。"
+          },
+          {
+            "id": "b",
+            "text": "收到电脑本身就使乙自动取得独立订立该交易的能力。",
+            "explanation": "履行事实不改变行为能力。"
+          },
+          {
+            "id": "c",
+            "text": "乙能够说清价格，因此必须视为完全民事行为能力人。",
+            "explanation": "十五岁且题设明确交易不相适应，不能仅据表达能力认定完全行为能力。"
+          },
+          {
+            "id": "d",
+            "text": "商店可以用催告直接替代法定代理人的同意。",
+            "explanation": "催告只是促使法定代理人表态，不能替其同意。"
+          }
+        ],
+        "correctChoices": ["a"],
+        "answer": "a",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A。A项：本题明确超过相适应范围，且催告后三十日未答复。 B项：履行事实不改变行为能力。 C项：十五岁且题设明确交易不相适应，不能仅据表达能力认定完全行为能力。 D项：催告只是促使法定代理人表态，不能替其同意。",
+        "sources": [
+          "g8-main-civil-capacity-code-minor",
+          "g8-main-civil-capacity-age-fit-interpretation"
+        ]
+      }
+    },
+    {
+      "subject": "civil-law",
+      "parentTopicId": "civil-contract-formation",
+      "chapterId": "CIV-CONTRACT-FORMATION",
+      "exercise": {
+        "id": "g8-types-offer-chair-multiple",
+        "caseId": "g8-types-offer-chair",
+        "relatedTopicIds": ["civil-contract-formation"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "报价与改价回复（多选）",
+        "facts": "甲家具厂发邮件给乙书店，写明供应50把指定型号椅子，每把300元，六月十日送至乙门店；乙在六月二日前回复同意即可成交。乙回复：“其余照办，每把280元，六月二日前答复我即可。”甲收到后未回复，也未发货。",
+        "prompt": "关于双方往来，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "乙同意了大多数条件，所以300元合同已经成立。",
+            "explanation": "实质性修改价款不构成对原要约的承诺。"
+          },
+          {
+            "id": "b",
+            "text": "甲未反对就当然接受了乙的280元报价。",
+            "explanation": "本题没有法律规定、约定或交易习惯使沉默构成承诺。"
+          },
+          {
+            "id": "c",
+            "text": "甲的邮件具体确定，并表示乙承诺即可成立合同，属于要约。",
+            "explanation": "标的、数量、价格、交付及受约束意思均明确。"
+          },
+          {
+            "id": "d",
+            "text": "乙改变价格的回复属于新要约。",
+            "explanation": "价款的实质性变更使回复成为新要约。"
+          }
+        ],
+        "correctChoices": ["c", "d"],
+        "answer": "c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选C、D。A项：实质性修改价款不构成对原要约的承诺。 B项：本题没有法律规定、约定或交易习惯使沉默构成承诺。 C项：标的、数量、价格、交付及受约束意思均明确。 D项：价款的实质性变更使回复成为新要约。",
+        "sources": [
+          "g8-main-civil-contract-offer",
+          "g8-main-civil-contract-oral-formation",
+          "g8-main-civil-contract-counteroffer",
+          "g8-main-civil-contract-conduct-formation"
+        ]
+      }
+    },
+    {
+      "subject": "civil-law",
+      "parentTopicId": "civil-contract-formation",
+      "chapterId": "CIV-CONTRACT-FORMATION",
+      "exercise": {
+        "id": "g8-types-offer-chair-indefinite",
+        "caseId": "g8-types-offer-chair",
+        "relatedTopicIds": ["civil-contract-formation"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "报价与改价回复（不定项）",
+        "facts": "甲家具厂发邮件给乙书店，写明供应50把指定型号椅子，每把300元，六月十日送至乙门店；乙在六月二日前回复同意即可成交。乙回复：“其余照办，每把280元，六月二日前答复我即可。”甲收到后未回复，也未发货。",
+        "prompt": "将原题全部邮件往来替换为以下独立情境：甲的最初邮件明确“乙在六月二日前支付15000元即为承诺，无须另回邮件”，乙未发出任何改价回复，六月一日依约支付且款已到账。下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "不能仅因没有书面回复，就否定合同成立。",
+            "explanation": "依法可以用行为作出承诺。"
+          },
+          {
+            "id": "b",
+            "text": "合同一律要等椅子全部交付后才成立。",
+            "explanation": "本题约定的是付款承诺，而非以全部交付作为成立条件。"
+          },
+          {
+            "id": "c",
+            "text": "该行为在六月一日完成时，合同依约成立。",
+            "explanation": "无需承诺通知的，依约实施行为时生效。"
+          },
+          {
+            "id": "d",
+            "text": "可以依要约约定以付款行为作出承诺。",
+            "explanation": "要约允许以行为承诺，本题行为符合约定。"
+          }
+        ],
+        "correctChoices": ["a", "c", "d"],
+        "answer": "a,c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、C、D。A项：依法可以用行为作出承诺。 B项：本题约定的是付款承诺，而非以全部交付作为成立条件。 C项：无需承诺通知的，依约实施行为时生效。 D项：要约允许以行为承诺，本题行为符合约定。",
+        "sources": [
+          "g8-main-civil-contract-offer",
+          "g8-main-civil-contract-oral-formation",
+          "g8-main-civil-contract-counteroffer",
+          "g8-main-civil-contract-conduct-formation"
+        ]
+      }
+    },
+    {
+      "subject": "civil-procedure",
+      "parentTopicId": "civpro-detail-coercive-measures",
+      "chapterId": "CIVPRO-DETAIL-COERCIVE-MEASURES",
+      "exercise": {
+        "id": "g8-types-court-detention-multiple",
+        "caseId": "g8-types-court-detention",
+        "relatedTopicIds": ["civpro-detail-coercive-measures"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "法庭秩序与拘留决定（多选）",
+        "facts": "民事庭审中，旁听人甲反复辱骂证人、推倒录音设备，劝阻无效。合议庭认为需要罚款；拟采取的数额在法定范围内。书记员提议由承办法官口头决定罚款，另有人提议以“藐视法庭”为由无限期拘留。",
+        "prompt": "就法院强制措施的程序，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "为维护法庭秩序，可以不受法定期限限制地拘留。",
+            "explanation": "司法拘留有法定期限，不能无限期实施。"
+          },
+          {
+            "id": "b",
+            "text": "作出罚款、拘留决定，须经院长批准。",
+            "explanation": "罚款、拘留须由院长批准，并以决定书作出。"
+          },
+          {
+            "id": "c",
+            "text": "对罚款、拘留决定不服，可以向上一级人民法院申请复议一次。",
+            "explanation": "法律规定一次复议渠道。"
+          },
+          {
+            "id": "d",
+            "text": "只要法官口头宣布，罚款决定就不必制作决定书。",
+            "explanation": "罚款和拘留应当用决定书。"
+          }
+        ],
+        "correctChoices": ["b", "c"],
+        "answer": "b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、C。A项：司法拘留有法定期限，不能无限期实施。 B项：罚款、拘留须由院长批准，并以决定书作出。 C项：法律规定一次复议渠道。 D项：罚款和拘留应当用决定书。",
+        "sources": [
+          "g8-main-civpro-detail-coercion-law",
+          "g8-main-civpro-detail-coercion-procedure"
+        ]
+      }
+    },
+    {
+      "subject": "civil-procedure",
+      "parentTopicId": "civpro-detail-coercive-measures",
+      "chapterId": "CIVPRO-DETAIL-COERCIVE-MEASURES",
+      "exercise": {
+        "id": "g8-types-court-detention-indefinite",
+        "caseId": "g8-types-court-detention",
+        "relatedTopicIds": ["civpro-detail-coercive-measures"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "法庭秩序与拘留决定（不定项）",
+        "facts": "民事庭审中，旁听人甲反复辱骂证人、推倒录音设备，劝阻无效。合议庭认为需要罚款；拟采取的数额在法定范围内。书记员提议由承办法官口头决定罚款，另有人提议以“藐视法庭”为由无限期拘留。",
+        "prompt": "甲收到合法作出的罚款决定后申请复议。关于复议的效力，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "必须先交完罚款，才享有申请复议的权利。",
+            "explanation": "法律未把先缴罚款作为申请复议权的前提。"
+          },
+          {
+            "id": "b",
+            "text": "只要申请复议，原决定便自动撤销。",
+            "explanation": "申请复议本身不使决定失效。"
+          },
+          {
+            "id": "c",
+            "text": "可以连续向同一上一级法院反复申请复议，不受次数限制。",
+            "explanation": "对此类决定依法可申请复议一次。"
+          },
+          {
+            "id": "d",
+            "text": "复议期间不停止决定的执行。",
+            "explanation": "对罚款、拘留申请复议不停止执行。"
+          }
+        ],
+        "correctChoices": ["d"],
+        "answer": "d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选D。A项：法律未把先缴罚款作为申请复议权的前提。 B项：申请复议本身不使决定失效。 C项：对此类决定依法可申请复议一次。 D项：对罚款、拘留申请复议不停止执行。",
+        "sources": [
+          "g8-main-civpro-detail-coercion-law",
+          "g8-main-civpro-detail-coercion-procedure"
+        ]
+      }
+    },
+    {
+      "subject": "civil-procedure",
+      "parentTopicId": "civpro-detail-litigation-fees",
+      "chapterId": "CIVPRO-DETAIL-LITIGATION-FEES",
+      "exercise": {
+        "id": "g8-types-fee-mediation-multiple",
+        "caseId": "g8-types-fee-mediation",
+        "relatedTopicIds": ["civpro-detail-litigation-fees"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "调解结案的诉讼费用（多选）",
+        "facts": "甲向乙追索货款。法院按普通程序审理后，双方在法院主持下调解结案。依本案金额原应收取的案件受理费为2400元，尚未适用任何减半规则；双方没有就费用负担达成协议。",
+        "prompt": "仅讨论本案案件受理费，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "本案调解结案，案件受理费减半交纳。",
+            "explanation": "调解结案属于法定减半交纳情形。"
+          },
+          {
+            "id": "b",
+            "text": "费用负担无法协商，就不得制作调解书。",
+            "explanation": "费用争议有法院决定的处理机制，不当然阻止调解结案。"
+          },
+          {
+            "id": "c",
+            "text": "调解成功便一律免交案件受理费。",
+            "explanation": "减半不等于免交。"
+          },
+          {
+            "id": "d",
+            "text": "双方未协商好费用负担，依法由人民法院决定。",
+            "explanation": "调解案件费用先由当事人协商，协商不成由法院决定。"
+          }
+        ],
+        "correctChoices": ["a", "d"],
+        "answer": "a,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、D。A项：调解结案属于法定减半交纳情形。 B项：费用争议有法院决定的处理机制，不当然阻止调解结案。 C项：减半不等于免交。 D项：调解案件费用先由当事人协商，协商不成由法院决定。",
+        "sources": [
+          "g8-main-civpro-detail-fee-mediation",
+          "g8-main-civpro-detail-fee-relief"
+        ]
+      }
+    },
+    {
+      "subject": "civil-procedure",
+      "parentTopicId": "civpro-detail-litigation-fees",
+      "chapterId": "CIVPRO-DETAIL-LITIGATION-FEES",
+      "exercise": {
+        "id": "g8-types-fee-mediation-indefinite",
+        "caseId": "g8-types-fee-mediation",
+        "relatedTopicIds": ["civpro-detail-litigation-fees"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "调解结案的诉讼费用（不定项）",
+        "facts": "甲向乙追索货款。法院按普通程序审理后，双方在法院主持下调解结案。依本案金额原应收取的案件受理费为2400元，尚未适用任何减半规则；双方没有就费用负担达成协议。",
+        "prompt": "依题设计算，并判断费用承担程序，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "不能仅以原告起诉为由，断言全部费用一定由甲承担。",
+            "explanation": "调解案件按协商或法院决定负担。"
+          },
+          {
+            "id": "b",
+            "text": "双方可协商费用负担，但未达成协议时法院仍须作出处理。",
+            "explanation": "费用负担有明确的后续决定机制。"
+          },
+          {
+            "id": "c",
+            "text": "本案应交案件受理费为1200元。",
+            "explanation": "2400元减半为1200元。"
+          },
+          {
+            "id": "d",
+            "text": "因为被告最初不同意付款，法定收费额必须翻倍。",
+            "explanation": "没有题设所称因抗辩而翻倍收费的规则。"
+          }
+        ],
+        "correctChoices": ["a", "b", "c"],
+        "answer": "a,b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、B、C。A项：调解案件按协商或法院决定负担。 B项：费用负担有明确的后续决定机制。 C项：2400元减半为1200元。 D项：没有题设所称因抗辩而翻倍收费的规则。",
+        "sources": [
+          "g8-main-civpro-detail-fee-mediation",
+          "g8-main-civpro-detail-fee-relief"
+        ]
+      }
+    },
+    {
+      "subject": "criminal-procedure",
+      "parentTopicId": "crimpro-g1-period-service",
+      "chapterId": "CRIMPRO-G1-PERIOD-SERVICE",
+      "exercise": {
+        "id": "g8-types-service-time-multiple",
+        "caseId": "g8-types-service-time",
+        "relatedTopicIds": ["crimpro-g1-period-service"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "上诉期与在途时间（多选）",
+        "facts": "一审刑事判决送达未被羁押的被告人甲。甲在判决书签收日当天问律师：“今天是否已算上诉期第一天？我若在法定期满前把上诉状交邮，会不会因为法院后来才收到而逾期？”只适用刑事诉讼法一般期间规则，不涉及节假日顺延。",
+        "prompt": "关于期间计算，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "一审判决的上诉期与一审裁定完全一样，均为五日。",
+            "explanation": "判决上诉期十日，裁定上诉期五日。"
+          },
+          {
+            "id": "b",
+            "text": "上诉期只从律师读完判决书时才开始计算。",
+            "explanation": "期间依法从收到判决书的第二日起计算，不以律师阅读为准。"
+          },
+          {
+            "id": "c",
+            "text": "上诉状在期满前已交邮的，不算过期。",
+            "explanation": "期间不包括路途上的时间，期满前交邮不算过期。"
+          },
+          {
+            "id": "d",
+            "text": "期间开始的时和日不算在期间以内。",
+            "explanation": "法定期间从起算时点后的单位开始计算。"
+          }
+        ],
+        "correctChoices": ["c", "d"],
+        "answer": "c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选C、D。A项：判决上诉期十日，裁定上诉期五日。 B项：期间依法从收到判决书的第二日起计算，不以律师阅读为准。 C项：期间不包括路途上的时间，期满前交邮不算过期。 D项：法定期间从起算时点后的单位开始计算。",
+        "sources": ["g8-main-crimpro-g1-period-service"]
+      }
+    },
+    {
+      "subject": "criminal-procedure",
+      "parentTopicId": "crimpro-g1-period-service",
+      "chapterId": "CRIMPRO-G1-PERIOD-SERVICE",
+      "exercise": {
+        "id": "g8-types-service-time-indefinite",
+        "caseId": "g8-types-service-time",
+        "relatedTopicIds": ["crimpro-g1-period-service"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "上诉期与在途时间（不定项）",
+        "facts": "一审刑事判决送达未被羁押的被告人甲。甲在判决书签收日当天问律师：“今天是否已算上诉期第一天？我若在法定期满前把上诉状交邮，会不会因为法院后来才收到而逾期？”只适用刑事诉讼法一般期间规则，不涉及节假日顺延。",
+        "prompt": "只考虑一审刑事判决的法定上诉期限，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "不服判决的上诉期限为五日。",
+            "explanation": "五日适用于裁定，不适用于判决。"
+          },
+          {
+            "id": "b",
+            "text": "不服判决的上诉期限为十日。",
+            "explanation": "刑事判决上诉期限为十日。"
+          },
+          {
+            "id": "c",
+            "text": "只要甲口头告诉朋友想上诉，期限就永久中止计算。",
+            "explanation": "告诉朋友不产生题设所称的期限中止效果。"
+          },
+          {
+            "id": "d",
+            "text": "所有刑事上诉期限都可由当事人自行约定。",
+            "explanation": "这是法定期限。"
+          }
+        ],
+        "correctChoices": ["b"],
+        "answer": "b",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B。A项：五日适用于裁定，不适用于判决。 B项：刑事判决上诉期限为十日。 C项：告诉朋友不产生题设所称的期限中止效果。 D项：这是法定期限。",
+        "sources": ["g8-main-crimpro-g1-period-service"]
+      }
+    },
+    {
+      "subject": "criminal-procedure",
+      "parentTopicId": "crimpro-g1-appeal-right",
+      "chapterId": "CRIMPRO-G1-APPEAL-RIGHT",
+      "exercise": {
+        "id": "g8-types-appeal-participants-multiple",
+        "caseId": "g8-types-appeal-participants",
+        "relatedTopicIds": ["crimpro-g1-appeal-right"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "谁可以提出刑事上诉（多选）",
+        "facts": "人民检察院对甲提起公诉，甲因故意伤害被一审判刑。甲的成年姐姐乙、辩护律师丙和被害人丁都认为判决太轻或太重。甲明确告诉丙同意上诉；乙未得到甲同意。丁想推翻对甲的量刑；丁不是附带民事诉讼当事人。",
+        "prompt": "关于上诉与请求抗诉，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "丁可因不满量刑，直接以被害人身份行使刑事上诉权。",
+            "explanation": "公诉案件被害人可依法请求检察院抗诉，不能据此直接刑事上诉。"
+          },
+          {
+            "id": "b",
+            "text": "丙经甲同意，可以提出上诉。",
+            "explanation": "辩护人经被告人同意可以提出上诉。"
+          },
+          {
+            "id": "c",
+            "text": "甲可以用书状或者口头向上一级人民法院上诉。",
+            "explanation": "被告人有独立上诉权。"
+          },
+          {
+            "id": "d",
+            "text": "乙作为近亲属，无须甲同意就可代其上诉。",
+            "explanation": "近亲属提出上诉须经被告人同意。"
+          }
+        ],
+        "correctChoices": ["b", "c"],
+        "answer": "b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、C。A项：公诉案件被害人可依法请求检察院抗诉，不能据此直接刑事上诉。 B项：辩护人经被告人同意可以提出上诉。 C项：被告人有独立上诉权。 D项：近亲属提出上诉须经被告人同意。",
+        "sources": ["g8-main-crimpro-g1-appeal-right"]
+      }
+    },
+    {
+      "subject": "criminal-procedure",
+      "parentTopicId": "crimpro-g1-appeal-right",
+      "chapterId": "CRIMPRO-G1-APPEAL-RIGHT",
+      "exercise": {
+        "id": "g8-types-appeal-participants-indefinite",
+        "caseId": "g8-types-appeal-participants",
+        "relatedTopicIds": ["crimpro-g1-appeal-right"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "谁可以提出刑事上诉（不定项）",
+        "facts": "人民检察院对甲提起公诉，甲因故意伤害被一审判刑。甲的成年姐姐乙、辩护律师丙和被害人丁都认为判决太轻或太重。甲明确告诉丙同意上诉；乙未得到甲同意。丁想推翻对甲的量刑；丁不是附带民事诉讼当事人。",
+        "prompt": "若丁收到判决后希望检察院提出抗诉，且仍在法定五日期限内，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "丁可以请求人民检察院提出抗诉。",
+            "explanation": "被害人及其法定代理人收到判决书后五日内有请求权。"
+          },
+          {
+            "id": "b",
+            "text": "提出请求不等于检察院必然抗诉。",
+            "explanation": "是否抗诉由检察院依法审查决定。"
+          },
+          {
+            "id": "c",
+            "text": "请求人写了抗诉二字，就自动产生撤销一审判决的效力。",
+            "explanation": "请求抗诉不直接撤销判决。"
+          },
+          {
+            "id": "d",
+            "text": "检察院收到请求后，应在法定期限内决定是否抗诉并答复。",
+            "explanation": "收到请求后五日内作出决定并答复请求人。"
+          }
+        ],
+        "correctChoices": ["a", "b", "d"],
+        "answer": "a,b,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、B、D。A项：被害人及其法定代理人收到判决书后五日内有请求权。 B项：是否抗诉由检察院依法审查决定。 C项：请求抗诉不直接撤销判决。 D项：收到请求后五日内作出决定并答复请求人。",
+        "sources": ["g8-main-crimpro-g1-appeal-right"]
+      }
+    },
+    {
+      "subject": "administrative-law",
+      "parentTopicId": "admin-g4-license-material",
+      "chapterId": "ADMIN-G4-LICENSE-MATERIAL",
+      "exercise": {
+        "id": "g8-types-license-notice-multiple",
+        "caseId": "g8-types-license-notice",
+        "relatedTopicIds": ["admin-g4-license-material"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "窗口收件后的补正告知（多选）",
+        "facts": "甲向市主管部门申请一项行政许可，许可由该部门依法办理。窗口收件时材料缺少法定附件。工作人员既未当场告知补正，也未在五个工作日内告知；第八个工作日才要求甲补交，并称此前从未受理。另有工作人员要求甲购买指定书籍才肯收件。",
+        "prompt": "关于行政许可申请的办理，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "行政机关可以要求申请人购买指定书籍，作为收件条件。",
+            "explanation": "不得借行政许可要求购买指定商品或接受有偿服务。"
+          },
+          {
+            "id": "b",
+            "text": "材料不齐全，应当场或者在五个工作日内一次告知需要补正的全部内容。",
+            "explanation": "补正告知有期限及一次性要求。"
+          },
+          {
+            "id": "c",
+            "text": "只要附件有缺漏，机关就可无限期不处理申请。",
+            "explanation": "有法定补正和受理处理规则，不能无限搁置。"
+          },
+          {
+            "id": "d",
+            "text": "逾期不告知的，自收到申请材料之日起即为受理。",
+            "explanation": "本题已超过法定补正告知期限。"
+          }
+        ],
+        "correctChoices": ["b", "d"],
+        "answer": "b,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、D。A项：不得借行政许可要求购买指定商品或接受有偿服务。 B项：补正告知有期限及一次性要求。 C项：有法定补正和受理处理规则，不能无限搁置。 D项：本题已超过法定补正告知期限。",
+        "sources": ["g8-main-admin-g4-license-material"]
+      }
+    },
+    {
+      "subject": "administrative-law",
+      "parentTopicId": "admin-g4-license-material",
+      "chapterId": "ADMIN-G4-LICENSE-MATERIAL",
+      "exercise": {
+        "id": "g8-types-license-notice-indefinite",
+        "caseId": "g8-types-license-notice",
+        "relatedTopicIds": ["admin-g4-license-material"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "窗口收件后的补正告知（不定项）",
+        "facts": "甲向市主管部门申请一项行政许可，许可由该部门依法办理。窗口收件时材料缺少法定附件。工作人员既未当场告知补正，也未在五个工作日内告知；第八个工作日才要求甲补交，并称此前从未受理。另有工作人员要求甲购买指定书籍才肯收件。",
+        "prompt": "如果只是申请书上一处明显的日期笔误，能够当场更正，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "应允许申请人当场更正。",
+            "explanation": "行政许可法允许对可当场更正的错误当场更正。"
+          },
+          {
+            "id": "b",
+            "text": "可要求申请人先接受指定付费培训才更正。",
+            "explanation": "更正不以购买有偿服务为条件。"
+          },
+          {
+            "id": "c",
+            "text": "一律必须拒收并要求重新排队申请。",
+            "explanation": "不得以可当场更正的错误一律拒收。"
+          },
+          {
+            "id": "d",
+            "text": "笔误一经发现，甲永远不得再申请同一许可。",
+            "explanation": "没有此种永久排除申请资格的规定。"
+          }
+        ],
+        "correctChoices": ["a"],
+        "answer": "a",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A。A项：行政许可法允许对可当场更正的错误当场更正。 B项：更正不以购买有偿服务为条件。 C项：不得以可当场更正的错误一律拒收。 D项：没有此种永久排除申请资格的规定。",
+        "sources": ["g8-main-admin-g4-license-material"]
+      }
+    },
+    {
+      "subject": "administrative-law",
+      "parentTopicId": "admin-g4-force-subject",
+      "chapterId": "ADMIN-G4-FORCE-SUBJECT",
+      "exercise": {
+        "id": "g8-types-force-staff-multiple",
+        "caseId": "g8-types-force-staff",
+        "relatedTopicIds": ["admin-g4-force-subject"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "查封由谁实施（多选）",
+        "facts": "某行政机关依法有权对涉案设备实施查封。机关把现场查封全部交给受委托的商业公司，现场只有公司雇员；也未指派行政执法人员到场。负责人称公司效率高，可以代替执法人员。只讨论行政强制措施，不讨论行政强制执行。",
+        "prompt": "关于这次查封的实施主体，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "当事人签字同意后，任何人都可以代机关查封。",
+            "explanation": "同意不消除法定主体和资格要求。"
+          },
+          {
+            "id": "b",
+            "text": "商业公司只要收取服务费，就自动取得查封权。",
+            "explanation": "服务合同不能授予行政强制措施权。"
+          },
+          {
+            "id": "c",
+            "text": "行政强制措施权不得委托。",
+            "explanation": "不能把查封等行政强制措施权委托给商业公司行使。"
+          },
+          {
+            "id": "d",
+            "text": "行政强制措施应由具备资格的行政执法人员实施。",
+            "explanation": "其他人员不得实施行政强制措施。"
+          }
+        ],
+        "correctChoices": ["c", "d"],
+        "answer": "c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选C、D。A项：同意不消除法定主体和资格要求。 B项：服务合同不能授予行政强制措施权。 C项：不能把查封等行政强制措施权委托给商业公司行使。 D项：其他人员不得实施行政强制措施。",
+        "sources": ["g8-main-admin-g4-force-subject"]
+      }
+    },
+    {
+      "subject": "administrative-law",
+      "parentTopicId": "admin-g4-force-subject",
+      "chapterId": "ADMIN-G4-FORCE-SUBJECT",
+      "exercise": {
+        "id": "g8-types-force-staff-indefinite",
+        "caseId": "g8-types-force-staff",
+        "relatedTopicIds": ["admin-g4-force-subject"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "查封由谁实施（不定项）",
+        "facts": "某行政机关依法有权对涉案设备实施查封。机关把现场查封全部交给受委托的商业公司，现场只有公司雇员；也未指派行政执法人员到场。负责人称公司效率高，可以代替执法人员。只讨论行政强制措施，不讨论行政强制执行。",
+        "prompt": "若改由该机关两名具备资格的执法人员实施，并适用一般程序，下列哪些程序要求正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "到场执法人员应出示执法身份证件。",
+            "explanation": "身份出示属于法定实施程序。"
+          },
+          {
+            "id": "b",
+            "text": "既有两名执法人员，就不再需要制作现场笔录。",
+            "explanation": "人员数量符合要求不免除制作现场笔录的义务。"
+          },
+          {
+            "id": "c",
+            "text": "应告知当事人理由、依据以及依法享有的权利、救济途径。",
+            "explanation": "这些内容属于法定告知事项。"
+          },
+          {
+            "id": "d",
+            "text": "实施前须向行政机关负责人报告并经批准。",
+            "explanation": "一般程序须事先报告并经批准。"
+          }
+        ],
+        "correctChoices": ["a", "c", "d"],
+        "answer": "a,c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、C、D。A项：身份出示属于法定实施程序。 B项：人员数量符合要求不免除制作现场笔录的义务。 C项：这些内容属于法定告知事项。 D项：一般程序须事先报告并经批准。",
+        "sources": ["g8-main-admin-g4-force-subject"]
+      }
+    },
+    {
+      "subject": "commercial-law",
+      "parentTopicId": "commercial-g5-profit",
+      "chapterId": "COMMERCIAL-G5-PROFIT",
+      "exercise": {
+        "id": "g8-types-company-profit-multiple",
+        "caseId": "g8-types-company-profit",
+        "relatedTopicIds": ["commercial-g5-profit"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "先弥补亏损还是先分红（多选）",
+        "facts": "甲有限公司年初仍有未弥补亏损。年末核算税后利润30万元；其法定公积金尚不足以弥补旧亏损。股东会准备把这30万元全部立即分给股东，称待来年再处理亏损和公积金。",
+        "prompt": "关于利润分配顺序，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "只要账面出现收入，便全部属于可分配利润。",
+            "explanation": "收入不等于依法可分配的税后利润。"
+          },
+          {
+            "id": "b",
+            "text": "法定公积金不足弥补以前年度亏损时，应先用当年利润弥补亏损。",
+            "explanation": "不能先把用于弥补亏损的利润分掉。"
+          },
+          {
+            "id": "c",
+            "text": "公司须依法处理亏损、提取公积金，再分配剩余税后利润。",
+            "explanation": "利润分配受法定顺序约束。"
+          },
+          {
+            "id": "d",
+            "text": "股东全体同意即可使违法分配利润合法化。",
+            "explanation": "一致同意不能取消法律对弥补亏损和法定公积金的要求。"
+          }
+        ],
+        "correctChoices": ["b", "c"],
+        "answer": "b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、C。A项：收入不等于依法可分配的税后利润。 B项：不能先把用于弥补亏损的利润分掉。 C项：利润分配受法定顺序约束。 D项：一致同意不能取消法律对弥补亏损和法定公积金的要求。",
+        "sources": ["g8-main-commercial-g5-profit"]
+      }
+    },
+    {
+      "subject": "commercial-law",
+      "parentTopicId": "commercial-g5-profit",
+      "chapterId": "COMMERCIAL-G5-PROFIT",
+      "exercise": {
+        "id": "g8-types-company-profit-indefinite",
+        "caseId": "g8-types-company-profit",
+        "relatedTopicIds": ["commercial-g5-profit"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "先弥补亏损还是先分红（不定项）",
+        "facts": "甲有限公司年初仍有未弥补亏损。年末核算税后利润30万元；其法定公积金尚不足以弥补旧亏损。股东会准备把这30万元全部立即分给股东，称待来年再处理亏损和公积金。",
+        "prompt": "若公司违反公司法向股东分配利润，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "违法分配只能影响税收，与股东责任完全无关。",
+            "explanation": "违法分配涉及返还及可能的赔偿责任。"
+          },
+          {
+            "id": "b",
+            "text": "股东收款后，无论分配是否合法均不必退还。",
+            "explanation": "公司法明确规定返还义务。"
+          },
+          {
+            "id": "c",
+            "text": "公司后来经营盈利，就当然免除先前违法分配的返还义务。",
+            "explanation": "后来的盈利不当然使先前违法分配合法。"
+          },
+          {
+            "id": "d",
+            "text": "股东应将违反规定分配的利润退还公司。",
+            "explanation": "违法分配利润依法应返还。"
+          }
+        ],
+        "correctChoices": ["d"],
+        "answer": "d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选D。A项：违法分配涉及返还及可能的赔偿责任。 B项：公司法明确规定返还义务。 C项：后来的盈利不当然使先前违法分配合法。 D项：违法分配利润依法应返还。",
+        "sources": ["g8-main-commercial-g5-profit"]
+      }
+    },
+    {
+      "subject": "commercial-law",
+      "parentTopicId": "commercial-g5-partner-liability",
+      "chapterId": "COMMERCIAL-G5-PARTNER-LIABILITY",
+      "exercise": {
+        "id": "g8-types-partnership-debt-multiple",
+        "caseId": "g8-types-partnership-debt",
+        "relatedTopicIds": ["commercial-g5-partner-liability"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "普通合伙的到期债务（多选）",
+        "facts": "甲、乙是普通合伙企业的两名合伙人。企业欠丙货款20万元，到期后企业财产只够清偿8万元。合伙协议写明甲、乙内部各承担一半；丙要求乙清偿剩余12万元。",
+        "prompt": "关于对外清偿，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "应先以合伙企业财产清偿企业债务。",
+            "explanation": "合伙企业债务先由企业财产清偿。"
+          },
+          {
+            "id": "b",
+            "text": "普通合伙人最多只以出资额承担责任。",
+            "explanation": "这是把普通合伙人的责任混同为有限责任。"
+          },
+          {
+            "id": "c",
+            "text": "内部各半约定当然使丙只能向乙请求6万元。",
+            "explanation": "内部比例不能对抗债权人的连带清偿请求。"
+          },
+          {
+            "id": "d",
+            "text": "企业财产不足清偿时，甲、乙依法承担无限连带责任。",
+            "explanation": "普通合伙人对不足清偿部分承担无限连带责任。"
+          }
+        ],
+        "correctChoices": ["a", "d"],
+        "answer": "a,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、D。A项：合伙企业债务先由企业财产清偿。 B项：这是把普通合伙人的责任混同为有限责任。 C项：内部比例不能对抗债权人的连带清偿请求。 D项：普通合伙人对不足清偿部分承担无限连带责任。",
+        "sources": ["g8-main-commercial-g5-partner-liability"]
+      }
+    },
+    {
+      "subject": "commercial-law",
+      "parentTopicId": "commercial-g5-partner-liability",
+      "chapterId": "COMMERCIAL-G5-PARTNER-LIABILITY",
+      "exercise": {
+        "id": "g8-types-partnership-debt-indefinite",
+        "caseId": "g8-types-partnership-debt",
+        "relatedTopicIds": ["commercial-g5-partner-liability"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "普通合伙的到期债务（不定项）",
+        "facts": "甲、乙是普通合伙企业的两名合伙人。企业欠丙货款20万元，到期后企业财产只够清偿8万元。合伙协议写明甲、乙内部各承担一半；丙要求乙清偿剩余12万元。",
+        "prompt": "乙以个人财产向丙清偿剩余12万元后，甲、乙内部也无其他争议。下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "依各半约定，乙可就超出自己份额的6万元向甲追偿。",
+            "explanation": "剩余12万元按内部比例各6万元。"
+          },
+          {
+            "id": "b",
+            "text": "内部追偿与债权人对外请求属于不同层次的问题。",
+            "explanation": "内部份额不改变对外无限连带责任。"
+          },
+          {
+            "id": "c",
+            "text": "乙对外清偿不消灭其依法向甲追偿的可能。",
+            "explanation": "对外承担超出内部份额的部分，可以追偿。"
+          },
+          {
+            "id": "d",
+            "text": "乙已清偿就只能自己最终承担12万元，任何内部约定均无意义。",
+            "explanation": "法律保留合伙人之间的追偿。"
+          }
+        ],
+        "correctChoices": ["a", "b", "c"],
+        "answer": "a,b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、B、C。A项：剩余12万元按内部比例各6万元。 B项：内部份额不改变对外无限连带责任。 C项：对外承担超出内部份额的部分，可以追偿。 D项：法律保留合伙人之间的追偿。",
+        "sources": ["g8-main-commercial-g5-partner-liability"]
+      }
+    },
+    {
+      "subject": "theory-law",
+      "parentTopicId": "remaining-g6-law-hierarchy",
+      "chapterId": "REMAINING-G6-LAW-HIERARCHY",
+      "exercise": {
+        "id": "g8-types-hierarchy-rules-multiple",
+        "caseId": "g8-types-hierarchy-rules",
+        "relatedTopicIds": ["remaining-g6-law-hierarchy"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "同一机关的新旧规范（多选）",
+        "facts": "全国人大常委会先制定一部法律，对某类交易设专门规则；后又制定一部一般法律，其相关规定与原专门规则不一致。两部均为法律，没有明确衔接条款，无法确定如何适用。某地政府另发布规章，直接免除上位法律明确规定的一项义务，本题不存在授权变通。",
+        "prompt": "关于规范效力，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "地方政府规章可因更贴近本地情况而直接排除上位法律。",
+            "explanation": "没有授权变通时，规章不得抵触法律。"
+          },
+          {
+            "id": "b",
+            "text": "凡名称含有规定二字，效力就一定高于法律。",
+            "explanation": "效力要看制定主体和法定层级，不能只看名称。"
+          },
+          {
+            "id": "c",
+            "text": "无法确定如何适用这两部法律时，由全国人大常委会裁决。",
+            "explanation": "法律之间此类冲突依法由全国人大常委会裁决。"
+          },
+          {
+            "id": "d",
+            "text": "不能只凭一般法律制定较晚，就断言旧特别规定一律失效。",
+            "explanation": "新一般与旧特别不一致且不能确定适用时，有专门裁决机制。"
+          }
+        ],
+        "correctChoices": ["c", "d"],
+        "answer": "c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选C、D。A项：没有授权变通时，规章不得抵触法律。 B项：效力要看制定主体和法定层级，不能只看名称。 C项：法律之间此类冲突依法由全国人大常委会裁决。 D项：新一般与旧特别不一致且不能确定适用时，有专门裁决机制。",
+        "sources": ["g8-main-remaining-g6-law-hierarchy"]
+      }
+    },
+    {
+      "subject": "theory-law",
+      "parentTopicId": "remaining-g6-law-hierarchy",
+      "chapterId": "REMAINING-G6-LAW-HIERARCHY",
+      "exercise": {
+        "id": "g8-types-hierarchy-rules-indefinite",
+        "caseId": "g8-types-hierarchy-rules",
+        "relatedTopicIds": ["remaining-g6-law-hierarchy"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "同一机关的新旧规范（不定项）",
+        "facts": "全国人大常委会先制定一部法律，对某类交易设专门规则；后又制定一部一般法律，其相关规定与原专门规则不一致。两部均为法律，没有明确衔接条款，无法确定如何适用。某地政府另发布规章，直接免除上位法律明确规定的一项义务，本题不存在授权变通。",
+        "prompt": "只讨论该地方政府规章与法律的关系，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "规章只要发布时间晚，就必然高于法律。",
+            "explanation": "跨层级不能机械适用新法优先。"
+          },
+          {
+            "id": "b",
+            "text": "法律的效力高于该地方政府规章。",
+            "explanation": "法律效力高于规章。"
+          },
+          {
+            "id": "c",
+            "text": "地方政府可以自行宣布全国性法律在当地永久失效。",
+            "explanation": "没有此种单方排除法律的权限。"
+          },
+          {
+            "id": "d",
+            "text": "规章经内部会议一致通过，就取得与法律相同效力。",
+            "explanation": "内部表决不改变规范层级。"
+          }
+        ],
+        "correctChoices": ["b"],
+        "answer": "b",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B。A项：跨层级不能机械适用新法优先。 B项：法律效力高于规章。 C项：没有此种单方排除法律的权限。 D项：内部表决不改变规范层级。",
+        "sources": ["g8-main-remaining-g6-law-hierarchy"]
+      }
+    },
+    {
+      "subject": "theory-law",
+      "parentTopicId": "remaining-g6-law-time",
+      "chapterId": "REMAINING-G6-LAW-TIME",
+      "exercise": {
+        "id": "g8-types-temporal-rule-multiple",
+        "caseId": "g8-types-temporal-rule",
+        "relatedTopicIds": ["remaining-g6-law-time"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "新规则怎样作用于旧事实（多选）",
+        "facts": "本题使用假定规范：旧规允许商户某类经营安排，新法自十月一日起禁止。甲的相关经营在九月三十日前已全部结束。新法没有溯及既往或过渡条款；本题也没有其他特别适用规则。机关准备仅凭十月的新法处罚甲九月的行为。",
+        "prompt": "依立法法的一般时间效力规则，下列哪些判断正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "只要新法更严，就必须追溯适用。",
+            "explanation": "更严不是立法法一般溯及规则的依据。"
+          },
+          {
+            "id": "b",
+            "text": "是否存在依法作出的特别溯及规定，会影响分析。",
+            "explanation": "为更好保护权利利益而作的特别规定，法律另有安排。"
+          },
+          {
+            "id": "c",
+            "text": "不能仅因十月才处理，就当然以新法否定已结束的九月行为。",
+            "explanation": "一般不溯及既往，处理时间不等于行为适用新法的根据。"
+          },
+          {
+            "id": "d",
+            "text": "所有新法都可以自动追溯到任何过去事实。",
+            "explanation": "一般不溯及既往。"
+          }
+        ],
+        "correctChoices": ["b", "c"],
+        "answer": "b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、C。A项：更严不是立法法一般溯及规则的依据。 B项：为更好保护权利利益而作的特别规定，法律另有安排。 C项：一般不溯及既往，处理时间不等于行为适用新法的根据。 D项：一般不溯及既往。",
+        "sources": ["g8-main-remaining-g6-law-time"]
+      }
+    },
+    {
+      "subject": "theory-law",
+      "parentTopicId": "remaining-g6-law-time",
+      "chapterId": "REMAINING-G6-LAW-TIME",
+      "exercise": {
+        "id": "g8-types-temporal-rule-indefinite",
+        "caseId": "g8-types-temporal-rule",
+        "relatedTopicIds": ["remaining-g6-law-time"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "新规则怎样作用于旧事实（不定项）",
+        "facts": "本题使用假定规范：旧规允许商户某类经营安排，新法自十月一日起禁止。甲的相关经营在九月三十日前已全部结束。新法没有溯及既往或过渡条款；本题也没有其他特别适用规则。机关准备仅凭十月的新法处罚甲九月的行为。",
+        "prompt": "若新法另有明确条款，为更好保护公民、法人和其他组织权利利益，对特定旧事实作特别规定，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "应先核对该特别规定是否适用于本次旧事实。",
+            "explanation": "须看具体适用对象和范围。"
+          },
+          {
+            "id": "b",
+            "text": "也不能将一项有限例外扩大到所有旧事实。",
+            "explanation": "例外按法定范围适用。"
+          },
+          {
+            "id": "c",
+            "text": "只要存在一项例外，所有其他法律都自动溯及既往。",
+            "explanation": "个别特别规定不改变其他规则的一般适用。"
+          },
+          {
+            "id": "d",
+            "text": "不能把一般不溯及既往理解为绝无任何法定例外。",
+            "explanation": "立法法明定有利保护权利的特别规定例外。"
+          }
+        ],
+        "correctChoices": ["a", "b", "d"],
+        "answer": "a,b,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、B、D。A项：须看具体适用对象和范围。 B项：例外按法定范围适用。 C项：个别特别规定不改变其他规则的一般适用。 D项：立法法明定有利保护权利的特别规定例外。",
+        "sources": ["g8-main-remaining-g6-law-time"]
+      }
+    },
+    {
+      "subject": "legal-profession",
+      "parentTopicId": "remaining-g6-lawyer-duty",
+      "chapterId": "REMAINING-G6-LAWYER-DUTY",
+      "exercise": {
+        "id": "g8-types-lawyer-client-multiple",
+        "caseId": "g8-types-lawyer-client",
+        "relatedTopicIds": ["remaining-g6-lawyer-duty"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "委托之外的接案与保密（多选）",
+        "facts": "律师甲通过任职律所接受乙的合同纠纷委托。对方丙私下提出另付报酬，请甲同时为其处理同一纠纷。甲还收到自媒体邀约，希望其公开乙在咨询中透露的经营秘密。乙没有同意公开，且本题不涉及法定保密例外。",
+        "prompt": "关于甲的执业行为，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "只要自媒体付费，甲就可以公开乙的经营秘密。",
+            "explanation": "获取报酬不能解除保密义务。"
+          },
+          {
+            "id": "b",
+            "text": "甲不得在同一案件中同时为乙、丙担任代理人。",
+            "explanation": "律师不得在同一案件中为双方当事人担任代理人。"
+          },
+          {
+            "id": "c",
+            "text": "甲可以绕开律所私自接受丙的委托并收取报酬。",
+            "explanation": "律师不得私自接受委托、收取费用。"
+          },
+          {
+            "id": "d",
+            "text": "甲对乙的经营秘密负保密义务。",
+            "explanation": "执业中知悉的商业秘密依法应保密。"
+          }
+        ],
+        "correctChoices": ["b", "d"],
+        "answer": "b,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、D。A项：获取报酬不能解除保密义务。 B项：律师不得在同一案件中为双方当事人担任代理人。 C项：律师不得私自接受委托、收取费用。 D项：执业中知悉的商业秘密依法应保密。",
+        "sources": ["g8-main-remaining-g6-lawyer-duty"]
+      }
+    },
+    {
+      "subject": "legal-profession",
+      "parentTopicId": "remaining-g6-lawyer-duty",
+      "chapterId": "REMAINING-G6-LAWYER-DUTY",
+      "exercise": {
+        "id": "g8-types-lawyer-client-indefinite",
+        "caseId": "g8-types-lawyer-client",
+        "relatedTopicIds": ["remaining-g6-lawyer-duty"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "委托之外的接案与保密（不定项）",
+        "facts": "律师甲通过任职律所接受乙的合同纠纷委托。对方丙私下提出另付报酬，请甲同时为其处理同一纠纷。甲还收到自媒体邀约，希望其公开乙在咨询中透露的经营秘密。乙没有同意公开，且本题不涉及法定保密例外。",
+        "prompt": "另有案件的委托人要求甲“帮忙补一份假的收据”，甲尚未制作。关于该请求，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "甲应拒绝伪造证据，不能把委托人的要求当作免责理由。",
+            "explanation": "律师不得提供虚假证据或帮助伪造证据。"
+          },
+          {
+            "id": "b",
+            "text": "只要最终没有被法院采信，伪造行为就变成合法执业。",
+            "explanation": "是否采信不改变伪造证据的违法性质。"
+          },
+          {
+            "id": "c",
+            "text": "委托人签免责书后就可伪造。",
+            "explanation": "双方约定不能使伪造证据合法。"
+          },
+          {
+            "id": "d",
+            "text": "律师为争取胜诉可以自行决定制造事实材料。",
+            "explanation": "代理活动必须遵守事实和法律边界。"
+          }
+        ],
+        "correctChoices": ["a"],
+        "answer": "a",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A。A项：律师不得提供虚假证据或帮助伪造证据。 B项：是否采信不改变伪造证据的违法性质。 C项：双方约定不能使伪造证据合法。 D项：代理活动必须遵守事实和法律边界。",
+        "sources": ["g8-main-remaining-g6-lawyer-duty"]
+      }
+    },
+    {
+      "subject": "legal-profession",
+      "parentTopicId": "remaining-g6-juror-voting",
+      "chapterId": "REMAINING-G6-JUROR-VOTING",
+      "exercise": {
+        "id": "g8-types-juror-seven-multiple",
+        "caseId": "g8-types-juror-seven",
+        "relatedTopicIds": ["remaining-g6-juror-voting"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "七人合议庭怎样表决（多选）",
+        "facts": "一起依法由七人合议庭审理的案件，有三名法官和四名人民陪审员。评议时需要分别确定关键事实是否发生，以及已经查明的事实应当适用何种法律。",
+        "prompt": "关于人民陪审员的参与权限，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "人民陪审员应先私下询问院外人员该如何投票，再服从其意见。",
+            "explanation": "陪审职责须依法独立履行，不能以院外指令代替评议。"
+          },
+          {
+            "id": "b",
+            "text": "人民陪审员只能旁听，不能参与事实表决。",
+            "explanation": "法律明确赋予事实认定表决权。"
+          },
+          {
+            "id": "c",
+            "text": "人民陪审员对事实认定与法官共同表决。",
+            "explanation": "七人合议庭中，陪审员对事实认定独立发表意见并共同表决。"
+          },
+          {
+            "id": "d",
+            "text": "人民陪审员可对法律适用发表意见，但不参加该部分表决。",
+            "explanation": "七人合议庭对法律适用不参加表决。"
+          }
+        ],
+        "correctChoices": ["c", "d"],
+        "answer": "c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选C、D。A项：陪审职责须依法独立履行，不能以院外指令代替评议。 B项：法律明确赋予事实认定表决权。 C项：七人合议庭中，陪审员对事实认定独立发表意见并共同表决。 D项：七人合议庭对法律适用不参加表决。",
+        "sources": ["g8-main-remaining-g6-juror-voting"]
+      }
+    },
+    {
+      "subject": "legal-profession",
+      "parentTopicId": "remaining-g6-juror-voting",
+      "chapterId": "REMAINING-G6-JUROR-VOTING",
+      "exercise": {
+        "id": "g8-types-juror-seven-indefinite",
+        "caseId": "g8-types-juror-seven",
+        "relatedTopicIds": ["remaining-g6-juror-voting"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "七人合议庭怎样表决（不定项）",
+        "facts": "一起依法由七人合议庭审理的案件，有三名法官和四名人民陪审员。评议时需要分别确定关键事实是否发生，以及已经查明的事实应当适用何种法律。",
+        "prompt": "若改为由一名法官、两名人民陪审员组成三人合议庭，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "人民陪审员对法律适用也独立发表意见并参加表决。",
+            "explanation": "与七人庭不同，三人庭陪审员对法律适用参加表决。"
+          },
+          {
+            "id": "b",
+            "text": "只要有法官在场，陪审员依法就永远没有表决权。",
+            "explanation": "陪审员依法享有相应表决权。"
+          },
+          {
+            "id": "c",
+            "text": "不能把七人庭对法律适用的表决限制机械套到三人庭。",
+            "explanation": "法定参与范围依合议庭组成分别规定。"
+          },
+          {
+            "id": "d",
+            "text": "人民陪审员对事实认定独立发表意见并参加表决。",
+            "explanation": "三人合议庭的事实认定参与表决。"
+          }
+        ],
+        "correctChoices": ["a", "c", "d"],
+        "answer": "a,c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、C、D。A项：与七人庭不同，三人庭陪审员对法律适用参加表决。 B项：陪审员依法享有相应表决权。 C项：法定参与范围依合议庭组成分别规定。 D项：三人合议庭的事实认定参与表决。",
+        "sources": ["g8-main-remaining-g6-juror-voting"]
+      }
+    },
+    {
+      "subject": "international-law",
+      "parentTopicId": "remaining-g6-state-immunity",
+      "chapterId": "REMAINING-G6-STATE-IMMUNITY",
+      "exercise": {
+        "id": "g8-types-state-business-multiple",
+        "caseId": "g8-types-state-business",
+        "relatedTopicIds": ["remaining-g6-state-immunity"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "外国国家的商业交易（多选）",
+        "facts": "外国甲国的政府部门（本题明确为该国国家机关）以采购方身份，按市场条件向中国乙公司购买一批普通办公家具，交易约定交货地在中国。货物交付后发生价款争议，乙在中国法院起诉。题设已确认这是一项商业交易，诉讼也由该交易引起；双方没有另作享有豁免的明确约定。",
+        "prompt": "仅讨论本案管辖豁免，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "不享有管辖豁免，就等于所有国家财产都可立即被执行。",
+            "explanation": "管辖豁免与司法强制措施豁免须分别判断。"
+          },
+          {
+            "id": "b",
+            "text": "外国国家原则上享有管辖豁免，但法律规定了例外。",
+            "explanation": "我国外国国家豁免法采取有法定例外的制度。"
+          },
+          {
+            "id": "c",
+            "text": "题设商业活动发生在中国，因该活动产生的诉讼适用商业活动例外。",
+            "explanation": "符合本法商业活动例外条件，不享有管辖豁免。"
+          },
+          {
+            "id": "d",
+            "text": "一切以国家名义订立的商业合同都绝对不得由中国法院审理。",
+            "explanation": "国家身份不当然排除商业活动例外。"
+          }
+        ],
+        "correctChoices": ["b", "c"],
+        "answer": "b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、C。A项：管辖豁免与司法强制措施豁免须分别判断。 B项：我国外国国家豁免法采取有法定例外的制度。 C项：符合本法商业活动例外条件，不享有管辖豁免。 D项：国家身份不当然排除商业活动例外。",
+        "sources": ["g8-main-remaining-g6-state-immunity"]
+      }
+    },
+    {
+      "subject": "international-law",
+      "parentTopicId": "remaining-g6-state-immunity",
+      "chapterId": "REMAINING-G6-STATE-IMMUNITY",
+      "exercise": {
+        "id": "g8-types-state-business-indefinite",
+        "caseId": "g8-types-state-business",
+        "relatedTopicIds": ["remaining-g6-state-immunity"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "外国国家的商业交易（不定项）",
+        "facts": "外国甲国的政府部门（本题明确为该国国家机关）以采购方身份，按市场条件向中国乙公司购买一批普通办公家具，交易约定交货地在中国。货物交付后发生价款争议，乙在中国法院起诉。题设已确认这是一项商业交易，诉讼也由该交易引起；双方没有另作享有豁免的明确约定。",
+        "prompt": "外国甲国另主动向中国法院提起一宗合同诉讼。只看甲国自行起诉对该诉讼管辖豁免的影响，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "起诉当然意味着其在世界上全部财产永久放弃执行豁免。",
+            "explanation": "起诉的管辖效果不能扩大为一切财产的永久执行豁免。"
+          },
+          {
+            "id": "b",
+            "text": "甲国可在取得不利结果后，仅凭国家身份推翻其已接受管辖的效果。",
+            "explanation": "不能以此任意撤回已接受的相应管辖。"
+          },
+          {
+            "id": "c",
+            "text": "外国国家只有签独立文件才能接受管辖，起诉没有任何效力。",
+            "explanation": "本法规定了起诉等依法视为接受管辖的情形。"
+          },
+          {
+            "id": "d",
+            "text": "甲国自行作为原告起诉，属于依法接受该案管辖的情形。",
+            "explanation": "外国国家作为原告提起诉讼，视为接受相关管辖。"
+          }
+        ],
+        "correctChoices": ["d"],
+        "answer": "d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选D。A项：起诉的管辖效果不能扩大为一切财产的永久执行豁免。 B项：不能以此任意撤回已接受的相应管辖。 C项：本法规定了起诉等依法视为接受管辖的情形。 D项：外国国家作为原告提起诉讼，视为接受相关管辖。",
+        "sources": ["g8-main-remaining-g6-state-immunity"]
+      }
+    },
+    {
+      "subject": "international-law",
+      "parentTopicId": "remaining-g6-choice-mandatory",
+      "chapterId": "REMAINING-G6-CHOICE-MANDATORY",
+      "exercise": {
+        "id": "g8-types-choice-law-multiple",
+        "caseId": "g8-types-choice-law",
+        "relatedTopicIds": ["remaining-g6-choice-mandatory"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "涉外合同选法的边界（多选）",
+        "facts": "中国甲公司与外国乙公司签订涉外服务合同，在合同中明确选择外国A国实体法。履行中涉及中国法律的一项强制性规定；题设已经确认该规定属于法律适用法第4条应直接适用的强制性规定。",
+        "prompt": "关于法律适用，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "当事人可依法律规定明示选择涉外民事关系适用的法律。",
+            "explanation": "选法须依法律规定并明示作出。"
+          },
+          {
+            "id": "b",
+            "text": "适用外国法时，必须把外国冲突规范也一并适用。",
+            "explanation": "我国法律适用法规定适用外国法不包括该国法律适用法。"
+          },
+          {
+            "id": "c",
+            "text": "选择外国法后，中国任何强制性规定都绝对不得适用。",
+            "explanation": "不能排除依法直接适用的强制性规定。"
+          },
+          {
+            "id": "d",
+            "text": "题设中国强制性规定应直接适用，不因选法条款排除。",
+            "explanation": "第4条规定直接适用的强制性规范优先。"
+          }
+        ],
+        "correctChoices": ["a", "d"],
+        "answer": "a,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、D。A项：选法须依法律规定并明示作出。 B项：我国法律适用法规定适用外国法不包括该国法律适用法。 C项：不能排除依法直接适用的强制性规定。 D项：第4条规定直接适用的强制性规范优先。",
+        "sources": [
+          "g8-main-remaining-g6-choice-mandatory",
+          "g8-main-remaining-g6-choice-mandatory-interpretation"
+        ]
+      }
+    },
+    {
+      "subject": "international-law",
+      "parentTopicId": "remaining-g6-choice-mandatory",
+      "chapterId": "REMAINING-G6-CHOICE-MANDATORY",
+      "exercise": {
+        "id": "g8-types-choice-law-indefinite",
+        "caseId": "g8-types-choice-law",
+        "relatedTopicIds": ["remaining-g6-choice-mandatory"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "涉外合同选法的边界（不定项）",
+        "facts": "中国甲公司与外国乙公司签订涉外服务合同，在合同中明确选择外国A国实体法。履行中涉及中国法律的一项强制性规定；题设已经确认该规定属于法律适用法第4条应直接适用的强制性规定。",
+        "prompt": "在其他事实不变的前提下，关于选法条款的效力范围，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "不能仅因选了外国法，就把该国冲突规则引入并自动转致另一国。",
+            "explanation": "适用外国法不包括其冲突规范。"
+          },
+          {
+            "id": "b",
+            "text": "依法应适用的中国强制性规定仍在本案发挥作用。",
+            "explanation": "题设已经明确属于第4条直接适用的规定。"
+          },
+          {
+            "id": "c",
+            "text": "它不能替代对中国直接适用的强制性规定的审查。",
+            "explanation": "选法自由受法定边界限制。"
+          },
+          {
+            "id": "d",
+            "text": "选法条款必然使全部合同无效，不必再看条款与争议内容。",
+            "explanation": "选择外国实体法本身不是合同无效的当然原因。"
+          }
+        ],
+        "correctChoices": ["a", "b", "c"],
+        "answer": "a,b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、B、C。A项：适用外国法不包括其冲突规范。 B项：题设已经明确属于第4条直接适用的规定。 C项：选法自由受法定边界限制。 D项：选择外国实体法本身不是合同无效的当然原因。",
+        "sources": [
+          "g8-main-remaining-g6-choice-mandatory",
+          "g8-main-remaining-g6-choice-mandatory-interpretation"
+        ]
+      }
+    },
+    {
+      "subject": "intellectual-property",
+      "parentTopicId": "remaining-g6-copyright-ownership",
+      "chapterId": "REMAINING-G6-COPYRIGHT-OWNERSHIP",
+      "exercise": {
+        "id": "g8-types-commission-work-multiple",
+        "caseId": "g8-types-commission-work",
+        "relatedTopicIds": ["remaining-g6-copyright-ownership"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "插画委托与画稿原件（多选）",
+        "facts": "乙公司委托自由插画师甲创作一幅插画，甲独立完成创作。双方没有约定著作权归属，也不是职务作品。乙支付报酬并取得手绘原件。乙认为已经买到原件，便可以自行授权他人批量印制插画商品。",
+        "prompt": "关于权利归属，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "支付创作报酬就必然取得全部著作权。",
+            "explanation": "付款不能替代明确的著作权归属约定。"
+          },
+          {
+            "id": "b",
+            "text": "受托作者从未享有作品著作权。",
+            "explanation": "本题无归属约定，著作权依法归受托人。"
+          },
+          {
+            "id": "c",
+            "text": "手绘原件所有权转移，不当然改变作品著作权归属。",
+            "explanation": "作品原件物权与著作权分属不同权利。"
+          },
+          {
+            "id": "d",
+            "text": "没有明确约定的委托作品，著作权归受托创作的甲。",
+            "explanation": "委托作品没有约定或约定不明，著作权属于受托人。"
+          }
+        ],
+        "correctChoices": ["c", "d"],
+        "answer": "c,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选C、D。A项：付款不能替代明确的著作权归属约定。 B项：本题无归属约定，著作权依法归受托人。 C项：作品原件物权与著作权分属不同权利。 D项：委托作品没有约定或约定不明，著作权属于受托人。",
+        "sources": ["g8-main-remaining-g6-copyright-ownership"]
+      }
+    },
+    {
+      "subject": "intellectual-property",
+      "parentTopicId": "remaining-g6-copyright-ownership",
+      "chapterId": "REMAINING-G6-COPYRIGHT-OWNERSHIP",
+      "exercise": {
+        "id": "g8-types-commission-work-indefinite",
+        "caseId": "g8-types-commission-work",
+        "relatedTopicIds": ["remaining-g6-copyright-ownership"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "插画委托与画稿原件（不定项）",
+        "facts": "乙公司委托自由插画师甲创作一幅插画，甲独立完成创作。双方没有约定著作权归属，也不是职务作品。乙支付报酬并取得手绘原件。乙认为已经买到原件，便可以自行授权他人批量印制插画商品。",
+        "prompt": "只讨论乙是否仅凭取得原件就能授权第三人批量复制商品，不讨论法律另有规定的原件展览权，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "只要把商品上的作者名字去掉，就可以任意复制。",
+            "explanation": "删除署名不产生复制许可。"
+          },
+          {
+            "id": "b",
+            "text": "不能仅凭持有原件，就认定乙已取得授权复制作品的权利。",
+            "explanation": "原件所有权不当然包含著作权中的复制授权权能。"
+          },
+          {
+            "id": "c",
+            "text": "既然是定制作品，乙可在任何范围无限转授权。",
+            "explanation": "委托关系不当然授予无限制商业转授权。"
+          },
+          {
+            "id": "d",
+            "text": "只要第三人不知道甲是谁，就不需要著作权授权。",
+            "explanation": "不了解作者身份不等于取得复制权。"
+          }
+        ],
+        "correctChoices": ["b"],
+        "answer": "b",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B。A项：删除署名不产生复制许可。 B项：原件所有权不当然包含著作权中的复制授权权能。 C项：委托关系不当然授予无限制商业转授权。 D项：不了解作者身份不等于取得复制权。",
+        "sources": ["g8-main-remaining-g6-copyright-ownership"]
+      }
+    },
+    {
+      "subject": "intellectual-property",
+      "parentTopicId": "remaining-g6-patent-duty",
+      "chapterId": "REMAINING-G6-PATENT-DUTY",
+      "exercise": {
+        "id": "g8-types-employee-invention-multiple",
+        "caseId": "g8-types-employee-invention",
+        "relatedTopicIds": ["remaining-g6-patent-duty"],
+        "kind": "objective",
+        "choiceMode": "multiple",
+        "title": "工作任务中的发明（多选）",
+        "facts": "工程师甲按所在公司明确分配的研发任务，利用公司实验设备完成一项技术发明。双方没有改变申请权归属的特别约定。公司准备申请专利，主管却主张只能写主管本人为发明人，因为其负责审批经费。主管未参与任何创造性技术工作。",
+        "prompt": "关于职务发明，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "职务发明的申请权一定属于甲个人，与其承担的任务无关。",
+            "explanation": "题设属于职务发明，申请权归单位。"
+          },
+          {
+            "id": "b",
+            "text": "甲作为实际发明人享有在专利文件中写明自己为发明人的权利。",
+            "explanation": "职务发明不取消实际发明人的署名权。"
+          },
+          {
+            "id": "c",
+            "text": "执行本单位任务完成的本项发明，申请专利的权利依法属于单位。",
+            "explanation": "属于执行本单位任务所完成的职务发明创造。"
+          },
+          {
+            "id": "d",
+            "text": "主管只凭审批经费就当然取代甲成为发明人。",
+            "explanation": "行政管理和经费审批不能替代创造性贡献。"
+          }
+        ],
+        "correctChoices": ["b", "c"],
+        "answer": "b,c",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选B、C。A项：题设属于职务发明，申请权归单位。 B项：职务发明不取消实际发明人的署名权。 C项：属于执行本单位任务所完成的职务发明创造。 D项：行政管理和经费审批不能替代创造性贡献。",
+        "sources": ["g8-main-remaining-g6-patent-duty"]
+      }
+    },
+    {
+      "subject": "intellectual-property",
+      "parentTopicId": "remaining-g6-patent-duty",
+      "chapterId": "REMAINING-G6-PATENT-DUTY",
+      "exercise": {
+        "id": "g8-types-employee-invention-indefinite",
+        "caseId": "g8-types-employee-invention",
+        "relatedTopicIds": ["remaining-g6-patent-duty"],
+        "kind": "objective",
+        "choiceMode": "indefinite",
+        "title": "工作任务中的发明（不定项）",
+        "facts": "工程师甲按所在公司明确分配的研发任务，利用公司实验设备完成一项技术发明。双方没有改变申请权归属的特别约定。公司准备申请专利，主管却主张只能写主管本人为发明人，因为其负责审批经费。主管未参与任何创造性技术工作。",
+        "prompt": "关于单位获得专利后的发明人权益，下列哪些说法正确？",
+        "options": [
+          {
+            "id": "a",
+            "text": "被授予专利权的单位应依法对发明人给予奖励。",
+            "explanation": "专利法对职务发明人规定奖励。"
+          },
+          {
+            "id": "b",
+            "text": "申请权归单位与甲依法享有署名、奖励和报酬可以并存。",
+            "explanation": "这些制度分别调整权利归属与实际发明人权益。"
+          },
+          {
+            "id": "c",
+            "text": "只要单位领工资，发明人依法享有的奖励报酬一律归零。",
+            "explanation": "工资关系不当然排除法定奖励、合理报酬制度。"
+          },
+          {
+            "id": "d",
+            "text": "专利实施后，应依法根据推广应用范围和经济效益给予合理报酬。",
+            "explanation": "专利实施后的合理报酬不同于署名权。"
+          }
+        ],
+        "correctChoices": ["a", "b", "d"],
+        "answer": "a,b,d",
+        "hint": "按本题事实逐项判断，再选择全部正确选项。",
+        "reference": "应选A、B、D。A项：专利法对职务发明人规定奖励。 B项：这些制度分别调整权利归属与实际发明人权益。 C项：工资关系不当然排除法定奖励、合理报酬制度。 D项：专利实施后的合理报酬不同于署名权。",
+        "sources": ["g8-main-remaining-g6-patent-duty"]
+      }
+    },
+    {
+      "subject": "civil-procedure",
+      "parentTopicId": "civpro-filing-conditions",
+      "chapterId": "CIVPRO-FILING-VENUE",
+      "writingFormat": "document",
+      "exercise": {
+        "id": "g8-writing-civil-complaint",
+        "caseId": "g8-writing-civil-complaint",
+        "relatedTopicIds": ["civpro-filing-conditions"],
+        "kind": "subjective",
+        "title": "民事起诉状：已交货未付清价款",
+        "facts": "以下人物、地址、电话及案号均为练习用虚构信息。\n青岚市青竹文具有限公司，住所地青岚市青竹区春路18号，法定代表人林平（经理），电话010-00000001，以下简称青竹公司。青岚市溪岸书店有限公司，住所地青岚市青竹区河路26号，法定代表人赵秋（经理），电话010-00000002，以下简称溪岸公司。\n2026年8月3日，双方签订书面买卖合同，青竹公司向溪岸公司出售1000套文具，总价5万元，约定8月15日交货、8月25日前付清。青竹公司按时交货，溪岸公司盖章签收；货物数量、质量均无争议。溪岸公司只付2万元，余款一直未付。9月10日，青竹公司发出书面催款函，溪岸公司回函承认还欠3万元，但未付款。\n青竹公司拟于2026年11月2日起诉，只主张剩余3万元货款及本案诉讼费，不主张利息或违约金。已有买卖合同、盖章签收单、2万元银行入账凭证、催款函及欠款回复。题设确认青岚市青竹区人民法院有管辖权。",
+        "prompt": "请代青竹公司写一份完整民事起诉状，包含当事人、明确诉讼请求、事实与理由、证据及来源、致送法院和具状落款。按所给材料写作，不补造统一社会信用代码或身份证号；材料未提供的信息不计作漏项。",
+        "answer": "",
+        "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+        "reference": "民事起诉状\n原告：青岚市青竹文具有限公司，住所地青岚市青竹区春路18号。法定代表人：林平，经理。联系电话：010-00000001。\n被告：青岚市溪岸书店有限公司，住所地青岚市青竹区河路26号。法定代表人：赵秋，经理。联系电话：010-00000002。\n诉讼请求：\n一、判令被告向原告支付剩余货款人民币30000元；\n二、本案诉讼费用由被告承担。\n事实与理由：\n2026年8月3日，原、被告签订文具买卖合同，约定原告出售1000套文具，价款50000元，8月15日交货、8月25日前付清。原告已按期交付，被告盖章签收，双方对数量和质量均无异议。被告仅支付20000元，尚欠30000元。原告于9月10日发函催收，被告书面确认欠款，至今未付。\n原告已经履行交货义务，被告应按约支付价款。被告逾期不付剩余货款，违反合同义务，应继续履行付款责任。为维护原告合法权益，依法诉请贵院支持上述请求。\n证据及来源：\n1.双方签订的买卖合同，证明买卖关系、价款及付款期限；\n2.被告盖章签收单，证明原告已经交货；\n3.原告留存的银行入账凭证，证明被告已支付20000元；\n4.原告催款函及被告欠款回复，证明催收经过和剩余欠款。\n此致\n青岚市青竹区人民法院\n具状人：青岚市青竹文具有限公司（盖章）\n2026年11月2日\n附：起诉状副本及证据材料按实际提交要求准备。",
+        "criteria": [
+          {
+            "id": "g8-writing-civil-complaint-1",
+            "label": "当事人与致送法院",
+            "meaning": "写明两公司的原被告身份、题给主要身份及联系方式，致送题定法院。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "未给信用代码不扣；联系信息少量笔误不否定实质身份，不能颠倒诉讼双方。"
+          },
+          {
+            "id": "g8-writing-civil-complaint-2",
+            "label": "明确诉讼请求",
+            "meaning": "请求支付剩余30000元及由被告承担诉讼费，不把已付20000元再次列为欠款。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "数额或请求主体错应指出；不以未主张题设排除的利息、违约金为遗漏。"
+          },
+          {
+            "id": "g8-writing-civil-complaint-3",
+            "label": "履约事实与请求理由",
+            "meaning": "写明合同、按期交货签收、已付20000元、到期未付余款及催收，并据此说明继续付款责任。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "可合并叙述，不必逐日期抄题，但应能看出交货与尚欠30000元的根据。"
+          },
+          {
+            "id": "g8-writing-civil-complaint-4",
+            "label": "文书与证据完整性",
+            "meaning": "全文成起诉状，交代证据及其所证事项，有具状人和日期。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不是仅回答谁胜诉；不强制条号、固定套话、未给的证人或额外附件数量。"
+          }
+        ],
+        "sources": ["g8-writing-civil-procedure", "g8-writing-civil-sale"]
+      }
+    },
+    {
+      "subject": "criminal-procedure",
+      "parentTopicId": "crimpro-g1-appeal-right",
+      "chapterId": "CRIMPRO-G1-APPEAL-RIGHT",
+      "writingFormat": "document",
+      "exercise": {
+        "id": "g8-writing-criminal-appeal",
+        "caseId": "g8-writing-criminal-appeal",
+        "relatedTopicIds": ["crimpro-g1-appeal-right"],
+        "kind": "subjective",
+        "title": "刑事上诉状：提出有根据的量刑请求",
+        "facts": "以下均为虚构练习信息，不是实际案件。\n被告人许宁，男，1998年6月3日出生，住青岚市白桥区柳路9号，现羁押于青岚市看守所。青岚市白桥区人民法院作出（2026）练刑初18号刑事判决，以盗窃罪判处许宁有期徒刑二年，并处罚金人民币3000元。许宁于2026年10月29日收到判决，拟于11月2日通过原审法院上诉至青岚市中级人民法院。\n许宁对指控的盗窃事实、证据和定罪均无异议，只不服量刑。一审卷内已有银行退赔凭证和被害人收条，证明他在一审判决前已全部退赔；判决量刑理由未提及这组材料。许宁被警方抓获后一直如实供述，未自动投案。没有获得被害人谅解的材料，也没有立功情节。许宁希望二审审查退赔及如实供述，对其依法从轻处罚。本题不要求预测二审具体刑期。",
+        "prompt": "请以许宁名义写一份完整刑事上诉状，包括上诉人、一审案号和判决、明确上诉请求、事实与理由、致送法院及落款。请求限于量刑；不能把被抓获后的供述写成自动投案，不补造谅解或立功。",
+        "answer": "",
+        "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+        "reference": "刑事上诉状\n上诉人（原审被告人）：许宁，男，1998年6月3日出生，住青岚市白桥区柳路9号，现羁押于青岚市看守所。\n上诉人因盗窃罪一案，不服青岚市白桥区人民法院（2026）练刑初18号刑事判决所判有期徒刑二年、并处罚金人民币3000元的量刑部分。上诉人于2026年10月29日收到判决，现于法定期限内提出上诉。\n上诉请求：\n请二审法院审查原判量刑，结合已经全部退赔及到案后如实供述的情节，依法改判从轻处罚。\n事实与理由：\n上诉人对一审认定的盗窃事实、证据及定罪无异议。上诉仅针对量刑，并不请求因退赔而宣告无罪。\n一审判决前，上诉人已经全部退赔。银行退赔凭证和被害人收条均在原审卷内，但判决的量刑理由没有提及这些材料。请求二审核查，并在量刑中评价退赔的具体情况。\n上诉人被抓获后如实供述自己的罪行，未自动投案，不主张成立自首。请求依刑法关于如实供述的规定，对该情节依法作从宽评价。上诉人不主张题设没有的谅解或立功。\n请二审法院根据查明的事实与法律审查量刑，支持上诉人的从轻处罚请求。具体刑罚请法院依法裁量。\n此致\n青岚市中级人民法院\n（通过青岚市白桥区人民法院递交）\n上诉人：许宁\n2026年11月2日\n附：刑事上诉状及相关退赔材料副本。",
+        "criteria": [
+          {
+            "id": "g8-writing-criminal-appeal-1",
+            "label": "上诉文书身份与程序",
+            "meaning": "形成完整刑事上诉状，交代许宁身份、原审法院案号及量刑部分，写明向中院提出并可经原审递交。有致送法院和上诉人、日期落款。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不要求复述全部身份字段或上诉期条号；不能以不存在的法院或已放弃上诉事实代替。"
+          },
+          {
+            "id": "g8-writing-criminal-appeal-2",
+            "label": "请求明确且不扩张事实",
+            "meaning": "请求二审审查量刑并依法从轻，不因退赔直接主张不构成犯罪或保证固定刑期。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "请求用撤销量刑部分依法改判等同义表达可；不强制用参考原话。"
+          },
+          {
+            "id": "g8-writing-criminal-appeal-3",
+            "label": "退赔材料与量刑关系",
+            "meaning": "指出判前已全部退赔，卷内凭证及收条应被核查并作量刑评价。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不以全部退赔必然免刑替代；未给谅解不得写成已谅解。"
+          },
+          {
+            "id": "g8-writing-criminal-appeal-4",
+            "label": "如实供述与法律理由",
+            "meaning": "把抓获后的如实供述作为可依法从轻的理由，与自首区分。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不要求另答不相关罪名；只错写自首要明确指出，不推翻独立退赔理由。"
+          }
+        ],
+        "sources": [
+          "g8-writing-appeal",
+          "g8-writing-confession",
+          "g8-writing-repayment"
+        ]
+      }
+    },
+    {
+      "subject": "theory-law",
+      "parentTopicId": "remaining-g6-law-governance",
+      "chapterId": "REMAINING-G6-LAW-GOVERNANCE",
+      "writingFormat": "essay",
+      "exercise": {
+        "id": "g8-writing-law-governance",
+        "caseId": "g8-writing-law-governance",
+        "relatedTopicIds": ["remaining-g6-law-governance"],
+        "kind": "subjective",
+        "title": "长论述：便民服务与依法行政",
+        "facts": "某市推进“一窗办事”。甲区把法定申请材料列成公开清单，允许线上提交，建立群众投诉渠道并说明处理进展；对确有法定办理期限的事项仍按期审查。乙区负责人认为“群众只要结果”，要求工作人员对熟人先办、对难办申请不登记，也不给理由；又提出为了提速，可以用内部会议纪要取代法律规定的受理条件。群众反馈：排队短了，但同类申请结果不同，未被受理的人不知道如何反映。\n讨论会上有人说：“法治就是把文件写齐，办事快慢与法治无关。”另有人说：“便民是最终目的，程序和权限都可以省。”请围绕这两种说法和两区做法展开，而不是空谈口号。",
+        "prompt": "请以“把便民服务做在法治轨道上”为题写一篇完整论述。提出明确观点，结合材料分析便民、权限、平等和程序的关系，提出能够落地的改进措施。练习建议600—1000字，可依必要内容调整；这是本产品的练习篇幅，不是官方考试字数标准。",
+        "answer": "",
+        "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+        "reference": "把便民服务做在法治轨道上\n便民服务与依法行政应当相互促进。便民要让群众少跑腿、少等待，也要让同样的申请受到同样的对待，让未被受理的人知道原因并有渠道提出异议。离开权限和程序追求速度，可能只是把成本转给办事群众。\n甲区的做法说明，依法办事可以更方便。公开法定材料清单、允许线上提交，减少了信息不对称和重复跑动；保留法定审查与投诉渠道，又使决定有根据、过程有回应。它改进的是服务方式，没有把内部效率目标变成任意免除法定条件的权力。\n乙区的问题则不能靠“已经提速”掩盖。熟人先办使办事待遇取决于关系，损害平等；对难办申请不登记、不说明理由，使申请人无法知道进度，也难以有效反映问题。内部会议纪要可以安排工作，却不能替代法律规定的受理条件。工作人员对谁办理、怎样办理、何时答复，都应当有法律依据和可核查的记录。\n因此，法治不是把文件写齐就结束。文件是否落实为统一标准、真实登记、及时处理和有效监督，才直接影响群众感受。同时，便民也不意味着程序都可省：必要的告知、审查与救济保护申请人的权利，不能只因不方便就取消。可以精简重复填表、打通部门数据，但不应删去决定合法性所需的环节。\n改进时，应先核对法定权限、材料和期限，把清单公开并保持一致执行；对每份申请登记、给出可查询进度，对补正或不受理说明具体原因。线上渠道应保留线下帮助，照顾不熟悉技术的群众。投诉须有负责人员、处理记录和反馈，不能只设一个无人回应的入口。内部考核同时关注时效、同类事项处理一致性、理由说明及投诉解决情况，避免只看办结数量。\n衡量便民改革，既要看是否更快，也要看是否更公平、更可预期。让群众知道该准备什么、机关正在做什么、不服决定可以怎么办，服务便利和依法行政才能一起落实。",
+        "criteria": [
+          {
+            "id": "g8-writing-law-governance-1",
+            "label": "中心观点",
+            "meaning": "明确说明便民和依法行政相互促进，既不把法治理解为只写文件，也不为速度取消法定权限程序。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "观点应清楚；不强制特定政治术语、篇幅达标或唯一段落结构。"
+          },
+          {
+            "id": "g8-writing-law-governance-2",
+            "label": "围绕具体材料分析",
+            "meaning": "比较甲区公开材料和线上办理与乙区熟人优先、不登记、不说明、用内部纪要替法律等关键做法，并说明各自影响。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不要求列齐全部细节；只空喊合法便民而不联系做法是理由不足。"
+          },
+          {
+            "id": "g8-writing-law-governance-3",
+            "label": "解释权利与程序关系",
+            "meaning": "说明平等、权限和必要程序怎样保护可预期、公平及反映问题的机会，区分优化方式和删去法定环节。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不能以快或群众满意直接替代合法性；允许从不同具体角度说明同一关系。"
+          },
+          {
+            "id": "g8-writing-law-governance-4",
+            "label": "提出有针对性的措施并成篇",
+            "meaning": "提出与材料问题相连的可执行措施，例如统一公开清单、登记进度、说明理由、投诉反馈与兼顾线下帮助，论述有组织。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不要求所有参考措施；至少有对应问题的具体做法，不把不同合理方案判错。"
+          }
+        ],
+        "sources": ["g8-writing-constitution"]
+      }
+    },
+    {
+      "subject": "legal-profession",
+      "parentTopicId": "remaining-g6-lawyer-duty",
+      "chapterId": "REMAINING-G6-LAWYER-DUTY",
+      "writingFormat": "essay",
+      "exercise": {
+        "id": "g8-writing-lawyer-ethics",
+        "caseId": "g8-writing-lawyer-ethics",
+        "relatedTopicIds": ["remaining-g6-lawyer-duty"],
+        "kind": "subjective",
+        "title": "长论述：胜诉目标与律师执业边界",
+        "facts": "律所的一名青年律师甲代理公司乙的合同纠纷。乙经理让甲把一份晚签的收据改成交易当日日期，称“只要赢了，责任由公司担”。对方当事人又私下请甲同时为自己提供同案诉讼方案，并愿付报酬。自媒体联系甲，准备把乙咨询时透露的商业秘密改编成视频；未经乙许可，视频会披露足以识别交易方的细节，本题不涉及法定保密例外。\n同事说：“律师忠于客户，就该尽一切办法让他赢。”另一位同事反对：“遇到风险最好什么都不做，合法证据也少提交。”律所希望既守住执业边界，又提供有效服务。",
+        "prompt": "请以“忠实代理不等于没有边界”为题写一篇完整材料论述。说明胜诉目标与真实证据、利益冲突、保密义务的关系，并提出律师和律所的可执行做法。练习建议600—1000字，不要求统一措辞或官方评分模板。",
+        "answer": "",
+        "hint": "按任务要求写成完整文本，先把请求或主张说清，再用材料说明理由。",
+        "reference": "忠实代理不等于没有边界\n律师应当依法维护委托人的合法权益，认真争取有利结果。忠实代理要求投入专业努力，而不是服从任何指令。伪造证据、在同案代理对立双方或者擅自披露商业秘密，既越过执业边界，也可能损害客户利益和司法公正。\n乙经理要求把收据日期改早，改变的是证据反映的事实。客户承诺承担责任不能使该行为合法，也不能免除律师自身的执业责任。甲应拒绝改造收据，说明真实日期与交易事实的关系，并寻找合法证明途径：核查原始账目、付款记录、交货资料和真实沟通内容。对已有合法证据，应认真组织并依法提交，不能因为存在风险就消极不做事。\n对方提出的同案委托同样不能接受。律师不能同时替诉讼双方设计相互对立的诉讼方案，也不能私自接案收费。甲应拒绝该委托，通过律所进行利益冲突审查和接案管理，保存必要的处理记录，避免把双方信息混用。\n商业秘密来自执业咨询，不因视频可能带来宣传效果而可以公开。题设没有客户许可，也没有法定例外；细节足以识别交易方，仅改姓名不能当然消除泄密风险。甲应拒绝披露这些内容。律所对外发布案例应核查授权和保密要求，必要时只讨论无法关联客户的通用规则，不能先发后问。\n制度上，律所可以把冲突审查放在接案前，明确统一收案收费；对证据保留原件和来源记录，争议材料先核真实性再决定如何依法使用；对外宣传建立客户信息与授权审查。律师发现客户坚持违法要求，应说明不能执行的具体事项，依法处理委托关系，同时继续履行保密等义务。\n所以，两种极端都不可取：为赢而不择手段越过法律底线，什么都不做又放弃了专业服务。合适的路径是守住事实和执业规范，尽力发现、整理并运用合法证据，把法律风险讲给客户听，用依法、勤勉和可核查的工作维护客户的合法权益。",
+        "criteria": [
+          {
+            "id": "g8-writing-lawyer-ethics-1",
+            "label": "明确忠实代理的边界",
+            "meaning": "说明维护的是委托人合法权益，胜诉目标不能使伪造证据、冲突代理或泄密合法，同时不赞成消极放弃合法服务。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "不强制复述题目所有观点，但不能赞成为胜诉不择手段。"
+          },
+          {
+            "id": "g8-writing-lawyer-ethics-2",
+            "label": "证据处理有具体分析",
+            "meaning": "针对改日期的要求指出虚假证据风险，拒绝实施并提出核查、组织真实证据的替代做法。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "客户免责承诺不是允许伪造的理由；不要求预判具体处罚。"
+          },
+          {
+            "id": "g8-writing-lawyer-ethics-3",
+            "label": "冲突与保密分别回应",
+            "meaning": "对同案对方委托、私下收费和未经许可公开秘密分别作出有依据的处理说明，不把客户同意扩大到本题不存在的授权。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "这是独立规范的综合要求；原答只写其中一方面应如实指出另一遗漏，不全盘否定正确部分。"
+          },
+          {
+            "id": "g8-writing-lawyer-ethics-4",
+            "label": "形成论述与可行措施",
+            "meaning": "成篇论述并提出冲突审查、统一接案、证据留源、对外材料审查等与问题对应的具体措施。",
+            "acceptable": "认可法律含义相同、结构清楚的自然表述，不要求照抄参考或列条号。",
+            "boundary": "措施可采用其他合理方式；不强制照抄制度清单或每项参考细节。"
+          }
+        ],
+        "sources": ["g8-writing-lawyer"]
+      }
+    }
+  ]
+}

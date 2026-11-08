@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilFamilyTeacherPublications: Record<string, string> = {
+  "civil-family-bigamy-prior-divorce-written":
+    "a73ed5326a5e806c7ab212c061c952f401628811779fae3f51478c377e4b73ce",
+  "civil-family-age-reached-before-filing-written":
+    "63ab4104146e260008d410bcc9e7e82b98e5eea5e6a2adfa9a88615d799f7a64",
+  "civil-family-coercion-freedom-deadline-written":
+    "1f4bb68eac1365dc3bb2ccdc485e5d373cd50e1bd919c87d0cccec594a02820c",
+  "civil-family-disease-known-over-year-written":
+    "b30cb7df15ac147a991b1d60ebd6e143bf92e0abaf47a0f071118b12c5c8ad59",
+  "civil-family-salary-specific-gift-written":
+    "64a0628a2538fae3797bad1bdbb5e02d26ccb9d7439bef5fa3a0c27a115aba6e",
+  "civil-family-livestream-marital-partition-written":
+    "faec9e54169c1c007e334e2053eb4f9fbc1be5b1cdce6ddb2659d6b3071e4e9e",
+  "civil-family-daily-household-credit-written":
+    "a6f27afdca8f37821e3b2e1671049c7cd0ebe9b5938ff67b71403ceb2dd23b91",
+  "civil-family-large-loan-friend-renovation-written":
+    "6bb47f70647d4be8c5adb1542f26bcc4494c5ebc35b6a41d917af960450cd5b3",
+  "civil-family-divorce-withdraw-day18-written":
+    "c688540aa6d04b0781d05f2fb5c06359779f7586c888bd612caa185f0adee5b8",
+  "civil-family-divorce-expired-collection-written":
+    "9401d34e6a65459245a6e685c4243560dd9a5984e795e6e33ac9a30c05d31f1e",
+  "civil-family-divorce-violence-lawsuit-written":
+    "dfb073c4f94f2da049d703645d7f7976052582d8e3e549033ae8de079fffa686",
+  "civil-family-divorce-retrial-one-year-written":
+    "bdef233f295880a761ddac8c8843bffdabf0cfc30bf8ce359233a1d1fbc07111",
+  "civil-family-child-under-two-written":
+    "fac06206923fde27f4c0bd39eeb08d794337e09357b2f85cc00b25c20c79f0ff",
+  "civil-family-child-nine-true-wishes-written":
+    "3ace6b4bc7b4570873ec291f9778913cca22898302bfeb67af8b258a9871b6c1",
+  "civil-family-child-medical-cost-increase-written":
+    "f6e6a5ebb4deb21378953e06bc8e67ee7c58eb088c987f16fcbf159fc82a79e5",
+  "civil-family-child-visit-unpaid-fee-written":
+    "2d63ca518ff866b408ad3327bd7b8ec9a20613199157c6e68d4aab7046f79541",
+};

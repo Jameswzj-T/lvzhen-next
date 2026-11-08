@@ -1,0 +1,35 @@
+// Fixed publication bindings for the existing teacher voice protocol.
+export const ecologyG8TeacherPublications: Record<string, string> = {
+  "ecology-g8-monitoring-sample-written":
+    "78c98c9c4fbbe9b72d6a44242b451873fb36b1ef4f45738e216a9102827e610c",
+  "ecology-g8-monitoring-manager-written":
+    "d45d272c81fee94dcf9af47c6ec81d3342bfde295eb3fc89991c00970b21e174",
+  "ecology-g8-disclosure-selection-written":
+    "61b36888c3649e7b409382fccb4729804fe18b02c0dcd5fdddf4840e7fa9cddb",
+  "ecology-g8-participation-experts-written":
+    "3b75e80d34c4f0f4b931be876b8d5a1d9d09f1ab70b052be4f0db8a655ae948a",
+  "ecology-g8-emergency-only-block-written":
+    "f9943b552bbf98e34084fc8859b00c261effe0f12222de0cdd26bee6b676ecf0",
+  "ecology-g8-emergency-neighbor-written":
+    "e681f07af228ebddc984df9cd6854bdd6e8ea02711caa847df503df3b009d748",
+  "ecology-g8-waste-dumping-written":
+    "67c8ab70c02c3202248f5c1ffbecc0d4f819134911b68dfc7eb1e08a1fee083f",
+  "ecology-g8-waste-two-destinations-written":
+    "c0acf4fd310fbd996b8e5172edb0541ad330cc9e0ba06d384116b3c9e4a0760f",
+  "ecology-g8-zoning-record-written":
+    "c4ebd1c95d74e3cca9dcf5adf24c5f8d69b628619bd9ff988d09a3d55a8fbc69",
+  "ecology-g8-zoning-redline-written":
+    "7ef0ad83ba80c3bc5ff87b8758ecf1417189e86d7b45efc7db18b92237637ab6",
+  "ecology-g8-restoration-self-check-written":
+    "d83f8eca958adef121def36e018a7a3a7d275e6ac63a411e2a0c5474817ae665",
+  "ecology-g8-restoration-aftercare-written":
+    "bcc7c0b1c6feb2a7c0d4c94466875172034a786c3a958063a3752fb3dfcb816b",
+  "ecology-g8-carbon-tax-written":
+    "74d56a1e57249686e9b28058c93a22f6a7a0a6f34c3b195f451bb56d7585a79c",
+  "ecology-g8-carbon-voluntary-written":
+    "b2da83670f250a85bde2fa30ffd8efd4be3c654b9e39e844f94b13fd224930d2",
+  "ecology-g8-liability-no-fault-written":
+    "79ae416e1b06fb1688c7bf222c0013cb119faa52e2509f18e914997626b46c35",
+  "ecology-g8-liability-fine-first-written":
+    "c3b03f92ea0c167db6af242a7ff648f1e590e51618882ca663bac15feb45a67a",
+};

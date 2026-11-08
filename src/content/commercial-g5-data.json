@@ -1,0 +1,3973 @@
+{
+  "topics": [
+    {
+      "id": "commercial-g5-representative",
+      "chapterId": "COMMERCIAL-G5-REPRESENTATIVE",
+      "sectionId": "company",
+      "title": "法定代表人与公司对外责任",
+      "headline": "内部权限限制不能直接推给不知道该限制的交易相对人。",
+      "paragraphs": [
+        "法定代表人以公司名义从事民事活动，法律后果原则上由公司承受。章程或股东会对代表权限的内部限制，不能对抗善意相对人。",
+        "代表人执行职务致人损害，公司应依法承担责任，承担后可向有过错的代表人追偿。担保等特别事项另有审查规则。"
+      ],
+      "pitfall": "先分清普通经营交易与法定担保决议，不把内部报批当成所有合同的生效要件。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-resolution",
+      "chapterId": "COMMERCIAL-G5-RESOLUTION",
+      "sectionId": "company",
+      "title": "公司决议的不成立、无效与撤销",
+      "headline": "没开会没表决，先看决议是否成立；程序有错不一律等于内容无效。",
+      "paragraphs": [
+        "未开会、未对事项表决等法定情形，决议不成立。内容违反法律、行政法规时，依法认定无效。",
+        "召集程序或表决方式违法、违反章程等，通常按撤销规则处理；仅轻微瑕疵且未实质影响决议的，不据此撤销。"
+      ],
+      "pitfall": "不把三种效力问题都写成“无效”。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-director",
+      "chapterId": "COMMERCIAL-G5-DIRECTOR",
+      "sectionId": "company",
+      "title": "董事关联交易与忠实义务",
+      "headline": "关联交易要报告、按章程履行决议程序，关联董事不得参与相关董事会表决。",
+      "paragraphs": [
+        "董事及其关联人同公司交易，须就相关事项报告，并按章程经董事会或股东会决议。",
+        "董事会审议相关事项时关联董事应回避；出席的无关联董事不足三人，提交股东会。利用职务侵占公司利益不能因职位高而免责。"
+      ],
+      "pitfall": "不是一概禁止所有关联交易，而是依法处理利益冲突。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-derivative",
+      "chapterId": "COMMERCIAL-G5-DERIVATIVE",
+      "sectionId": "company",
+      "title": "股东代表诉讼",
+      "headline": "为公司挽回损失，股东通常先书面请求相应机关；紧急情况可依法直接起诉。",
+      "paragraphs": [
+        "董事、高管损害公司利益，符合条件的股东通常书面请求监事会起诉；监事侵权则请求董事会。拒绝或三十日不诉等，可为公司利益以自己名义起诉。",
+        "紧急且不立即起诉将造成公司利益难以弥补损害，可依法直接起诉。有限公司股东与股份公司持股比例、期间门槛不同。"
+      ],
+      "pitfall": "公司受损获得的赔偿归公司，不是代表起诉股东的个人奖励。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-profit",
+      "chapterId": "COMMERCIAL-G5-PROFIT",
+      "sectionId": "company",
+      "title": "利润分配与违法分红",
+      "headline": "先弥补亏损、依法提公积金，再分剩余利润；违规分红要退还。",
+      "paragraphs": [
+        "公司分配税后利润前，依法弥补亏损并提取公积金。有限公司通常按实缴出资比例分配，全体股东另有约定除外。",
+        "违法向股东分配利润，股东应退还；给公司造成损失的，相关责任人依法赔偿。分红决议不等于可抽空应保护的公司财产。"
+      ],
+      "pitfall": "收入、现金余额和可分配利润不是同一回事。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-liquidation",
+      "chapterId": "COMMERCIAL-G5-LIQUIDATION",
+      "sectionId": "company",
+      "title": "解散后的清算义务",
+      "headline": "公司解散不等于债务消失；现行一般规则下董事承担清算义务。",
+      "paragraphs": [
+        "法定解散且应清算的，董事为清算义务人，通常在事由出现起十五日内组成清算组。章程或股东会另选清算组成员，不当然免除义务人应尽职责。",
+        "逾期不成立清算组或不清算，利害关系人可依法申请法院组织清算；未及时履职致损，依法承担责任。"
+      ],
+      "pitfall": "不是所有解散都走同一路径，合并分立等另有规则。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-partner-liability",
+      "chapterId": "COMMERCIAL-G5-PARTNER-LIABILITY",
+      "sectionId": "partnership",
+      "title": "普通合伙与有限合伙的责任",
+      "headline": "先以合伙企业财产清偿，普通合伙人与有限合伙人的外部责任不同。",
+      "paragraphs": [
+        "普通合伙人通常对企业债务负无限连带责任；内部亏损分担比例不能直接对抗企业债权人。",
+        "有限合伙人通常以认缴出资额为限，不能把所有合伙人一律当普通合伙人；对外使人合理信赖其为普通合伙人等例外另论。"
+      ],
+      "pitfall": "有限公司股东责任和普通合伙人责任不要混用。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-partner-management",
+      "chapterId": "COMMERCIAL-G5-PARTNER-MANAGEMENT",
+      "sectionId": "partnership",
+      "title": "合伙事务执行与善意第三人",
+      "headline": "内部代表权限限制通常不能对抗善意第三人；有限合伙人不执行事务有法定边界。",
+      "paragraphs": [
+        "普通合伙企业内部对合伙人执行事务和对外代表权的限制，不能对抗善意第三人。",
+        "有限合伙人不执行事务、不对外代表企业，但参与选择承办审计机构、查账、依法提出建议等法定行为，不当然算执行事务。"
+      ],
+      "pitfall": "内部越权责任与正常交易的对外效力分别判断。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-sole-liability",
+      "chapterId": "COMMERCIAL-G5-SOLE-LIABILITY",
+      "sectionId": "partnership",
+      "title": "个人独资企业的财产责任",
+      "headline": "个人独资企业不是一人有限公司，投资人通常承担无限责任。",
+      "paragraphs": [
+        "个人独资企业由一个自然人投资，投资人以个人财产对企业债务负无限责任。",
+        "设立登记时明确以家庭共有财产出资的，应依法以家庭共有财产承担无限责任；企业解散不自动消灭原投资人偿还责任。"
+      ],
+      "pitfall": "只看一个人出资不能判断责任有限，要辨明登记组织形式。",
+      "package": "enterprise"
+    },
+    {
+      "id": "commercial-g5-bankruptcy-entry",
+      "chapterId": "COMMERCIAL-G5-BANKRUPTCY-ENTRY",
+      "sectionId": "bankruptcy",
+      "title": "破产申请与受理效果",
+      "headline": "债务到期不能清偿等事实决定能否申请；受理后转入集中清理，不能继续个别执行。",
+      "paragraphs": [
+        "企业法人不能清偿到期债务且资不抵债或明显缺乏清偿能力，依法进入破产清理；债权人可依法申请重整或清算。",
+        "法院受理后，对债务人财产的保全应依法解除，执行程序中止，相关债权按破产程序处理。申请、受理与最终破产宣告不是同一时点。"
+      ],
+      "pitfall": "不能把一次暂时迟付都当作必然破产，也不能在已受理后抢先单独划走财产。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-bankruptcy-estate",
+      "chapterId": "COMMERCIAL-G5-BANKRUPTCY-ESTATE",
+      "sectionId": "bankruptcy",
+      "title": "破产财产、撤销与取回",
+      "headline": "不是放在债务人仓库里就都归债务人；特定破产前处分可由管理人依法申请撤销。",
+      "paragraphs": [
+        "受理时及受理后依法取得的债务人财产，纳入集中清理。属于他人的财产，权利人可依法通过管理人取回。",
+        "受理前一年内无偿转让等行为，管理人可请求法院撤销；受理前六个月的个别清偿另须符合资不抵债等条件并考虑受益例外。"
+      ],
+      "pitfall": "撤销权、无效行为和所有权取回要分开，不能一律写成“自动没收”。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-bankruptcy-claims",
+      "chapterId": "COMMERCIAL-G5-BANKRUPTCY-CLAIMS",
+      "sectionId": "bankruptcy",
+      "title": "债权申报与清偿顺序",
+      "headline": "未及时申报不一律消灭；普通职工工资等有特别处理，普通债权不能抢先分。",
+      "paragraphs": [
+        "一般债权在法院确定期限内向管理人申报。未及时申报，可在最后分配前补报，已分配的不再补分，补报审查费用由补报人承担。",
+        "职工工资等法定职工债权通常不必自行申报，由管理人调查列示；清偿依法区分费用共益、担保及法定顺位，不能都作普通债权等比例。"
+      ],
+      "pitfall": "“都是债权”不等于同时同顺位分配。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-reorganization",
+      "chapterId": "COMMERCIAL-G5-REORGANIZATION",
+      "sectionId": "bankruptcy",
+      "title": "重整与和解中的担保权",
+      "headline": "重整期间担保行使通常暂停，不等于担保消失；和解有不同的申请与担保规则。",
+      "paragraphs": [
+        "重整期间，对债务人特定财产的担保权通常暂停行使；担保物损坏、价值明显减少等足以危害权利时，可依法申请恢复行使。",
+        "和解由债务人提出并提交协议草案；对特定财产享有担保权的权利人，自法院裁定和解之日起可依法行使，不能把重整暂停机械搬过去。"
+      ],
+      "pitfall": "重整计划、和解协议与一般私下协商不完全相同。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-bill-record",
+      "chapterId": "COMMERCIAL-G5-BILL-RECORD",
+      "sectionId": "bills",
+      "title": "票据记载与支票授权补记",
+      "headline": "金额大小写不一致会影响票据效力；支票依法授权补记是特定例外。",
+      "paragraphs": [
+        "票据金额以中文大写和数码同时记载，应保持一致，不一致票据无效，不能随意选择较小或较大金额。",
+        "支票金额可由出票人授权补记，未补记前不得使用；收款人名称也可依法授权补记。不把该例外扩到所有绝对记载事项。"
+      ],
+      "pitfall": "“漏填可补”与“已填却冲突”不同。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-bill-endorsement",
+      "chapterId": "COMMERCIAL-G5-BILL-ENDORSEMENT",
+      "sectionId": "bills",
+      "title": "背书与票据保证",
+      "headline": "背书附条件不让该条件产生票据效力，票据保证附条件也不免其保证责任。",
+      "paragraphs": [
+        "背书附条件的，条件不具有汇票上的效力；部分金额转让、分别转让两人等背书依法无效。",
+        "汇票保证应依法记载签章；保证附条件不影响对汇票的保证责任。未记载保证日期等个别事项，有法定补充规则，不能一律认保证不存在。"
+      ],
+      "pitfall": "基础约定可能另有意义，但不能任意改变票据法的效力规则。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-bill-defense",
+      "chapterId": "COMMERCIAL-G5-BILL-DEFENSE",
+      "sectionId": "bills",
+      "title": "票据抗辩与追索",
+      "headline": "取得票据的过程决定能否对抗基础关系争议；依法追索通常不必按背书顺序逐个找。",
+      "paragraphs": [
+        "票据债务人一般不能用自己与出票人或前手间的抗辩对抗持票人，但明知抗辩事由等法定例外另论。无对价取得等另有规则。",
+        "依法具备追索条件，出票人、背书人、承兑人和保证人等按法定规则承担责任，持票人可选择请求，不必机械按先后顺序逐个穷尽。"
+      ],
+      "pitfall": "不是所有持票人都无条件不受抗辩，也不能重复取得超过债权的清偿。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-insurance-disclosure",
+      "chapterId": "COMMERCIAL-G5-INSURANCE-DISCLOSURE",
+      "sectionId": "insurance",
+      "title": "保险订立中的如实告知",
+      "headline": "如实告知以保险人询问范围为基础；解除权也有期限，不能无限保留。",
+      "paragraphs": [
+        "投保人应就保险人询问如实告知，故意或重大过失且足以影响承保或费率等时，保险人可依法解除，事故给付后果另依具体条件。",
+        "解除权自知道解除事由超过三十日未行使而消灭；合同成立超过二年等受不可抗辩规则限制。订约时已知未告知事实的，不能事后据此解除。"
+      ],
+      "pitfall": "不是任何小遗漏都自动拒赔，也不能保险人明知还承保后再装作不知。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-insurance-exclusion",
+      "chapterId": "COMMERCIAL-G5-INSURANCE-EXCLUSION",
+      "sectionId": "insurance",
+      "title": "保险免责条款的提示与说明",
+      "headline": "免责条款不能只藏在合同里；通常还须显著提示并明确说明。",
+      "paragraphs": [
+        "保险人提供格式免责条款，通常应作足以引起注意的提示，并以书面或口头形式明确说明，未作提示或明确说明的不产生效力。",
+        "是否尽到义务须看实际展示和解释，不能仅以打印过条款或笼统签名当然证明。法律行政法规禁止性规定等有特别规则，另依法判断。"
+      ],
+      "pitfall": "加粗与解释不是同一件事，不能把所有免责约定一概当无效。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-insurance-subrogation",
+      "chapterId": "COMMERCIAL-G5-INSURANCE-SUBROGATION",
+      "sectionId": "insurance",
+      "title": "财产险代位与人身险给付",
+      "headline": "财产险赔付后的代位有赔付金额上限；人身险给付通常不让保险人代位向侵权人追偿。",
+      "paragraphs": [
+        "财产险因第三人致损，保险人赔偿后在赔偿金额范围内代位行使相应请求，不能拿走被保险人未获赔部分的权利。",
+        "人身保险给付后，保险人不得代位向第三人求偿；被保险人或受益人对第三人的赔偿请求不因此被排除。"
+      ],
+      "pitfall": "不是保险公司只要赔了钱就自动取得所有侵权请求。",
+      "package": "finance"
+    },
+    {
+      "id": "commercial-g5-securities-issue",
+      "chapterId": "COMMERCIAL-G5-SECURITIES-ISSUE",
+      "sectionId": "securities",
+      "title": "公开发行与注册",
+      "headline": "向不特定对象发行股票须依法注册，注册不替投资者承担经营风险。",
+      "paragraphs": [
+        "公开发行证券须依法履行注册程序，不能用内部认购的名称掩盖向社会公开募集。",
+        "注册审查关注法定条件和信息披露，不是国家保证股价、收益或本金。"
+      ],
+      "pitfall": "合法发行与保证投资赚钱是两件事。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-securities-trading",
+      "chapterId": "COMMERCIAL-G5-SECURITIES-TRADING",
+      "sectionId": "securities",
+      "title": "内幕交易与操纵市场",
+      "headline": "未公开的重要信息不能拿来抢先交易；自买自卖制造行情也受禁止。",
+      "paragraphs": [
+        "内幕信息知情人在信息公开前，不得买卖相关证券、泄露信息或建议他人买卖，借用亲属账户不改变利用信息的实质。",
+        "在自己控制的账户间交易制造虚假成交量、影响或意图影响价格与交易量，可能构成操纵市场。"
+      ],
+      "pitfall": "内幕信息、合法公开研究与虚假交易要区分。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-securities-disclosure",
+      "chapterId": "COMMERCIAL-G5-SECURITIES-DISCLOSURE",
+      "sectionId": "securities",
+      "title": "虚假陈述与投资损失",
+      "headline": "证券虚假陈述索赔不一律先等行政处罚，赔偿也不是包赔所有跌价。",
+      "paragraphs": [
+        "主张证券虚假陈述民事赔偿，应提出相应事实证据，不能仅因没有行政处罚或刑事认定就拒绝受理符合条件的起诉。",
+        "还应依法审查交易因果关系、损失因果关系及赔偿范围，市场整体下跌等其他原因造成的损失不能都算给虚假陈述。"
+      ],
+      "pitfall": "受理条件、责任成立和损失计算不是同一个问题。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-monopoly-agreement",
+      "chapterId": "COMMERCIAL-G5-MONOPOLY-AGREEMENT",
+      "sectionId": "competition",
+      "title": "垄断协议与竞争效果",
+      "headline": "同行不能用共同定价代替竞争；纵向限价须按专门规则判断。",
+      "paragraphs": [
+        "有竞争关系的经营者约定固定价格、划分市场等，受反垄断法禁止；不能因参与者都自愿就当然合法。",
+        "经营者与交易相对人固定转售价格、限定最低转售价受专门规则约束；符合法律规定的竞争效果反证等，应依法审查，不能把所有纵向约定绝对化。"
+      ],
+      "pitfall": "本组不计算动态安全港门槛；不得只凭自愿或行业惯例排除问题。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-dominance",
+      "chapterId": "COMMERCIAL-G5-DOMINANCE",
+      "sectionId": "competition",
+      "title": "市场支配地位与滥用",
+      "headline": "有支配地位本身不违法，要看是否实施无正当理由的排除限制行为。",
+      "paragraphs": [
+        "市场支配地位根据市场份额、控制能力及其他因素依法判断，不只看企业大不大。",
+        "在具有支配地位的前提下，无正当理由限定交易、拒绝交易、搭售等滥用行为受禁止；本身经营成功不等于滥用。"
+      ],
+      "pitfall": "支配地位、具体行为和正当理由须分开审查。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-concentration",
+      "chapterId": "COMMERCIAL-G5-CONCENTRATION",
+      "sectionId": "competition",
+      "title": "经营者集中申报",
+      "headline": "取得控制权等集中达到门槛须事先申报，未达门槛也不绝对免于调查。",
+      "paragraphs": [
+        "一般经营者集中，上一年度全球合计营业额超过120亿元且至少两方境内各超过8亿元，或境内合计超过40亿元且至少两方境内各超过8亿元，应依法事先申报。",
+        "门槛均为超过。未达到标准但有排除限制竞争证据时，执法机构可依法要求申报；依法应申报的集中不得未按要求即实施。"
+      ],
+      "pitfall": "不是递交材料当天就当然可以完成集中。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-unfair",
+      "chapterId": "COMMERCIAL-G5-UNFAIR",
+      "sectionId": "competition",
+      "title": "混淆与商业秘密",
+      "headline": "仿得让人误认来源可能构成混淆，秘密保护则要求信息有保密条件。",
+      "paragraphs": [
+        "擅自使用他人有一定影响的商品名称、包装、装潢等，足以让人误认商品来源或特定联系，受反不正当竞争法约束。",
+        "商业秘密须不为公众所知悉、有商业价值并采取相应保密措施；以不正当手段获取、披露、使用受禁止，公开通用知识不因此变成秘密。"
+      ],
+      "pitfall": "本组采用2025年修订法第7、10条，不沿用旧法编号。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-online-return",
+      "chapterId": "COMMERCIAL-G5-ONLINE-RETURN",
+      "sectionId": "consumer",
+      "title": "网络购物七日退货",
+      "headline": "普通网购物品符合条件可七日无理由退货，定作等法定例外另行判断。",
+      "paragraphs": [
+        "网络等远程购买的普通商品，消费者可在收货七日内依法无理由退货，应保持商品完好；退回运费通常由消费者承担，另有约定从其约定。",
+        "消费者定作、鲜活易腐等有法定例外；不享有无理由退货不等于商品质量不合格也无救济。"
+      ],
+      "pitfall": "无理由退货与质量不合格退货不是一回事。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-consumer-fraud",
+      "chapterId": "COMMERCIAL-G5-CONSUMER-FRAUD",
+      "sectionId": "consumer",
+      "title": "消费欺诈的惩罚性赔偿",
+      "headline": "欺诈的增加赔偿通常按价款三倍，增加额不足五百元按五百元。",
+      "paragraphs": [
+        "经营者欺诈消费者，消费者可依法要求增加赔偿，通常为商品价款或服务费用三倍；该增加额不足五百元的按五百元。",
+        "退还原价款与增加赔偿要区分，不能把三倍总额误写成含退款在内只给三倍。"
+      ],
+      "pitfall": "不是任何瑕疵都自动等于欺诈，须结合经营者明知和欺骗等事实。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-product-defect",
+      "chapterId": "COMMERCIAL-G5-PRODUCT-DEFECT",
+      "sectionId": "consumer",
+      "title": "缺陷产品赔偿与追偿",
+      "headline": "缺陷致人身或其他财产损害，可依法向生产者或销售者请求赔偿，内部责任再区分。",
+      "paragraphs": [
+        "产品存在不合理危险并造成相应损害时，受害人可依法向生产者或销售者要求赔偿，不必先替商家确定内部最终责任。",
+        "销售者赔偿后，属于生产者责任的可追偿；生产者赔偿后，属于销售者过错的也可追偿。商品本身维修退换另有规则。"
+      ],
+      "pitfall": "对外请求与内部最终承担不要混为一谈。",
+      "package": "market"
+    },
+    {
+      "id": "commercial-g5-employment-contract",
+      "chapterId": "COMMERCIAL-G5-EMPLOYMENT-CONTRACT",
+      "sectionId": "labor",
+      "title": "书面劳动合同与二倍工资",
+      "headline": "用工后应及时签书面合同，二倍工资还须结合未签原因和法定期间。",
+      "paragraphs": [
+        "建立劳动关系应签书面合同，最迟通常为用工之日起一个月内；超过一个月不满一年未签，依法适用二倍工资规则。",
+        "2025年劳动争议解释（二）明确：因劳动者故意或重大过失等法定情形未签的，不能机械要求用人单位承担二倍工资。"
+      ],
+      "pitfall": "二倍工资不等于已经正常支付的工资还要另加两倍；先分清期间及原因。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-employment-termination",
+      "chapterId": "COMMERCIAL-G5-EMPLOYMENT-TERMINATION",
+      "sectionId": "labor",
+      "title": "劳动合同解除与救济",
+      "headline": "不能胜任不是立刻解雇的通行证；违法解除的继续履行与赔偿须分清。",
+      "paragraphs": [
+        "不能胜任工作，须经培训或者调整岗位仍不能胜任等，依法履行通知或代通知金等要求，不能直接跳过前提。",
+        "违法解除时，依法可请求继续履行；不要求或已不能继续履行时按法定赔偿金处理，不能把同一解除的经济补偿与二倍赔偿重复累计。"
+      ],
+      "pitfall": "一般补偿、代通知金与违法解除赔偿金不是同一项。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-labor-arbitration",
+      "chapterId": "COMMERCIAL-G5-LABOR-ARBITRATION",
+      "sectionId": "labor",
+      "title": "劳动仲裁前置与时效",
+      "headline": "普通劳动争议通常先仲裁，在职欠薪的时效有特别规则。",
+      "paragraphs": [
+        "普通劳动合同争议应依法先申请劳动仲裁，再按法定条件起诉；支付令等特别路径另行判断。",
+        "一般仲裁时效为知道或应当知道权利受侵害起一年；劳动关系存续期间拖欠劳动报酬有特别规则，关系终止后应在一年内提出。"
+      ],
+      "pitfall": "不能把所有欠薪都从每月发薪日机械计算一年即永远失权。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-social-insurance",
+      "chapterId": "COMMERCIAL-G5-SOCIAL-INSURANCE",
+      "sectionId": "labor",
+      "title": "社会保险义务与放弃约定",
+      "headline": "双方签字不缴社保也不能免法定义务，已补缴后的补偿返还另处理。",
+      "paragraphs": [
+        "约定或承诺无需缴纳社保无效，用人单位仍应依法缴纳；因未依法缴纳，劳动者依劳动合同法第38条解除并请求经济补偿，依法处理。",
+        "用人单位依法补缴后，可依法请求返还此前已支付的社保费补偿，不能把这种补偿与独立正常工资、违法解除赔偿一概混为一谈。"
+      ],
+      "pitfall": "自愿现金替代不等于可以合法不参保。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-vat",
+      "chapterId": "COMMERCIAL-G5-VAT",
+      "sectionId": "tax",
+      "title": "增值税应税交易与非应税工资",
+      "headline": "2026年按增值税法判断应税交易，雇员向雇主提供工资服务有明确排除。",
+      "paragraphs": [
+        "在境内有偿销售货物、服务、无形资产、不动产等，依法属于应税交易范围，税率优惠等再按具体条件判断。",
+        "员工为受雇单位或雇主提供取得工资薪金的服务，不属于应税交易；不能把任何收到钱的情形都当作销售服务。"
+      ],
+      "pitfall": "本组只辨交易性质，不用未核实的临时税率优惠算税额。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-tax-remedy",
+      "chapterId": "COMMERCIAL-G5-TAX-REMEDY",
+      "sectionId": "tax",
+      "title": "纳税争议与处罚救济",
+      "headline": "争的是应缴税款，通常先缴纳或担保再复议；一般独立罚款不能机械套用。",
+      "paragraphs": [
+        "纳税争议依税收征管法要求先缴纳、解缴税款和滞纳金或提供相应担保，再依法申请复议，对复议决定不服再诉讼。",
+        "对处罚、强制执行或保全等不服，有相应复议和诉讼路径；需注意现行复议法特别前置，本组独立罚款明确非当场处罚等情形。"
+      ],
+      "pitfall": "不把税款争议的先缴条件加给所有税务处罚。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-tax-enforcement",
+      "chapterId": "COMMERCIAL-G5-TAX-ENFORCEMENT",
+      "sectionId": "tax",
+      "title": "税收保全与解除",
+      "headline": "保全须符合法定条件和审批，依法缴清后应及时解除。",
+      "paragraphs": [
+        "税收保全须满足逃避纳税等法定条件，依法经县以上税务局局长批准，范围、方式和基本生活保护均有约束。",
+        "纳税人在规定期限内缴纳税款后，税务机关应立即解除保全；不能把保全当作永久处罚。"
+      ],
+      "pitfall": "暂时保全、强制执行与行政罚款不是同一个程序。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-land-use",
+      "chapterId": "COMMERCIAL-G5-LAND-USE",
+      "sectionId": "land",
+      "title": "农用地转用与集体经营性建设用地",
+      "headline": "私人合同不能替代用途管制，集体建设用地入市也有法定条件和表决要求。",
+      "paragraphs": [
+        "农用地转为建设用地须依法办理审批，土地承包经营等合同不能自行改变法定用途。",
+        "依法符合规划、登记等条件的集体经营性建设用地可依法出让出租，须经本集体经济组织成员的村民会议三分之二以上成员或三分之二以上村民代表同意等。"
+      ],
+      "pitfall": "不把全部集体土地都当作可自由建设的经营性建设用地。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-realty-transfer",
+      "chapterId": "COMMERCIAL-G5-REALTY-TRANSFER",
+      "sectionId": "land",
+      "title": "房地一体与划拨房地产转让",
+      "headline": "房与相应土地使用权原则上一起处分，划拨房地产转让要走法定批准路径。",
+      "paragraphs": [
+        "房地产转让时，房屋所有权与相应土地使用权依法一并转让，不能任意拆开形成冲突权利。",
+        "划拨取得土地使用权的房地产转让，应依法报有批准权政府审批，按法定情形办理出让缴费或收益处理等，不是签私人合同即自动完成。"
+      ],
+      "pitfall": "土地所有权与土地使用权要分清，不把两者一起“卖掉”。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-environment-assessment",
+      "chapterId": "COMMERCIAL-G5-ENVIRONMENT-ASSESSMENT",
+      "sectionId": "environment",
+      "title": "建设项目环评与变更",
+      "headline": "按现行生态环境法典履行分类环评，应审批项目未经批准不能先开工。",
+      "paragraphs": [
+        "建设项目按影响程度实行环境影响报告书、报告表或登记表等分类管理，不能把所有项目套成同一种文件。",
+        "依法需审批的项目未经批准不得开工；批准后项目性质、规模、地点或防治措施等发生重大变化，依法重新报批。"
+      ],
+      "pitfall": "本组事实设在2026年10月，适用已施行生态环境法典，不沿用已被整合废止的旧法编号。",
+      "package": "social-resources"
+    },
+    {
+      "id": "commercial-g5-pollution-permit",
+      "chapterId": "COMMERCIAL-G5-POLLUTION-PERMIT",
+      "sectionId": "environment",
+      "title": "排污许可与台账",
+      "headline": "应领证的单位须按证排污，取得许可后仍有监测和台账义务。",
+      "paragraphs": [
+        "依法纳入排污许可管理的单位，须按规定取得许可证，未取证不得排污，环保设备已装好不是许可证。",
+        "许可证有法定期限；排污单位须按证履行监测、记录等义务，环境管理台账记录保存不得少于五年。"
+      ],
+      "pitfall": "许可证不是取得后就不再需要监测的免查证明。",
+      "package": "social-resources"
+    }
+  ],
+  "cases": [
+    {
+      "id": "commercial-g5-representative-purchase",
+      "topicId": "commercial-g5-representative",
+      "title": "负责人超内部采购限额",
+      "facts": "【原创教学案例】2026年10月，甲公司法定代表人以公司名义向乙订购正常经营所需设备。公司内部规定超过50万元须先报股东会，合同金额70万元。乙按通常方式核实了代表人身份，交易正常，不知道也没有应当知道该内部限制的情形。公司收到设备后只以未内部报批拒付。",
+      "prompt": "公司能否仅用内部报批限制对乙拒付？",
+      "reference": "不能。这是以公司名义订立的普通经营合同，乙对内部限额不知且无应知情形。内部限制不能对抗乙，公司应依法承担合同责任；代表人是否违反内部管理规定另行处理。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "内部未批准，乙只能向代表人个人要钱。",
+          "explanation": "忽略善意相对人保护。"
+        },
+        {
+          "text": "不能，公司不能仅凭内部限制对抗本案乙。",
+          "explanation": "普通交易的公司责任不因内部审批落空。"
+        },
+        {
+          "text": "所有超过50万元的公司合同都无效。",
+          "explanation": "内部限额不是统一法定限额。"
+        },
+        {
+          "text": "公司代表人任何行为都不受法律约束。",
+          "explanation": "对外保护不免除内部责任。"
+        }
+      ],
+      "points": [
+        {
+          "label": "普通代表行为",
+          "meaning": "联系以公司名义购买经营设备，说明法律后果归公司。",
+          "boundary": "本案不是对外担保。"
+        },
+        {
+          "label": "善意保护",
+          "meaning": "联系乙不知且无应知限制，说明内部限额不能作为拒付理由。",
+          "boundary": "不能推广到恶意串通或特别交易。"
+        }
+      ],
+      "sources": ["commercial-g5-representative"]
+    },
+    {
+      "id": "commercial-g5-representative-tort",
+      "topicId": "commercial-g5-representative",
+      "title": "负责人执行职务损坏他人设备",
+      "facts": "【原创教学案例】甲公司法定代表人负责现场协调运输，在执行公司事务时操作失误，造成邻厂设备损坏。损害与职务行为的关联已查清。公司称操作的是个人，故受害人只能找他，公司最多帮忙协调。",
+      "prompt": "能否仅因由代表人亲手操作就排除公司责任？公司承担后能否向有过错的代表人追偿？",
+      "reference": "不能。法定代表人执行职务造成他人损害，应由公司依法承担民事责任。公司承担后，可依法律或章程向有过错的代表人追偿，不能把内部追偿代替对外责任。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "亲手操作者是个人，公司永远免责。",
+          "explanation": "忽略职务行为归属。"
+        },
+        {
+          "text": "公司负责就永远不能向过错人追偿。",
+          "explanation": "外部赔偿与内部追偿不同。"
+        },
+        {
+          "text": "公司依法承担对外责任，符合条件后可内部追偿。",
+          "explanation": "执行职务及损害关联清楚。"
+        },
+        {
+          "text": "只有代表人犯罪公司才有民事责任。",
+          "explanation": "民事职务责任不以犯罪为门槛。"
+        }
+      ],
+      "points": [
+        {
+          "label": "对外责任",
+          "meaning": "联系执行公司事务致损，说明公司依法承担责任。",
+          "boundary": "不推及与职务无关的纯私人行为。"
+        },
+        {
+          "label": "内部追偿",
+          "meaning": "说明公司可依法向有过错代表人追偿，不能借此对外推责。",
+          "boundary": "不要求确定具体过错比例。"
+        }
+      ],
+      "sources": ["commercial-g5-representative"]
+    },
+    {
+      "id": "commercial-g5-resolution-invented",
+      "topicId": "commercial-g5-resolution",
+      "title": "没有开过的股东会",
+      "facts": "【原创教学案例】2026年10月，公司负责人制作一份“全体股东会决议”，但股东从未开会，也未以任何法定或章程允许的其他方式对该事项表决。负责人自行写了赞成票并保存文件。股东要求确认该决议的效力。",
+      "prompt": "本案应重点判断决议不成立，还是仅存在可撤销的召集瑕疵？",
+      "reference": "应确认决议不成立。根本未开会，也没有其他合法表决，缺少形成决议的基本过程，不是已经形成决议后仅有通知等程序瑕疵。负责人写上决议标题不等于决议成立。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "决议不成立，缺少会议和合法表决。",
+          "explanation": "不是轻微通知瑕疵。"
+        },
+        {
+          "text": "标题写了决议就当然成立。",
+          "explanation": "文字标题不能代替真实形成过程。"
+        },
+        {
+          "text": "只能看打印格式，不能看实际开会情况。",
+          "explanation": "效力须按法定事实判断。"
+        },
+        {
+          "text": "负责人保存满一天，决议自动生效。",
+          "explanation": "无此补正规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "形成过程",
+          "meaning": "联系未开会且无其他合法表决。",
+          "boundary": "不能仅因纸上写赞成票就当真实表决。"
+        },
+        {
+          "label": "效力区分",
+          "meaning": "认定不成立，区别已经形成决议的召集程序瑕疵。",
+          "boundary": "不要求说所有期限。"
+        }
+      ],
+      "sources": ["commercial-g5-resolution"]
+    },
+    {
+      "id": "commercial-g5-resolution-minor",
+      "topicId": "commercial-g5-resolution",
+      "title": "通知有小差错，但全员充分参与",
+      "facts": "【原创教学案例】某公司召开股东会，通知格式有一处轻微差错。全体股东按时参会、完整获知议题并充分讨论，表决条件和结果均符合法律及章程。该差错未对决议产生实质影响，也无其他违法情形。一股东仅凭该差错请求撤销。",
+      "prompt": "这项轻微差错是否必然足以撤销决议？",
+      "reference": "不足以。召集或表决方式仅有轻微瑕疵，且未对决议产生实质影响，属于撤销规则的例外。本案不能仅凭这处格式差错撤销，不代表所有严重剥夺参与权的程序问题都可忽略。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "只要格式有错一律撤销。",
+          "explanation": "忽略轻微且无实质影响的例外。"
+        },
+        {
+          "text": "全员参与意味着所有公司程序永远不用遵守。",
+          "explanation": "不能如此推广。"
+        },
+        {
+          "text": "程序有错必然构成决议内容违法无效。",
+          "explanation": "内容无效与程序撤销不同。"
+        },
+        {
+          "text": "本案轻微且无实质影响，不仅凭此撤销。",
+          "explanation": "条件应合并判断。"
+        }
+      ],
+      "points": [
+        {
+          "label": "例外条件",
+          "meaning": "联系轻微差错且无实质影响，说明属于法定例外。",
+          "boundary": "不推广到严重参与权侵害。"
+        },
+        {
+          "label": "本案结论",
+          "meaning": "说明不因该差错必然撤销。",
+          "boundary": "不能只说所有程序错误无关紧要。"
+        }
+      ],
+      "sources": ["commercial-g5-resolution"]
+    },
+    {
+      "id": "commercial-g5-director-relative",
+      "topicId": "commercial-g5-director",
+      "title": "董事让公司买自己控制企业的货",
+      "facts": "【原创教学案例】2026年10月，董事周某安排公司向其实际控制的供应商采购，未披露控制关系，也未按公司章程提交任何有权机构决议。周某认为货物确实交付，事后知道供应商是谁就够。",
+      "prompt": "货物真实交付能否代替报告和决议程序？",
+      "reference": "不能。供应商由董事控制，属于关联交易范围，应报告关联事项，并按章程履行董事会或股东会决议程序。真实交货不免除利益冲突程序，也不当然证明交易全部条件公允。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要交了货，就无需报告或决议。",
+          "explanation": "履行事实不替代关联程序。"
+        },
+        {
+          "text": "不能，仍须披露关联并按章程履行决议程序。",
+          "explanation": "本案存在控制关系。"
+        },
+        {
+          "text": "董事控制的企业绝对不能有任何交易。",
+          "explanation": "关联交易不是一概禁止。"
+        },
+        {
+          "text": "董事可私自决定由谁承担公司损失。",
+          "explanation": "职位不免除忠实勤勉义务。"
+        }
+      ],
+      "points": [
+        {
+          "label": "关联识别",
+          "meaning": "联系董事控制供应商，说明属关联交易。",
+          "boundary": "不凭姓氏相同等不足事实推断关联。"
+        },
+        {
+          "label": "法定程序",
+          "meaning": "说明需报告并按章程经有权机构决议，交货不替代。",
+          "boundary": "不要求本题直接判定合同无效。"
+        }
+      ],
+      "sources": ["commercial-g5-director"]
+    },
+    {
+      "id": "commercial-g5-director-vote",
+      "topicId": "commercial-g5-director",
+      "title": "三名董事里两名关联",
+      "facts": "【原创教学案例】公司董事会共三名董事，拟审议涉及其中两名董事关联企业的交易。三人均到场，两名关联董事主张一起投票即可形成多数；不考虑其他缺席或资格争议。",
+      "prompt": "两名关联董事可否投票，这项事项应如何提交审议？",
+      "reference": "关联董事不得参与这项表决，其表决权不计入总数。本案出席无关联董事只有一人，不足三人，应提交股东会审议，不能靠关联董事凑多数。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "到场即可全部投票，不需回避。",
+          "explanation": "关联董事有回避要求。"
+        },
+        {
+          "text": "只要一名无关联董事赞成，即可独自决定。",
+          "explanation": "无关联董事不足三人应提交股东会。"
+        },
+        {
+          "text": "关联董事回避，无关联董事不足三人时提交股东会。",
+          "explanation": "不能凑关联多数。"
+        },
+        {
+          "text": "股东会永远不能审议关联交易。",
+          "explanation": "现行法设有提交机制。"
+        }
+      ],
+      "points": [
+        {
+          "label": "回避",
+          "meaning": "指出关联董事不得参与，表决权不计入总数。",
+          "boundary": "不要求认定所有董事职务终止。"
+        },
+        {
+          "label": "提交股东会",
+          "meaning": "联系无关联董事仅一人不足三人，说明应提交股东会。",
+          "boundary": "不是让关联董事补票。"
+        }
+      ],
+      "sources": ["commercial-g5-director"]
+    },
+    {
+      "id": "commercial-g5-derivative-refusal",
+      "topicId": "commercial-g5-derivative",
+      "title": "监事会收到请求后明确拒绝",
+      "facts": "【原创教学案例】有限公司股东甲发现董事侵占公司货款，书面请求监事会向法院起诉。监事会收到后明确书面拒绝。甲准备为公司利益以自己名义提起诉讼，要求追回的款项归公司。",
+      "prompt": "甲是否必须再等满三十日，能否按题设依法起诉？",
+      "reference": "不必因未满三十日而继续等待。监事会已明确拒绝，满足法定替代起诉条件之一；甲作为有限公司股东，可为公司利益以自己名义依法起诉，追回利益归公司。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "已经明确拒绝，甲可依法为公司利益起诉，不必再等三十日。",
+          "explanation": "拒绝与三十日不诉是不同条件。"
+        },
+        {
+          "text": "明确拒绝后也必须永远等待。",
+          "explanation": "会使法定救济失效。"
+        },
+        {
+          "text": "所有有限公司股东必须先持股180日且1%。",
+          "explanation": "不能误套股份公司门槛。"
+        },
+        {
+          "text": "追回款项当然全部归甲个人。",
+          "explanation": "代表诉讼保护公司利益。"
+        }
+      ],
+      "points": [
+        {
+          "label": "先行请求完成",
+          "meaning": "联系书面请求及明确拒绝，说明不必再等满三十日。",
+          "boundary": "没有把任何口头不满都当法定请求。"
+        },
+        {
+          "label": "代表起诉",
+          "meaning": "说明以自己名义为公司利益起诉，追回归公司。",
+          "boundary": "不需股份公司比例期间条件。"
+        }
+      ],
+      "sources": ["commercial-g5-derivative"]
+    },
+    {
+      "id": "commercial-g5-derivative-emergency",
+      "topicId": "commercial-g5-derivative",
+      "title": "侵权人今晚就要转走全部财产",
+      "facts": "【原创教学案例】符合代表诉讼股东资格的乙掌握证据，证明董事正将侵占的公司财产转往境外，当晚转完即难以追回。不立即起诉将使公司利益遭受难以弥补损害。乙尚未完成通常的机关先行请求程序。",
+      "prompt": "能否一概以未先等三十日为由阻止乙依法直接起诉？",
+      "reference": "不能。本案具有紧急性和不立即起诉将难以弥补损害的事实，符合直接起诉的法定例外。不能机械要求先等待三十日；乙仍是为公司利益起诉，其他程序依法办理。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何时候都必须先等三十日。",
+          "explanation": "忽略法定紧急例外。"
+        },
+        {
+          "text": "情况紧急就可以不用法院直接处分董事财产。",
+          "explanation": "救济仍须走法律程序。"
+        },
+        {
+          "text": "只要股东说着急，任何条件都不用证明。",
+          "explanation": "本题有具体证据和难以弥补损害。"
+        },
+        {
+          "text": "不能，本案可依紧急例外依法直接起诉。",
+          "explanation": "不把先行程序变成损害扩大的障碍。"
+        }
+      ],
+      "points": [
+        {
+          "label": "紧急事实",
+          "meaning": "联系财产当晚外转、难以追回，说明符合紧急例外。",
+          "boundary": "不是任何主观着急。"
+        },
+        {
+          "label": "直接起诉",
+          "meaning": "说明不能机械等三十日，可依法为公司利益直接起诉。",
+          "boundary": "不等于允许自行查封。"
+        }
+      ],
+      "sources": ["commercial-g5-derivative"]
+    },
+    {
+      "id": "commercial-g5-profit-loss",
+      "topicId": "commercial-g5-profit",
+      "title": "账上有现金就直接分红",
+      "facts": "【原创教学案例】2026年10月，公司以前年度亏损尚未弥补，当年税后利润尚不足补平。股东看到银行有一笔客户预付款，决定按现金余额分红，未处理亏损与公积金事项。",
+      "prompt": "能否把银行现金余额直接当作可分配利润？",
+      "reference": "不能。客户预付款形成现金，并不等于可分配税后利润。分配前应依法先补亏损、提取公积金，本案利润不足补亏，不能仅凭账上有现金直接分红。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要银行有余额就可以全部分掉。",
+          "explanation": "现金不等于可分利润。"
+        },
+        {
+          "text": "不能，应先依法补亏并处理公积金，现金余额不是利润标准。",
+          "explanation": "本案仍有未补亏损。"
+        },
+        {
+          "text": "股东投票可取消所有资本保护规则。",
+          "explanation": "决议不能当然排除法定义务。"
+        },
+        {
+          "text": "客户预付款一律是股东私人财产。",
+          "explanation": "公司资金并非当然可分。"
+        }
+      ],
+      "points": [
+        {
+          "label": "资金与利润",
+          "meaning": "说明客户预付款或现金余额不等于可分配利润。",
+          "boundary": "不要求做完整会计报表。"
+        },
+        {
+          "label": "分配顺序",
+          "meaning": "联系未补亏损，说明应依法先补亏等，不能直接分。",
+          "boundary": "不强求在无可分利润时计算提取数。"
+        }
+      ],
+      "sources": ["commercial-g5-profit"]
+    },
+    {
+      "id": "commercial-g5-profit-return",
+      "topicId": "commercial-g5-profit",
+      "title": "违法分到的钱已经花掉",
+      "facts": "【原创教学案例】公司违法分红的事实已查明，股东甲因此收到20万元。公司要求返还，甲承认款项属于违法分配，却称钱已经消费，不应再退。其他责任人的损害赔偿问题本问不展开。",
+      "prompt": "甲能否仅因已消费而免除退还义务？",
+      "reference": "不能。股东应将违法分配的利润退还公司，个人已经花掉不免除这项返还义务。是否还存在赔偿损失等责任另依法处理，本案不把返还改成可自愿选择。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "已经花掉就自动不用退。",
+          "explanation": "消费不消灭法定返还义务。"
+        },
+        {
+          "text": "股东收到的所有合法分红也一律要退。",
+          "explanation": "本题是违法分配。"
+        },
+        {
+          "text": "不能，违法分配的利润仍应退还公司。",
+          "explanation": "法定义务不因消费改变。"
+        },
+        {
+          "text": "公司只能找消费者购买的商店退钱。",
+          "explanation": "返还主体是收取违法分配的股东。"
+        }
+      ],
+      "points": [
+        {
+          "label": "返还义务",
+          "meaning": "明确股东应退还违法分配利润。",
+          "boundary": "不泛化到合法分红。"
+        },
+        {
+          "label": "消费不免责",
+          "meaning": "联系已消费，否定因此不退的理由。",
+          "boundary": "不要求另查甲其他资产。"
+        }
+      ],
+      "sources": ["commercial-g5-profit"]
+    },
+    {
+      "id": "commercial-g5-liquidation-board",
+      "topicId": "commercial-g5-liquidation",
+      "title": "股东会解散后二十日没人组织清算",
+      "facts": "【原创教学案例】2026年10月，某有限公司股东会依法作出解散决议，应当清算。20日过去，董事未组织清算组，也没有章程或决议另选成员。董事以自己不持股为由，要求债权人只能催股东。",
+      "prompt": "董事能否因不持股而拒绝履行清算义务？",
+      "reference": "不能。现行一般规则由董事担任清算义务人，应自解散事由出现起十五日内组成清算组。本案已过二十日，不能因董事不持股就把组织清算义务全部推给股东。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，董事负清算义务，已超过通常十五日组织期限。",
+          "explanation": "不以是否持股区分。"
+        },
+        {
+          "text": "董事不持股就永远不必理会清算。",
+          "explanation": "混同股东和董事的法定义务。"
+        },
+        {
+          "text": "作出解散决议当日所有债务自动消失。",
+          "explanation": "解散不直接抹去债务。"
+        },
+        {
+          "text": "债权人无权关心清算是否进行。",
+          "explanation": "符合条件可申请司法清算。"
+        }
+      ],
+      "points": [
+        {
+          "label": "义务主体",
+          "meaning": "说明董事为清算义务人，不因未持股免除。",
+          "boundary": "不以旧规则泛称仅股东负责。"
+        },
+        {
+          "label": "及时组织",
+          "meaning": "联系二十日已过一般十五日，应组织清算组。",
+          "boundary": "本案不是合并分立解散。"
+        }
+      ],
+      "sources": ["commercial-g5-liquidation"]
+    },
+    {
+      "id": "commercial-g5-liquidation-court",
+      "topicId": "commercial-g5-liquidation",
+      "title": "解散后长期无人清算",
+      "facts": "【原创教学案例】公司依法解散后长期不成立清算组，债权人的到期债权无法在清算中处理。债权人拟申请法院指定人员组成清算组，股东称必须全体股东同意才能申请。",
+      "prompt": "债权人能否依法申请法院组织清算，是否以全体股东同意为必要？",
+      "reference": "可以依法申请。对依法应清算却逾期不成立清算组等情形，利害关系人可申请法院指定人员组成清算组。全体股东同意不是本案申请的前提，不能靠拒绝同意阻断法定救济。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "必须所有股东先同意，否则法院永远无权。",
+          "explanation": "无此统一前提。"
+        },
+        {
+          "text": "解散以后法院不能再处理任何公司问题。",
+          "explanation": "仍有司法清算机制。"
+        },
+        {
+          "text": "债权人可直接把所有公司财产据为己有。",
+          "explanation": "应依法申请清算而非自助取财。"
+        },
+        {
+          "text": "可依法申请，不以全体股东同意为条件。",
+          "explanation": "利害关系人具有相应法定申请路径。"
+        }
+      ],
+      "points": [
+        {
+          "label": "申请路径",
+          "meaning": "联系逾期未成立清算组，说明债权人可依法申请法院组织。",
+          "boundary": "不是直接申请判全部个人债务。"
+        },
+        {
+          "label": "无需全体同意",
+          "meaning": "否定全体股东同意为必要前提。",
+          "boundary": "不免除其他法定申请条件。"
+        }
+      ],
+      "sources": ["commercial-g5-liquidation"]
+    },
+    {
+      "id": "commercial-g5-partner-gp",
+      "topicId": "commercial-g5-partner-liability",
+      "title": "合伙账上不够，甲只肯承担内部四成",
+      "facts": "【原创教学案例】甲乙设普通合伙企业，约定内部亏损甲四成乙六成。企业欠外部债权人100万元，全部企业财产只能清偿20万元。债权人要求甲清偿剩余80万元，甲承认债务但只愿按四成承担。",
+      "prompt": "甲能否用内部四成比例对抗债权人，超额承担后如何处理？",
+      "reference": "不能。企业财产不足后，普通合伙人对剩余企业债务承担无限连带责任，甲不能拿内部四成限制外部债权。甲清偿超过自身内部分担部分，可依法向乙追偿。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "内部四成比例当然约束所有外部债权人。",
+          "explanation": "内部约定不改变外部无限连带。"
+        },
+        {
+          "text": "不能对抗，甲清偿超内部分担部分可向乙追偿。",
+          "explanation": "对外与对内分开。"
+        },
+        {
+          "text": "企业只剩20万元，其余债务自动免除。",
+          "explanation": "普通合伙人仍有外部责任。"
+        },
+        {
+          "text": "甲可直接要求国家替企业还款。",
+          "explanation": "没有本案依据。"
+        }
+      ],
+      "points": [
+        {
+          "label": "外部责任",
+          "meaning": "说明不足部分普通合伙人无限连带，内部比例不能对抗。",
+          "boundary": "已先使用企业全部财产。"
+        },
+        {
+          "label": "内部追偿",
+          "meaning": "说明超出内部分担可向乙追偿。",
+          "boundary": "不要求精算追偿金额。"
+        }
+      ],
+      "sources": ["commercial-g5-partner-liability"]
+    },
+    {
+      "id": "commercial-g5-partner-lp",
+      "topicId": "commercial-g5-partner-liability",
+      "title": "有限合伙人已足额缴纳出资",
+      "facts": "【原创教学案例】某有限合伙企业欠普通经营债务。有限合伙人丙认缴50万元且已足额缴纳，未对外执行事务，也未使债权人相信其为普通合伙人，无其他特殊责任情形。债权人仅因企业资不抵债，要求丙再用全部家庭财产偿还。",
+      "prompt": "能否仅因企业欠债就要求丙承担普通合伙人的无限责任？",
+      "reference": "不能。丙作为有限合伙人，通常以认缴出资额为限承担责任，且本案已缴足、无特别责任事实，不能只因企业不足清偿就让其承担普通合伙人的无限连带责任。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "所有合伙人都必须承担无限责任。",
+          "explanation": "有限合伙人有不同规则。"
+        },
+        {
+          "text": "有限合伙人连认缴出资都永远不用缴。",
+          "explanation": "有限责任不免除出资义务。"
+        },
+        {
+          "text": "不能，本案丙已缴足且无例外，不按普通合伙人无限追偿。",
+          "explanation": "应尊重组织形式和事实。"
+        },
+        {
+          "text": "丙有家属，所以全部家属自动成为合伙人。",
+          "explanation": "不存在该当然推定。"
+        }
+      ],
+      "points": [
+        {
+          "label": "有限责任",
+          "meaning": "指出有限合伙人通常以认缴出资额为限。",
+          "boundary": "不要求所有LP永远无例外。"
+        },
+        {
+          "label": "事实适用",
+          "meaning": "联系缴足且无对外冒充等事实，否定本案无限追偿。",
+          "boundary": "不把债务人财产不足等同自动变更身份。"
+        }
+      ],
+      "sources": ["commercial-g5-partner-liability"]
+    },
+    {
+      "id": "commercial-g5-partner-ordinary-deal",
+      "topicId": "commercial-g5-partner-management",
+      "title": "执行事务人超过内部额度订货",
+      "facts": "【原创教学案例】合伙企业授权甲执行事务并对外代表，内部约定购货超过10万元需其他人同意。甲以企业名义订20万元正常经营货物，对方核实其代表身份，既不知道也没有应当知道该内部限额的情形。其他合伙人拟仅凭未内部同意拒付。",
+      "prompt": "能否仅以内部额度限制对抗本案交易相对人？",
+      "reference": "不能。企业内部对甲代表权限的限制，不得对抗善意第三人。本案正常经营交易、相对人对内部限制无知且无应知，应依法处理企业对外责任，甲内部越权责任另论。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，内部限制不对抗本案善意相对人。",
+          "explanation": "对外交易与内部责任分开。"
+        },
+        {
+          "text": "任何内部限额都自动记在交易人头上。",
+          "explanation": "不符合善意第三人保护。"
+        },
+        {
+          "text": "甲可对外代表就永远不用遵守内部约定。",
+          "explanation": "内部约定仍约束甲。"
+        },
+        {
+          "text": "货款由其他合伙人的家属无条件承担。",
+          "explanation": "无本案法律关系。"
+        }
+      ],
+      "points": [
+        {
+          "label": "善意事实",
+          "meaning": "联系正常交易、相对人不知且无应知限额。",
+          "boundary": "不要求对方证明无法得知所有内部信息。"
+        },
+        {
+          "label": "对外效力",
+          "meaning": "说明内部限额不能据此对抗，对内另追责。",
+          "boundary": "不涉及法定必须一致同意的特别处分。"
+        }
+      ],
+      "sources": ["commercial-g5-partner-management"]
+    },
+    {
+      "id": "commercial-g5-partner-lp-audit",
+      "topicId": "commercial-g5-partner-management",
+      "title": "有限合伙人参与选择审计机构",
+      "facts": "【原创教学案例】有限合伙人乙参与决定聘请哪家会计师事务所进行审计，并查看依法可查的财务资料。乙未对外签约、未日常经营，也未以普通合伙人身份出现。普通合伙人称“只要过问审计就变成执行事务”。",
+      "prompt": "这些行为是否当然构成有限合伙人执行合伙事务？",
+      "reference": "不当然构成。参与选择承办审计业务的会计师事务所、依法查阅相关财务资料，属于法律允许有限合伙人实施的行为范围，不能仅据此认定其执行事务或自动变为普通合伙人。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "只要看一次账就自动承担普通合伙人责任。",
+          "explanation": "法律保留有限合伙人的监督等权利。"
+        },
+        {
+          "text": "有限合伙人任何信息都不能获取。",
+          "explanation": "并非完全不得过问。"
+        },
+        {
+          "text": "参与审计就能无限制对外代表企业。",
+          "explanation": "允许监督不等于授予代表权。"
+        },
+        {
+          "text": "本案法定参与审计及查账行为不当然算执行事务。",
+          "explanation": "须按具体行为和法定边界判断。"
+        }
+      ],
+      "points": [
+        {
+          "label": "法定允许行为",
+          "meaning": "识别选择审计机构、依法查账属于允许范围。",
+          "boundary": "不推及任意日常经营或对外代表。"
+        },
+        {
+          "label": "身份责任",
+          "meaning": "说明不因此当然认定执行事务或自动转为普通合伙人。",
+          "boundary": "不忽略另有对外误导时的例外。"
+        }
+      ],
+      "sources": ["commercial-g5-partner-management"]
+    },
+    {
+      "id": "commercial-g5-sole-private",
+      "topicId": "commercial-g5-sole-liability",
+      "title": "登记独资后声称只赔注册金额",
+      "facts": "【原创教学案例】周某登记设立个人独资企业，不是一人有限责任公司。企业财产不足偿还到期债务，周某主张自己登记申报出资20万元，清偿最多以20万元为限，个人其他财产一概不用承担。",
+      "prompt": "这种责任上限说法是否成立？",
+      "reference": "不成立。个人独资企业投资人通常承担无限责任，企业财产不足时应依法以个人其他财产清偿，不能把登记申报出资当成有限公司式责任上限。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "所有一人投资的企业都只以出资为限。",
+          "explanation": "组织形式不同。"
+        },
+        {
+          "text": "不成立，个人独资投资人通常负无限责任。",
+          "explanation": "申报出资不是有限责任上限。"
+        },
+        {
+          "text": "营业执照一发，企业所有债务均由国家负担。",
+          "explanation": "没有该规则。"
+        },
+        {
+          "text": "独资企业债权人永远不能起诉。",
+          "explanation": "可以依法主张债权。"
+        }
+      ],
+      "points": [
+        {
+          "label": "形式区分",
+          "meaning": "联系登记为个人独资而非一人有限公司。",
+          "boundary": "不仅看投资人人数。"
+        },
+        {
+          "label": "无限责任",
+          "meaning": "说明个人其他财产可依法用于清偿，不以20万元限。",
+          "boundary": "不要求判全部家庭财产当然归企业。"
+        }
+      ],
+      "sources": ["commercial-g5-sole-liability"]
+    },
+    {
+      "id": "commercial-g5-sole-family",
+      "topicId": "commercial-g5-sole-liability",
+      "title": "登记时明确用家庭共有财产出资",
+      "facts": "【原创教学案例】李某设立个人独资企业时，在设立登记文件中明确以家庭共有财产作为个人出资。企业对外经营形成债务，现财产不足清偿。李某认为企业由自己一人登记，便不能涉及其声明投入的家庭共有财产。",
+      "prompt": "登记时这项明确声明对责任财产范围有何影响？",
+      "reference": "依法应以家庭共有财产对企业债务承担无限责任。个人独资投资人的登记声明已明确采用家庭共有财产，不能事后仅以经营者登记一人为由排除该责任范围；不是所有个人独资都自动使用全部家庭财产。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "不论是否声明，所有家属财产都自动承担。",
+          "explanation": "不能如此一概扩大。"
+        },
+        {
+          "text": "只有一人登记，明确家庭出资声明完全无意义。",
+          "explanation": "法律对此规定责任效果。"
+        },
+        {
+          "text": "本案应依法以已明确声明的家庭共有财产承担无限责任。",
+          "explanation": "以登记时明确意思和组织形式为基础。"
+        },
+        {
+          "text": "将企业名称换掉即可消灭旧债。",
+          "explanation": "名称变化不自动免债。"
+        }
+      ],
+      "points": [
+        {
+          "label": "明确家庭出资",
+          "meaning": "联系设立登记文件明确以家庭共有财产出资。",
+          "boundary": "不能推定其他未声明案件。"
+        },
+        {
+          "label": "责任范围",
+          "meaning": "说明依法以家庭共有财产承担无限责任。",
+          "boundary": "不把家庭共有范围扩成所有亲属独立财产。"
+        }
+      ],
+      "sources": ["commercial-g5-sole-liability"]
+    },
+    {
+      "id": "commercial-g5-bankruptcy-creditor",
+      "topicId": "commercial-g5-bankruptcy-entry",
+      "title": "债务人长期无钱偿还到期货款",
+      "facts": "【原创教学案例】甲公司欠乙已到期货款，债权无争议。甲停止经营，全部可变现资产远低于总负债，也没有其他资金来源。乙准备向法院申请破产清算，甲称只有公司自己才有权提出。",
+      "prompt": "能否仅因申请人是债权人就拒绝其申请？",
+      "reference": "不能。债务人不能清偿到期债务，债权人有法定破产申请路径；本案另有资产不足等事实，乙可提交证据依法申请清算。是否受理、宣告仍由法院审查，不是乙一申请就自动破产。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只有债务人本人能提出申请。",
+          "explanation": "债权人也有法定申请权。"
+        },
+        {
+          "text": "不能，乙可凭到期未清偿等证据依法申请。",
+          "explanation": "申请后仍需法院审查。"
+        },
+        {
+          "text": "申请递交后公司当天自动注销。",
+          "explanation": "申请不是宣告或注销。"
+        },
+        {
+          "text": "债权无争议反而绝对不能申请。",
+          "explanation": "无此限制。"
+        }
+      ],
+      "points": [
+        {
+          "label": "法定申请权",
+          "meaning": "说明债权人可依法提出破产清算申请。",
+          "boundary": "不是任何公众都能申请。"
+        },
+        {
+          "label": "联系条件",
+          "meaning": "结合到期未清偿和资产明显不足，说明依法提交证据并由法院审查。",
+          "boundary": "不将一次迟付概括为必然破产。"
+        }
+      ],
+      "sources": ["commercial-g5-bankruptcy-entry"]
+    },
+    {
+      "id": "commercial-g5-bankruptcy-execution",
+      "topicId": "commercial-g5-bankruptcy-entry",
+      "title": "受理后债权人还想单独扣款",
+      "facts": "【原创教学案例】法院已经受理甲公司的破产申请。另一法院原来正在执行甲的普通货款债务，尚未把账户款划给债权人。债权人要求在管理人接管前赶紧继续划款，理由是自己先申请执行。",
+      "prompt": "是否可仅凭先申请执行而继续本案个别执行？",
+      "reference": "不能。破产申请已受理，涉及债务人财产的执行程序应中止，债权依法转入集中清理。先申请执行不等于在受理后仍有权抢先划走财产；尚未完成的执行不能按该理由继续。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "先申请执行者受理后仍可任意抢先划款。",
+          "explanation": "忽略受理后的集中程序。"
+        },
+        {
+          "text": "只有最终宣告破产才可能中止任何执行。",
+          "explanation": "本案受理已产生法定效果。"
+        },
+        {
+          "text": "不能，应中止个别执行，按破产程序处理。",
+          "explanation": "防止破产财产被个别抢走。"
+        },
+        {
+          "text": "管理人接管后债务自动全部免除。",
+          "explanation": "债权并非自动消失。"
+        }
+      ],
+      "points": [
+        {
+          "label": "受理时点",
+          "meaning": "指出已受理即应中止相关执行。",
+          "boundary": "不误等到宣告或接管完毕。"
+        },
+        {
+          "label": "集中清理",
+          "meaning": "说明先执行申请不使本案可继续抢款，债权按破产程序处理。",
+          "boundary": "不要求判断已执行完毕的其他案件。"
+        }
+      ],
+      "sources": ["commercial-g5-bankruptcy-entry"]
+    },
+    {
+      "id": "commercial-g5-estate-gift",
+      "topicId": "commercial-g5-bankruptcy-estate",
+      "title": "受理前三个月把机器白送关联方",
+      "facts": "【原创教学案例】甲公司破产申请受理前三个月，将自己所有的一批机器无偿赠给关联企业，已交付。没有相应对价，也不涉及公益性特别情形。管理人发现该赠与，拟请求法院撤销并追回。",
+      "prompt": "管理人能否针对这项无偿转让依法请求撤销？",
+      "reference": "可以。无偿转让发生在破产申请受理前一年内，属于管理人依法可请求法院撤销的行为。依法撤销后追收相关财产，不因关联方已经接收就当然保留，也不是未经程序直接认作没收。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "可以，属受理前一年内的无偿转让。",
+          "explanation": "管理人依法请求法院撤销。"
+        },
+        {
+          "text": "已交付便永远不能追回。",
+          "explanation": "交付不排除破产撤销。"
+        },
+        {
+          "text": "只有受理前一天的赠与才能撤销。",
+          "explanation": "不是该时限。"
+        },
+        {
+          "text": "管理人可不经任何依据没收关联方全部财产。",
+          "explanation": "追回范围和程序受法定约束。"
+        }
+      ],
+      "points": [
+        {
+          "label": "法定类型期间",
+          "meaning": "联系无偿赠与、受理前三个月，属于一年内范围。",
+          "boundary": "不要求额外证明关联方参与所有侵权。"
+        },
+        {
+          "label": "请求撤销追收",
+          "meaning": "说明可依法请求法院撤销追回，不是当然无限没收。",
+          "boundary": "不改变原有无偿转让事实。"
+        }
+      ],
+      "sources": ["commercial-g5-bankruptcy-estate"]
+    },
+    {
+      "id": "commercial-g5-estate-owner",
+      "topicId": "commercial-g5-bankruptcy-estate",
+      "title": "租来的机器也要分给债权人吗",
+      "facts": "【原创教学案例】甲公司破产受理时，仓库里有乙出租给甲的机器。合同、购买凭证和机器标识均证明所有权在乙，租赁未发生所有权转移，也无其他特别争议。管理人拟仅因机器在甲仓库就列入甲的所有财产分配。",
+      "prompt": "能否仅据占有地点把机器当作甲的财产，乙应通过谁主张取回？",
+      "reference": "不能。占有不等于所有，题设机器属于乙，不应仅因存放于甲仓库就当作甲的财产分配。乙可依法通过管理人主张取回，不能绕过破产管理程序自行乱取其他设备。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "仓库里的一切都自动归甲。",
+          "explanation": "不区分他人所有财产。"
+        },
+        {
+          "text": "乙必须先把机器赠给甲才能主张。",
+          "explanation": "无此条件。"
+        },
+        {
+          "text": "乙可直接拿走所有同型号机器抵债。",
+          "explanation": "取回应对应自身财产并依法进行。"
+        },
+        {
+          "text": "不能，乙可通过管理人依法取回其机器。",
+          "explanation": "占有与所有权分开。"
+        }
+      ],
+      "points": [
+        {
+          "label": "财产归属",
+          "meaning": "联系所有权在乙，否定仅凭存放地纳入分配。",
+          "boundary": "不把普通租赁误认融资租赁争议。"
+        },
+        {
+          "label": "取回路径",
+          "meaning": "指出通过管理人依法主张取回。",
+          "boundary": "不支持任意自行搬走他人财产。"
+        }
+      ],
+      "sources": ["commercial-g5-bankruptcy-estate"]
+    },
+    {
+      "id": "commercial-g5-claim-late",
+      "topicId": "commercial-g5-bankruptcy-claims",
+      "title": "错过申报但最后分配未结束",
+      "facts": "【原创教学案例】普通债权人乙因疏忽错过法院确定的申报期，现最后分配尚未开始。乙希望依法补充申报，要求同时补给早前已经分配给其他人的部分。没有债权已被消灭的其他事由。",
+      "prompt": "能否补充申报，能否要求补分早前已分部分？",
+      "reference": "可在最后分配前依法补充申报，但此前已经进行的分配不再对乙补充分配，补报审查确认费用由乙承担。错过期限不等于债权当然消灭，也不代表可以把旧分配全部重来。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "错过申报一分钟债权就自动全部消失。",
+          "explanation": "法律保留补报路径。"
+        },
+        {
+          "text": "可依法补报，但已进行的分配不再补分。",
+          "explanation": "须注意最后分配时点及补报费用。"
+        },
+        {
+          "text": "只要补报，所有已经分过的钱必须追回重分。",
+          "explanation": "旧分配不再补。"
+        },
+        {
+          "text": "补报人从此享有最高优先权。",
+          "explanation": "补报不提升债权顺位。"
+        }
+      ],
+      "points": [
+        {
+          "label": "可补申报",
+          "meaning": "说明最后分配前可依法补充申报。",
+          "boundary": "不把申报期限当债权消灭时点。"
+        },
+        {
+          "label": "既分不补",
+          "meaning": "说明已进行分配不再补分，补报费用依法自担。",
+          "boundary": "费用未单独写不应取代核心既分不补判断。"
+        }
+      ],
+      "sources": ["commercial-g5-bankruptcy-claims"]
+    },
+    {
+      "id": "commercial-g5-claim-wages",
+      "topicId": "commercial-g5-bankruptcy-claims",
+      "title": "职工没填申报表就说工资没有了",
+      "facts": "【原创教学案例】甲公司进入破产清算，普通职工乙被拖欠的工资已在工资簿和银行记录中查明。乙未填写普通债权申报表，普通货款债权人据此主张工资一律不处理，货款应先于这笔工资清偿。本题不涉及担保物权和特殊历史债权。",
+      "prompt": "工资是否因未普通申报就失去处理机会，能否让普通货款据此抢先？",
+      "reference": "不能这样处理。法定职工工资债权不需按普通债权方式自行申报，管理人应调查列示；依法清理费用共益等后，职工工资处于优先于普通破产债权的法定顺位，不能让普通货款借此抢先。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "未填普通表，工资自动全部丧失。",
+          "explanation": "职工债权有专门调查处理规则。"
+        },
+        {
+          "text": "普通货款永远先于普通职工工资。",
+          "explanation": "违反法定清偿顺位。"
+        },
+        {
+          "text": "工资应依法调查列示，不能仅因未普通申报被普通货款抢先。",
+          "explanation": "本题排除担保等特别问题。"
+        },
+        {
+          "text": "所有工资不经任何核查均按职工随口数额全付。",
+          "explanation": "仍须调查确认。"
+        }
+      ],
+      "points": [
+        {
+          "label": "职工处理",
+          "meaning": "说明工资不需普通自行申报，应由管理人调查列示。",
+          "boundary": "不能免除真实性核查。"
+        },
+        {
+          "label": "法定顺位",
+          "meaning": "说明普通货款不能据此先于职工工资，依法遵守顺位。",
+          "boundary": "不要求补全本题未问的全部顺位表。"
+        }
+      ],
+      "sources": ["commercial-g5-bankruptcy-claims"]
+    },
+    {
+      "id": "commercial-g5-reorganization-security",
+      "topicId": "commercial-g5-reorganization",
+      "title": "重整开始后担保就消失了吗",
+      "facts": "【原创教学案例】甲公司依法进入重整期间，银行对甲的某设备享有有效抵押权。设备状态稳定，没有损坏或价值明显减少的情况。甲说重整既然暂停银行处置设备，就等于抵押权已经永久消灭。",
+      "prompt": "应如何理解本案暂停行使与担保权是否消灭？",
+      "reference": "重整期间通常暂停对该设备行使担保权，但暂停不等于担保权永久消灭。本案无恢复行使的特殊事实，按重整规则暂缓行使，后续依法由重整安排等处理。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "通常暂时停止行使，不等于担保权永久消灭。",
+          "explanation": "期间限制与权利灭失不同。"
+        },
+        {
+          "text": "只要重整，抵押权一律永久消失。",
+          "explanation": "没有该当然效果。"
+        },
+        {
+          "text": "重整对任何担保行使都永远无影响。",
+          "explanation": "法定通常暂停。"
+        },
+        {
+          "text": "银行可无视重整随时把设备搬走。",
+          "explanation": "应遵守重整程序。"
+        }
+      ],
+      "points": [
+        {
+          "label": "暂停规则",
+          "meaning": "联系已在重整且无特别事由，说明通常暂停行使。",
+          "boundary": "不否定法定可申请恢复例外。"
+        },
+        {
+          "label": "不等于消灭",
+          "meaning": "说明暂停非担保权永久消失。",
+          "boundary": "不要求预判最终重整计划具体清偿。"
+        }
+      ],
+      "sources": ["commercial-g5-reorganization"]
+    },
+    {
+      "id": "commercial-g5-composition-applicant",
+      "topicId": "commercial-g5-reorganization",
+      "title": "债权人要求替债务人申请和解",
+      "facts": "【原创教学案例】乙是甲公司的普通债权人，甲未提出和解申请也未提交和解协议草案。乙拟以债权人身份直接提出企业破产法上的和解申请，认为债权人能申请清算就当然能申请所有程序。",
+      "prompt": "乙能否只凭债权人身份启动本题和解申请？",
+      "reference": "不能。企业破产法上的和解申请由债务人提出，并应提交和解协议草案；债权人可依法提出的清算、重整申请权，不能直接扩成代替债务人申请法定和解。这不妨碍各方依法协商。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "债权人能申请一种程序，就能自动申请所有程序。",
+          "explanation": "各程序申请主体不同。"
+        },
+        {
+          "text": "企业法定和解完全不需协议草案。",
+          "explanation": "债务人申请应提交草案。"
+        },
+        {
+          "text": "债权人不参加和解表决或讨论。",
+          "explanation": "申请主体限制不等于没有参与权。"
+        },
+        {
+          "text": "不能，法定和解申请应由债务人依法提出。",
+          "explanation": "清算申请权不自动扩张。"
+        }
+      ],
+      "points": [
+        {
+          "label": "申请主体",
+          "meaning": "指出法定和解由债务人申请，不可仅由乙代提。",
+          "boundary": "不排除债权人协商表决等权利。"
+        },
+        {
+          "label": "制度区分",
+          "meaning": "说明清算重整申请权不等于和解申请权，依法应有草案。",
+          "boundary": "不要求把私下和解全归无效。"
+        }
+      ],
+      "sources": ["commercial-g5-reorganization"]
+    },
+    {
+      "id": "commercial-g5-bill-amount",
+      "topicId": "commercial-g5-bill-record",
+      "title": "大写十万元，数字一万元",
+      "facts": "【原创教学案例】一张汇票的中文大写金额为拾万元，数码金额写为10000元。两处均为出票时记载，没有变造或事后补记争议，其他事项齐全。持票人主张按大写优先继续行使票据权利。",
+      "prompt": "本票据效力如何，能否按大写优先处理？",
+      "reference": "该汇票因大小写金额不一致而无效，不能选择大写优先或较小金额来修正票据效力。基础交易是否另有民事债权，需按对应关系处理，不等于基础债务自动消失。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "一律以大写优先，汇票仍有效。",
+          "explanation": "票据法要求两者一致。"
+        },
+        {
+          "text": "金额不一致使汇票无效，不能靠选一种金额修复。",
+          "explanation": "区分票据效力与基础交易。"
+        },
+        {
+          "text": "双方约定按小额就当然补正全部效力。",
+          "explanation": "不能直接改法定记载规则。"
+        },
+        {
+          "text": "汇票无效意味着基础货款必定不再存在。",
+          "explanation": "基础关系须另判断。"
+        }
+      ],
+      "points": [
+        {
+          "label": "金额冲突",
+          "meaning": "联系大小写不一致，说明汇票无效。",
+          "boundary": "本题不是空白支票授权补记。"
+        },
+        {
+          "label": "不能择一",
+          "meaning": "否定按大写优先等方式当然维持效力。",
+          "boundary": "不要求处理未给出基础债务。"
+        }
+      ],
+      "sources": ["commercial-g5-bill-record"]
+    },
+    {
+      "id": "commercial-g5-bill-blank-check",
+      "topicId": "commercial-g5-bill-record",
+      "title": "授权补金额的支票尚未补齐",
+      "facts": "【原创教学案例】出票人交出一张其他事项齐备的支票，明确授权收款人按结算结果补记金额。收款人尚未补记就向银行提示付款，称有授权可以先按自己口头金额支付。",
+      "prompt": "金额是否可依法授权补记，未补记前能否这样使用？",
+      "reference": "金额可由出票人依法授权补记，但在未补记前支票不得使用，银行不能仅凭口头金额按本次提示付款。允许补记并不等于不记载也能使用。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "任何支票金额都绝对不能授权补记。",
+          "explanation": "法定允许该项补记。"
+        },
+        {
+          "text": "有授权就可始终空白口头报数使用。",
+          "explanation": "未补记前不得使用。"
+        },
+        {
+          "text": "可依法补记，但本案未补记前不能使用。",
+          "explanation": "区分授权与完成记载。"
+        },
+        {
+          "text": "只要未补记，出票人所有其他交易都无效。",
+          "explanation": "不能扩大到无关关系。"
+        }
+      ],
+      "points": [
+        {
+          "label": "可授权补记",
+          "meaning": "指出支票金额可依法授权补记。",
+          "boundary": "不推及所有票据事项。"
+        },
+        {
+          "label": "补前不得用",
+          "meaning": "联系尚未补记，说明不能口头金额提示使用。",
+          "boundary": "不要求否定合法补记后的可能使用。"
+        }
+      ],
+      "sources": ["commercial-g5-bill-record"]
+    },
+    {
+      "id": "commercial-g5-endorsement-condition",
+      "topicId": "commercial-g5-bill-endorsement",
+      "title": "背书上加一句验收后才可收款",
+      "facts": "【原创教学案例】甲依法背书转让一张完整汇票给乙，同时在背书处写“仅在设备验收合格后才可收款”。背书其他要件齐全。设备尚未验收，甲仅凭这句话否认乙取得的汇票权利。",
+      "prompt": "该附加条件在汇票上有何效力，是否使背书当然无效？",
+      "reference": "该条件不具有汇票上的效力，不能仅据此否认依法完成的背书转让。背书附条件与部分背书不同，不因附条件本身就当然让整个背书无效；基础交易争议另按规则处理。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "条件不具汇票效力，不因附条件本身使整个背书当然无效。",
+          "explanation": "适用背书附条件的专门规则。"
+        },
+        {
+          "text": "附条件背书一律无效，乙任何权利都没有。",
+          "explanation": "不是背书附条件的法定处理。"
+        },
+        {
+          "text": "条件一写就能改变所有票据债务人的法定义务。",
+          "explanation": "无此扩张效力。"
+        },
+        {
+          "text": "背书可以随意只转任意一部分金额。",
+          "explanation": "部分背书另有禁止规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "条件无票据效力",
+          "meaning": "说明附加验收条件不具有汇票上的效力。",
+          "boundary": "不要求否定一切基础合同约定。"
+        },
+        {
+          "label": "背书效力区分",
+          "meaning": "指出不因附条件本身当然使整个背书无效。",
+          "boundary": "不是考未签章等其他问题。"
+        }
+      ],
+      "sources": ["commercial-g5-bill-endorsement"]
+    },
+    {
+      "id": "commercial-g5-guarantee-condition",
+      "topicId": "commercial-g5-bill-endorsement",
+      "title": "票据保证写成先找出票人",
+      "facts": "【原创教学案例】保证人在汇票上依法作出保证并签章，同时加注“只有先向出票人索要无果才承担”。本问只判断这项附条件对票据保证责任的影响，保证其他形式和主体均无争议。",
+      "prompt": "保证人能否仅凭这句话拒绝依法承担票据保证责任？",
+      "reference": "不能。票据保证不得附条件，附有条件也不影响对汇票的保证责任。不能把这句附加条件变成票据上的先行索要门槛；这与民法中的一般保证规则不同。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "写了先索要就当然成为民事一般保证。",
+          "explanation": "不能直接套用民法一般保证。"
+        },
+        {
+          "text": "附条件让整张汇票都无效。",
+          "explanation": "并无该当然效果。"
+        },
+        {
+          "text": "保证人可自行决定所有持票人的请求顺序。",
+          "explanation": "不受任意附加条件限制。"
+        },
+        {
+          "text": "不能，该条件不影响汇票上的保证责任。",
+          "explanation": "票据保证有专门效力规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "条件效果",
+          "meaning": "指出保证附条件不影响票据保证责任。",
+          "boundary": "不是把全部保证认作不存在。"
+        },
+        {
+          "label": "拒绝理由",
+          "meaning": "说明不能以先索要条款拒绝本次法定责任，不套一般保证。",
+          "boundary": "不要求讨论基础补偿关系。"
+        }
+      ],
+      "sources": ["commercial-g5-bill-endorsement"]
+    },
+    {
+      "id": "commercial-g5-bill-good-holder",
+      "topicId": "commercial-g5-bill-defense",
+      "title": "正常有偿取得，遇前手货物争议",
+      "facts": "【原创教学案例】乙以合理对价经连续合法背书取得汇票，对甲与前手的货物争议不知且无应知情形，取得过程无欺诈胁迫或重大过失。甲仅以其与前手之间尚有质量争议为由，拒绝对乙履行票据债务。",
+      "prompt": "能否把本案甲与前手间的争议直接对抗乙？",
+      "reference": "一般不能。本案乙正常有偿、依法取得且不知抗辩事由，甲不能仅将自己与前手间的基础关系抗辩推给乙。法定恶意等例外题设没有给出，质量争议可在对应基础关系中处理。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要前手有争议，就可对任何后手拒付。",
+          "explanation": "忽略合法持票人保护。"
+        },
+        {
+          "text": "本案一般不能，不能直接把与前手争议推给合法取得的乙。",
+          "explanation": "应结合取得方式及认识事实。"
+        },
+        {
+          "text": "只要拿着纸就不论伪造盗窃都绝无抗辩。",
+          "explanation": "仍有法定例外。"
+        },
+        {
+          "text": "票据债权一定要等所有买卖诉讼结束才可主张。",
+          "explanation": "不当然如此。"
+        }
+      ],
+      "points": [
+        {
+          "label": "取得事实",
+          "meaning": "联系合理对价、连续背书及不知争议等，认定本案保护条件。",
+          "boundary": "不要求假定所有后手都善意。"
+        },
+        {
+          "label": "抗辩限制",
+          "meaning": "说明不能仅用与前手的争议对抗乙。",
+          "boundary": "不否认基础关系可另行处理。"
+        }
+      ],
+      "sources": ["commercial-g5-bill-defense"]
+    },
+    {
+      "id": "commercial-g5-bill-recourse",
+      "topicId": "commercial-g5-bill-defense",
+      "title": "必须把全部前手按顺序找一遍吗",
+      "facts": "【原创教学案例】持票人依法提示付款被拒，已按法定要求取得追索证明，具备追索条件。某背书人以“你必须从最近一手逐个追到我，而且先证明别人都没财产”为由拒绝承担本人的票据责任。",
+      "prompt": "这种一律逐手穷尽的要求是否成立？",
+      "reference": "不成立。具备法定追索条件后，持票人可以依法选择向有关票据债务人请求，不必先按背书先后逐个穷尽。本人承担后再依法向可追索对象处理，持票人不得重复超额受偿。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "必须先证明所有前手都无财产才能找任何人。",
+          "explanation": "不是票据法的一般追索机制。"
+        },
+        {
+          "text": "被拒付后持票人永远失去所有权利。",
+          "explanation": "可能依法行使追索。"
+        },
+        {
+          "text": "不成立，可依法选择追索，不必机械逐手穷尽。",
+          "explanation": "已具备追索条件。"
+        },
+        {
+          "text": "每个债务人都应各付一遍全额，持票人可无限累收。",
+          "explanation": "不能重复超额受偿。"
+        }
+      ],
+      "points": [
+        {
+          "label": "选择追索",
+          "meaning": "说明依法可选择追索对象，不必按先后穷尽。",
+          "boundary": "本题已具备证明等法定条件。"
+        },
+        {
+          "label": "拒绝不成立",
+          "meaning": "指出本背书人不能只以未先穷尽为由拒绝法定责任。",
+          "boundary": "不要求列全其他追索期限。"
+        }
+      ],
+      "sources": ["commercial-g5-bill-defense"]
+    },
+    {
+      "id": "commercial-g5-insurance-known",
+      "topicId": "commercial-g5-insurance-disclosure",
+      "title": "核保时已知疾病，事后拿它解除",
+      "facts": "【原创教学案例】投保人回答健康询问时遗漏一项疾病，但保险人的核保人员在订约前已取得并核实该完整病历，明知该事实仍决定承保。发生约定事故后，保险人仅用该项未告知作为解除合同和拒付理由。",
+      "prompt": "能否仅凭订约时已知的该事实再主张解除拒付？",
+      "reference": "不能。保险人在订立合同时已经知道投保人未如实告知的情况，不得再据该事由解除；发生保险事故，应按合同和法律承担相应给付责任。题设不是保险人事后才发现重大隐瞒的情形。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，订约时已知该情况仍承保，不得再据此解除。",
+          "explanation": "适用保险法专门保护。"
+        },
+        {
+          "text": "只要投保人有遗漏，保险人即使早已知道也永远免责。",
+          "explanation": "忽略订约已知限制。"
+        },
+        {
+          "text": "所有疾病保险从来都不必回答任何问题。",
+          "explanation": "仍有如实告知义务。"
+        },
+        {
+          "text": "核保病历对保险人永远不发生任何意义。",
+          "explanation": "已知事实影响解除权。"
+        }
+      ],
+      "points": [
+        {
+          "label": "订约已知",
+          "meaning": "联系核保已取并核实病历，说明保险人订约已知。",
+          "boundary": "不把投保人单方声称告知当已证。"
+        },
+        {
+          "label": "解除受限",
+          "meaning": "说明不能据此解除拒付，应依法依约处理给付。",
+          "boundary": "不扩成所有其他免责事由也不存在。"
+        }
+      ],
+      "sources": ["commercial-g5-insurance-disclosure"]
+    },
+    {
+      "id": "commercial-g5-insurance-thirty",
+      "topicId": "commercial-g5-insurance-disclosure",
+      "title": "知道解除事由四十五日后才通知",
+      "facts": "【原创教学案例】保险人发现足以依法解除合同的未如实告知事项后，已确定知道解除事由，却没有行使解除权。45日后才首次通知解除。本案合同尚未满二年，无期间扣除或其他解除事由，仅审查这项解除权期限。",
+      "prompt": "该解除权是否仍可仅按此事由行使？",
+      "reference": "不能。保险人知道解除事由后超过三十日未行使，该事由的解除权消灭。本案已经四十五日，不因合同尚未满二年而恢复这项已消灭的解除权。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "未满二年就可不受三十日期限。",
+          "explanation": "两个限制不是任选其一。"
+        },
+        {
+          "text": "只要知道事由便可终身随时解除。",
+          "explanation": "解除权受期限约束。"
+        },
+        {
+          "text": "期限从保险人愿意处理时才开始。",
+          "explanation": "应从知道事由起算。"
+        },
+        {
+          "text": "不能，知道后超过三十日未行使，已消灭。",
+          "explanation": "四十五日已超过。"
+        }
+      ],
+      "points": [
+        {
+          "label": "三十日限制",
+          "meaning": "说明知道解除事由后三十日内不行使会消灭。",
+          "boundary": "不把两年规则作为三十日的替代。"
+        },
+        {
+          "label": "本案结论",
+          "meaning": "联系45日才通知，说明不能仅据该事由解除。",
+          "boundary": "不要求判断所有可能的给付项目。"
+        }
+      ],
+      "sources": ["commercial-g5-insurance-disclosure"]
+    },
+    {
+      "id": "commercial-g5-exclusion-hidden",
+      "topicId": "commercial-g5-insurance-exclusion",
+      "title": "免责藏在密集小字里",
+      "facts": "【原创教学案例】保险公司使用格式合同，将一项自行拟定的关键免责藏在密集小字里，从未突出提示，也未用任何方式解释含义。该条不是法律行政法规禁止性规定的提示型特别情形。出险后，公司只凭投保人签过整份合同主张免责。",
+      "prompt": "仅凭整份合同签名，能否认定本条免责已经生效？",
+      "reference": "不能。该格式免责未作足以引起注意的提示，也未明确说明，不产生效力。投保人签整份合同，不当然补足保险人的提示说明义务；保险人仍须按其他约定与法律处理事故。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "整份合同签名可以自动代替任何提示说明。",
+          "explanation": "签名不当然补足实际义务。"
+        },
+        {
+          "text": "不能，本条未提示说明，不产生效力。",
+          "explanation": "普通格式免责需要相应程序。"
+        },
+        {
+          "text": "所有保险条款从来都不受约束。",
+          "explanation": "只判断本条特定问题。"
+        },
+        {
+          "text": "字越小就越能体现充分说明。",
+          "explanation": "与提示义务相反。"
+        }
+      ],
+      "points": [
+        {
+          "label": "义务缺失",
+          "meaning": "联系隐藏小字且从未解释，说明未尽提示说明。",
+          "boundary": "不假设存在另外有效证明。"
+        },
+        {
+          "label": "条款后果",
+          "meaning": "说明不能仅凭签名认定生效，该免责不产生效力。",
+          "boundary": "不是说整个合同当然失效。"
+        }
+      ],
+      "sources": ["commercial-g5-insurance-exclusion"]
+    },
+    {
+      "id": "commercial-g5-exclusion-bold",
+      "topicId": "commercial-g5-insurance-exclusion",
+      "title": "只加粗，不解释具体免责含义",
+      "facts": "【原创教学案例】保险人将普通格式免责条款加粗展示，已经足以引起注意，但始终未就其内容明确说明。投保人在回访中曾询问具体含义，客服仅让其自行阅读，没有其他说明证据，也不属于法定禁止行为条款的特别情形。",
+      "prompt": "已完成加粗提示，是否就可当然免去本案明确说明义务？",
+      "reference": "不能。足够醒目的加粗可完成提示，但提示与明确说明是不同义务。本案仍未作明确说明，不能只因已经加粗就认定该免责生效。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "加粗等于所有解释义务均已完成。",
+          "explanation": "提示不当然替代说明。"
+        },
+        {
+          "text": "只要有免责，一整份合同都永远无效。",
+          "explanation": "不能扩大后果。"
+        },
+        {
+          "text": "不能，已提示仍须依法明确说明，本案尚缺。",
+          "explanation": "分别核对两项义务。"
+        },
+        {
+          "text": "投保人发问反而自动丧失权利。",
+          "explanation": "没有该规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "提示已做",
+          "meaning": "识别加粗已足以引起注意，不能误说本案完全无提示。",
+          "boundary": "不要求否定题设明确事实。"
+        },
+        {
+          "label": "说明仍缺",
+          "meaning": "说明普通免责仍须明确说明，本案不能仅凭加粗认定生效。",
+          "boundary": "不套法律禁止行为的特别规则。"
+        }
+      ],
+      "sources": ["commercial-g5-insurance-exclusion"]
+    },
+    {
+      "id": "commercial-g5-subrogation-property",
+      "topicId": "commercial-g5-insurance-subrogation",
+      "title": "财损十万元，保险只赔六万元",
+      "facts": "【原创教学案例】第三人造成被保险人财产损失10万元，财产险保险人依法赔付6万元。被保险人尚未取得其余4万元赔偿，保险人却要求取得对第三人的全部10万元请求，并不许被保险人再追未赔部分。",
+      "prompt": "保险人代位范围如何，能否排除未获赔部分的请求？",
+      "reference": "保险人在已赔6万元范围内依法代位，不能据此取得全部10万元并排除未赔4万元的请求。被保险人对尚未获赔部分可依法继续主张，不能重复超过实际损失受偿。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "代位限已赔6万元，不排除未赔4万元请求。",
+          "explanation": "代位与未赔权利分清。"
+        },
+        {
+          "text": "赔过1元即可拿走全部损害请求。",
+          "explanation": "突破赔偿金额范围。"
+        },
+        {
+          "text": "财产险赔付后第三人永远免责任。",
+          "explanation": "代位机制正涉及第三人责任。"
+        },
+        {
+          "text": "被保险人和保险人可各拿10万元。",
+          "explanation": "不得重复超额。"
+        }
+      ],
+      "points": [
+        {
+          "label": "代位限额",
+          "meaning": "联系已赔6万元，说明代位限该范围。",
+          "boundary": "不要求讨论未出现的免赔额条款。"
+        },
+        {
+          "label": "未赔保留",
+          "meaning": "说明未获赔4万元请求仍保留，不能排除或重复超额。",
+          "boundary": "不要求计算诉讼费用。"
+        }
+      ],
+      "sources": ["commercial-g5-insurance-subrogation"]
+    },
+    {
+      "id": "commercial-g5-subrogation-person",
+      "topicId": "commercial-g5-insurance-subrogation",
+      "title": "人身意外险付了钱就替代侵权请求",
+      "facts": "【原创教学案例】第三人造成甲身体伤害。人身意外保险按约给付保险金，保险公司要求甲转让对第三人的全部损害赔偿请求，并主张给付后甲不能再向侵权人求偿。本问是人身保险给付，不是财产损失保险。",
+      "prompt": "能否直接套用财产险代位，并排除甲的侵权赔偿请求？",
+      "reference": "不能。人身保险给付后，保险人不得依该给付代位向第三人请求赔偿；甲依法对侵权人的请求并不因此被排除。不能把财产险代位规则直接搬到本案人身险。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何保险只要给付都自动取得全部代位权。",
+          "explanation": "人身险有专门规则。"
+        },
+        {
+          "text": "甲购买保险后，侵权人自动免责。",
+          "explanation": "合同给付不取消侵权请求。"
+        },
+        {
+          "text": "甲永远必须退还所有保险金才可问侵权人。",
+          "explanation": "无此一般门槛。"
+        },
+        {
+          "text": "不能，人身险给付通常无此代位，侵权请求仍可依法主张。",
+          "explanation": "区分保险类型。"
+        }
+      ],
+      "points": [
+        {
+          "label": "人身险区分",
+          "meaning": "联系题设人身保险，指出不能套用财产险代位。",
+          "boundary": "不把同名意外造成的财损险混入。"
+        },
+        {
+          "label": "请求保留",
+          "meaning": "说明给付不排除甲对侵权人的法定请求。",
+          "boundary": "不要求评判所有医疗费用保险细分。"
+        }
+      ],
+      "sources": ["commercial-g5-insurance-subrogation"]
+    },
+    {
+      "id": "commercial-g5-issue-public",
+      "topicId": "commercial-g5-securities-issue",
+      "title": "在公开网站向任何人卖新股",
+      "facts": "【原创教学案例】甲股份公司尚未履行公开发行股票的注册程序，就在人人可访问的网站发布认股链接，任何成年人付钱即可认购。公司称只要广告写成“内部合作份额”，就无需办理公开发行手续。",
+      "prompt": "这种募集能否仅凭“内部合作份额”的名称避开公开发行要求？",
+      "reference": "不能。认购面向不特定公众，属于应依法审查的公开发行，改名称不能改变募集方式。甲应依法完成注册等法定程序，不能未注册先向公众发行股票。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，面向不特定公众的发行应依法注册。",
+          "explanation": "看实际募集对象和方式。"
+        },
+        {
+          "text": "只要改名内部份额就可公开卖股。",
+          "explanation": "名称不能代替法定程序。"
+        },
+        {
+          "text": "任何股票发行都只能向唯一股东进行。",
+          "explanation": "无此规则。"
+        },
+        {
+          "text": "认购人自愿即可免除一切发行要求。",
+          "explanation": "自愿不免法定发行程序。"
+        }
+      ],
+      "points": [
+        {
+          "label": "发行性质",
+          "meaning": "联系任何成年人可认购，说明面向不特定公众。",
+          "boundary": "不把普通股权二手转让一概混入。"
+        },
+        {
+          "label": "注册要求",
+          "meaning": "说明不能换名逃避，应依法履行公开发行注册程序。",
+          "boundary": "不要求列出全部发行条件。"
+        }
+      ],
+      "sources": ["commercial-g5-securities-issue"]
+    },
+    {
+      "id": "commercial-g5-issue-risk",
+      "topicId": "commercial-g5-securities-issue",
+      "title": "注册过的股票也会下跌",
+      "facts": "【原创教学案例】甲公司股票已依法注册发行，相关材料如实披露。后来行业需求下降，公司利润减少，股价随之下跌。本题无虚假陈述或其他违法事实。投资者乙认为既然注册过，国家就应赔回全部投资差额。",
+      "prompt": "注册是否意味着国家保证本题投资者不会亏损？",
+      "reference": "不是。依法发行后的经营收益变化由发行人负责，由此带来的投资风险由投资者承担。注册不保证盈利，也不当然产生国家赔偿；本题没有其他违法依据，不能只凭跌价要求国家赔付。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "注册就等于国家承诺最低收益。",
+          "explanation": "注册不是保本承诺。"
+        },
+        {
+          "text": "所有跌价都证明发行文件违法。",
+          "explanation": "本题是正常经营变化。"
+        },
+        {
+          "text": "不是，注册不免除经营变化带来的投资风险。",
+          "explanation": "依法披露仍可能亏损。"
+        },
+        {
+          "text": "股票下跌即自动撤销发行注册。",
+          "explanation": "无此自动效果。"
+        }
+      ],
+      "points": [
+        {
+          "label": "风险区分",
+          "meaning": "说明注册不是保本或盈利保证。",
+          "boundary": "不排除违法发行应依法担责。"
+        },
+        {
+          "label": "本案后果",
+          "meaning": "联系无违法、行业利润下降，否定仅凭跌价由国家赔付。",
+          "boundary": "不要求判断其他未给出的违法事实。"
+        }
+      ],
+      "sources": ["commercial-g5-securities-issue"]
+    },
+    {
+      "id": "commercial-g5-trading-insider",
+      "topicId": "commercial-g5-securities-trading",
+      "title": "财务负责人借姐姐账户抢先买入",
+      "facts": "【原创教学案例】上市公司财务负责人甲参与尚未公开的重大收购会议，看到收购协议已基本确定。他在公告前安排姐姐出借账户，自己出钱买入本公司股票，准备公告后卖出。该收购足以重大影响证券价格。",
+      "prompt": "甲能否以交易账户登记在姐姐名下为由排除内幕交易问题？",
+      "reference": "不能。甲因职务得知未公开、具有重大价格影响的收购信息，并在公开前利用它买入相关股票，应依法评价内幕交易。借姐姐账户不会改变甲利用信息交易的实质。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "账户不是甲的名字便绝无问题。",
+          "explanation": "借名不能掩盖实际交易。"
+        },
+        {
+          "text": "不能，利用未公开重大收购信息借名交易仍须依法评价。",
+          "explanation": "抓住信息性质、知情身份和公开前交易。"
+        },
+        {
+          "text": "公司所有公开新闻都属于永久内幕信息。",
+          "explanation": "公开信息不当然属于未公开内幕信息。"
+        },
+        {
+          "text": "只有卖出股票才可能构成内幕交易。",
+          "explanation": "买入也受限制。"
+        }
+      ],
+      "points": [
+        {
+          "label": "信息与交易",
+          "meaning": "联系职务知悉未公开重大收购并抢先买入。",
+          "boundary": "不是仅因亲属关系推定任何交易违法。"
+        },
+        {
+          "label": "借名不免责",
+          "meaning": "说明姐姐账户不改变甲实际利用信息交易。",
+          "boundary": "不要求计算违法所得。"
+        }
+      ],
+      "sources": ["commercial-g5-securities-trading"]
+    },
+    {
+      "id": "commercial-g5-trading-wash",
+      "topicId": "commercial-g5-securities-trading",
+      "title": "两个账户轮流制造热闹",
+      "facts": "【原创教学案例】甲实际控制两个证券账户，每天按自己预先排好的价格和时间相互买卖同一股票。他的聊天记录写着要把成交量做大，引诱其他投资者追买。没有真实转移投资利益的目的。",
+      "prompt": "仅因交易通过交易系统成交，就能认定这种做法合法？",
+      "reference": "不能。甲在自己控制的账户间交易，并以虚增成交量吸引他人交易，属于证券法禁止的操纵市场方式。交易系统完成撮合，不会使制造虚假行情的行为合法化。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "系统成交的一切交易都合法。",
+          "explanation": "交易方式不免除实质违法。"
+        },
+        {
+          "text": "同一人控制两个账户绝不受证券法约束。",
+          "explanation": "实际控制账户交易有明确限制。"
+        },
+        {
+          "text": "只有使用他人资金才能构成操纵。",
+          "explanation": "没有该必要条件。"
+        },
+        {
+          "text": "不能，自控账户间虚假交易制造行情应依法评价。",
+          "explanation": "目的和交易安排均已给出。"
+        }
+      ],
+      "points": [
+        {
+          "label": "操纵行为",
+          "meaning": "联系自控账户相互买卖、虚增成交量吸引追买。",
+          "boundary": "不把正常真实投资交易都视为操纵。"
+        },
+        {
+          "label": "系统不免责",
+          "meaning": "否定通过交易系统成交就当然合法。",
+          "boundary": "不要求认定具体行政罚款或刑罚。"
+        }
+      ],
+      "sources": ["commercial-g5-securities-trading"]
+    },
+    {
+      "id": "commercial-g5-disclosure-filing",
+      "topicId": "commercial-g5-securities-disclosure",
+      "title": "没有处罚决定就不能起诉吗",
+      "facts": "【原创教学案例】投资者乙持有上市公司甲的股票，发现甲公告隐瞒重大债务。他向法院提交了持仓、交易和公告等材料，起诉要件符合民事诉讼要求。目前监管机关尚未作出行政处罚。甲要求仅凭缺少处罚决定就不予受理。",
+      "prompt": "法院能否仅以尚无行政处罚或刑事认定为由不受理？受理是否就意味着乙应获赔？",
+      "reference": "不能。证券虚假陈述民事诉讼不以行政处罚或刑事认定作为统一前置条件。符合起诉条件就依法受理，之后再审查虚假陈述、因果关系和损失；受理不等于乙必定胜诉。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，处罚或刑事认定不是统一前置条件。",
+          "explanation": "仍需依法审查起诉和实体要件。"
+        },
+        {
+          "text": "任何证券索赔都必须先有刑事判决。",
+          "explanation": "无该一律前置要求。"
+        },
+        {
+          "text": "只要受理就必须全额赔偿。",
+          "explanation": "受理与实体责任不同。"
+        },
+        {
+          "text": "投资者永远不能依据公告起诉。",
+          "explanation": "无此禁止。"
+        }
+      ],
+      "points": [
+        {
+          "label": "无统一前置",
+          "meaning": "说明不能仅因无行政处罚或刑事认定拒绝受理。",
+          "boundary": "不省略法定起诉要求。"
+        },
+        {
+          "label": "实体另审",
+          "meaning": "说明受理后仍须审查责任和损失，不等于当然胜诉。",
+          "boundary": "不要求预先确定赔偿数额。"
+        }
+      ],
+      "sources": ["commercial-g5-securities-disclosure"]
+    },
+    {
+      "id": "commercial-g5-disclosure-loss",
+      "topicId": "commercial-g5-securities-disclosure",
+      "title": "把整个市场下跌都算进赔偿",
+      "facts": "【原创教学案例】甲公司重大虚假财务信息被揭露后股价下跌。乙在法定相关期间买入且符合交易因果关系要求。损失鉴定同时查明，其中一部分跌价来自同期整个市场大幅下跌，与甲的虚假陈述无关。乙要求甲包赔全部账面跌价。",
+      "prompt": "能否不区分原因，把本题全部跌价都由甲赔偿？",
+      "reference": "不能。虚假陈述民事赔偿还要审查损失因果关系。本题已经查明与虚假陈述无关的市场风险损失，依法应在赔偿范围中区分，不能把所有账面跌价一并转给甲。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "只要有虚假陈述就包赔任何投资损失。",
+          "explanation": "赔偿受因果关系限制。"
+        },
+        {
+          "text": "存在市场风险就一分钱也不能索赔。",
+          "explanation": "仍应区分虚假陈述造成的损失。"
+        },
+        {
+          "text": "不能，应区分虚假陈述损失与已查明的市场风险损失。",
+          "explanation": "审查损失因果关系。"
+        },
+        {
+          "text": "投资者买过股票就无权再主张责任。",
+          "explanation": "无此排除。"
+        }
+      ],
+      "points": [
+        {
+          "label": "因果范围",
+          "meaning": "指出还需区分损失与虚假陈述的因果关系。",
+          "boundary": "不是否定已明确的交易因果关系。"
+        },
+        {
+          "label": "其他原因",
+          "meaning": "联系已查明的市场下跌部分，说明不能全部赔付。",
+          "boundary": "不要求自行计算未给出的比例。"
+        }
+      ],
+      "sources": ["commercial-g5-securities-disclosure"]
+    },
+    {
+      "id": "commercial-g5-agreement-price",
+      "topicId": "commercial-g5-monopoly-agreement",
+      "title": "三家同城物流一起约好最低运费",
+      "facts": "【原创教学案例】三家在同一城市争取同类客户的物流企业召开秘密会议，约定从下月起统一提高报价，谁低于约定最低运费就向其他两家交罚金。没有技术合作、统一服务成本或其他法定豁免事实。",
+      "prompt": "这种统一报价能否仅因三家都自愿签字就认定合法？",
+      "reference": "不能。三家相互竞争，却共同固定最低运费并处罚降价，属于限制价格竞争的横向垄断协议。企业自愿签字不是豁免理由，本题也没有提供法定豁免依据。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "企业自愿签字就能任意统一价格。",
+          "explanation": "自愿不能代替竞争秩序要求。"
+        },
+        {
+          "text": "不能，竞争者联合固定最低报价应依法评价。",
+          "explanation": "存在共同定价及实施约束。"
+        },
+        {
+          "text": "没有政府参加就不可能垄断。",
+          "explanation": "经营者也受规制。"
+        },
+        {
+          "text": "只要未写最高价就没有价格限制。",
+          "explanation": "最低价格同样限制竞争。"
+        }
+      ],
+      "points": [
+        {
+          "label": "竞争关系协议",
+          "meaning": "联系同城同行统一最低运费和罚款，识别横向固定价格。",
+          "boundary": "不把各自独立调价直接当协议。"
+        },
+        {
+          "label": "自愿不豁免",
+          "meaning": "否定仅凭共同自愿合法，本题无法定豁免事实。",
+          "boundary": "不要求计算市场份额门槛。"
+        }
+      ],
+      "sources": ["commercial-g5-monopoly-agreement"]
+    },
+    {
+      "id": "commercial-g5-agreement-resale",
+      "topicId": "commercial-g5-monopoly-agreement",
+      "title": "品牌商说最低零售价都是自愿的",
+      "facts": "【原创教学案例】品牌商甲要求全部经销商不得低于指定零售价出售产品，违规就停供。执法机关依法调查时，甲仅提交经销商签过的合同，称双方自愿已足以证明合法。本题没有排除限制竞争效果的反证或其他豁免材料。",
+      "prompt": "仅有经销商自愿签约，是否足以排除这种最低转售价约定的问题？",
+      "reference": "不足以。限定最低转售价属于应依反垄断法审查的纵向价格约束，自愿签约不是当然合法理由。符合法律规定的竞争效果反证或其他法定条件可以依法主张，但本题未提供，仅凭签字不能排除。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "有合同就完全不用反垄断审查。",
+          "explanation": "合同自愿不免除专门规则。"
+        },
+        {
+          "text": "任何纵向价格安排在任何条件下都绝无反证空间。",
+          "explanation": "法律规定有相应反证等路径。"
+        },
+        {
+          "text": "执法机关只需看合同是否盖章。",
+          "explanation": "还要审查竞争法要求。"
+        },
+        {
+          "text": "不足以，应依法审查，签约自愿不是当然合法依据。",
+          "explanation": "本题缺少相应反证材料。"
+        }
+      ],
+      "points": [
+        {
+          "label": "纵向价格约束",
+          "meaning": "识别最低转售价受专门反垄断规则审查。",
+          "boundary": "不是横向同行之间的约价。"
+        },
+        {
+          "label": "理由不足",
+          "meaning": "说明自愿签字不够，不否定法定反证等可能性。",
+          "boundary": "不要求编造本题没有的安全港数据。"
+        }
+      ],
+      "sources": ["commercial-g5-monopoly-agreement"]
+    },
+    {
+      "id": "commercial-g5-dominance-alone",
+      "topicId": "commercial-g5-dominance",
+      "title": "市场份额大就要被处罚吗",
+      "facts": "【原创教学案例】甲企业在相关市场具有支配地位，这一点已无争议。调查未发现其固定价格、限定交易、拒绝交易、搭售或其他滥用行为。乙仅因甲份额较大，就要求按滥用市场支配地位处罚甲。",
+      "prompt": "能否仅因具有支配地位，就认定本题滥用违法？",
+      "reference": "不能。反垄断法禁止滥用市场支配地位，不是禁止支配地位本身。仍须证明相应滥用行为，本题没有这些事实，不能只凭份额大就作出该违法判断。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，还应证明具体滥用行为。",
+          "explanation": "地位本身不是违法行为。"
+        },
+        {
+          "text": "所有支配企业都必须退出市场。",
+          "explanation": "无此一律要求。"
+        },
+        {
+          "text": "只要份额大，任何经营行为都自动无效。",
+          "explanation": "不能省略行为审查。"
+        },
+        {
+          "text": "只有小企业可能违反反垄断法。",
+          "explanation": "无此主体排除。"
+        }
+      ],
+      "points": [
+        {
+          "label": "地位行为区分",
+          "meaning": "说明支配地位本身不等于滥用。",
+          "boundary": "不否定依法调查其地位。"
+        },
+        {
+          "label": "本案无行为",
+          "meaning": "联系未发现具体滥用事实，否定仅凭大份额处罚。",
+          "boundary": "不要求编造违法行为。"
+        }
+      ],
+      "sources": ["commercial-g5-dominance"]
+    },
+    {
+      "id": "commercial-g5-dominance-exclusive",
+      "topicId": "commercial-g5-dominance",
+      "title": "主要供货商逼客户停止采购对手产品",
+      "facts": "【原创教学案例】甲在相关市场具有支配地位，已由充分证据证实。甲通知现有客户，只要购买竞争者任何同类产品，就停止向该客户供货。甲无法提出安全、产能、信用等正当理由，相关客户因此放弃与竞争者交易。",
+      "prompt": "这种做法是否仅因写进供货合同就可以排除滥用问题？",
+      "reference": "不能。甲利用支配地位，在无正当理由下限定客户不得与竞争者交易，属于应依法评价的滥用行为。合同形式不能掩盖排除交易的实质，本题不是只因甲规模大而否定其经营。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "合同里写了就不受反垄断约束。",
+          "explanation": "形式不免除竞争法要求。"
+        },
+        {
+          "text": "客户还可以买其他种类产品就绝无问题。",
+          "explanation": "不能据此排除同类市场限制。"
+        },
+        {
+          "text": "不能，无正当理由限定客户排除竞争者交易应依法评价。",
+          "explanation": "地位、行为和理由均有对应事实。"
+        },
+        {
+          "text": "只要供货就不可能实施排除行为。",
+          "explanation": "停供威胁可以形成限定交易。"
+        }
+      ],
+      "points": [
+        {
+          "label": "限定交易",
+          "meaning": "联系支配地位、停供威胁与不得购买对手产品。",
+          "boundary": "不把任何正常独家约定都认定违法。"
+        },
+        {
+          "label": "无正当理由",
+          "meaning": "结合没有正当理由，否定合同形式即免责。",
+          "boundary": "不要求重新证明已确定的市场支配地位。"
+        }
+      ],
+      "sources": ["commercial-g5-dominance"]
+    },
+    {
+      "id": "commercial-g5-concentration-threshold",
+      "topicId": "commercial-g5-concentration",
+      "title": "境内营业额合计四十五亿元的合并",
+      "facts": "【原创教学案例】无关联的甲乙两家普通制造企业计划合并。上一会计年度，两家境内营业额分别为24亿元、21亿元，计算口径无争议，均不属特殊金融行业，也不符合集团内豁免。双方准备先交割，过几个月再报。",
+      "prompt": "本次是否触及事先申报标准，能否按计划先交割后补报？",
+      "reference": "触及。境内合计45亿元，超过40亿元，且两家各自都超过8亿元，依法应事先申报。不能先完成合并再补手续，应依法履行申报、审查等要求后实施。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "合计不到120亿元就任何集中都不用申报。",
+          "explanation": "忽略境内40亿元的另一标准。"
+        },
+        {
+          "text": "触及境内营业额标准，不能先交割后补报。",
+          "explanation": "45亿元且两家各超过8亿元。"
+        },
+        {
+          "text": "只要双方都在国内就一律豁免。",
+          "explanation": "无此普遍豁免。"
+        },
+        {
+          "text": "签合同等于已获竞争审查许可。",
+          "explanation": "合同不是法定审查决定。"
+        }
+      ],
+      "points": [
+        {
+          "label": "数值匹配",
+          "meaning": "说明境内合计45亿超过40亿且两家各超过8亿。",
+          "boundary": "不需再满足全球120亿标准。"
+        },
+        {
+          "label": "事先程序",
+          "meaning": "说明先申报并依法完成相关审查要求，不可先实施后补报。",
+          "boundary": "不把提交即等同批准。"
+        }
+      ],
+      "sources": [
+        "commercial-g5-concentration",
+        "commercial-g5-concentration-antitrust"
+      ]
+    },
+    {
+      "id": "commercial-g5-concentration-callin",
+      "topicId": "commercial-g5-concentration",
+      "title": "没有达到门槛但收到申报要求",
+      "facts": "【原创教学案例】甲收购乙控制权的交易未达到一般营业额标准。执法机构掌握该交易可能排除限制竞争的证据，已依法正式要求申报。甲认为没有达到数字门槛，所以可以不理会该要求直接完成收购。",
+      "prompt": "甲能否仅因未达到一般营业额门槛就拒绝依法要求的申报？",
+      "reference": "不能。未达门槛不是绝对豁免，有排除限制竞争证据时执法机构可依法要求申报。本题已依法提出要求，甲应遵守相应申报与实施限制，不能只凭数字较小自行跳过。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "未达门槛的任何交易永远不受审查。",
+          "explanation": "法律有要求申报机制。"
+        },
+        {
+          "text": "任何机关随口一句都可代替法定要求。",
+          "explanation": "本题已说明依法正式要求。"
+        },
+        {
+          "text": "收购控制权绝不属于集中。",
+          "explanation": "取得控制权可构成集中。"
+        },
+        {
+          "text": "不能，未达门槛仍可能被依法要求申报。",
+          "explanation": "本题已有证据与法定要求。"
+        }
+      ],
+      "points": [
+        {
+          "label": "未达非绝免",
+          "meaning": "说明未达一般门槛仍可依法要求申报。",
+          "boundary": "不是把所有小额交易自动当必须申报。"
+        },
+        {
+          "label": "遵从要求",
+          "meaning": "联系已有证据和正式要求，说明不得直接无视。",
+          "boundary": "不要求计算题外市场份额。"
+        }
+      ],
+      "sources": [
+        "commercial-g5-concentration",
+        "commercial-g5-concentration-antitrust"
+      ]
+    },
+    {
+      "id": "commercial-g5-unfair-packaging",
+      "topicId": "commercial-g5-unfair",
+      "title": "换一个小字仍让顾客认成老品牌",
+      "facts": "【原创教学案例】甲的茶叶包装经过多年经营，在当地相关消费者中已有一定影响。乙未获许可，把该包装的主要配色、图案和排列几乎照搬，只在背面小字换名，多位顾客把乙商品当成甲的新系列买走。",
+      "prompt": "乙能否仅因背面换了小字，就否认商品来源混淆问题？",
+      "reference": "不能。甲的包装已有一定影响，乙擅用近似的整体装潢，并已使顾客误认来源或关联，依法应评价混淆。背面小字不同，不足以自动排除整体包装造成的误认。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，应看整体包装是否使人误认来源或联系。",
+          "explanation": "一定影响、擅用及误认均有事实。"
+        },
+        {
+          "text": "只要有任意一个字不同就永不混淆。",
+          "explanation": "忽视整体来源识别。"
+        },
+        {
+          "text": "包装没写专利就任人仿冒来源。",
+          "explanation": "混淆保护不以专利为统一前提。"
+        },
+        {
+          "text": "茶叶属于食品所以没有任何竞争保护。",
+          "explanation": "无此排除。"
+        }
+      ],
+      "points": [
+        {
+          "label": "影响与擅用",
+          "meaning": "联系甲包装已有影响及乙照搬主要设计。",
+          "boundary": "不把任何相同颜色都一律禁止。"
+        },
+        {
+          "label": "来源误认",
+          "meaning": "联系顾客误认新系列，否定小字不同即免责。",
+          "boundary": "不要求注册商标作为本点前提。"
+        }
+      ],
+      "sources": ["commercial-g5-unfair"]
+    },
+    {
+      "id": "commercial-g5-unfair-secret",
+      "topicId": "commercial-g5-unfair",
+      "title": "给工程师报酬拷走保密配方",
+      "facts": "【原创教学案例】甲公司的独有生产配方未公开，能降低成本，公司实行分级权限、加密保存并与员工约定保密。乙付钱让甲工程师绕过权限拷出完整配方，随后直接投入自己的生产。",
+      "prompt": "乙能否因配方是员工交来的，就主张属于可以自由使用的信息？",
+      "reference": "不能。该配方具备不公开、商业价值和保密措施等秘密条件；乙付钱指使员工违规拷取并使用，属于不正当获取使用商业秘密。员工交付不是合法授权。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "员工拿到的信息都属于公众。",
+          "explanation": "员工接触不等于公开。"
+        },
+        {
+          "text": "只要乙付款取得就必然合法。",
+          "explanation": "付款不正当获取仍受禁止。"
+        },
+        {
+          "text": "不能，违规获取并使用具有保密条件的配方应依法评价。",
+          "explanation": "秘密条件与不正当手段均明确。"
+        },
+        {
+          "text": "任何配方都无须保密即可自动受同样保护。",
+          "explanation": "须审查秘密构成条件。"
+        }
+      ],
+      "points": [
+        {
+          "label": "秘密条件",
+          "meaning": "联系未公开、成本价值与权限加密保密措施。",
+          "boundary": "不是所有行业知识都自动成为秘密。"
+        },
+        {
+          "label": "不正当获取",
+          "meaning": "指出付钱指使违规拷取使用非合法授权。",
+          "boundary": "不要求认定刑事犯罪程度。"
+        }
+      ],
+      "sources": ["commercial-g5-unfair"]
+    },
+    {
+      "id": "commercial-g5-return-ordinary",
+      "topicId": "commercial-g5-online-return",
+      "title": "收货三天的完好台灯",
+      "facts": "【原创教学案例】乙为家庭使用在网上买一盏普通台灯，收货第三天发现与自家装修不搭。台灯保持完好，不属于法定不适用商品，也未另行确认性质特殊的排除。卖家只以“不是质量问题”为由拒绝退货。",
+      "prompt": "卖家能否仅因没有质量问题拒绝本题七日无理由退货？",
+      "reference": "不能。普通网购台灯在收货七日内且保持完好，符合无理由退货条件，不必另证质量问题。乙依法退回，运费无特别约定时通常由乙承担，卖家不能把无质量问题当作拒绝理由。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要无质量问题，任何网购都不能退。",
+          "explanation": "忽视七日无理由制度。"
+        },
+        {
+          "text": "不能，符合条件的普通网购可依法无理由退货。",
+          "explanation": "期限、完好和例外均已交代。"
+        },
+        {
+          "text": "所有商品用坏后都可以永久无理由退货。",
+          "explanation": "制度有期限和完好要求。"
+        },
+        {
+          "text": "网购退货永远必须由国家支付运费。",
+          "explanation": "无此规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "退货条件",
+          "meaning": "联系普通网购、三日及完好，说明可无理由退货。",
+          "boundary": "不扩张到法定排除商品。"
+        },
+        {
+          "label": "拒绝理由",
+          "meaning": "说明不必证明质量问题，卖家该理由不成立。",
+          "boundary": "没写运费不替代本题核心判断。"
+        }
+      ],
+      "sources": ["commercial-g5-online-return"]
+    },
+    {
+      "id": "commercial-g5-return-custom",
+      "topicId": "commercial-g5-online-return",
+      "title": "刻了专属名字的定作杯",
+      "facts": "【原创教学案例】乙要求店家按其指定姓名和图案专门定作一只杯子。店家如约完成，质量、文字和图案均符合约定。乙收货两天后仅因不喜欢，主张所有网购物品均有七日无理由退货。",
+      "prompt": "本题是否当然适用七日无理由退货，这是否意味着定作物质量有问题也不能救济？",
+      "reference": "本题不当然适用。消费者定作商品属于法定无理由退货例外，按约无瑕疵时不能仅因改变喜好要求七日无理由退货。但若存在质量或不符约定问题，仍可依法主张相应救济，不能一概免责。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "网购包括任何定作物，均无例外退货。",
+          "explanation": "定作有法定例外。"
+        },
+        {
+          "text": "定作物即便严重不合约也永远免责。",
+          "explanation": "无理由例外不排除质量救济。"
+        },
+        {
+          "text": "写了姓名就自动转为商品侵权。",
+          "explanation": "无此效果。"
+        },
+        {
+          "text": "本案属定作例外，但质量不合约的救济不被一并排除。",
+          "explanation": "区分两类退货依据。"
+        }
+      ],
+      "points": [
+        {
+          "label": "定作例外",
+          "meaning": "联系按指定姓名图案专门制作且符合约定，不当然适用无理由退货。",
+          "boundary": "不把普通现货选色都视为定作。"
+        },
+        {
+          "label": "质量救济",
+          "meaning": "说明例外不等于质量不合约时也无救济。",
+          "boundary": "不编造本题存在质量问题。"
+        }
+      ],
+      "sources": ["commercial-g5-online-return"]
+    },
+    {
+      "id": "commercial-g5-fraud-minimum",
+      "topicId": "commercial-g5-consumer-fraud",
+      "title": "明知假货仍冒充原厂新品卖一百元",
+      "facts": "【原创教学案例】店主明知一只耳机是假冒低价品，却贴上原厂标识，承诺为原厂新品。乙为个人生活使用，信赖承诺付了100元。核实后乙要求退货退款，并依法主张欺诈增加赔偿。本题适用消费者权益保护法一般规则。",
+      "prompt": "若认定本题销售构成欺诈，增加赔偿按多少计算，是否包含退还的原价款？",
+      "reference": "增加赔偿为500元。100元的三倍是300元，低于法定最低500元，按500元增加赔偿；退款100元另算，不能把退款混入500元。本题有明知假货仍冒充原厂的欺骗事实。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "增加赔偿500元，退款100元另算。",
+          "explanation": "三倍增加额不足500元按500元。"
+        },
+        {
+          "text": "包括退款在内总共只给300元。",
+          "explanation": "混淆最低增加额与退款。"
+        },
+        {
+          "text": "一百元商品只可能退一百元，绝无其他请求。",
+          "explanation": "忽视欺诈增加赔偿。"
+        },
+        {
+          "text": "无论价款多少都固定增加五千元。",
+          "explanation": "无该统一数额。"
+        }
+      ],
+      "points": [
+        {
+          "label": "最低增加额",
+          "meaning": "结合100元三倍不足500元，说明增加赔偿500元。",
+          "boundary": "不是在三倍后再另加500元。"
+        },
+        {
+          "label": "退款分开",
+          "meaning": "说明原价退款另算，不能用其抵充增加赔偿。",
+          "boundary": "无需以刑事诈骗认定为前提。"
+        }
+      ],
+      "sources": ["commercial-g5-consumer-fraud"]
+    },
+    {
+      "id": "commercial-g5-fraud-threefold",
+      "topicId": "commercial-g5-consumer-fraud",
+      "title": "把翻新品冒充新机卖一千元",
+      "facts": "【原创教学案例】店主进货单明确标注翻新机，仍抹去标签，向乙谎称从未使用的全新机，乙用于个人生活并支付1000元。乙查明事实后主张退货退款和一般消费欺诈增加赔偿，不涉及其他特别惩罚性赔偿制度。",
+      "prompt": "认定欺诈后，本题增加赔偿与退款应怎样区分？",
+      "reference": "增加赔偿为价款三倍即3000元，退还原价1000元另算。不能把退款加增加赔偿合计理解为只有3000元；本案不是仅有一般品质争议，而有明知翻新仍冒充新品的欺骗。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "退款与增加赔偿合计只能1000元。",
+          "explanation": "未适用增加赔偿。"
+        },
+        {
+          "text": "任何价格都只增加500元。",
+          "explanation": "500元是最低，不是固定封顶。"
+        },
+        {
+          "text": "增加赔偿3000元，原价1000元退款另算。",
+          "explanation": "三倍增加额已超过最低额。"
+        },
+        {
+          "text": "消费者必须接受店主永远不退款。",
+          "explanation": "不能据此排除救济。"
+        }
+      ],
+      "points": [
+        {
+          "label": "三倍增加",
+          "meaning": "联系价款1000元，认定增加赔偿3000元。",
+          "boundary": "不另叠加最低500元。"
+        },
+        {
+          "label": "退款分开",
+          "meaning": "指出退款另算，不把三倍当含退款总额。",
+          "boundary": "不要求处理未问的诉讼费用。"
+        }
+      ],
+      "sources": ["commercial-g5-consumer-fraud"]
+    },
+    {
+      "id": "commercial-g5-defect-seller",
+      "topicId": "commercial-g5-product-defect",
+      "title": "水壶缺陷烫伤买家，门店让他只找工厂",
+      "facts": "【原创教学案例】乙从门店买的电水壶因出厂线路缺陷突然喷出沸水，烫伤乙。检测已确认缺陷与受伤的因果关系，排除了使用不当等争议。门店仅称不是自己制造，拒绝任何赔偿请求，要求乙只找工厂。",
+      "prompt": "门店能否仅因不是制造者就拒绝乙的本题赔偿请求，赔偿后如何处理内部责任？",
+      "reference": "不能。缺陷水壶造成乙人身损害，乙可依法向生产者或销售者请求赔偿。门店赔偿后，属于生产者造成的出厂缺陷，可依法向生产者追偿；不能把内部追偿问题先推给受害人。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "门店不是生产者，就绝对不承担对外责任。",
+          "explanation": "受害人有法定选择请求路径。"
+        },
+        {
+          "text": "不能，乙可依法找门店，门店赔后可按责任追偿。",
+          "explanation": "区分对外赔偿和内部承担。"
+        },
+        {
+          "text": "只要商品有缺陷就国家全额代赔。",
+          "explanation": "没有该规则。"
+        },
+        {
+          "text": "先让乙起诉所有上游供应商才可受理。",
+          "explanation": "不要求该统一前置。"
+        }
+      ],
+      "points": [
+        {
+          "label": "对外选择",
+          "meaning": "说明乙可依法向销售者请求缺陷致人身损害赔偿。",
+          "boundary": "不混同单纯商品不满意退货。"
+        },
+        {
+          "label": "内部追偿",
+          "meaning": "联系出厂缺陷，说明门店赔后依法向生产者追偿。",
+          "boundary": "不要求计算具体损害额。"
+        }
+      ],
+      "sources": ["commercial-g5-product-defect"]
+    },
+    {
+      "id": "commercial-g5-defect-storage",
+      "topicId": "commercial-g5-product-defect",
+      "title": "合格产品被门店违规存放变坏",
+      "facts": "【原创教学案例】某产品出厂时安全合格，门店违反明确储存要求长期暴晒，导致保护结构失效。售出后缺陷造成消费者人身损害，生产者已先依法赔偿。证据确认缺陷全部由门店储存过错造成，无其他责任因素。",
+      "prompt": "生产者先赔后能否依本题过错向门店追偿？",
+      "reference": "可以。缺陷损害的对外请求与最终内部责任分开。本题已查明缺陷由销售者储存过错造成，生产者赔偿后可依法向销售者追偿，不因先赔就永久承担本应由门店负责的损失。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "谁先赔就永远没有追偿权。",
+          "explanation": "先赔不改变内部责任规则。"
+        },
+        {
+          "text": "生产者赔后可以向无关消费者追偿。",
+          "explanation": "消费者无题设过错。"
+        },
+        {
+          "text": "合格出厂就代表后续任何人都无需负责。",
+          "explanation": "后续储存过错仍可能致损。"
+        },
+        {
+          "text": "可以，按已查明的销售者储存过错依法追偿。",
+          "explanation": "生产者已赔及责任归属明确。"
+        }
+      ],
+      "points": [
+        {
+          "label": "赔后追偿",
+          "meaning": "说明生产者已赔后可以依法向责任销售者追偿。",
+          "boundary": "不把受害人已获赔误作不能追偿。"
+        },
+        {
+          "label": "过错归属",
+          "meaning": "联系暴晒储存致缺陷，责任在门店。",
+          "boundary": "不改为出厂设计缺陷。"
+        }
+      ],
+      "sources": ["commercial-g5-product-defect"]
+    },
+    {
+      "id": "commercial-g5-employment-writing",
+      "topicId": "commercial-g5-employment-contract",
+      "title": "用工四个月仍说口头约定就够了",
+      "facts": "【原创教学案例】2026年，乙到甲公司上班，受甲考勤和岗位管理，工资按月支付。乙多次要求签书面合同，甲一直称口头约定足够，至连续用工四个月仍未签。没有不可抗力、乙故意或重大过失等免责事实。",
+      "prompt": "甲能否仅凭口头约定拒签，是否涉及超过一个月未签的二倍工资责任？",
+      "reference": "不能。劳动关系自实际用工建立，甲应依法及时订立书面合同，口头约定不能替代。本案因甲拖延超过一个月，依法应按法定期间承担二倍工资责任；正常工资已经支付的，应区分还需补付的差额。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，口头约定不能替代书面合同，并涉及法定二倍工资责任。",
+          "explanation": "未签原因及期间已明确。"
+        },
+        {
+          "text": "发过工资就永远无需书面合同。",
+          "explanation": "发工资不免订约义务。"
+        },
+        {
+          "text": "没书面合同就根本没有劳动关系。",
+          "explanation": "实际用工可以建立关系。"
+        },
+        {
+          "text": "二倍工资任何时候都从入职第一天无上限算。",
+          "explanation": "忽视法定起算及期间。"
+        }
+      ],
+      "points": [
+        {
+          "label": "书面义务",
+          "meaning": "联系实际用工，否定口头约定代替应签书面合同。",
+          "boundary": "不把未签合同当关系不存在。"
+        },
+        {
+          "label": "法定责任",
+          "meaning": "联系甲拖延超过一个月，说明依法按期间承担二倍工资。",
+          "boundary": "不必算出题目未问的具体金额。"
+        }
+      ],
+      "sources": [
+        "commercial-g5-employment-contract",
+        "commercial-g5-employment-contract-judicial"
+      ]
+    },
+    {
+      "id": "commercial-g5-employment-refusal",
+      "topicId": "commercial-g5-employment-contract",
+      "title": "员工反复藏起已送达的合同",
+      "facts": "【原创教学案例】2026年，甲在用工首月已准备符合法律规定的书面合同，多次依法通知乙签署并留证。乙为获取未签合同差额，故意谎称未收，持续拒签；仲裁证据查明未签正是乙的故意造成，甲已尽合理订约义务。乙只凭未签事实请求二倍工资。",
+      "prompt": "能否不考虑本题已查明的未签原因，一律支持乙的二倍工资请求？",
+      "reference": "不能。现行司法解释规定因劳动者故意或重大过失等法定原因未订书面合同，用人单位不承担相应二倍工资责任。本题已查明乙故意拒签造成，不能只看未签形式就机械支持；甲仍应依法处理后续用工。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "只要没纸质签字，任何原因都必须支付二倍工资。",
+          "explanation": "忽略现行解释的例外。"
+        },
+        {
+          "text": "员工一拒签，所有正常工资也可没收。",
+          "explanation": "免责不及正常劳动报酬。"
+        },
+        {
+          "text": "不能，应结合已查明的乙故意拒签及现行例外判断。",
+          "explanation": "不能由未签形式直接推定责任。"
+        },
+        {
+          "text": "乙故意拒签会让此前劳动自动变成无偿。",
+          "explanation": "正常工资不因此消失。"
+        }
+      ],
+      "points": [
+        {
+          "label": "原因例外",
+          "meaning": "说明劳动者故意造成未签有相应二倍工资例外。",
+          "boundary": "不是用人单位口头说员工不愿签就当然免责。"
+        },
+        {
+          "label": "事实对应",
+          "meaning": "联系乙故意拒签及甲尽合理义务，不支持机械给付。",
+          "boundary": "不免正常工资等其他义务。"
+        }
+      ],
+      "sources": [
+        "commercial-g5-employment-contract",
+        "commercial-g5-employment-contract-judicial"
+      ]
+    },
+    {
+      "id": "commercial-g5-termination-performance",
+      "topicId": "commercial-g5-employment-termination",
+      "title": "第一次考核低分就当天走人",
+      "facts": "【原创教学案例】乙首次未达到甲公司约定的工作考核标准。甲未作培训，也未调整岗位，直接以不能胜任为由要求乙当天离开，既未提前三十日通知也未付一个月工资替代通知。本题无严重违纪、试用期等其他解除依据。",
+      "prompt": "甲能否仅凭这一次未达标就按本题方式解除？",
+      "reference": "不能。以不能胜任为由解除，需要经过培训或调岗后仍不能胜任等法定前提，且依法提前通知或支付代通知金。本题既跳过前提又未履行相应通知要求，不能只凭一次低分直接解除。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "任何一次考核低分都可以当天无手续解除。",
+          "explanation": "忽略法定前提和通知。"
+        },
+        {
+          "text": "不能，应审查培训或调岗后仍不能胜任及通知等要求。",
+          "explanation": "本题均未满足。"
+        },
+        {
+          "text": "公司只能永远保留任何岗位，绝无解除制度。",
+          "explanation": "法定条件下可以解除。"
+        },
+        {
+          "text": "补发一天工资即可消除所有问题。",
+          "explanation": "不能代替本题法定要求。"
+        }
+      ],
+      "points": [
+        {
+          "label": "解除前提",
+          "meaning": "说明应经培训或调岗仍不能胜任，首次低分不够。",
+          "boundary": "不改成有严重违纪。"
+        },
+        {
+          "label": "通知要求",
+          "meaning": "说明还须依法通知或代通知金，本题未履行。",
+          "boundary": "不要求本题计算所有救济金额。"
+        }
+      ],
+      "sources": ["commercial-g5-employment-termination"]
+    },
+    {
+      "id": "commercial-g5-termination-compensation",
+      "topicId": "commercial-g5-employment-termination",
+      "title": "违法解雇后要把两类补偿都叠上",
+      "facts": "【原创教学案例】甲未有法定理由解雇乙，解除违法已由生效裁决确认。乙不请求继续履行，依法应按劳动合同法第87条处理，工龄工资基数无争议。乙要求同一解除既给第47条经济补偿，又额外给按其两倍计算的违法解除赔偿金。",
+      "prompt": "本题同一解除的经济补偿和第87条赔偿金，是否应按乙所说重复累计？",
+      "reference": "不应。乙不请求继续履行，本题依法按经济补偿标准的二倍计算违法解除赔偿金；不是先给一份经济补偿，再额外叠加二倍赔偿形成三份。其他独立工资等请求另行判断，不因本项规则一并消失。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "同一解除必定先一倍补偿再另加两倍赔偿。",
+          "explanation": "二倍赔偿不是再叠加一倍。"
+        },
+        {
+          "text": "不继续上班就一律没有任何救济。",
+          "explanation": "依法可适用赔偿金。"
+        },
+        {
+          "text": "赔偿金等于可以没收拖欠工资。",
+          "explanation": "独立工资请求不是同一项目。"
+        },
+        {
+          "text": "不应重复累计，本题依法计算二倍经济补偿标准的赔偿金。",
+          "explanation": "区分独立请求与同一解除赔偿。"
+        }
+      ],
+      "points": [
+        {
+          "label": "救济路径",
+          "meaning": "联系不请求继续履行，依法适用违法解除赔偿金。",
+          "boundary": "不要求推翻已确定违法事实。"
+        },
+        {
+          "label": "避免重复",
+          "meaning": "说明赔偿按补偿标准二倍，不再叠加本项经济补偿。",
+          "boundary": "不否定拖欠工资等独立请求。"
+        }
+      ],
+      "sources": ["commercial-g5-employment-termination"]
+    },
+    {
+      "id": "commercial-g5-arbitration-first",
+      "topicId": "commercial-g5-labor-arbitration",
+      "title": "普通解除争议直接要求法院审实体",
+      "facts": "【原创教学案例】乙认为甲公司解除劳动合同违法，拟请求相应赔偿。乙尚未申请劳动仲裁，未有仲裁不受理或逾期决定等事实，也不涉及支付令、调解协议等特别程序。乙想直接向法院提起普通劳动争议诉讼。",
+      "prompt": "本题能否跳过通常劳动仲裁程序，直接要求法院审理普通解除争议实体？",
+      "reference": "通常不能。本题属于普通劳动合同解除争议，应先依法申请劳动仲裁，再根据裁决等情况走法定诉讼路径。没有题设特别情形，不能仅凭想省时间就跳过仲裁前置。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "通常不能，应先依法申请劳动仲裁。",
+          "explanation": "本题排除了特别路径。"
+        },
+        {
+          "text": "所有劳动争议永远只能由公司内部决定。",
+          "explanation": "有法定仲裁诉讼救济。"
+        },
+        {
+          "text": "普通劳动争议一律由刑事法院直接定罪处理。",
+          "explanation": "制度和诉求不同。"
+        },
+        {
+          "text": "仲裁与劳动诉讼没有任何程序关系。",
+          "explanation": "普通劳动诉讼有仲裁前置规则。"
+        }
+      ],
+      "points": [
+        {
+          "label": "争议性质",
+          "meaning": "说明本题为普通劳动解除争议，通常适用仲裁前置。",
+          "boundary": "不把题外支付令也绝对排除。"
+        },
+        {
+          "label": "救济顺序",
+          "meaning": "指出先仲裁，再依法选择后续诉讼等路径。",
+          "boundary": "不要求列完全部终局裁决例外。"
+        }
+      ],
+      "sources": ["commercial-g5-labor-arbitration"]
+    },
+    {
+      "id": "commercial-g5-arbitration-wages",
+      "topicId": "commercial-g5-labor-arbitration",
+      "title": "一直在职的两年欠薪",
+      "facts": "【原创教学案例】乙一直在甲公司工作，劳动关系尚未终止。两年前有一笔工资被拖欠，至今未付，乙现申请仲裁追索。甲只以距离该月发薪日超过一年，主张本题当然超过仲裁时效。",
+      "prompt": "能否仅按距离当月发薪日超过一年，就否定本题在职追索欠薪？关系终止后期限如何？",
+      "reference": "不能。劳动关系存续期间因拖欠劳动报酬发生争议，适用特别时效规则，不受一般一年规则的机械限制。若劳动关系终止，应自终止之日起一年内提出；本题仍在职，不能仅按旧发薪日拒绝。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "任何工资欠一年就自动全消灭。",
+          "explanation": "忽略在职欠薪特别规则。"
+        },
+        {
+          "text": "劳动关系终止后也永远没有期限。",
+          "explanation": "终止后有一年要求。"
+        },
+        {
+          "text": "不能，在职欠薪有特别规则，终止后依法在一年内提出。",
+          "explanation": "须区分是否仍在职。"
+        },
+        {
+          "text": "只有公司同意劳动者才有申请权。",
+          "explanation": "无该前提。"
+        }
+      ],
+      "points": [
+        {
+          "label": "在职例外",
+          "meaning": "说明本题仍在职欠薪不机械适用一般一年。",
+          "boundary": "不是一般其他劳动请求均无时效。"
+        },
+        {
+          "label": "终止后期限",
+          "meaning": "说明关系终止后应在一年内提出。",
+          "boundary": "本题未终止，不编造日期。"
+        }
+      ],
+      "sources": ["commercial-g5-labor-arbitration"]
+    },
+    {
+      "id": "commercial-g5-social-waiver",
+      "topicId": "commercial-g5-social-insurance",
+      "title": "签一张不缴社保承诺书",
+      "facts": "【原创教学案例】2026年，甲要求乙签下不参加社保的承诺，每月另给一笔名为社保补偿的钱，实际一直未依法缴费。乙现依据劳动合同法第38条因未依法缴费解除合同并请求经济补偿。甲以乙签过字为由拒绝。",
+      "prompt": "本题放弃约定是否有效，能否仅凭签字排除乙的法定解除补偿请求？",
+      "reference": "放弃约定无效，甲不能靠乙签字免除依法缴纳义务。乙依未依法缴费这一法定理由解除并请求经济补偿，依法应予处理；不能仅凭承诺书拒绝。已付社保费补偿在依法补缴情形下的返还另按规则处理。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要劳动者签字就永远不需缴费。",
+          "explanation": "法定义务不能这样放弃。"
+        },
+        {
+          "text": "约定无效，签字不能免缴或排除相应法定解除补偿。",
+          "explanation": "现行解释明确处理。"
+        },
+        {
+          "text": "正常工资也因签字而全部丧失。",
+          "explanation": "没有该后果。"
+        },
+        {
+          "text": "只要现金多给一点就自动等于已经参保。",
+          "explanation": "现金不能代替法定缴费。"
+        }
+      ],
+      "points": [
+        {
+          "label": "放弃无效",
+          "meaning": "说明签字不缴社保约定无效，仍须依法缴纳。",
+          "boundary": "不把自愿当有效免责。"
+        },
+        {
+          "label": "解除补偿",
+          "meaning": "联系未依法缴费及法定解除理由，说明不能据承诺排除经济补偿。",
+          "boundary": "不要求预判补缴后的全部结算。"
+        }
+      ],
+      "sources": [
+        "commercial-g5-social-insurance",
+        "commercial-g5-social-insurance-employment",
+        "commercial-g5-social-insurance-social"
+      ]
+    },
+    {
+      "id": "commercial-g5-social-recovery",
+      "topicId": "commercial-g5-social-insurance",
+      "title": "已经补缴后原来的社保补偿怎么办",
+      "facts": "【原创教学案例】甲曾按双方不缴社保约定，每月向乙支付单列且明确的社保费补偿。2026年甲已依法足额补缴相关期间社保，现请求乙返还对应期间已付的该项补偿。乙认为约定无效意味着无论是否补缴都可永久保留该笔钱。本题不涉及正常工资争议。",
+      "prompt": "本题补缴后能否依法请求返还已付的相应社保费补偿？",
+      "reference": "可以。约定不缴社保无效，但甲已经依法补缴后，可按现行解释请求乙返还已付的相应社保费补偿。返还对象是对应的社保费补偿，不是把正常工资全部追回。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "社保约定无效，就一切已付的钱永远不能依法结算。",
+          "explanation": "补缴后有相应返还规则。"
+        },
+        {
+          "text": "甲可追回乙全部正常工资。",
+          "explanation": "范围不能任意扩张。"
+        },
+        {
+          "text": "甲不补缴也能用返还替代缴费。",
+          "explanation": "返还不能代替法定义务。"
+        },
+        {
+          "text": "可以，依法补缴后可请求返还相应社保费补偿。",
+          "explanation": "不及正常工资等无关款项。"
+        }
+      ],
+      "points": [
+        {
+          "label": "补缴前提",
+          "meaning": "联系已依法足额补缴，说明可依法请求返还。",
+          "boundary": "不取消必须先履行的缴费义务。"
+        },
+        {
+          "label": "返还范围",
+          "meaning": "限对应已付社保费补偿，不追回正常工资。",
+          "boundary": "不混为违法解除赔偿金。"
+        }
+      ],
+      "sources": [
+        "commercial-g5-social-insurance",
+        "commercial-g5-social-insurance-employment",
+        "commercial-g5-social-insurance-social"
+      ]
+    },
+    {
+      "id": "commercial-g5-vat-salary",
+      "topicId": "commercial-g5-vat",
+      "title": "把员工月薪当成服务销售额",
+      "facts": "【原创教学案例】2026年10月，乙在境内甲公司全职上班，受考勤和管理，为甲提供约定岗位劳动，每月领取工资。没有独立经营、对外接单或额外承揽业务。甲称乙拿到钱就是出售服务，要求按该工资缴增值税。",
+      "prompt": "乙为雇主提供本题工资服务，是否属于增值税应税交易？",
+      "reference": "不属于。乙是向受雇单位提供取得工资薪金的岗位劳动，增值税法明确将这类服务排除在应税交易外。不能只因拿到钱就认作独立经营销售服务；其他税种问题不在本问。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不属于，员工为雇主提供工资薪金服务有法定排除。",
+          "explanation": "本题没有独立经营。"
+        },
+        {
+          "text": "一切工资都一律按独立服务销售缴增值税。",
+          "explanation": "忽视明确排除。"
+        },
+        {
+          "text": "只要拿工资就任何税种都永久免除。",
+          "explanation": "排除本税不等于所有税。"
+        },
+        {
+          "text": "公司在境内，所以员工所有活动都等于销售货物。",
+          "explanation": "错误混淆交易类别。"
+        }
+      ],
+      "points": [
+        {
+          "label": "雇佣服务性质",
+          "meaning": "联系受雇岗位劳动和工资，不是独立经营。",
+          "boundary": "不是用合同叫工资就能掩盖真实经营。"
+        },
+        {
+          "label": "法定排除",
+          "meaning": "说明本题不属增值税应税交易。",
+          "boundary": "不推及个人所得税等其他税种。"
+        }
+      ],
+      "sources": ["commercial-g5-vat", "commercial-g5-vat-regulation"]
+    },
+    {
+      "id": "commercial-g5-vat-goods",
+      "topicId": "commercial-g5-vat",
+      "title": "境内公司销售自产设备",
+      "facts": "【原创教学案例】2026年10月，境内甲公司把自己生产的设备有偿卖给境内乙公司，设备起运地、交付地均在境内。本题只问交易性质，不给出免税、起征点或特殊行业等事实，也不要求算具体税额。",
+      "prompt": "能否仅因买卖双方都是公司，就否定本题属于增值税应税交易范围？",
+      "reference": "不能。境内有偿销售货物属于增值税法规定的应税交易，交易双方都是公司不是排除理由。具体应纳税额、税率或优惠须另按条件计算，不能凭题外优惠否定交易性质。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "公司对公司销售一律不属于增值税交易。",
+          "explanation": "主体均为公司不排除应税货物销售。"
+        },
+        {
+          "text": "只要有偿销售就永远适用零税率。",
+          "explanation": "税率需依法具体判断。"
+        },
+        {
+          "text": "不能，本题属于境内有偿销售货物。",
+          "explanation": "范围判断与税额优惠不同。"
+        },
+        {
+          "text": "设备未售给个人就没有任何交易。",
+          "explanation": "买方为公司同样可以交易。"
+        }
+      ],
+      "points": [
+        {
+          "label": "境内销售货物",
+          "meaning": "联系设备有偿销售及境内起运交付，识别应税交易范围。",
+          "boundary": "不是单问实际应纳税额。"
+        },
+        {
+          "label": "主体非排除",
+          "meaning": "否定公司对公司即排除，不编造无条件免税。",
+          "boundary": "无需选具体税率或算税额。"
+        }
+      ],
+      "sources": ["commercial-g5-vat", "commercial-g5-vat-regulation"]
+    },
+    {
+      "id": "commercial-g5-tax-assessment",
+      "topicId": "commercial-g5-tax-remedy",
+      "title": "不同意核定税额就直接起诉",
+      "facts": "【原创教学案例】甲对税务机关确定的应纳税额、计税依据有争议，收到缴纳税款及滞纳金的决定。甲尚未缴纳解缴，也未提供相应担保，更未申请复议，准备直接提起纳税争议诉讼。本题无其他特别程序。",
+      "prompt": "甲能否按本题方式直接跳过相应缴纳或担保、复议步骤？",
+      "reference": "不能。该争议针对应纳税额，属纳税争议，应先按规定缴纳解缴税款和滞纳金或提供相应担保，再依法申请行政复议；对复议决定不服再起诉。不能仅以不认可税额为由直接省略。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "凡不服税额都无需复议可直接起诉。",
+          "explanation": "忽视纳税争议专门程序。"
+        },
+        {
+          "text": "不能，应依法先缴纳或担保，再复议，之后按条件起诉。",
+          "explanation": "争议对象是税额计税依据。"
+        },
+        {
+          "text": "只要税务机关决定就永无救济。",
+          "explanation": "仍有法定复议诉讼路径。"
+        },
+        {
+          "text": "任何争议都只能口头协商不能留材料。",
+          "explanation": "无此要求。"
+        }
+      ],
+      "points": [
+        {
+          "label": "争议类型",
+          "meaning": "识别税额计税依据争议属于纳税争议。",
+          "boundary": "不混成独立罚款争议。"
+        },
+        {
+          "label": "救济顺序",
+          "meaning": "说明依法缴纳或担保后复议，再依法诉讼。",
+          "boundary": "不能漏掉相应税款滞纳金的条件。"
+        }
+      ],
+      "sources": ["commercial-g5-tax-remedy"]
+    },
+    {
+      "id": "commercial-g5-tax-penalty",
+      "topicId": "commercial-g5-tax-remedy",
+      "title": "对独立非当场罚款提起诉讼",
+      "facts": "【原创教学案例】税务机关经普通程序向甲作出一项独立罚款决定，没有一并确认应纳税款。该决定不是当场行政处罚，不属于其他法定复议前置情形。甲准备在期限内起诉，机关称所有税务案件都必须先缴税款、先复议。",
+      "prompt": "机关能否把纳税争议的专门前置要求机械加给本题罚款争议？",
+      "reference": "不能。本题是独立普通程序罚款，不是税额争议，也排除了其他复议前置。甲可依法申请复议或直接起诉，不能一律要求先缴本不存在争议的税款并先复议。罚款执行等另按法定规则处理。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "任何税务罚款都必须先证明已缴全部税款才准起诉。",
+          "explanation": "本题并非纳税争议且无其他前置。"
+        },
+        {
+          "text": "罚款不服就可自行销毁决定不用救济。",
+          "explanation": "应走法定程序。"
+        },
+        {
+          "text": "只要直接起诉就代表罚款自动撤销。",
+          "explanation": "起诉非当然撤销。"
+        },
+        {
+          "text": "不能，本题可按法定条件直接起诉或申请复议。",
+          "explanation": "应按具体争议类型判断。"
+        }
+      ],
+      "points": [
+        {
+          "label": "罚款非纳税争议",
+          "meaning": "联系独立非当场罚款且无其他法定前置，区分税额争议。",
+          "boundary": "不推广到当场处罚等法定前置。"
+        },
+        {
+          "label": "可选择救济",
+          "meaning": "说明可依法直接诉讼或复议，不能机械加税款前置。",
+          "boundary": "不宣称起诉当然停止执行。"
+        }
+      ],
+      "sources": ["commercial-g5-tax-remedy"]
+    },
+    {
+      "id": "commercial-g5-tax-freeze-approval",
+      "topicId": "commercial-g5-tax-enforcement",
+      "title": "有风险就由工作人员直接冻结",
+      "facts": "【原创教学案例】税务机关发现经营纳税人甲有逃避纳税、转移应税财产等法定风险，已完成依法要求担保等前期步骤，现拟冻结相应存款。经办人员未报县以上税务局局长批准，便称自己在现场签字足够。本问只审该审批环节。",
+      "prompt": "本题风险已查明，能否因此省略法定保全审批？",
+      "reference": "不能。税收保全不仅须有法定实体条件，还须依法经县以上税务局局长批准等程序。经办人员现场签字不能代替该批准，有风险也不等于可以跳过审批。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，还须法定负责人批准，现场签字不能替代。",
+          "explanation": "有实体风险也须程序合法。"
+        },
+        {
+          "text": "发现风险后任何个人均可冻结纳税人资金。",
+          "explanation": "无此权限。"
+        },
+        {
+          "text": "只要冻结金额小就无任何程序要求。",
+          "explanation": "金额小不当然免除审批。"
+        },
+        {
+          "text": "有风险反而税务机关永远不得采取保全。",
+          "explanation": "条件程序具备时可以依法采取。"
+        }
+      ],
+      "points": [
+        {
+          "label": "审批要求",
+          "meaning": "指出依法经县以上税务局局长批准。",
+          "boundary": "不把普通经办签字等同批准。"
+        },
+        {
+          "label": "风险不替程序",
+          "meaning": "联系风险已查明仍不能省略程序。",
+          "boundary": "不需重复审查本题已排除的前期步骤。"
+        }
+      ],
+      "sources": ["commercial-g5-tax-enforcement"]
+    },
+    {
+      "id": "commercial-g5-tax-release",
+      "topicId": "commercial-g5-tax-enforcement",
+      "title": "已在期限内缴税却仍长期冻结",
+      "facts": "【原创教学案例】甲的存款此前被税务机关依法采取税收保全。甲在规定期限内已经缴清所涉税款，机关也已核实到账，没有其他继续保全依据。经办人员认为要给甲一个教训，打算再冻几个月。",
+      "prompt": "能否以给纳税人教训为由继续本题保全？",
+      "reference": "不能。甲在规定期限内缴清相应税款后，应立即依法解除保全。本题已无继续保全依据，不能把保障征税的暂时措施当作追加处罚；是否另有合法处罚不由本措施替代。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "只要曾保全就可无期限不解除。",
+          "explanation": "缴税后有解除义务。"
+        },
+        {
+          "text": "保全天然等于追加几个月处罚。",
+          "explanation": "目的和制度不同。"
+        },
+        {
+          "text": "不能，应立即依法解除本题保全。",
+          "explanation": "税款已缴清且无其他依据。"
+        },
+        {
+          "text": "工作人员不满意就能任意延长期限。",
+          "explanation": "个人教训想法无法律依据。"
+        }
+      ],
+      "points": [
+        {
+          "label": "解除条件",
+          "meaning": "联系期限内已缴清并核实，说明应立即解除。",
+          "boundary": "不适用另有合法独立措施的情形。"
+        },
+        {
+          "label": "不得作处罚",
+          "meaning": "否定给教训继续冻结，区分保全与处罚。",
+          "boundary": "不要求判定题外其他处罚。"
+        }
+      ],
+      "sources": ["commercial-g5-tax-enforcement"]
+    },
+    {
+      "id": "commercial-g5-land-conversion",
+      "topicId": "commercial-g5-land-use",
+      "title": "租下耕地就准备建仓库",
+      "facts": "【原创教学案例】甲从村民手中签合同租下仍属农用地的耕地，准备直接浇筑地基建商业仓库。尚未办理农用地转用等法定审批，土地用途也未依法变更。甲认为租金已付，双方愿意即可开工。",
+      "prompt": "租赁合同和付租金能否替代本题农用地转用审批？",
+      "reference": "不能。题设耕地仍属农用地，建商业仓库涉及转为建设用途，必须依法履行农用地转用等法定程序。私人租赁和付租金不能自行改变土地用途或代替审批，不应直接开工。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "付了租金就自动变建设用地。",
+          "explanation": "合同不改变法定用途。"
+        },
+        {
+          "text": "不能，应依法办理转用等手续，不能凭租赁直接开工。",
+          "explanation": "土地仍为农用地。"
+        },
+        {
+          "text": "所有集体土地都绝对不能依法开发利用。",
+          "explanation": "法律允许符合条件的用途安排。"
+        },
+        {
+          "text": "只要仓库面积小就永远无审批。",
+          "explanation": "无该无条件排除。"
+        }
+      ],
+      "points": [
+        {
+          "label": "用途管制",
+          "meaning": "联系农用耕地改建商业仓库，须依法转用审批。",
+          "boundary": "不等同普通农业生产设施的题外情形。"
+        },
+        {
+          "label": "合同非审批",
+          "meaning": "说明租金和合同不能代替审批，不能据此开工。",
+          "boundary": "不要求列出全部审批层级。"
+        }
+      ],
+      "sources": ["commercial-g5-land-use"]
+    },
+    {
+      "id": "commercial-g5-land-collective-vote",
+      "topicId": "commercial-g5-land-use",
+      "title": "刚过半数就决定出租集体经营性用地",
+      "facts": "【原创教学案例】某集体经营性建设用地的规划、用途、登记等入市前提均已具备。集体依法召开的成员村民会议中，全部成员的55%同意出租，未经过另一次村民代表表决，也无其他法定特别安排。负责人称只要过半即可。",
+      "prompt": "仅本题55%的成员赞成，是否达到土地管理法该项出租的表决要求？",
+      "reference": "没有。该项出租须经本集体经济组织成员的村民会议三分之二以上成员或三分之二以上村民代表同意。本题选择成员会议路径，只有55%，未达三分之二，不能用普通过半替代。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "所有集体事项只要负责人一人签字。",
+          "explanation": "法定集体表决不能省略。"
+        },
+        {
+          "text": "55%已超过一半，所以必定满足本项要求。",
+          "explanation": "本项为三分之二以上。"
+        },
+        {
+          "text": "土地符合规划后所有表决要求自动消失。",
+          "explanation": "规划与民主决策条件并列。"
+        },
+        {
+          "text": "没有，成员会议本项须三分之二以上同意。",
+          "explanation": "55%未达门槛且无另一合法表决。"
+        }
+      ],
+      "points": [
+        {
+          "label": "法定门槛",
+          "meaning": "说明成员会议须三分之二以上成员同意等法定路径。",
+          "boundary": "不改用普通公司多数规则。"
+        },
+        {
+          "label": "本案未达",
+          "meaning": "指出55%不足且无另一合法代表表决，不能据此完成。",
+          "boundary": "不否定已具备的规划登记条件。"
+        }
+      ],
+      "sources": ["commercial-g5-land-use"]
+    },
+    {
+      "id": "commercial-g5-realty-unity",
+      "topicId": "commercial-g5-realty-transfer",
+      "title": "卖厂房却永久保留同一地块使用权",
+      "facts": "【原创教学案例】甲依法拥有一栋厂房及其占用范围内的国有出让土地使用权，均可依法转让。甲与乙约定把厂房所有权转给乙，却永久保留同一占用范围的全部土地使用权，不是合法地上分层等特别情形。",
+      "prompt": "本题是否可以按双方这种约定把厂房与相应土地使用权任意拆开转让？",
+      "reference": "不能这样拆开。房地产转让时，房屋与占用范围内的相应土地使用权依法一并转让。双方不能仅凭私人约定把同一房地关系永久割裂；转让的是土地使用权，不是国有土地所有权。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能任意拆开，房屋与相应土地使用权应依法一并转让。",
+          "explanation": "本题无合法特别情形。"
+        },
+        {
+          "text": "卖房必须同时把国家土地所有权卖给买家。",
+          "explanation": "使用权不是土地所有权。"
+        },
+        {
+          "text": "只要签字，厂房可永久没有相应土地权利。",
+          "explanation": "忽视房地一体要求。"
+        },
+        {
+          "text": "任何厂房永远不能转让。",
+          "explanation": "本题明确可依法转让。"
+        }
+      ],
+      "points": [
+        {
+          "label": "房地一体",
+          "meaning": "说明房屋及占用范围相应土地使用权依法一并转让。",
+          "boundary": "不是把国家土地所有权一并买卖。"
+        },
+        {
+          "label": "否定任意割裂",
+          "meaning": "联系永久保留全部相应土地使用权，否定该拆分方式。",
+          "boundary": "不要求处理特别立体空间权利。"
+        }
+      ],
+      "sources": ["commercial-g5-realty-transfer"]
+    },
+    {
+      "id": "commercial-g5-realty-allocation",
+      "topicId": "commercial-g5-realty-transfer",
+      "title": "划拨土地上的楼签约就直接过户",
+      "facts": "【原创教学案例】甲的办公楼占用国有划拨土地。甲拟把整幢楼及相应使用权转给乙，双方刚签合同，尚未报有批准权政府批准，也未依法办理出让等应办手续。甲称私人合同足以替代所有土地程序。",
+      "prompt": "能否仅凭合同跳过本题划拨房地产转让的法定程序？",
+      "reference": "不能。划拨房地产转让须依法报有批准权政府审批，并按法定情形办理出让、缴纳出让金或相应收益处理等手续。合同不能代替这些要求，不能据此当然认定转让登记条件全部满足。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "私人签字能自动替代任何土地审批。",
+          "explanation": "无此效力。"
+        },
+        {
+          "text": "所有划拨房地产在任何法定条件下均绝对不能转让。",
+          "explanation": "法律设有批准处理路径。"
+        },
+        {
+          "text": "不能，应依法审批并办理对应出让或收益处理手续。",
+          "explanation": "要区分具体法定情形。"
+        },
+        {
+          "text": "有办公楼就自动取得土地所有权。",
+          "explanation": "国有土地所有权不转为私人。"
+        }
+      ],
+      "points": [
+        {
+          "label": "审批路径",
+          "meaning": "说明应依法报有批准权政府审批，合同不替代。",
+          "boundary": "不把所有划拨地一概永不能转让。"
+        },
+        {
+          "label": "后续手续",
+          "meaning": "说明按法定情形办理出让缴费或收益等，不能认手续已全满足。",
+          "boundary": "不要求选题目没有事实的具体例外。"
+        }
+      ],
+      "sources": ["commercial-g5-realty-transfer"]
+    },
+    {
+      "id": "commercial-g5-eia-before-building",
+      "topicId": "commercial-g5-environment-assessment",
+      "title": "环评材料已收就先动工",
+      "facts": "【原创教学案例】2026年10月，甲拟建一座按法定分类须编制并报批环境影响报告书的工厂。报告书刚提交，审批机关尚未批准。甲认为只要已受理，先修主要生产建筑也不算问题，不涉及抢险等特别情形。",
+      "prompt": "本题能否以报告书已提交或受理代替批准，先开工建设？",
+      "reference": "不能。该项目依法需要报告书审批，未经批准不得开工建设。提交或受理不等于批准，甲应依法完成审批后再按要求建设，不能先把主要生产建筑建起来。",
+      "answer": "b",
+      "options": [
+        {
+          "text": "只要递交材料就自动获批。",
+          "explanation": "受理与批准不同。"
+        },
+        {
+          "text": "不能，依法应审批的项目未经批准不得开工。",
+          "explanation": "本题正是须报告书审批。"
+        },
+        {
+          "text": "所有项目都永远不能开工。",
+          "explanation": "依法获批可按条件建设。"
+        },
+        {
+          "text": "报告书不用批准，只能口头承诺。",
+          "explanation": "不符题设分类审批。"
+        }
+      ],
+      "points": [
+        {
+          "label": "审批条件",
+          "meaning": "联系依法须报告书审批而尚未批准。",
+          "boundary": "不要求所有项目一律用报告书。"
+        },
+        {
+          "label": "不得先建",
+          "meaning": "说明提交受理不代替批准，本题不能先开工。",
+          "boundary": "不编造特别应急豁免。"
+        }
+      ],
+      "sources": ["commercial-g5-environment-assessment"]
+    },
+    {
+      "id": "commercial-g5-eia-major-change",
+      "topicId": "commercial-g5-environment-assessment",
+      "title": "批准后大幅更换工艺和排放方案",
+      "facts": "【原创教学案例】2026年10月，甲的项目环评曾依法获批，后决定大幅更改生产规模和防治污染措施。专业事实已确认属于法典所称重大变动。甲仍拟只拿旧批准文件按新方案建设，未重新报批。",
+      "prompt": "本题重大变动后能否一直沿用旧环评批准，不再履行相应报批？",
+      "reference": "不能。项目规模、防治污染措施等发生法定重大变动，应依法重新报批环评文件。本题已明确属于重大变动，旧批准针对原方案，不能自动覆盖变动后的方案并据此直接建设。",
+      "answer": "d",
+      "options": [
+        {
+          "text": "一经批准，未来任何重大变动都不再审查。",
+          "explanation": "原批准非无限通行证。"
+        },
+        {
+          "text": "只有公司名称变了才需要任何变更手续。",
+          "explanation": "法定重大变动不限名称。"
+        },
+        {
+          "text": "项目调整反而自动免除污染防治。",
+          "explanation": "无此效果。"
+        },
+        {
+          "text": "不能，本题重大变动应依法重新报批。",
+          "explanation": "规模和防治措施变化已达法定程度。"
+        }
+      ],
+      "points": [
+        {
+          "label": "重大变动要求",
+          "meaning": "说明本题法定重大变动须重新报批。",
+          "boundary": "不是对任何细微调整一律重报。"
+        },
+        {
+          "label": "旧批非覆盖",
+          "meaning": "说明不能凭原方案批准直接覆盖新方案建设。",
+          "boundary": "不要求推翻原方案当时批准。"
+        }
+      ],
+      "sources": ["commercial-g5-environment-assessment"]
+    },
+    {
+      "id": "commercial-g5-permit-first",
+      "topicId": "commercial-g5-pollution-permit",
+      "title": "污水设备装好就打算无证排放",
+      "facts": "【原创教学案例】2026年10月，甲属于依法必须取得排污许可证的排污单位。处理设备已装好，但许可证尚未取得。甲准备开始生产并排放，认为自测达标就能先排，等许可证以后补。本题不属于仅作排污登记的类别。",
+      "prompt": "自测达标能否替代本题许可证，让甲先无证排放？",
+      "reference": "不能。题设依法须领排污许可证，未取得不得排放污染物。安装设备、自测达标都不等于已经获证，甲应依法先取得许可并按证排污，不能先排后补。",
+      "answer": "a",
+      "options": [
+        {
+          "text": "不能，须依法取得许可证并按证排污。",
+          "explanation": "本题已明确为领证管理。"
+        },
+        {
+          "text": "只要装设备就自动领到许可证。",
+          "explanation": "设备不替代许可。"
+        },
+        {
+          "text": "无论排污类别如何，全国任何主体都同样必须领此证。",
+          "explanation": "管理存在分类，不可绝对化。"
+        },
+        {
+          "text": "自测报告可随意取代法定许可证。",
+          "explanation": "没有该替代。"
+        }
+      ],
+      "points": [
+        {
+          "label": "先证要求",
+          "meaning": "联系须领证且未获证，指出不得先排污。",
+          "boundary": "不推广到仅登记类别。"
+        },
+        {
+          "label": "不能替代",
+          "meaning": "说明设备及自测不代替法定许可，应按证排污。",
+          "boundary": "不要求判断检测数据真实性。"
+        }
+      ],
+      "sources": ["commercial-g5-pollution-permit"]
+    },
+    {
+      "id": "commercial-g5-permit-records",
+      "topicId": "commercial-g5-pollution-permit",
+      "title": "拿证后每年删除去年的台账",
+      "facts": "【原创教学案例】2026年10月，甲持有有效排污许可证，依法需保存环境管理台账。公司规定每年把上一年度台账全部删除，只保留当年的，认为拿到许可证就不需要长期留记录。不存在另有更长保存要求的争议。",
+      "prompt": "甲能否仅凭许可证有效就按本题方式删除台账？",
+      "reference": "不能。许可有效不免监测记录等持续义务，依法应保存的环境管理台账记录不得少于五年。每年删掉上一年记录明显不足法定期间，应依法留存。",
+      "answer": "c",
+      "options": [
+        {
+          "text": "有证就不需任何后续记录。",
+          "explanation": "许可后仍有持续义务。"
+        },
+        {
+          "text": "台账最多只能保留一天。",
+          "explanation": "不符法定期间。"
+        },
+        {
+          "text": "不能，相关台账记录依法保存不得少于五年。",
+          "explanation": "有效许可不免台账义务。"
+        },
+        {
+          "text": "公司内部制度可任意缩短法定期限。",
+          "explanation": "内部规定不能替代法律。"
+        }
+      ],
+      "points": [
+        {
+          "label": "持续义务",
+          "meaning": "说明许可证有效仍须依法保留台账。",
+          "boundary": "不把许可当作免监督证明。"
+        },
+        {
+          "label": "最低期限",
+          "meaning": "指出不得少于五年，逐年删除不符合。",
+          "boundary": "不要求增加题外更长期限。"
+        }
+      ],
+      "sources": ["commercial-g5-pollution-permit"]
+    }
+  ],
+  "sources": {
+    "commercial-g5-representative": {
+      "title": "《公司法》（2023年修订，2024年7月施行）第10—11条",
+      "url": "https://www.samr.gov.cn/xyjgs/flfg/art/2024/art_d4e84936a8a744f8928ac7aec7594345.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。内部权限限制不能直接推给不知道该限制的交易相对人。"
+    },
+    "commercial-g5-resolution": {
+      "title": "《公司法》（2023年修订，2024年7月施行）第25—28条",
+      "url": "https://www.samr.gov.cn/xyjgs/flfg/art/2024/art_d4e84936a8a744f8928ac7aec7594345.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。没开会没表决，先看决议是否成立；程序有错不一律等于内容无效。"
+    },
+    "commercial-g5-director": {
+      "title": "《公司法》（2023年修订，2024年7月施行）第180—188条",
+      "url": "https://www.samr.gov.cn/xyjgs/flfg/art/2024/art_d4e84936a8a744f8928ac7aec7594345.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。关联交易要报告、按章程履行决议程序，关联董事不得参与相关董事会表决。"
+    },
+    "commercial-g5-derivative": {
+      "title": "《公司法》（2023年修订，2024年7月施行）第188—190条",
+      "url": "https://www.samr.gov.cn/xyjgs/flfg/art/2024/art_d4e84936a8a744f8928ac7aec7594345.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。为公司挽回损失，股东通常先书面请求相应机关；紧急情况可依法直接起诉。"
+    },
+    "commercial-g5-profit": {
+      "title": "《公司法》（2023年修订，2024年7月施行）第210—212条",
+      "url": "https://www.samr.gov.cn/xyjgs/flfg/art/2024/art_d4e84936a8a744f8928ac7aec7594345.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。先弥补亏损、依法提公积金，再分剩余利润；违规分红要退还。"
+    },
+    "commercial-g5-liquidation": {
+      "title": "《公司法》（2023年修订，2024年7月施行）第229—233条",
+      "url": "https://www.samr.gov.cn/xyjgs/flfg/art/2024/art_d4e84936a8a744f8928ac7aec7594345.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。公司解散不等于债务消失；现行一般规则下董事承担清算义务。"
+    },
+    "commercial-g5-partner-liability": {
+      "title": "《合伙企业法》（2006年修订）第2、38—40、76条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211810/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。先以合伙企业财产清偿，普通合伙人与有限合伙人的外部责任不同。"
+    },
+    "commercial-g5-partner-management": {
+      "title": "《合伙企业法》（2006年修订）第27、37、67—68条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211810/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。内部代表权限限制通常不能对抗善意第三人；有限合伙人不执行事务有法定边界。"
+    },
+    "commercial-g5-sole-liability": {
+      "title": "《个人独资企业法》第2、18、28、31条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_519614134f3c4afa9d7cd373b5491fdb.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。个人独资企业不是一人有限公司，投资人通常承担无限责任。"
+    },
+    "commercial-g5-bankruptcy-entry": {
+      "title": "《企业破产法》（2006年通过，2007年施行）第2、7、16、19—20条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193017/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。债务到期不能清偿等事实决定能否申请；受理后转入集中清理，不能继续个别执行。"
+    },
+    "commercial-g5-bankruptcy-estate": {
+      "title": "《企业破产法》（2006年通过，2007年施行）第30—34、38条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193017/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。不是放在债务人仓库里就都归债务人；特定破产前处分可由管理人依法申请撤销。"
+    },
+    "commercial-g5-bankruptcy-claims": {
+      "title": "《企业破产法》（2006年通过，2007年施行）第45—48、56、109、113条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193017/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。未及时申报不一律消灭；普通职工工资等有特别处理，普通债权不能抢先分。"
+    },
+    "commercial-g5-reorganization": {
+      "title": "《企业破产法》（2006年通过，2007年施行）第70、75、95—96条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193017/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。重整期间担保行使通常暂停，不等于担保消失；和解有不同的申请与担保规则。"
+    },
+    "commercial-g5-bill-record": {
+      "title": "《票据法》（2004年修正）第8—9、84—86条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211816/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。金额大小写不一致会影响票据效力；支票依法授权补记是特定例外。"
+    },
+    "commercial-g5-bill-endorsement": {
+      "title": "《票据法》（2004年修正）第33、45—48条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211816/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。背书附条件不让该条件产生票据效力，票据保证附条件也不免其保证责任。"
+    },
+    "commercial-g5-bill-defense": {
+      "title": "《票据法》（2004年修正）第10—13、61—68条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5211816/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。取得票据的过程决定能否对抗基础关系争议；依法追索通常不必按背书顺序逐个找。"
+    },
+    "commercial-g5-insurance-disclosure": {
+      "title": "《保险法》（2015年修正）第16条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_4c715a53f3d4402c89f62ae77809f638.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。如实告知以保险人询问范围为基础；解除权也有期限，不能无限保留。"
+    },
+    "commercial-g5-insurance-exclusion": {
+      "title": "《保险法》（2015年修正）第17条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_4c715a53f3d4402c89f62ae77809f638.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。免责条款不能只藏在合同里；通常还须显著提示并明确说明。"
+    },
+    "commercial-g5-insurance-subrogation": {
+      "title": "《保险法》（2015年修正）第46、60—61条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_4c715a53f3d4402c89f62ae77809f638.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。财产险赔付后的代位有赔付金额上限；人身险给付通常不让保险人代位向侵权人追偿。"
+    },
+    "commercial-g5-securities-issue": {
+      "title": "《证券法》（2019年修订）第9、19、21、25条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_725883cb6dda4fdf965a3d14358e279f.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。向不特定对象发行股票须依法注册，注册不替投资者承担经营风险。"
+    },
+    "commercial-g5-securities-trading": {
+      "title": "《证券法》（2019年修订）第50—55条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_725883cb6dda4fdf965a3d14358e279f.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。未公开的重要信息不能拿来抢先交易；自买自卖制造行情也受禁止。"
+    },
+    "commercial-g5-securities-disclosure": {
+      "title": "最高人民法院关于审理证券市场虚假陈述侵权民事赔偿案件的若干规定第2、10—12、31条",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/343221.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。证券虚假陈述索赔不一律先等行政处罚，赔偿也不是包赔所有跌价。"
+    },
+    "commercial-g5-monopoly-agreement": {
+      "title": "中华人民共和国反垄断法（2022修正）第16—20条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_f0fae9eb3a684fc39e84d89eabfc2caa.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。同行不能用共同定价代替竞争；纵向限价须按专门规则判断。"
+    },
+    "commercial-g5-dominance": {
+      "title": "中华人民共和国反垄断法（2022修正）第22—24条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_f0fae9eb3a684fc39e84d89eabfc2caa.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。有支配地位本身不违法，要看是否实施无正当理由的排除限制行为。"
+    },
+    "commercial-g5-concentration": {
+      "title": "国务院关于经营者集中申报标准的规定（2024修订）第2—5条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fldzfes/art/2024/art_58bfdf32244e42708c71c01234c6afaf.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。取得控制权等集中达到门槛须事先申报，未达门槛也不绝对免于调查。"
+    },
+    "commercial-g5-concentration-antitrust": {
+      "title": "中华人民共和国反垄断法（2022修正）第25—27条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_f0fae9eb3a684fc39e84d89eabfc2caa.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "commercial-g5-unfair": {
+      "title": "中华人民共和国反不正当竞争法（2025修订）第7、10条",
+      "url": "https://www.cnipa.gov.cn/art/2026/5/20/art_104_206437.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。仿得让人误认来源可能构成混淆，秘密保护则要求信息有保密条件。"
+    },
+    "commercial-g5-online-return": {
+      "title": "中华人民共和国消费者权益保护法（2013修正）第24—25条",
+      "url": "https://www.samr.gov.cn/zfjcj/tzgg/art/2023/art_615af9ed6bcd4974bf853dd2e02bc663.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。普通网购物品符合条件可七日无理由退货，定作等法定例外另行判断。"
+    },
+    "commercial-g5-consumer-fraud": {
+      "title": "中华人民共和国消费者权益保护法（2013修正）第55条第1款",
+      "url": "https://www.samr.gov.cn/zfjcj/tzgg/art/2023/art_615af9ed6bcd4974bf853dd2e02bc663.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。欺诈的增加赔偿通常按价款三倍，增加额不足五百元按五百元。"
+    },
+    "commercial-g5-product-defect": {
+      "title": "中华人民共和国产品质量法（2018修正）第41—43、46条",
+      "url": "https://www.cnipa.gov.cn/art/2019/7/31/art_104_67810.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。缺陷致人身或其他财产损害，可依法向生产者或销售者请求赔偿，内部责任再区分。"
+    },
+    "commercial-g5-employment-contract": {
+      "title": "中华人民共和国劳动合同法（2012修正）第7、10、82条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_0abfdd261c03417b949df19d869add8d.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。用工后应及时签书面合同，二倍工资还须结合未签原因和法定期间。"
+    },
+    "commercial-g5-employment-contract-judicial": {
+      "title": "最高人民法院关于审理劳动争议案件适用法律问题的解释（二）第6—9条",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/472691.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "commercial-g5-employment-termination": {
+      "title": "中华人民共和国劳动合同法（2012修正）第40、46—48、87条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_0abfdd261c03417b949df19d869add8d.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。不能胜任不是立刻解雇的通行证；违法解除的继续履行与赔偿须分清。"
+    },
+    "commercial-g5-labor-arbitration": {
+      "title": "中华人民共和国劳动争议调解仲裁法第5、16、27、29条",
+      "url": "https://chinajob.mohrss.gov.cn/h5/c/2022-07-15/356212.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。普通劳动争议通常先仲裁，在职欠薪的时效有特别规则。"
+    },
+    "commercial-g5-social-insurance": {
+      "title": "最高人民法院关于审理劳动争议案件适用法律问题的解释（二）第19条",
+      "url": "https://www.court.gov.cn/fabu/xiangqing/472691.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。双方签字不缴社保也不能免法定义务，已补缴后的补偿返还另处理。"
+    },
+    "commercial-g5-social-insurance-employment": {
+      "title": "中华人民共和国劳动合同法（2012修正）第38、46条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_0abfdd261c03417b949df19d869add8d.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "commercial-g5-social-insurance-social": {
+      "title": "中华人民共和国社会保险法（2018修正）第58、60条",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_e81d115419b4463ebb59ec46467fb136.html",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "commercial-g5-vat": {
+      "title": "中华人民共和国增值税法第3—6、38条",
+      "url": "https://tianjin.chinatax.gov.cn/11200000000/0300/030004/03000418/p20241226144544917.shtml",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。2026年按增值税法判断应税交易，雇员向雇主提供工资服务有明确排除。"
+    },
+    "commercial-g5-vat-regulation": {
+      "title": "中华人民共和国增值税法实施条例第2、4条",
+      "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=1791&Query=%E5%A2%9E%E5%80%BC%E7%A8%8E%E6%B3%95",
+      "note": "2026-11-01核读；与本组主要依据结合使用。"
+    },
+    "commercial-g5-tax-remedy": {
+      "title": "中华人民共和国税收征收管理法（2015修正）第88条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5195081/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。争的是应缴税款，通常先缴纳或担保再复议；一般独立罚款不能机械套用。"
+    },
+    "commercial-g5-tax-enforcement": {
+      "title": "中华人民共和国税收征收管理法（2015修正）第38、40、42条",
+      "url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5195081/content.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。保全须符合法定条件和审批，依法缴清后应及时解除。"
+    },
+    "commercial-g5-land-use": {
+      "title": "中华人民共和国土地管理法（2019修正）第4、44、63条",
+      "url": "https://fgw.sh.gov.cn/cmsres/43/43fdc411d9974a209a0fd98ee3053236/22043e54090520fc129117fad253b8e0.pdf",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。私人合同不能替代用途管制，集体建设用地入市也有法定条件和表决要求。"
+    },
+    "commercial-g5-realty-transfer": {
+      "title": "中华人民共和国城市房地产管理法（2019修正）第32、40条",
+      "url": "https://www.samr.gov.cn/zfjcj/tzgg/art/2023/art_d334f021ed52443d970cd58d934a3a6c.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。房与相应土地使用权原则上一起处分，划拨房地产转让要走法定批准路径。"
+    },
+    "commercial-g5-environment-assessment": {
+      "title": "中华人民共和国生态环境法典第95、102、106—107条",
+      "url": "https://ecro.mee.gov.cn/fgbz/fl/202604/t20260416_1148993.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。按现行生态环境法典履行分类环评，应审批项目未经批准不能先开工。"
+    },
+    "commercial-g5-pollution-permit": {
+      "title": "中华人民共和国生态环境法典第174—175、178—183条",
+      "url": "https://ecro.mee.gov.cn/fgbz/fl/202604/t20260416_1148993.html",
+      "note": "2026-11-01核读；原创虚构教学情境，不是官方真题。应领证的单位须按证排污，取得许可后仍有监测和台账义务。"
+    }
+  }
+}

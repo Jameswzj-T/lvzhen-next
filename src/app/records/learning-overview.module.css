@@ -1,0 +1,472 @@
+.page {
+  max-width: 1080px;
+  margin: auto;
+  padding: 36px 24px 64px;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 25px;
+}
+.heading p {
+  font-size: 14px;
+  color: var(--muted);
+}
+.heading h1 {
+  font-size: 32px;
+  font-weight: 650;
+  color: #20395f;
+  letter-spacing: -0.4px;
+}
+.heading > a {
+  font-size: 14px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+.filters {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+.filters label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: var(--muted);
+}
+.filters select {
+  font: inherit;
+  max-width: 300px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: var(--paper);
+  color: var(--ink);
+  padding: 8px 30px 8px 12px;
+}
+.summary {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  color: var(--muted);
+  padding: 4px 0 10px;
+  font-size: 14px;
+}
+.summary strong {
+  font-size: 26px;
+  color: #20395f;
+  margin-right: 4px;
+  font-variant-numeric: tabular-nums;
+}
+.caption {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.recordNote {
+  color: var(--muted);
+  font-size: 13px;
+}
+.recordNote > summary,
+.compactMore > summary {
+  min-height: 44px;
+  align-content: center;
+  cursor: pointer;
+}
+.priorities {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 330px), 1fr));
+  gap: 20px;
+  margin-bottom: 24px;
+}
+.priorities:empty {
+  display: none;
+}
+.priorities > .panel {
+  min-width: 0;
+  margin-bottom: 0;
+}
+.compactMore {
+  color: var(--muted);
+  font-size: 13px;
+}
+.tabs {
+  display: flex;
+  gap: 24px;
+  border-bottom: 1px solid var(--line);
+  margin: 24px 0;
+}
+.tabs button {
+  border: 0;
+  background: none;
+  padding: 12px 0;
+  min-height: 48px;
+  color: var(--muted);
+  font: inherit;
+  font-size: 16px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+.tabs button[aria-pressed="true"] {
+  color: var(--blue);
+  font-weight: 600;
+  border-color: var(--blue);
+}
+.panel {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 22px 24px;
+  margin: 0 0 24px;
+}
+.sectionHeading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.sectionHeading h2,
+.panel > h2 {
+  font-size: 19px;
+  font-weight: 600;
+}
+.sectionHeading > span,
+.sectionHeading > a {
+  font-size: 13px;
+  color: var(--muted);
+}
+.sectionHeading > a {
+  color: var(--blue);
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+.draft {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border-top: 1px solid var(--line);
+  padding: 14px 0;
+}
+.draft strong,
+.draft small {
+  display: block;
+}
+.draft strong {
+  font-weight: 550;
+  color: var(--ink);
+}
+.draft small {
+  color: var(--muted);
+  font-size: 13px;
+}
+.draft > span:last-child {
+  white-space: nowrap;
+  font-size: 14px;
+}
+.focus {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: stretch;
+  padding: 14px 0;
+  border-top: 1px solid var(--line);
+  font-size: 15px;
+}
+.focus strong,
+.focus small {
+  display: block;
+  overflow-wrap: anywhere;
+}
+.focus small {
+  color: var(--muted);
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+.focusActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 20px;
+}
+.focusActions a:last-child {
+  color: var(--muted);
+}
+.focus p {
+  color: var(--muted);
+  font-size: 14px;
+}
+.focus a {
+  flex-shrink: 0;
+  font-size: 13px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+.archive {
+  margin-bottom: 28px;
+}
+.answer {
+  scroll-margin-top: 20px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  border-radius: 14px;
+  margin: 10px 0;
+}
+.answer summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 18px 22px;
+  min-height: 70px;
+}
+.answer summary::-webkit-details-marker {
+  display: none;
+}
+.answer summary strong,
+.answer summary small {
+  display: block;
+  overflow-wrap: anywhere;
+}
+.answer summary strong {
+  font-weight: 550;
+  font-size: 17px;
+}
+.answer summary small {
+  font-size: 13px;
+  color: var(--muted);
+}
+.badge {
+  border-radius: 6px;
+  background: var(--pale);
+  color: #385c8c;
+  padding: 3px 8px;
+  font-size: 12px;
+  white-space: nowrap;
+}
+.answer[data-learning-outcome="needs_practice"] .badge {
+  background: #fbf2e5;
+  color: #76501b;
+}
+.answerBody {
+  border-top: 1px solid var(--line);
+  padding: 20px 24px;
+  font-size: 16px;
+  line-height: 1.85;
+  overflow-wrap: anywhere;
+}
+.answerBody h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 14px 0 8px;
+}
+.answerBody h3:first-child {
+  margin-top: 0;
+}
+.original {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.answerBody blockquote {
+  border-left: 3px solid #dce5f4;
+  margin: 10px 0 16px;
+  padding-left: 15px;
+}
+.quote {
+  font-size: 14px;
+  color: var(--muted);
+  white-space: pre-wrap;
+}
+.points > div {
+  padding: 12px 0;
+}
+.points strong {
+  font-size: 15px;
+}
+.links {
+  display: flex;
+  gap: 12px 24px;
+  flex-wrap: wrap;
+  border-top: 1px solid var(--line);
+  margin-top: 18px;
+  padding-top: 12px;
+}
+.links a {
+  font-size: 14px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+.more {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--blue);
+  font: inherit;
+  border-radius: 10px;
+  padding: 10px 20px;
+  min-height: 44px;
+  cursor: pointer;
+}
+.empty {
+  padding: 32px 22px;
+  text-align: center;
+  border: 1px dashed #d5dfec;
+  border-radius: 16px;
+  background: #f4f7fc;
+}
+.empty h3 {
+  font-size: 20px;
+  color: #20395f;
+}
+.empty p {
+  font-size: 15px;
+  color: var(--muted);
+  margin: 10px 0;
+}
+.empty a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+.subject + .subject {
+  border-top: 1px solid var(--line);
+  padding-top: 22px;
+  margin-top: 20px;
+}
+.topic {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin: 12px 0;
+  padding: 12px 0;
+}
+.topic p,
+.topic small {
+  font-size: 13px;
+  color: var(--muted);
+}
+.topic button {
+  background: none;
+  border: 0;
+  color: var(--blue);
+  font: inherit;
+  font-size: 14px;
+  white-space: nowrap;
+  min-height: 44px;
+  padding: 6px;
+  cursor: pointer;
+}
+.backup {
+  margin-top: 32px;
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+.backup > summary {
+  font-size: 15px;
+  min-height: 44px;
+  cursor: pointer;
+  color: var(--muted);
+  padding: 8px 0;
+}
+.backup article {
+  max-width: none;
+  margin-top: 14px;
+}
+.overview button:focus-visible,
+.overview a:focus-visible,
+.overview summary:focus-visible,
+.overview select:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 4px;
+}
+@media (max-width: 700px) {
+  .page {
+    padding: 24px 18px 40px;
+  }
+  .heading {
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .heading h1 {
+    font-size: 28px;
+  }
+  .heading > a {
+    font-size: 13px;
+  }
+  .filters {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .filters label {
+    display: block;
+    min-width: 0;
+    font-size: 12px;
+  }
+  .filters select {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 6px;
+  }
+  .summary {
+    gap: 18px;
+  }
+  .summary strong {
+    font-size: 23px;
+  }
+  .summary span {
+    font-size: 12px;
+  }
+  .caption {
+    font-size: 13px;
+  }
+  .tabs {
+    gap: 20px;
+  }
+  .tabs button {
+    font-size: 15px;
+  }
+  .panel {
+    padding: 18px;
+    border-radius: 14px;
+  }
+  .answer summary {
+    padding: 16px;
+    align-items: flex-start;
+  }
+  .answer summary strong {
+    font-size: 16px;
+  }
+  .answerBody {
+    padding: 18px;
+    font-size: 15px;
+  }
+  .badge {
+    font-size: 11px;
+  }
+  .focus {
+    display: block;
+  }
+  .focus a {
+    margin-top: 4px;
+  }
+  .topic {
+    gap: 12px;
+  }
+  .draft {
+    gap: 12px;
+  }
+}

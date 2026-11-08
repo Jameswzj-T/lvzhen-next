@@ -1,0 +1,42 @@
+{
+  "version": "person-insult-coverage-v2",
+  "scope": "offline-only; no paid CLI or HTTP entry",
+  "basedOn": {
+    "exerciseId": "person-gap-insult-publicity-limit",
+    "exerciseRevision": "criminal-person-gaps-2026-09-30.v1",
+    "criterionId": "person-gap-insult-publicity-limit-p2",
+    "originalRequirement": "丙私信仅丁接收且未传播，缺少本题公然条件，不能据此认定该罪；不构罪不等于行为正当。",
+    "requirementSha256": "ef0ed7c6d9c7e93551e5e4bfa61ac5d4283204bef0b5de38ff6102542c3a264e"
+  },
+  "card": {
+    "id": "person-gap-insult-publicity-limit-v2",
+    "exerciseRevision": "criminal-person-rubric-review-2026-09-30.v1",
+    "title": "公开与私下的差别",
+    "facts": "甲为羞辱乙，连续多日在对公众开放的广场用扩音器点名发表严重贬损乙人格的骂语，引来大量围观；没有捏造具体事实。乙因此遭受经核实的严重精神损害并依法向法院告诉。另案丙只在一对一且未向他人传播的私信中，以一般骂语侮辱丁，没有其他行为或后果。题目未给出严重危害社会秩序和国家利益的例外事实。",
+    "prompt": "分别分析公然性及程度条件，并说明为何不能把网络诽谤的转发数量机械用作所有侮辱行为的入罪门槛。",
+    "sourceIds": ["insult"],
+    "criteria": [
+      {
+        "id": "1-1",
+        "originalId": "person-gap-insult-publicity-limit-v2-p1",
+        "title": "甲的事实与条件",
+        "requirement": "甲公开点名扩音、反复羞辱、造成严重损害且依法告诉，分别支持本题公然侮辱的条件。",
+        "boundary": "不能只凭广场地点或一句骂语跳过严重性与告诉条件。"
+      },
+      {
+        "id": "1-2",
+        "originalId": "person-gap-insult-publicity-limit-v2-p2",
+        "title": "丙的边界",
+        "requirement": "丙私信仅丁接收且未传播，缺少本题公然条件，不能据此认定该罪。",
+        "boundary": "不得虚构第三人知悉或认为任何辱骂都当然犯罪。本项不要求另行评价行为是否正当；未写该补充说明不算漏项。"
+      },
+      {
+        "id": "1-3",
+        "originalId": "person-gap-insult-publicity-limit-v2-p3",
+        "title": "数量标准不误套",
+        "requirement": "侮辱与诽谤行为结构不同，特定网络诽谤数量标准不能机械成为所有侮辱行为的入罪条件。",
+        "boundary": "不以转发不足五百就一概排除侮辱，也不以超过该数就当然构罪。"
+      }
+    ]
+  }
+}

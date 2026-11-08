@@ -1,0 +1,24 @@
+{
+  "version": "matrix-learning-release-v1",
+  "origin": "manually_reviewed_fictional_examples",
+  "localOnly": true,
+  "scoringOrMasteryUse": false,
+  "entries": {
+    "CF01": {
+      "resultHash": "d66e51cc2c13461593d3d32a33268960beb08d99ab4023783a6256c4573adcdf",
+      "receiptHash": "cba3394ffb50ccbad400054272f0125501d99e802318c78b63d5154fb1b02eaf",
+      "receiptKey": "00751d7bcc892661d9eb45201b58d75bc778fe7395d9a08e2da44e3f77ce290f",
+      "requestHash": "932bf2292a01097bdf2566e38b749ca4e4566d02b23f66c6114f2a2cae3d5665",
+      "reviewHash": "445747694ce27f3ecf5ef95433c953128f1dbcf3479a72fae0247636e9ddc6e6",
+      "criteriaHash": "51ee21d6ecb5ab990bcf9197dcf5f982b03c67d165806e7c155894cc4b08ea64"
+    },
+    "CF02": {
+      "resultHash": "1038213845d8274bd6a77495411acfe4435deff659e0562f9afc156bda4ca7ca",
+      "receiptHash": "55df9a11d8b2b88cb86b81e15e503d609f77a4e43ff12cf963fa8cea7223ee48",
+      "receiptKey": "b2b381a9c5518c7b0045331d3cce82448d0daf6d4257d98c8cd9b4c082207c1a",
+      "requestHash": "4603eb9a710edce4c650265dfd93571e360dd60bf62030807a3e9289cbe20dec",
+      "reviewHash": "7348e218c29e0cbd2b615f96bfc306b47760ec0ccf2b94bed29e17ccd3a806d2",
+      "criteriaHash": "51ee21d6ecb5ab990bcf9197dcf5f982b03c67d165806e7c155894cc4b08ea64"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+.plan {
+  max-width: 760px;
+  padding-bottom: 48px;
+}
+.plan h1 {
+  font:
+    650 clamp(26px, 4vw, 36px)/1.45 "Songti SC",
+    "STSong",
+    serif;
+  margin: 8px 0 14px;
+}
+.plan h2 {
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+.meta,
+.note {
+  color: var(--muted);
+  font-size: 15px;
+}
+.intro {
+  margin-bottom: 28px;
+}
+.summary {
+  padding: 20px 0;
+  border-block: 1px solid var(--line);
+  margin-bottom: 26px;
+}
+.summary h2 {
+  font-size: 18px;
+}
+.summary p {
+  margin: 6px 0;
+}
+.task {
+  background: var(--paper);
+  padding: 28px;
+  border-left: 4px solid var(--blue);
+}
+.steps {
+  padding-left: 22px;
+  margin: 22px 0;
+}
+.steps li {
+  padding: 5px 0;
+}
+.primary {
+  background: var(--blue);
+  color: white;
+  border: 0;
+  border-radius: 7px;
+  padding: 12px 20px;
+}
+.link {
+  background: none;
+  border: 0;
+  padding: 6px 0;
+  color: var(--blue);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.recall {
+  padding: 0 0 24px;
+}
+.memory {
+  border-left: 3px solid var(--blue);
+  padding: 1px 18px;
+  margin: 20px 0;
+}
+.memory blockquote {
+  margin: 8px 0;
+  font-size: 16px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  max-height: 180px;
+  overflow: auto;
+}
+.route {
+  margin-top: 30px;
+}
+.route summary {
+  color: var(--blue);
+  padding: 10px 0;
+}
+.route ol {
+  list-style: none;
+  padding: 0;
+}
+.route li {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 4px 10px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+  align-items: baseline;
+}
+.route button {
+  text-align: left;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: var(--blue);
+}
+.route small {
+  grid-column: 2;
+  color: var(--muted);
+}
+.plan button:focus-visible,
+.route summary:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 4px;
+}
+@media (max-width: 600px) {
+  .task {
+    padding: 18px;
+  }
+  .route li {
+    grid-template-columns: 68px 1fr;
+  }
+}

@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilWorkMandateTeacherPublications: Record<string, string> = {
+  "civil-work-mandate-work-main-delegation-written":
+    "7cdaac9fb3d88ad340f9d5af6657b81b6ca80ba4cd648394795dff42eeadac80",
+  "civil-work-mandate-work-auxiliary-packing-written":
+    "2ce3eeb7824456fb8536cf3c09171882d0a241dff784b74c051e169e0f5220a2",
+  "civil-work-mandate-work-customer-materials-written":
+    "eb49558dcb5b0cb563ae786f4a4a4e192a154ff3f6fc7ca9c4022df1c90917a9",
+  "civil-work-mandate-work-contractor-materials-written":
+    "c80e190946f83966e7341e6038e76b9d002a74a7c193357b7bfa238f87d92463",
+  "civil-work-mandate-work-wrong-dimensions-written":
+    "a8824796420bf67af901f0325a66eb5deb77c8ea03cef56b8ed77a3d76a437cc",
+  "civil-work-mandate-work-matching-color-written":
+    "5e8d2021155f81d36dd443931cecd325313284e400f6427767ef96630c67771c",
+  "civil-work-mandate-work-cancel-before-finish-written":
+    "23f6e2bc0b7ca4bcb759944c6cb117749b8d02adb7b6d37cd744959c2d64bef1",
+  "civil-work-mandate-work-complete-awaiting-delivery-written":
+    "bd1e6b4a13290f1c57607a1dd367c251d21528198bb83476f852d44bb5e0ffb1",
+  "civil-work-mandate-instructions-car-change-written":
+    "c82fb591c41e18d449786a683095a51269dee99a25d9096530ecfbab5d086892",
+  "civil-work-mandate-instructions-burst-pipe-written":
+    "8a20b683da110dbca8647f47a979e74859bd0f24a179fac2e7b6cda2ae0752ad",
+  "civil-work-mandate-subdelegation-consented-written":
+    "3ba7f4e4dcd8dd7168559ebab9973bef81388c3ee0a0875d69d68987e08e6a62",
+  "civil-work-mandate-subdelegation-unapproved-written":
+    "1f2ec564c1810be4fb92db1478acefa7183e8c1a1180501299d2cd6e5bc2fe96",
+  "civil-work-mandate-expenses-prepayment-written":
+    "9ffe6212ebf062112e36e41f5541e7ee30818d6abd567ebd63df9cfe6032eb95",
+  "civil-work-mandate-expenses-advance-interest-written":
+    "3c6b6f8369eadceeb15354f54c9a8550e502cb2be803ff60eb8f18ad58dbda6d",
+  "civil-work-mandate-termination-paid-written":
+    "cb7da15246c92ee5b58bdfdad5461541aef7010b6cef639b21df89a359ca9fcf",
+  "civil-work-mandate-termination-sudden-illness-written":
+    "7a7a7cbae826a105c2935c090be2a15fcedf646f1609e83916d25abe5b93be01",
+};

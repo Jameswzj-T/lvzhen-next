@@ -1,0 +1,59 @@
+.sections {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 20px 0 28px;
+}
+.sections button {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+  padding: 20px 16px;
+  border: 1px solid var(--line, #dce3ee);
+  border-radius: 12px;
+  background: var(--paper, #fff);
+  color: var(--ink, #243550);
+  text-align: left;
+  cursor: pointer;
+}
+.sections button:hover {
+  background: var(--blue-soft, #f0f5fc);
+  border-color: var(--blue, #28589b);
+}
+.sections button:focus-visible {
+  outline: 2px solid var(--blue, #28589b);
+  outline-offset: 3px;
+}
+.sections button > span:nth-child(2) {
+  flex: 1;
+  min-width: 0;
+}
+.sections strong,
+.sections small {
+  display: block;
+}
+.sections strong {
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.sections small {
+  color: var(--muted, #677994);
+  font-size: 13px;
+  margin-top: 5px;
+  line-height: 1.6;
+}
+.number {
+  color: var(--muted, #677994);
+  font-size: 14px;
+}
+@media (max-width: 640px) {
+  .sections {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 8px;
+  }
+  .sections button {
+    padding: 16px 14px;
+  }
+}

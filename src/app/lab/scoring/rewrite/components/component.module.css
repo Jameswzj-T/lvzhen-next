@@ -1,0 +1,129 @@
+.page {
+  max-width: 1080px;
+  margin: auto;
+  padding: 28px 24px 70px;
+  color: var(--ink);
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.page h1 {
+  font-size: clamp(26px, 4vw, 36px);
+  margin: 18px 0;
+}
+.page h2 {
+  font-size: 20px;
+  margin: 4px 0 12px;
+}
+.page h3 {
+  font-size: 17px;
+}
+.page p {
+  white-space: pre-wrap;
+}
+.page a {
+  color: var(--blue);
+}
+.meta {
+  font-size: 15px;
+  color: #61758d;
+}
+.notice,
+.boundary {
+  padding: 16px 20px;
+  background: #fff7e8;
+  border-radius: 12px;
+  margin: 20px 0;
+}
+.boundary {
+  background: #edf3fa;
+  border: 1px solid #c8d8ec;
+}
+.card {
+  padding: 22px;
+  margin: 18px 0;
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  min-width: 0;
+}
+.answers {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.answers .card {
+  margin: 0;
+}
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 24px 0;
+}
+.tabs a {
+  padding: 10px 16px;
+  border: 1px solid #d8e1ed;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.tabs a[aria-current] {
+  background: var(--blue);
+  color: white;
+}
+.item {
+  border-top: 1px solid #e0e7ef;
+  padding: 14px 0;
+}
+.tag {
+  font-size: 15px;
+  color: #496484;
+}
+.page blockquote {
+  margin: 12px 0;
+  padding: 12px 16px;
+  border-left: 3px solid #7293b8;
+  background: #f2f6fa;
+  white-space: pre-wrap;
+}
+.page button {
+  border: 1px solid #b5c5d6;
+  border-radius: 8px;
+  background: #fff;
+  padding: 9px 14px;
+  font: inherit;
+  color: var(--blue);
+  cursor: pointer;
+}
+.page button:focus-visible {
+  outline: 3px solid #8cb9ed;
+  outline-offset: 3px;
+}
+.page summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.raw {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  padding: 12px;
+  background: #f5f7fa;
+  font-size: 15px;
+}
+@media (max-width: 700px) {
+  .page {
+    padding: 18px 14px 48px;
+  }
+  .answers {
+    grid-template-columns: 1fr;
+  }
+  .card {
+    padding: 16px;
+  }
+  .tabs {
+    display: grid;
+    gap: 8px;
+  }
+  .page button {
+    width: 100%;
+  }
+}

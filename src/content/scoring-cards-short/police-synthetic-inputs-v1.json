@@ -1,0 +1,18 @@
+{
+  "version": "police-boundary-coverage-v1",
+  "origin": "newly_authored_fiction_not_learner_records",
+  "samples": [
+    {
+      "id": "PB01",
+      "exerciseId": "cl17-police-pull-away-v2",
+      "exerciseRevision": "criminal-feedback-boundary-2026-09-30.v1",
+      "answer": "甲只是为脱开握持甩了一次手，随即站定配合，没有持续攻击、伤害或者实际妨碍带离。这种危害不大的轻微摆脱约束不属于袭警中的暴力袭击，不能只因接触身体就定袭警。"
+    },
+    {
+      "id": "PB02",
+      "exerciseId": "cl17-police-pull-away-v2",
+      "exerciseRevision": "criminal-feedback-boundary-2026-09-30.v1",
+      "answer": "甲只是为脱开握持甩了一次手，随即站定配合，没有持续攻击、伤害或者实际妨碍带离。本案不构成袭警，因为法律上一切没有伤情的行为都不可能构成袭警，是否危及人身安全不用考虑。"
+    }
+  ]
+}

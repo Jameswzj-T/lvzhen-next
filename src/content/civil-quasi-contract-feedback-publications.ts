@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilQuasiContractTeacherPublications: Record<string, string> = {
+  "civil-quasi-contract-management-storm-cover-cost-written":
+    "72817752a3307d5d5c1ac4b72846eb6422fac4d91b040ab691972914d5836af6",
+  "civil-quasi-contract-management-existing-maintenance-contract-written":
+    "ee573b2268f1ac0fb8b90c1c6d071596aa8594e2087a43f087102a0cfe540e42",
+  "civil-quasi-contract-management-known-refusal-repair-written":
+    "96bcebb608fd76f57a90665207e1dbd8b4591e842da1f8eb18e86da4dbb6ac51",
+  "civil-quasi-contract-management-drainage-abrupt-stop-written":
+    "1830d992b3753a3c67ec24150d5b66004a4e1722e9fd7c21279789f31afe3ea9",
+  "civil-quasi-contract-management-nonurgent-await-instruction-written":
+    "0d44b7df88783d30c8fccc67adfe17c3aedee4da57f7aa9a189ac04b91f074e3",
+  "civil-quasi-contract-management-end-report-money-written":
+    "3e77f21e0c8f09a65e021926f8c1ee8809a3fdd123b1b92072643445f31cc1c5",
+  "civil-quasi-contract-management-ratification-relates-back-written":
+    "4bd35d86991f8add9c245f917dc7d741a150dde35efa8298f422f6ea47e3eba6",
+  "civil-quasi-contract-management-ratification-manager-disagrees-written":
+    "c74d32afae66defff92f28812054bef25aba4fd90da1a3f4e328b219f32e55e1",
+  "civil-quasi-contract-wrong-transfer-no-ground-written":
+    "1094e8c01a3c14f6d4a9065878b2f7d5abe9a983690ae4b3e13241cc9203dba2",
+  "civil-quasi-contract-voluntary-payment-before-due-written":
+    "5423882a8d0652b0e7e9d5104f993aff3214d77a33eeec6f1f2d5f73fd679635",
+  "civil-quasi-contract-innocent-receipt-money-remains-written":
+    "3875e8ca0121ae269541078bf1d75219618fdb8b9d32ac6ff6844763701686c9",
+  "civil-quasi-contract-innocent-display-destroyed-written":
+    "41d2f932152517b50d82087c17e813aa7927a1d49d4ca2bd6053f61e15bab9af",
+  "civil-quasi-contract-known-error-refusal-proven-loss-written":
+    "2d613c59c65cf2b4be2b5c6fa2104d78e627419c33d05aa0ef4bb522f94e564f",
+  "civil-quasi-contract-should-know-pay-own-debt-written":
+    "185a026bbbdb890f6e018a7d7ae74844529ebb6fa213ac536c13317c806680df",
+  "civil-quasi-contract-partial-free-transfer-third-written":
+    "8c66a141014713e7aa0b65d2122b475b3b9bf7ad634efde9e72a226a463f8997",
+  "civil-quasi-contract-whole-free-transfer-part-returned-written":
+    "474f28470c6d44e56bbb5aa2abbfad3e3af835eff14cf41d5da86be870cb4e76",
+};

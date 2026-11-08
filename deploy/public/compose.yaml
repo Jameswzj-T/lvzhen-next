@@ -1,0 +1,38 @@
+services:
+  app:
+    build:
+      context: ../..
+      dockerfile: deploy/public/Dockerfile
+    environment:
+      LVZHEN_ENV: public
+      LVZHEN_APP_ORIGIN: https://${LVZHEN_DOMAIN:-lvzhen.net}
+      LVZHEN_AI_MAX_CONCURRENT: ${LVZHEN_AI_MAX_CONCURRENT:-8}
+      LVZHEN_AI_PER_KEY_CONCURRENT: ${LVZHEN_AI_PER_KEY_CONCURRENT:-2}
+      LVZHEN_AI_PER_KEY_PER_MINUTE: ${LVZHEN_AI_PER_KEY_PER_MINUTE:-60}
+      HOSTNAME: 0.0.0.0
+      PORT: 3000
+    expose:
+      - "3000"
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+  web:
+    image: caddy:2-alpine
+    environment:
+      LVZHEN_DOMAIN: ${LVZHEN_DOMAIN:-lvzhen.net}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    restart: unless-stopped
+volumes:
+  caddy_data:
+  caddy_config:

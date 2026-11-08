@@ -1,0 +1,139 @@
+.card,
+.chapter {
+  --recap-line: #dce5f1;
+  color: var(--ink);
+  text-align: left;
+  font-size: 16px;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.card {
+  margin: 6px 0 26px;
+  padding: 20px;
+  border: 1px solid var(--recap-line);
+  border-radius: 14px;
+  background: #f5f8fd;
+}
+.chapter {
+  margin: 0 24px 22px;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--recap-line);
+}
+.card .heading,
+.chapter .heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin: 0 0 8px;
+}
+.card .heading h3:first-child,
+.chapter .heading h3:first-child {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 600;
+}
+.heading > span,
+.coverage {
+  color: var(--muted);
+  font-size: 14px;
+}
+.card p,
+.chapter p {
+  margin: 6px 0;
+}
+.written {
+  margin-top: 12px;
+}
+.earlier {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--recap-line);
+  font-size: 15px;
+}
+.earlier a {
+  color: var(--blue);
+  text-underline-offset: 3px;
+}
+.earlier a:focus-visible {
+  outline: 3px solid #86a8d5;
+  outline-offset: 4px;
+}
+.focus {
+  list-style: none;
+  margin: 12px 0 4px;
+  padding: 0;
+}
+.focus li {
+  padding: 8px 0;
+  border-top: 1px solid var(--recap-line);
+}
+.focus small {
+  display: block;
+  color: var(--muted);
+  font-size: 14px;
+}
+.review {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  color: var(--blue);
+  font-size: 15px;
+}
+.next {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px 20px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--recap-line);
+}
+.next > div {
+  flex: 1 1 220px;
+}
+.next > div > span {
+  font-weight: 600;
+}
+.next p {
+  color: var(--muted);
+  font-size: 14px;
+}
+.next button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  min-height: 44px;
+  max-width: 100%;
+  padding: 9px 16px;
+  border: 0;
+  border-radius: 9px;
+  background: var(--blue);
+  color: white;
+  font: inherit;
+  cursor: pointer;
+}
+.next button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.next button:focus-visible,
+.review:focus-visible {
+  outline: 3px solid #86a8d5;
+  outline-offset: 4px;
+}
+@media (max-width: 700px) {
+  .card {
+    padding: 16px;
+  }
+  .chapter {
+    margin-inline: 18px;
+  }
+  .next button {
+    width: 100%;
+  }
+}

@@ -1,0 +1,123 @@
+.panel {
+  margin-top: 26px;
+  padding-top: 22px;
+  border-top: 1px solid var(--line);
+}
+.panel h3 {
+  font-size: 21px;
+  margin: 0 0 10px;
+}
+.panel > p {
+  font-size: 16px;
+  color: var(--muted);
+}
+.panel summary {
+  cursor: pointer;
+  min-height: 48px;
+  align-content: center;
+  padding: 8px 0;
+  color: var(--blue);
+  font-size: 17px;
+}
+.comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+}
+.comparison > div {
+  padding-left: 16px;
+  border-left: 2px solid var(--line);
+  min-width: 0;
+}
+.comparison h4 {
+  font-size: 17px;
+  margin: 0 0 8px;
+}
+.comparison p,
+.text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-size: 18px;
+}
+.fields {
+  display: grid;
+  gap: 16px;
+  border: 0;
+  padding: 10px 0;
+  margin: 0;
+  min-width: 0;
+}
+.fields label {
+  display: grid;
+  gap: 8px;
+  font-size: 16px;
+}
+.fields textarea {
+  width: 100%;
+  padding: 14px;
+  border: 1px solid #b8c2d0;
+  border-radius: 8px;
+  font: inherit;
+  font-size: 18px;
+  resize: vertical;
+  background: white;
+  color: var(--ink);
+}
+.fields .checkbox {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+}
+.fields input {
+  accent-color: var(--blue);
+}
+.panel .fields button {
+  justify-self: start;
+  padding: 11px 18px;
+  min-height: 48px;
+  background: var(--blue);
+  border: 0;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-size: 17px;
+}
+.panel .fields button:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+.panel time {
+  font-size: 15px;
+  color: var(--muted);
+}
+@media (max-width: 1000px) {
+  .comparison {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 700px) {
+  .comparison p,
+  .text,
+  .fields textarea {
+    font-size: 17px;
+  }
+}
+
+.panel .rewriteAction {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 11px 18px;
+  background: var(--blue);
+  color: white;
+  border-radius: 8px;
+  min-height: 48px;
+  font-weight: 500;
+}
+.panel .rewriteAction::before {
+  content: "＋";
+}
+.panel details[open] > .rewriteAction::before {
+  content: "−";
+}

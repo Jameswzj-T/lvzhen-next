@@ -1,0 +1,35 @@
+// Fixed publication bindings for the existing teacher voice protocol.
+export const annualG8TeacherPublications: Record<string, string> = {
+  "annual-g8-education-transfer-written":
+    "486243a5ef51cbe9c45eba52b654d4102bb8d1517ecb612e54e5728fe9a2b3ed",
+  "annual-g8-education-prompt-written":
+    "92bfc0dbfe466269fdc2427f6abc3242766360d42bee4e58dd5e1d62b8bf29ad",
+  "annual-g8-education-judgment-written":
+    "18eea6caf310da8a13794da974415f92e3e741ed1c4a3594843f81ed3963ab1b",
+  "annual-g8-education-mediation-written":
+    "c3b6807faf1662714b6a94317c087ea2fdcb2ba5d55a0ece33eff4114b9cdb7e",
+  "annual-g8-planning-initial-written":
+    "368a991b483277917360c849defec4b372af21f2305210de0e5dcca105763d4e",
+  "annual-g8-planning-drafting-written":
+    "9313cb316411cbde35ee48a6d6c9f592b8c6c30bb925d9d3329183a48b2b021b",
+  "annual-g8-planning-change-written":
+    "2edb40f85b15f7d7be961a5b1bd67785b337b1340aef139c783dda5499d9026c",
+  "annual-g8-planning-midterm-written":
+    "6cb9c6b2058445dad0732a259e5f67e56862cabcea3b5337c90a3cf84a229375",
+  "annual-g8-ethnic-recruitment-written":
+    "0b6eebbe8a6c468b86bc2e7954269487e535e4ea167e84d04d199fdd26ac900f",
+  "annual-g8-ethnic-hotel-written":
+    "992dead0938884d5c854940840409948e146c11aafb715315878e26e1336aaa7",
+  "annual-g8-ethnic-workplace-written":
+    "d17e412a6408051cfd4d8ea96c4b269c8962ed054d877d83d017582b2beec606",
+  "annual-g8-ethnic-platform-written":
+    "55f6cf7363b5c72c133a30faba367d019a37b9f37d88d0c00735e6bb50be6959",
+  "annual-g8-extra-association-written":
+    "fba3134fe7e17776a1dda930f7a2b7536b1595706b20cf181316660f7fecb74b",
+  "annual-g8-extra-limited-consent-written":
+    "d4b6c7a0f0e2c901abb12e4c075a880db1541978d320d142ec537436fb3ed91f",
+  "annual-g8-extra-prohibition-written":
+    "d5ff7d932974672fa06238d125bae2262889526f4506197ab65b913ae7844182",
+  "annual-g8-extra-civil-action-written":
+    "c31892bc6a2cb3024ce80215b369e53b46e5937832d6152c56cd74d0f1b57498",
+};

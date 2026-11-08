@@ -1,0 +1,254 @@
+{
+  "version": "short-coverage-v1",
+  "cards": [
+    {
+      "id": "person-gap-age-evidence-time",
+      "exerciseRevision": "criminal-person-gaps-2026-09-30.v1",
+      "title": "两份资料取得的时间",
+      "facts": "两案均涉及成年人与十三周岁少女发生性关系，相关行为事实已查清，现只比较年龄认识的证据。案一：甲在行为前参加乙的十三周岁生日活动，并在同期聊天中与乙家人确认了该年龄，相关记录真实。案二：丙所涉案件目前只提供一份行为结束后由侦查机关调取的年龄证明；没有给出丙此前接触该证明、观察对象特征或其他认识年龄的材料。",
+      "prompt": "说明两案现有资料对行为时年龄认识各能证明什么，哪些结论不能仅凭这些资料作出。",
+      "sourceIds": ["age"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-gap-age-evidence-time-p1",
+          "title": "案一事前认识",
+          "requirement": "从生日活动与同期确认记录推断甲行为时知道乙未满十四周岁。",
+          "boundary": "不能只凭外观或者事后否认排除相互印证的事前证据。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-gap-age-evidence-time-p2",
+          "title": "案二证明内容",
+          "requirement": "该年龄证明说明客观年龄，没有其他认识材料时不单独证明丙行为前实际知道；不以收集日期一概否定证明力。",
+          "boundary": "不能把客观年龄与行为时的认识直接画等号。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-gap-age-evidence-time-p3",
+          "title": "保留完整审查",
+          "requirement": "案二仍须依法综合审查知道或者应当知道的相关证据，现有资料不足以直接作无罪或有罪的完整结论。",
+          "boundary": "不得将本题限制改写成只有承认年龄才能认定明知，也不能由缺资料直接排除犯罪。"
+        }
+      ]
+    },
+    {
+      "id": "person-gap-stop-two-causes",
+      "exerciseRevision": "criminal-person-gaps-2026-09-30.v1",
+      "title": "同样停止，不同原因",
+      "facts": "甲为强行与成年女子乙发生性关系，已将乙按倒并压制反抗；甲仍有继续能力，现场也无人阻止，但在尚未发生性关系时自行松开乙并任其离开，没有再实施。另案丙对成年女子丁开始同类直接强制，尚未发生性关系即被赶到的他人控制，丙仍试图继续。本题不预设两案是否造成身体或精神损害。",
+      "prompt": "分别判断停止形态，说明决定差异的事实，并指出为何不能仅因没有发生性关系就断言都应免罚。",
+      "sourceIds": ["stopping"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-gap-stop-two-causes-p1",
+          "title": "甲的自动停止",
+          "requirement": "甲已着手且仍可继续，无外力阻止而自行停止、放开乙，成立中止。",
+          "boundary": "不能把所有未得逞一概归为未遂。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-gap-stop-two-causes-p2",
+          "title": "丙的外力阻止",
+          "requirement": "丙被他人控制仍试图继续，是意志以外原因导致未得逞，成立未遂。",
+          "boundary": "停止动作本身不等于自动放弃。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-gap-stop-two-causes-p3",
+          "title": "处罚条件",
+          "requirement": "中止免除或减轻须区分有无损害；未遂可以从轻或减轻，不能只因未发生性关系断言两案均免罚。",
+          "boundary": "没有明显外伤也不当然等于没有造成任何损害。"
+        }
+      ]
+    },
+    {
+      "id": "person-gap-place-and-witnesses",
+      "exerciseRevision": "criminal-person-gaps-2026-09-30.v1",
+      "title": "两处不同的现场",
+      "facts": "甲在营业中的商场开放通道，强行触摸成年女子乙的隐私部位，多名顾客在场并目睹。另案丙在已封闭无人使用的车站大厅，对成年女子丁实施同类强制行为，现场只有二人，没有其他人在场，两案都没有召集他人参与。仅判断刑法第二百三十七条第二款中‘在公共场所当众’这一项，不预设其他加重事实。",
+      "prompt": "分别说明两案能否依据该项加重，并评价‘地点是车站就够了’和‘必须多人共同实施才算’两种说法。",
+      "sourceIds": ["sexual-insult"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-gap-place-and-witnesses-p1",
+          "title": "甲的双重条件",
+          "requirement": "开放商场通道与顾客实际目睹分别支持公共场所和当众，可依该项加重。",
+          "boundary": "须把两个条件与事实相连。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-gap-place-and-witnesses-p2",
+          "title": "丙不因地点当然加重",
+          "requirement": "丙案仅有二人，不能只凭车站这一地点认定公共场所当众。",
+          "boundary": "不满足该项不等于不构成基本犯罪或绝不可能有其他加重事由。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-gap-place-and-witnesses-p3",
+          "title": "不要求同时聚众",
+          "requirement": "公共场所当众与聚众分别列举，单个行为人也可符合前者。",
+          "boundary": "不能把多个旁观者当作多个共同犯罪人。"
+        }
+      ]
+    },
+    {
+      "id": "person-gap-insult-not-all-abuse",
+      "exerciseRevision": "criminal-person-gaps-2026-09-30.v1",
+      "title": "强迫行为与一般争吵",
+      "facts": "案一：甲以不照做就殴打相威胁，迫使成年女子乙在仅有二人的室内脱去衣物，使身体隐私部位暴露，并持续针对其身体实施性羞辱，未发生性关系。案二：丙与成年女子丁私下争执，在仅丁能听到的电话中使用一般贬损人格的骂语；没有胁迫丁实施任何行为，没有针对身体或性的羞辱，也没有向他人传播。仅比较第二百三十七条第一款及第二百四十六条的基本边界。",
+      "prompt": "说明两案为何不能仅按被害人都是女性就作相同评价，并指出私下辱骂不构成上述犯罪是否等于行为正当。",
+      "sourceIds": ["sexual-insult", "insult"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-gap-insult-not-all-abuse-p1",
+          "title": "案一强制侮辱",
+          "requirement": "把威胁、强迫脱衣及针对身体的羞辱与第二百三十七条第一款相连，不因私下发生排除。",
+          "boundary": "不能只因没有性关系就否定其他侵害。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-gap-insult-not-all-abuse-p2",
+          "title": "案二不凭性别套罪",
+          "requirement": "一般私下骂语与案一的强制侮辱结构不同，女性对象本身不足以适用第二百三十七条。",
+          "boundary": "不把所有针对女性的辱骂均升级为该罪。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-gap-insult-not-all-abuse-p3",
+          "title": "公然与其他责任",
+          "requirement": "案二缺少第二百四十六条的公然条件，但不构成上述犯罪不等于行为正当。",
+          "boundary": "不虚构传播或一概排除其他法律责任。"
+        }
+      ]
+    },
+    {
+      "id": "person-gap-witness-injury-conversion",
+      "exerciseRevision": "criminal-person-gaps-2026-09-30.v1",
+      "title": "逼取证言后的伤残",
+      "facts": "负责侦查的民警甲为逼证人乙改变证言，持棍反复击打乙腿部，造成经鉴定确认的重伤并致残，结果与该次击打有直接因果关系。甲知道反复击打可能造成严重伤害仍继续。乙不是嫌疑人或被告人，题目没有另外一段独立伤害行为。",
+      "prompt": "说明基本行为性质、伤残结果引起的适用规则，以及是否应把同一段暴力机械拆成两罪并罚。",
+      "sourceIds": ["witness"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-gap-witness-injury-conversion-p1",
+          "title": "证人与基本行为",
+          "requirement": "甲从事侦查，为逼证人乙改变证言而施暴，属于暴力取证的行为结构。",
+          "boundary": "不能将对证人的逼证与对嫌疑人、被告人的刑讯混同。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-gap-witness-injury-conversion-p2",
+          "title": "伤残转换规则",
+          "requirement": "同一暴力造成重伤致残，依第二百四十七条转适用第二百三十四条，故意伤害定罪并从重。",
+          "boundary": "不能只认基本罪或只写从重而不说明转换定罪。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-gap-witness-injury-conversion-p3",
+          "title": "同一事实不重计",
+          "requirement": "题设没有其他独立伤害行为，不把同一段暴力及伤残机械拆成两罪并罚。",
+          "boundary": "不扩张成所有暴力取证案件一律不可能涉及数罪。"
+        }
+      ]
+    },
+    {
+      "id": "person-gap-insult-publicity-limit",
+      "exerciseRevision": "criminal-person-gaps-2026-09-30.v1",
+      "title": "公开与私下的差别",
+      "facts": "甲为羞辱乙，连续多日在对公众开放的广场用扩音器点名发表严重贬损乙人格的骂语，引来大量围观；没有捏造具体事实。乙因此遭受经核实的严重精神损害并依法向法院告诉。另案丙只在一对一且未向他人传播的私信中，以一般骂语侮辱丁，没有其他行为或后果。题目未给出严重危害社会秩序和国家利益的例外事实。",
+      "prompt": "分别分析公然性及程度条件，并说明为何不能把网络诽谤的转发数量机械用作所有侮辱行为的入罪门槛。",
+      "sourceIds": ["insult"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-gap-insult-publicity-limit-p1",
+          "title": "甲的事实与条件",
+          "requirement": "甲公开点名扩音、反复羞辱、造成严重损害且依法告诉，分别支持本题公然侮辱的条件。",
+          "boundary": "不能只凭广场地点或一句骂语跳过严重性与告诉条件。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-gap-insult-publicity-limit-p2",
+          "title": "丙的边界",
+          "requirement": "丙私信仅丁接收且未传播，缺少本题公然条件，不能据此认定该罪；不构罪不等于行为正当。",
+          "boundary": "不得虚构第三人知悉或认为任何辱骂都当然犯罪。",
+          "manualHold": "原采分点另要求不构罪不等于正当，但本题设问未要求评价正当性；保留原题与原答，本项暂不作自动是/否判断。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-gap-insult-publicity-limit-p3",
+          "title": "数量标准不误套",
+          "requirement": "侮辱与诽谤行为结构不同，特定网络诽谤数量标准不能机械成为所有侮辱行为的入罪条件。",
+          "boundary": "不以转发不足五百就一概排除侮辱，也不以超过该数就当然构罪。"
+        }
+      ]
+    },
+    {
+      "id": "person-minor-two-organizing-rules",
+      "exerciseRevision": "criminal-minor-organization-2026-09-30.v1",
+      "title": "不能互换的手段条件",
+      "facts": "案一：成年甲核知三名少年均为十六周岁后，召集他们，安排分工实施一次虚假抽奖，三人自行同意并按安排共同骗得一名路人600元，所得交甲。甲没有对三人使用暴力、胁迫或限制人身自由。当地诈骗入罪数额为5000元，题目没有其他取财或特殊入罪事实。案二：成年乙安排三名十三周岁儿童在指定地点接受路人自愿施舍；未使用暴力、威胁、扣留、限制离开或其他强制手段，也没有诈骗、追讨纠缠等其他行为。只比较刑法第二百六十二条之一、之二，不判断题外责任。",
+      "prompt": "评价‘两案都没有暴力胁迫，因此当然都不适用这两条’的说法，说明两条的手段条件为什么不能相互搬用。",
+      "sourceIds": ["organization"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-minor-two-organizing-rules-p1",
+          "title": "案一非强制组织",
+          "requirement": "甲明知未成年年龄、召集分工并实际组织诈骗性质治安违法，不因三人自行同意而排除第二百六十二条之二。",
+          "boundary": "不能把基础诈骗数额或没有暴力当作组织者当然免责理由。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-minor-two-organizing-rules-p2",
+          "title": "案二法定手段",
+          "requirement": "案二虽涉及不满十四周岁儿童乞讨，题设没有暴力、胁迫，不能据现有事实直接按第二百六十二条之一认定。",
+          "boundary": "对象和组织事实不能替代该条另有的手段要求，不偷补隐性胁迫。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-minor-two-organizing-rules-p3",
+          "title": "区别与结论边界",
+          "requirement": "两条手段与活动条件不能互套；案二仅有接受自愿施舍，现有事实不足以按第二百六十二条之二补作定罪。",
+          "boundary": "不扩张到所有组织未成年人活动一律犯罪，亦不凭题外事实一概免除其他责任。"
+        }
+      ]
+    },
+    {
+      "id": "person-resale-purpose-timeline",
+      "exerciseRevision": "criminal-trafficked-resale-2026-09-30.v1",
+      "title": "出卖目的形成的时间",
+      "facts": "案一：成年甲明知一名儿童已被他人拐卖，最初为自己抚养而付价接收，没有再卖的打算；后来另起出售的想法，收款并将该儿童交给新的买受者。案二：成年乙从一开始就打算转卖，明知另一名儿童被拐卖，仍为出售而付价接收，随后收款转卖。两名儿童均为七周岁，仅评价各自收买和出卖这段行为；没有另行伤害、非法拘禁等独立行为。",
+      "prompt": "分别说明两案适用的条款与理由；是否应因为都有收买、出卖两个动作，就一律将收买罪与拐卖罪并罚？",
+      "sourceIds": ["resale"],
+      "criteria": [
+        {
+          "id": "1-1",
+          "originalId": "person-resale-purpose-timeline-p1",
+          "title": "案一后来又出卖",
+          "requirement": "最初无出卖目的的收买，后来另起出卖故意并出卖同一儿童，依第二百四十一条第五款按第二百四十条定罪。",
+          "boundary": "不能因为最初想抚养就始终只按收买处理。"
+        },
+        {
+          "id": "1-2",
+          "originalId": "person-resale-purpose-timeline-p2",
+          "title": "案二原有出卖目的",
+          "requirement": "案二收买时已有出卖目的，收买本身属于第二百四十条列举的拐卖行为之一。",
+          "boundary": "区分原有与后起目的，不将二者的起始适用依据混为一谈。"
+        },
+        {
+          "id": "1-3",
+          "originalId": "person-resale-purpose-timeline-p3",
+          "title": "同段行为不机械并罚",
+          "requirement": "本题两案均不能仅按收买、出卖两个动作将收买罪与拐卖罪机械并罚，结合各案适用条款说明即可。",
+          "boundary": "不要求另列题外犯罪名称；不能误套收买后另行强奸、拘禁等的并罚规则，也不推广为有独立侵害仍永不并罚。"
+        }
+      ]
+    }
+  ]
+}

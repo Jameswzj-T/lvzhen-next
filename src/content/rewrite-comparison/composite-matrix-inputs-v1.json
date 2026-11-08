@@ -1,0 +1,36 @@
+{
+  "version": "composite-evidence-matrix-v1",
+  "provenance": "newly_authored_fiction_not_learner_records",
+  "pairs": [
+    {
+      "id": "CF01",
+      "provenance": "authored_fiction",
+      "exerciseId": "cap-contract-v2-q2",
+      "exerciseRevision": "criminal-feedback-boundary-2026-09-30.v1",
+      "original": {
+        "attemptId": "CF01-new-fiction",
+        "text": "公司和相应负责人都应承担责任，不能因为这笔预付款供公司经营使用就把负责人免责。"
+      },
+      "rewrite": {
+        "attemptId": "CF01-new-fiction",
+        "correctionId": "CF01-new-independent",
+        "text": "这笔款项服务公司的经营需要，并不是三名负责人私分所得。甲乙提出方案、丙知情同意，按公司方案实施，这表明是公司决策。单位及两类直接责任人员均应承担责任。"
+      }
+    },
+    {
+      "id": "CF02",
+      "provenance": "authored_fiction",
+      "exerciseId": "cap-contract-v2-q2",
+      "exerciseRevision": "criminal-feedback-boundary-2026-09-30.v1",
+      "original": {
+        "attemptId": "CF02-new-fiction",
+        "text": "这笔预款归企业使用，没有个人私分。公司之前长期正常经营，也不是为犯罪设立，所以不能仅凭停产和本次骗款就认定公司是为犯罪而设立的主体；题目没有说明后来主要活动是否已经转变。"
+      },
+      "rewrite": {
+        "attemptId": "CF02-new-fiction",
+        "correctionId": "CF02-new-independent",
+        "text": "同笔100万元用在公司，不能据此推定其他要件都成立。公司系长期经营并非专为犯罪搭建，组织性质的判断应结合这些事实；如果后来实际主要从事犯罪，应按该排除情形处理，题中没有给出足以确定这一点的材料。"
+      }
+    }
+  ]
+}

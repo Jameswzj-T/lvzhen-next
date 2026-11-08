@@ -1,0 +1,144 @@
+.main {
+  max-width: 760px;
+  margin: auto;
+  padding: 32px 24px 60px;
+}
+.back {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-size: 14px;
+}
+.heading {
+  margin: 16px 0 24px;
+}
+.heading h1 {
+  font-size: 32px;
+  color: #20395f;
+  margin: 6px 0 12px;
+  line-height: 1.4;
+}
+.heading p {
+  font-size: 15px;
+  color: var(--muted);
+}
+.card {
+  padding: 26px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--paper);
+  margin-bottom: 16px;
+}
+.fileLabel {
+  display: grid;
+  gap: 12px;
+  font-size: 17px;
+  font-weight: 600;
+}
+.fileLabel input {
+  width: 100%;
+  min-height: 44px;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--muted);
+}
+.fileLabel input::file-selector-button {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  min-height: 44px;
+  padding: 8px 14px;
+  margin-right: 12px;
+  font: inherit;
+  background: var(--pale);
+  color: var(--blue);
+  cursor: pointer;
+}
+.caption {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.8;
+  margin-top: 10px;
+}
+.preview {
+  border-top: 1px solid var(--line);
+  padding-top: 22px;
+  margin-top: 22px;
+}
+.preview h2 {
+  font-size: 20px;
+}
+.preview dl {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 16px 0;
+}
+.preview dt {
+  font-size: 13px;
+  color: var(--muted);
+}
+.preview dd {
+  margin: 4px 0 0;
+  font-size: 24px;
+  color: #20395f;
+}
+.preview > p {
+  font-size: 15px;
+}
+.primary,
+.secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 10px 18px;
+  margin-top: 18px;
+  border-radius: 9px;
+  border: 0;
+  font: inherit;
+  font-size: 15px;
+  cursor: pointer;
+}
+.card .primary {
+  background: var(--blue);
+  color: white;
+}
+.secondary {
+  background: var(--pale);
+  color: var(--blue);
+  margin-right: 10px;
+}
+.copies {
+  margin-top: 20px;
+  font-size: 15px;
+}
+.copies button[aria-pressed="true"] {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+}
+.message {
+  margin-top: 20px;
+  font-size: 15px;
+  overflow-wrap: anywhere;
+}
+.message[role="alert"] {
+  padding: 14px;
+  border-radius: 9px;
+  background: #fcf3e5;
+  color: #76501b;
+}
+@media (max-width: 700px) {
+  .main {
+    padding: 24px 18px 40px;
+  }
+  .heading h1 {
+    font-size: 28px;
+  }
+  .card {
+    padding: 20px 18px;
+    border-radius: 14px;
+  }
+  .preview dl {
+    gap: 8px;
+  }
+}

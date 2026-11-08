@@ -1,0 +1,37 @@
+{
+  "version": "police-boundary-coverage-v1",
+  "protocolVersion": "short-coverage-v1",
+  "card": {
+    "id": "cl17-police-pull-away-v2",
+    "exerciseRevision": "criminal-feedback-boundary-2026-09-30.v1",
+    "title": "一次挣脱动作：两项原答证据核对",
+    "facts": "民警依法将甲带离现场时，甲反射般甩了一下被握住的手臂，随即站定接受带离。全程只有这一次挣脱，没有击打、踢踹或言语威胁，没有人员受伤，执法未受实际妨碍。录像与在场人员说法一致。",
+    "prompt": "能否仅因发生身体接触就认定袭警？说明理由。",
+    "sourceIds": ["police2025-art1"],
+    "criteria": [
+      {
+        "id": "1-1",
+        "originalId": "cl17-police-pull-away-v2-p1",
+        "title": "识别行为",
+        "requirement": "一次甩手后立即配合，与主动攻击不同。",
+        "boundary": "不能只摘出身体接触四字。"
+      },
+      {
+        "id": "1-2",
+        "originalId": "cl17-police-pull-away-v2-p2",
+        "title": "适用边界",
+        "requirement": "联系危害不大的一般性抗拒排除规则。",
+        "boundary": "不是有伤或无伤一个数字决定全部情况。"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "police2025-art1",
+      "title": "最高人民法院、最高人民检察院关于办理袭警刑事案件适用法律若干问题的解释（高检发释字〔2025〕1号）第一条",
+      "url": "https://www.court.gov.cn/shenpan/xiangqing/452851.html",
+      "checkedAt": "2026-10-03T09:23:23.040Z",
+      "text": "第一条 袭击正在依法执行职务的人民警察，具有下列情形之一的，应当认定为刑法第二百七十七条第五款规定的“暴力袭击”：（一）实施撕咬、掌掴、踢打、抱摔、投掷物品等行为，造成轻微伤以上后果的；（二）实施打砸、毁坏、抢夺人民警察乘坐的车辆、使用的警械等行为，足以危及人身安全的。与人民警察发生轻微肢体冲突，或者为摆脱抓捕、约束实施甩手、挣脱、蹬腿等一般性抗拒行为，危害不大的，或者仅实施辱骂、讽刺等言语攻击行为的，不属于刑法第二百七十七条第五款规定的“暴力袭击”。"
+    }
+  ]
+}

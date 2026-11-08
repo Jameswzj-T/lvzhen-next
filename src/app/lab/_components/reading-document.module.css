@@ -1,0 +1,150 @@
+.document {
+  font-size: 18px;
+  line-height: 1.85;
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+.document .heading {
+  font-size: 23px;
+  line-height: 1.5;
+  font-weight: 600;
+  margin: 34px 0 14px;
+  color: var(--ink);
+}
+.document .subheading {
+  font-size: 19px;
+  line-height: 1.7;
+  font-weight: 600;
+  margin: 24px 0 10px;
+}
+.document .paragraph {
+  margin: 12px 0;
+  white-space: pre-wrap;
+}
+.document .original {
+  border-left: 2px solid var(--line);
+  padding-left: 18px;
+  margin: 12px 0 26px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+.document .points {
+  padding-left: 26px;
+  margin: 12px 0 20px;
+}
+.document .points > li {
+  padding-left: 4px;
+  margin: 14px 0;
+}
+.document .points li > p {
+  margin: 5px 0;
+}
+.document .note {
+  font-size: 16px;
+  color: var(--muted);
+  line-height: 1.75;
+  margin: 10px 0;
+}
+.document .section {
+  margin: 28px 0;
+}
+.document .nextAction {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 6px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--blue);
+  font: inherit;
+}
+.document .nextAction:not(:disabled):hover {
+  background: var(--pale);
+}
+.document .answerDetails > summary {
+  min-height: 44px;
+  align-content: center;
+  color: var(--blue);
+}
+.document .feedbackPoint {
+  margin: 24px 0;
+}
+.document .feedbackPoint > p {
+  margin: 10px 0;
+}
+.document .feedbackPoint blockquote {
+  padding-left: 18px;
+  border-left: 2px solid var(--line);
+  margin: 8px 0 14px;
+  white-space: pre-wrap;
+}
+.document .pointState {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--muted);
+  margin-left: 14px;
+}
+.document .sources {
+  font-size: 16px;
+  margin: 26px 0 4px;
+  color: var(--muted);
+}
+.document .sourceDetails {
+  margin: 4px 0 18px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--muted);
+}
+.document .sourceDetails > summary {
+  cursor: pointer;
+  min-height: 44px;
+  align-content: center;
+}
+.document .sourceDetails article {
+  margin: 12px 0;
+}
+.document .sourceDetails p {
+  margin: 4px 0;
+}
+.document.compact {
+  line-height: 1.75;
+}
+.document.compact .section {
+  margin: 20px 0;
+}
+.document.compact .heading {
+  margin: 20px 0 10px;
+}
+.document.compact .subheading {
+  margin: 12px 0 6px;
+}
+.document.compact .feedbackPoint {
+  margin: 14px 0;
+}
+.document.compact .feedbackPoint > p {
+  margin: 8px 0;
+}
+.document.compact .feedbackPoint blockquote {
+  margin: 6px 0 10px;
+}
+.document.compact .original {
+  margin: 10px 0 16px;
+}
+.document.compact .note {
+  margin: 4px 0;
+}
+@media (max-width: 700px) {
+  .document {
+    font-size: 17px;
+  }
+  .document .heading {
+    font-size: 21px;
+    margin-top: 28px;
+  }
+  .document .subheading {
+    font-size: 19px;
+  }
+}

@@ -1,0 +1,35 @@
+// Exact publications reviewed for reuse of the existing writing protocol.
+export const civilServiceContractTeacherPublications: Record<string, string> = {
+  "civil-service-contract-passenger-free-child-written":
+    "c1c32d2da69d39fa273e448c62bad2c8570db850a2d827d828720b90d9fe2032",
+  "civil-service-contract-passenger-health-written":
+    "58931230f7904257108c5ef5139a600a0bb6bf8e75eabb2417d5f59212dd8e00",
+  "civil-service-contract-goods-damage-proof-written":
+    "ed42d19da0f79a588bdc813c996b106b3d6758709b970a66d46f15ba06c978be",
+  "civil-service-contract-goods-packaging-written":
+    "4f5965c5f80d86f436855e379d002ac0591f588e4999df37de67b7e991c22a35",
+  "civil-service-contract-deposit-promised-without-delivery-written":
+    "bdd1f7134c2e05342e5fd21cd9cbbc7f6a118c913e7c7658a7867abad8240704",
+  "civil-service-contract-deposit-no-agreed-fee-written":
+    "9777cecc17711ca2644fdfa5dedf0bf011324af50bac87f901bfe2d4c8efa364",
+  "civil-service-contract-deposit-free-open-door-camera-written":
+    "3ff0bc06e695773112eb53d8fa598ad83cdb19d0284349373091d14ebdd16c62",
+  "civil-service-contract-deposit-early-return-no-arrears-written":
+    "a13beac55f3b7af5c95b7fcc2ef47f9dcad0b95a63d6425f29ce4ce4c6065323",
+  "civil-service-contract-warehouse-consensus-before-entry-written":
+    "a4a17a4947e49853c258de1520471c89cd84e12dadff119fa0be123d9f28b186",
+  "civil-service-contract-warehouse-inspection-short-count-written":
+    "6e65dfc6c08480f4b9afff2751513912579236963a563396cd788fb7660e358e",
+  "civil-service-contract-warehouse-urgent-isolate-notify-written":
+    "b91b296108a78076c616054773c3db5ce8200ede9660b587d743fe07e22aa0b5",
+  "civil-service-contract-warehouse-natural-moisture-loss-written":
+    "708aabef335dfad6171b9a7038d20c1a9c29fb0361121d7378b4e45568d6ad8f",
+  "civil-service-contract-property-preliminary-written":
+    "a00c5ad4562b96014dcac216fd6f506f2a5eb6a96af975ad1344a5598f675736",
+  "civil-service-contract-property-vacant-written":
+    "aecb0e4ebb3644d73aa094223d6158bedb1374ddfc1fb8d46a5270399efb98e7",
+  "civil-service-contract-property-cutoff-written":
+    "ba698c18b8c4f38d800eba1750118ee985b83cea59af7c19ca52358ab46daeb0",
+  "civil-service-contract-property-dismiss-refund-written":
+    "fdc3083724ff5b11f4a437d205af1be8ce055a801e0efcc1862aa6f17b53c887",
+};

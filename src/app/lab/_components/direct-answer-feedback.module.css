@@ -1,0 +1,186 @@
+.feedback {
+  color: var(--ink, #1e293b);
+  font-size: 18px;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+}
+
+.heading {
+  margin: 0 0 18px;
+  font-size: 24px;
+  line-height: 1.4;
+  font-weight: 650;
+}
+
+.readingBlock {
+  margin-top: 32px;
+}
+
+.readingPoints {
+  margin: 24px 0;
+  padding: 20px 22px;
+  border: 1px solid var(--line, #dce2eb);
+  border-radius: 14px;
+  background: var(--surface-soft, #f5f7fc);
+}
+
+.readingPoints .points {
+  margin-bottom: 0;
+}
+
+.inspection {
+  max-width: 900px;
+  margin: 32px auto;
+  padding: 0 20px;
+  font-size: 18px;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+}
+
+.archive {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-size: 15px;
+}
+
+.judgment {
+  margin: 0 0 14px;
+  font-size: 20px;
+  line-height: 1.65;
+  font-weight: 600;
+}
+
+.paragraph {
+  margin: 0 0 12px;
+}
+
+.teacherText {
+  white-space: pre-line;
+}
+
+.points {
+  margin: 22px 0 20px;
+  padding: 0;
+  list-style: none;
+}
+
+.point {
+  margin: 0 0 20px;
+}
+
+.pointHeading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: 18px;
+  row-gap: 4px;
+  margin-bottom: 6px;
+}
+
+.pointTitle {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: 650;
+}
+
+.correct,
+.change,
+.pending {
+  font-size: inherit;
+  font-weight: 600;
+}
+
+.correct {
+  color: #247044;
+}
+
+.change {
+  color: #a44326;
+}
+
+.pending {
+  color: #795523;
+}
+
+.evidence {
+  margin: 22px 0;
+}
+
+.evidence summary {
+  display: list-item;
+  min-height: 44px;
+  box-sizing: border-box;
+  padding: 7px 0;
+  color: var(--accent, #2854c5);
+  cursor: pointer;
+}
+
+.evidence summary:focus-visible {
+  outline: 2px solid var(--accent, #2854c5);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+.evidenceBody {
+  margin-top: 14px;
+  padding-left: 18px;
+  border-left: 2px solid var(--line, #dce2eb);
+}
+
+.evidencePoint {
+  margin-bottom: 22px;
+}
+
+.evidencePoint .pointTitle {
+  margin-bottom: 10px;
+}
+
+.quote {
+  margin: 10px 0 14px;
+  padding-left: 14px;
+  border-left: 2px solid var(--line, #dce2eb);
+  white-space: pre-wrap;
+}
+
+.reference {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.raw {
+  font-size: 14px;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.next {
+  margin-top: 24px;
+}
+
+.next .pointTitle {
+  margin-bottom: 8px;
+}
+
+@media (max-width: 600px) {
+  .feedback {
+    font-size: 17px;
+  }
+
+  .heading {
+    font-size: 22px;
+  }
+
+  .judgment {
+    font-size: 19px;
+  }
+
+  .pointTitle {
+    font-size: 17px;
+  }
+
+  .evidenceBody {
+    padding-left: 12px;
+  }
+}
