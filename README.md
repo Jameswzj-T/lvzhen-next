@@ -50,6 +50,8 @@ Caddy处理HTTPS，Node只对容器网络开放3000端口；服务器需要能�
 
 也可以自行安装依赖后构建：`pnpm build`。运行 standalone 产物时，将 `.next/static` 复制到 `.next/standalone/.next/static`，有 `public/` 资源时也复制过去；在 standalone 目录设置上面两个环境变量后运行 `node server.js`。这是 Node 应用，不能只把目录上传到静态网页空间。
 
+需要展示网站备案号时，在构建前设置 `NEXT_PUBLIC_LVZHEN_ICP_NUMBER` 为该域名自己的备案号，再执行 `pnpm build`。页面底部会显示它并链接到工信部；未设置时不显示。此值随构建固定，修改后需要重新构建，不能只改运行环境。源码没有内置本站备案号。
+
 Ubuntu 上也可使用 `deploy/public/standalone/` 的 systemd、环境和 Caddy 模板。Node standalone 已在目标 Linux/x64 主机完成构建与本机 HTTP 验证；Docker 容器运行、正式服务和公网 HTTPS 仍须各自验收。构建统一使用 `pnpm build` 中的 `next build --webpack`。
 
 该模板约定 Node 安装在 `/opt/lvzhen/runtime/`，standalone 产物放在 `/opt/lvzhen/releases/<版本>/`，`/opt/lvzhen/current` 指向当前版本。先创建无登录权限的 `lvzhen` 服务账号及其可写目录 `/var/cache/lvzhen`，让产物中的 `.next/cache` 指向该缓存目录；其他发布文件保持只读。将 `lvzhen.env.example` 填好后存为 `/etc/lvzhen/public.env`，其中只含公开模式配置，不填写模型 Key。

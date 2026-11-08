@@ -10,9 +10,19 @@ export const metadata: Metadata = {
 export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
+  const filingNumber = process.env.NEXT_PUBLIC_LVZHEN_ICP_NUMBER?.trim();
   return (
     <html lang="zh-CN" data-scroll-behavior="smooth">
-      <body>{children}</body>
+      <body>
+        {children}
+        {filingNumber && (
+          <footer className="site-filing">
+            <a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">
+              {filingNumber}
+            </a>
+          </footer>
+        )}
+      </body>
     </html>
   );
 }

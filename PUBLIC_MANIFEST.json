@@ -1,6 +1,6 @@
 {
   "version": "lvzhen-public-source-v1",
-  "generatedAt": "2026-11-08T13:00:07.049Z",
+  "generatedAt": "2026-11-08T13:52:51.845Z",
   "license": "MIT",
   "mode": "public",
   "sourceOnlyNoGitHistory": true,
@@ -37,7 +37,7 @@
     "src/app/api/lab/scoring/unit-feedback/route.ts": "21280dbec85969e8f96ccfa408897db091a99604cfc8f265048be09323de52c9",
     "src/app/api/learning/fault/import/route.ts": "76593ab6659927908c19b889a3fabf5576433c11fc932c6c7903e720e234fe0c",
     "src/app/api/learning/fault/route.ts": "6cea8e9b586995d2e6cb7e8e7e50d0b29c224548c95c90088f554f9081b13b62",
-    "src/app/globals.css": "07b55ed6a96f52d408b3d537f4a0affc10b70e66b7946e59440436e36e969cb0",
+    "src/app/globals.css": "d5d370c3f2e8127fa59992fe148ae170967c175700878d774541f7b0f917570b",
     "src/app/icon.svg": "e04086ce5b88656d8c4040de66dd89af093fdee1609f14efaaca3263266980fc",
     "src/app/lab/_components/answer-reference.tsx": "0c0f4283b86c4c4a3752366423efe84a164ffa8d769018a340276b75cdb39ef6",
     "src/app/lab/_components/answer-rewrite.module.css": "699792c213db4e4fb0488183ebde507dfa132b721a4406c983ac7fda50202226",
@@ -205,7 +205,7 @@
     "src/app/lab/study/subject-knowledge.ts": "0d8c55b4b5199a6642e55f5cb4642a7a885c602a121c72b6f334f16a67e11e6e",
     "src/app/lab/study/topic-location.ts": "4854b5d22019d9d324301d56e832cde520193f1782d437da74377cab97825c90",
     "src/app/lab/study/topic-practice.ts": "4ce6ae08b9d31fe92604c4e58e4bac2ceb04535f33a10fea8f5f73442a28b864",
-    "src/app/layout.tsx": "97f5a43df404348e1cd03b22643025a4d55c05978dd9e1dd0d886e571085cb93",
+    "src/app/layout.tsx": "053c02584217b2bf33b350599474338b88a919accdb01e3744c740a5ab8737f0",
     "src/app/legacy-learning.tsx": "6ac1f79fc1705578a2f16e54a7d52e7677aedf2c4c431dfd9224cf78a8312213",
     "src/app/page.module.css": "70ac4e40f78edfe244cd7860c4c3534a0077dfafacc15626a878cffa2a1ce6f8",
     "src/app/page.tsx": "38aa25a3ce63954697054ded6d7e1e1fa94f0b4c9bc3ea61155ec68596388275",
@@ -907,7 +907,7 @@
     "deploy/public/standalone/Caddyfile": "b34d6be0c709e6b660b0f7bdd2876aba2b34bd5ce7f92db0386181730d17f7bf",
     "deploy/public/standalone/lvzhen.env.example": "e3cd45b41fd91d60a8d969c225f82075756a0b348de1a7de38e3b07d9353bfaa",
     "deploy/public/standalone/lvzhen.service": "df5c105d631a13f236ee3a54d2a97e954bdeaee02be152a581d167e065c55c48",
-    "README.md": "09f1c01838e20bfe0f6f3e472302d8c14d54775ea010886a481d46af84d7ed73",
+    "README.md": "0d9ee0684706d2513898ded0f7ec22d9041b3882bee6d31ad20a6b32d481c72a",
     "vitest.config.ts": "adb5080e518ae45a148fdf218ccb59ce4a7332e2ee8be9cac0224a6f8e1f4867"
   },
   "excluded": [
