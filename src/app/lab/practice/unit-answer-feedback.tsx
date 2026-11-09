@@ -353,6 +353,7 @@ export function UnitAnswerFeedback({
       {(reviewReady ||
         error ||
         reviewFailed ||
+        reply?.availability === "paused" ||
         reply?.availability === "failed") && (
         <div className={s.endActions}>
           {onRetry && (saveFailure || reply?.submissionMode !== "closed") && (
@@ -427,7 +428,9 @@ export function UnitAnswerFeedback({
                 ? (reply?.message ??
                   "原答已保存，点击“评阅这份答案”发起 AI 请求。")
                 : reviewFailed
-                  ? currentReview.message
+                  ? saveFailure
+                    ? currentReview.message
+                    : (reply?.message ?? currentReview.message)
                   : error
                     ? undefined
                     : reply?.message

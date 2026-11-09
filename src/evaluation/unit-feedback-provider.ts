@@ -232,6 +232,7 @@ export function createUnitFeedbackTrialProvider(options: {
   const grantHash = unitDigest(grant),
     root = options.root;
   let verifiedPricing = grant.pricing;
+  let unavailableMessage: string | undefined;
   const bodyHash = (body: ReturnType<typeof unitFeedbackRequestBody>) =>
     unitDigest(body);
   const sampleFor = (body: ReturnType<typeof unitFeedbackRequestBody>) => {
@@ -399,7 +400,11 @@ export function createUnitFeedbackTrialProvider(options: {
       projectAccounting.inheritedUnpairedReserveCNY === 0) &&
     (continuingWindows || ledger.entries.length < grant.maxCalls) &&
     ledger.entries.every(
-      (e) => e.state === "finished" && e.usageKnown && (direct || !e.failure),
+      (e) =>
+        e.state === "finished" &&
+        e.usageKnown &&
+        e.costCNY !== null &&
+        (direct || !e.failure),
     ) &&
     !ledger.entries.some((e) => e.requestBodyHash === bodyHash(body)) &&
     (grant.purpose === "practice" ||
@@ -456,6 +461,7 @@ export function createUnitFeedbackTrialProvider(options: {
     return Number(nanos) / 1_000_000_000;
   };
   const permits = async (body: ReturnType<typeof unitFeedbackRequestBody>) => {
+    unavailableMessage = undefined;
     if (!direct)
       return (
         current() &&
@@ -463,12 +469,38 @@ export function createUnitFeedbackTrialProvider(options: {
         (await isActivated()) &&
         ledgerReady(await readLedger(), body)
       );
-    if (
-      !grant.enabled ||
-      !eligible(body) ||
-      !ledgerReady(await readLedger(), body)
-    )
+    if (!grant.enabled || !eligible(body))
       return false;
+    const ledger = await readLedger();
+    if (!ledgerReady(ledger, body)) {
+      const settled =
+        !ledger.stopped &&
+        (!projectAccounting || projectAccounting.inheritedUnpairedReserveCNY === 0) &&
+        ledger.entries.every(
+          (entry) =>
+            entry.state === "finished" &&
+            entry.usageKnown &&
+            entry.costCNY !== null,
+        );
+      if (
+        settled &&
+        taskBudget &&
+        ledger.entries.length - taskBudget.priorEntryCount >= taskBudget.maxCalls
+      )
+        unavailableMessage =
+          "本机AI试用次数已用完，原答已保存。可以在模型设置中使用自己的Key继续评阅。";
+      else if (
+        settled &&
+        taskBudget &&
+        ledger.entries
+          .slice(taskBudget.priorEntryCount)
+          .reduce((sum, entry) => sum + (entry.costCNY ?? entry.reservedCNY), 0) +
+          grant.reservePerCallCNY > taskBudget.budgetCNY
+      )
+        unavailableMessage =
+          "本次AI试用的可用额度不足，原答已保存。可以在模型设置中使用自己的Key继续评阅。";
+      return false;
+    }
     if (!current()) {
       try {
         verifiedPricing = await verifyDirectServicePricing(
@@ -477,6 +509,8 @@ export function createUnitFeedbackTrialProvider(options: {
           options.readPricingPage,
         );
       } catch {
+        unavailableMessage =
+          "本机AI服务暂时无法核对模型费率，这次没有发送。原答已保存，请稍后重新读取反馈。";
         return false;
       }
     }
@@ -559,6 +593,7 @@ export function createUnitFeedbackTrialProvider(options: {
     mode: direct ? ("direct" as const) : ("trial" as const),
     ...(feedbackProtocol ? { feedbackProtocol } : {}),
     permits,
+    unavailableMessage: () => unavailableMessage,
     gate: activeTrial ? gate : undefined,
     activate: activeTrial ? activate : undefined,
     execute: async (

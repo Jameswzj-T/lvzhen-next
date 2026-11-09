@@ -42,6 +42,7 @@ export type UnitFeedbackDependencies = {
     permits: (
       body: ReturnType<typeof unitFeedbackRequestBody>,
     ) => Promise<boolean>;
+    unavailableMessage?: () => string | undefined;
     execute: SyntheticUnitProvider["execute"];
     gate?: (
       body: ReturnType<typeof unitFeedbackRequestBody>,
@@ -207,7 +208,8 @@ export async function evaluateUnitFeedback(
     return withTrial(
       empty(
         direct
-          ? "暂时无法完成评阅，原答已保存；本次未发送，不自动重试。"
+          ? (trial?.unavailableMessage?.() ??
+            "暂时无法完成评阅，原答已保存；本次未发送，不自动重试。")
           : paused,
         "paused",
       ),
