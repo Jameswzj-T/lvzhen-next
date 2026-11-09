@@ -1,6 +1,6 @@
 # 律真
 
-免费、开源的法考练习工具，按 MIT 许可提供。网站计划部署在 **https://lvzhen.net**；当前源码不代表该域名已经上线。网站提供题目和学习体验，使用者自备模型账号并承担模型费用。
+免费、开源的法考练习工具，按 MIT 许可提供。[在线预览：lvzhen.net](https://lvzhen.net)，直接打开即可使用，无需安装。网站提供题目和学习体验，使用者自备模型账号并承担模型费用。
 
 首版以预览版提供，适合配合教材做练习。AI 讲解和题库会持续修正；当前学习记录保存在本浏览器，跨设备需要自己导出、导入文件。
 
@@ -52,7 +52,7 @@ Caddy处理HTTPS，Node只对容器网络开放3000端口；服务器需要能�
 
 需要展示网站备案号时，在构建前设置 `NEXT_PUBLIC_LVZHEN_ICP_NUMBER` 为该域名自己的备案号，再执行 `pnpm build`。页面底部会显示它并链接到工信部；未设置时不显示。此值随构建固定，修改后需要重新构建，不能只改运行环境。源码没有内置本站备案号。
 
-Ubuntu 上也可使用 `deploy/public/standalone/` 的 systemd、环境和 Caddy 模板。Node standalone 已在目标 Linux/x64 主机完成构建与本机 HTTP 验证；Docker 容器运行、正式服务和公网 HTTPS 仍须各自验收。构建统一使用 `pnpm build` 中的 `next build --webpack`。
+Ubuntu 上也可使用 `deploy/public/standalone/` 的 systemd、环境和 Caddy 模板。lvzhen.net 已使用此方案部署，并完成公网 HTTPS、静态资源及实际浏览器首次使用检查；Docker 容器运行仍未验证。自行部署时，仍须在自己的主机和域名上完成验收。构建统一使用 `pnpm build` 中的 `next build --webpack`。
 
 该模板约定 Node 安装在 `/opt/lvzhen/runtime/`，standalone 产物放在 `/opt/lvzhen/releases/<版本>/`，`/opt/lvzhen/current` 指向当前版本。先创建无登录权限的 `lvzhen` 服务账号及其可写目录 `/var/cache/lvzhen`，让产物中的 `.next/cache` 指向该缓存目录；其他发布文件保持只读。将 `lvzhen.env.example` 填好后存为 `/etc/lvzhen/public.env`，其中只含公开模式配置，不填写模型 Key。
 

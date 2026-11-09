@@ -1,6 +1,6 @@
 {
   "version": "lvzhen-public-source-v1",
-  "generatedAt": "2026-11-09T15:10:30.990Z",
+  "generatedAt": "2026-11-09T15:57:11.493708+00:00",
   "license": "MIT",
   "mode": "public",
   "sourceOnlyNoGitHistory": true,
@@ -907,7 +907,7 @@
     "deploy/public/standalone/Caddyfile": "b34d6be0c709e6b660b0f7bdd2876aba2b34bd5ce7f92db0386181730d17f7bf",
     "deploy/public/standalone/lvzhen.env.example": "e3cd45b41fd91d60a8d969c225f82075756a0b348de1a7de38e3b07d9353bfaa",
     "deploy/public/standalone/lvzhen.service": "df5c105d631a13f236ee3a54d2a97e954bdeaee02be152a581d167e065c55c48",
-    "README.md": "0d9ee0684706d2513898ded0f7ec22d9041b3882bee6d31ad20a6b32d481c72a",
+    "README.md": "865ea268c22663a96160576a96c2c020f934f5a445db994967de357c0ef07a83",
     "vitest.config.ts": "adb5080e518ae45a148fdf218ccb59ce4a7332e2ee8be9cac0224a6f8e1f4867"
   },
   "excluded": [
